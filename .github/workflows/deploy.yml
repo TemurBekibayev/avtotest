@@ -23,12 +23,14 @@ jobs:
       - name: Build Student Panel (Avto-maktab)
         run: |
           cd Avto-maktab
+          rm -f package-lock.json
           npm install
           npm run build
 
       - name: Build Admin Panel (admin/frontend)
         run: |
           cd admin/frontend
+          rm -f package-lock.json
           npm install
           npm run build
 
