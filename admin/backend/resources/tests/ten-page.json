@@ -1,0 +1,584 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 10,
+        "total_pages": 48,
+        "total_items": 475,
+        "show_count": "10",
+        "data": [
+            {
+                "id": 11810,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "To‘xtash deb nimaga aytiladi?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185367,
+                        "newtest_question_id": 11810,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Transport vositasi harakatini 10 daqiqagacha bo‘lgan muddatga to‘xtatish (harakatsiz holatga keltirish)"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185368,
+                        "newtest_question_id": 11810,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Transport vositasiga yo‘lovchilarni chiqarish yoki tushirish, yuk ortish yoki tushirish bilan bog‘liq bo‘lmagan hollarda harakatini 10 daqiqadan ko‘proq vaqtga atayin to‘xtatish"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 1-bob. 6-band 65-xatboshiga asosan: to‘xtash — transport vositasi harakatini 10 daqiqagacha bo‘lgan muddatga to‘xtatish (harakatsiz holatga keltirish).",
+                "answer_video": null
+            },
+            {
+                "id": 11809,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "To‘xtab turish deb nimaga aytiladi?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185363,
+                        "newtest_question_id": 11809,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Transport vositasi harakatini 10 daqiqagacha bo‘lgan muddatga to‘xtatish (harakatsiz holatga keltirish)"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185364,
+                        "newtest_question_id": 11809,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Transport vositasiga yo‘lovchilarni chiqarish yoki tushirish, yuk ortish yoki tushirish bilan bog‘liq bo‘lmagan hollarda harakatini 10 daqiqadan ko‘proq vaqtga atayin to‘xtatish"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 1-bob. 6-band 64-xatboshiga asosan: to‘xtab turish — transport vositasiga yo‘lovchilarni chiqarish yoki tushirish, yuk ortish yoki tushirish bilan bog‘liq bo‘lmagan hollarda harakatni 10 daqiqadan ko‘proq vaqtga atayin to‘xtatish.",
+                "answer_video": null
+            },
+            {
+                "id": 11806,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi yo‘nalishda qayrilib olishga ruxsat beradi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11806.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188463,
+                        "newtest_question_id": 11806,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat A va C"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188464,
+                        "newtest_question_id": 11806,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat C"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188465,
+                        "newtest_question_id": 11806,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barchasi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 9-bob. 56-band 1-xatboshiga asosan: 56. Aylanma harakatlanish tashkil qilingan chorrahalarga kirish uchun burilishdan boshqa barcha hollarda, haydovchi o‘ngga, chapga burilishi yoki qayrilib olishdan oldinroq shu yo‘nalishda harakatlanishi uchun mo‘ljallangan qatnov qismining eng chetki holatni egallashi shart.",
+                "answer_video": "/storage/tests/videos changed/11806.mp4"
+            },
+            {
+                "id": 11803,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi transport vositasi qoidani buzmoqda?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11803.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188459,
+                        "newtest_question_id": 11803,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkalasi buzmadi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188460,
+                        "newtest_question_id": 11803,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yashil buzdi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188461,
+                        "newtest_question_id": 11803,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkalasi buzdi"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188462,
+                        "newtest_question_id": 11803,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Oq buzdi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQga 2-ILOVA 1.11 bandi va 49-xatboshi hamda YHQga 1-ILOVA 5.11.1 bandiga asosan: 1.11 — faqat bir tomondan qayta tizilishga ruxsat etilgan yo‘l qismlarida, bir yo‘nalishdagi yoki qarama-qarshi kelayotgan transport oqimlarini ajratadi; qayrilib olish, to‘xtash maydonchalari va shunga o‘xshashlarga kirish-chiqish joylarida harakatlanish faqat bir yo‘nalishda ruxsat etilganligini ko‘rsatadi;\r\n1.11 chizig‘ini uzuq-uzuq chiziq tomonidan, sidirg‘a chiziq tomonidan esa faqat quvib yoki aylanib o‘tishni tugatayotganda bosib o‘tishga ruxsat etiladi.\r\n5.11.1. «Qayrilib olish joyi». Chapga burilish taqiqlanadi.\"",
+                "answer_video": "/storage/tests/videos changed/11803.mp4"
+            },
+            {
+                "id": 11800,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Rasmda ko‘rsatilgan vaziyatda qizil avtomobil haydovchisi harakatni davom ettirish kerakmi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11800.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188457,
+                        "newtest_question_id": 11800,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ha"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188458,
+                        "newtest_question_id": 11800,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yo‘q"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 17-bob. 109-bandga asosan: 109. Tartibga solinmagan piyodalar o‘tish joyiga yaqinlashayotgan transport vositasining haydovchisi qatnov qismining shu yo‘nalishini kesib o‘tayotgan piyoda(lar)ni o‘tkazib yuborish uchun tezligini kamaytirishi yoki to‘xtashi shart.",
+                "answer_video": "/storage/tests/videos changed/11800.mp4"
+            },
+            {
+                "id": 11797,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Quyidagi joyda to‘xtashga  ruxsat beradimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11797.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188454,
+                        "newtest_question_id": 11797,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat beriladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188455,
+                        "newtest_question_id": 11797,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188456,
+                        "newtest_question_id": 11797,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "To‘xtagan transport vositasi bilan sidirg‘a chiziq orasidagi masofa 3 metrdan ko‘p bo‘lsa ruxsat beriladi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 13-bob. 88-band 1-xatboshiga asosan: 88. Transport vositalariga yo‘lning o‘ng tomonida yo‘l yoqasida, u bo‘lmaganda esa qatnov qismining chetida va Qoidalarning 89-bandida ko‘rsatilgan hollarda trotuarda to‘xtash va to‘xtab turishga ruxsat etiladi.",
+                "answer_video": "/storage/tests/videos changed/11797.mp4"
+            },
+            {
+                "id": 11794,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi avtomobil chorrahada burilish qoidasini buzdi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11794.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188450,
+                        "newtest_question_id": 11794,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Qizil avtomobil"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188451,
+                        "newtest_question_id": 11794,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘k avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188452,
+                        "newtest_question_id": 11794,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkisi ham buzdi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188453,
+                        "newtest_question_id": 11794,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkisi ham buzmagan"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQning 9-bob. 61-band va 11-bob. 77-band 3-xatboshi hamda 1-bob. 6-band 35 va 62-xatboshiga asosan: 61. Sekinlashish bo‘lagi bor bo‘lgan yo‘lda burilmoqchi bo‘lgan haydovchi o‘z vaqtida ushbu tasmaga qayta tizilishi va tezlikni faqat unda kamaytirishi kerak.\r\nYo‘lga chiqish joyida tezlashish bo‘lagi bo‘lsa, haydovchi unda harakatlanishi va qo‘shni tasmada harakatlanayotgan transport vositalariga yo‘l berib, transport oqimiga qo‘shilishi kerak.\r\nHaydovchi transport vositasini boshqarish paytida aniqlay olishi mumkin bo‘lgan xavf yuzaga kelsa, u transport vositasining tezligini to‘liq to‘xtashni ta’minlaydigan darajada kamaytirishi yoki to‘siqni boshqa harakat ishtirokchilari uchun xavf tug‘dirmagan holda aylanib o‘tish choralarini ko‘rishi kerak.\r\nMajburiy to‘xtash — texnik nuqson, tashilayotgan yuk, haydovchi va yo‘lovchining holati, yo‘ldagi biror to‘siq tufayli xavf yuzaga kelganda yoxud ob-havo sharoitiga bog‘liq holda transport vositasi harakatini to‘xtatish. Haydovchining ushbu xatti-harakati oxirgi zarur chora bo‘lib, qoidabuzarlik deb e’tirof etilmaydi.\r\nTo‘siq — yo‘lning qatnov qismida harakatsiz holda bo‘lgan jism (buzilib qolgan transport vositasi, tushib qolgan yuk, yiqilgan daraxt va boshqalar).\"",
+                "answer_video": "/storage/tests/videos changed/11794.mp4"
+            },
+            {
+                "id": 11791,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Chorrahadan o‘tish navbatini ko‘rsating:"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11791.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188447,
+                        "newtest_question_id": 11791,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Velosiped, qizil avtomobil, oq avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188448,
+                        "newtest_question_id": 11791,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Qizil avtomobil, oq avtomobil, velosiped"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188449,
+                        "newtest_question_id": 11791,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Velosiped, oq avtomobil, qizil avtomobil"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "\"YHQning 16-bob. 104-band 1-xatboshi va 107-bandga asosan: 104. Teng ahamiyatga ega bo‘lmagan yo‘llar kesishgan chorrahada ikkinchi darajali yo‘ldan harakatlanayotgan transport vositasining haydovchisi asosiy yo‘ldan yaqinlashayotgan transport vositalariga ularning keyingi harakatlanish yo‘nalishidan qat’iy nazar, yo‘l berishi kerak.\r\n107. Chapga burilishda yoki qayrilib olishda relssiz transport vositasining haydovchisi teng ahamiyatli yo‘ldan qarama-qarshi yo‘nalishdan to‘g‘riga yoki o‘ngga harakatlanayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak.\"",
+                "answer_video": "/storage/tests/videos changed/11791.mp4"
+            },
+            {
+                "id": 11788,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi rasmda piyoda qoidani buzmay harakatlanmoqda?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11788.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188444,
+                        "newtest_question_id": 11788,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "O‘ngdagi rasmda"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188445,
+                        "newtest_question_id": 11788,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Chapdagi rasmda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188446,
+                        "newtest_question_id": 11788,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkala rasmda"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQning 4-bob. 15-band 1 va 3-xatboshiga asosan: 15. Piyodalar trotuarlardan, piyodalar yo‘lkalaridan, piyoda va velosiped yo‘lkalaridan, ular bo‘lmaganda esa yo‘l yoqalaridan harakatlanishi kerak. Hajmi katta yuklarni olib ketayotgan piyodalar, shuningdek, nogironlarning dvigatelsiz aravachasida harakatlanayotgan shaxslarning trotuarlar yoki piyodalar yo‘lkalaridan harakatlanishi boshqa piyodalarning harakatlanishiga xalaqit berayotgan bo‘lsa, ular qatnov qismining chetidan harakatlanishi mumkin.\r\nQatnov qismi chetida harakatlanayotgan piyodalar transport vositalarining harakatlanishiga qarama-qarshi yo‘nalishda yurishlari kerak. Nogironlarning dvigatelsiz aravachasida harakatlanayotgan, mototsikl, elektromototsikl, moped, skuter, velosiped va individual harakatlanish vositalarini yetaklab ketayotgan shaxslar esa bunday hollarda transport vositalarining harakatlanish yo‘nalishi bo‘ylab yurishlari kerak.\"",
+                "answer_video": "/storage/tests/videos changed/11788.mp4"
+            },
+            {
+                "id": 11785,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Avtomobil haydovchisi qaysi yo‘nalishlarda harakatlanishga ruxsat beradi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11785.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 189313,
+                        "newtest_question_id": 11785,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat A va B"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 189314,
+                        "newtest_question_id": 11785,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat B"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 189315,
+                        "newtest_question_id": 11785,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barchasi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 189316,
+                        "newtest_question_id": 11785,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat A"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQga 1-ILOVA 4.1.4 bandi va 9-bob. 56-band 1-xatboshiga asosan: 4.1.4. «Harakatlanish to‘g‘riga yoki o‘ngga».\r\n56. Aylanma harakatlanish tashkil qilingan chorrahalarga kirish uchun burilishdan boshqa barcha hollarda, haydovchi o‘ngga, chapga burilishi yoki qayrilib olishdan oldinroq shu yo‘nalishda harakatlanishi uchun mo‘ljallangan qatnov qismining eng chetki holatni egallashi shart.\"",
+                "answer_video": "/storage/tests/videos changed/11785.mp4"
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}
+

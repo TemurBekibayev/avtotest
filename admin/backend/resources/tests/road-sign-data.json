@@ -1,0 +1,1798 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 1,
+        "total_pages": 1,
+        "total_items": 45,
+        "show_count": "50",
+        "data": [
+            {
+                "id": 1,
+                "name": {
+                    "uz": "1.1. Shlagbaumli temir yo'l kesishmasi",
+                    "ru": "1.1. Барьерный железнодорожный переезд",
+                    "kiril": "1.1. Шлагбаумли темир йўл кесишмаси",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_15-53-31_PSQTAK6HB6.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.1. \"Shlagbaumli temir yo'l kesishmasi\"\r\n\r\nBu belgi aholi punktlarida yo‘lning temir yo‘l kesib o‘tgan qismidan 50 - 100 metr oldin masofada o‘rnatiladi. Bunday temir yo‘l kesishmalari shlagbaum harakatni tartibga soluvchi svetofor va tovush moslamasi bilan jihozlangan bo‘lib, kesishma orqali harakatlanishni temir yo‘l navbatchisi nazorat qiladi. «Shlagbaumli temir yo‘l kesishmasi» belgisi haydovchini yo‘lning o‘ta xavfli qismlari borligi haqida ogohlantirib, aholi  punktlaridan tashqarida 150 - 300 metr oldin, shuningdek, xavf-xatarga 50 metrdan kam bo‘lmagan masofa qolganda takror o‘rnatiladi. Yo‘lning temir yo‘l kesishmasi o‘tgan qismidan, ehtiyot choralarini ko‘rgan holda, ruxsat berilganidan keyin o‘tishi kerak."
+                        },
+                        {
+                            "type": "2",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_13-40-41_PN97A8C517.mp4"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2024-06-03_13-40-41_9CSTUGBC2U.png"
+                        },
+                        {
+                            "type": "4",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_13-40-41_XW3EWHCXN4.mp3"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.1. «Железнодорожный переезд со шлагбаумом»\r\n\r\nЭтот  знак устанавливается в населенных пунктах на расстоянии 50 - 100 метров от проезжей части дороги. Такие железнодорожные переезды оборудованы светофором и звуковым устройством, регулирующим движение шлагбаум, движение по пересечению контролирует дежурный по железной дороге. Знак «Железнодорожный переезд со шлагбаумом» предупреждает водителя о наличии особо опасных участков дороги и устанавливается повторно за пределами населенных пунктов за 150 - 300 метров, а также при опасности на расстоянии не менее 50 метров. Железнодорожный переезд должен проходить через проезжую часть дороги, с принятием мер предосторожности, после выдачи разрешения."
+                        },
+                        {
+                            "type": "2",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_13-40-41_THBY17T6KT.mp4"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2024-06-03_13-40-41_24XZTCPRSX.png"
+                        },
+                        {
+                            "type": "4",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_13-40-41_5UGXQ2QTSE.mp3"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.1. \"Шлагбаумли темир йўл кесишмаси\"\r\n\r\nБу белги аҳоли пунктларида йўлнинг темир йўл кесиб ўтган қисмидан 50 - 100 метр олдин масофада ўрнатилади. Бундай темир йўл кесишмалари шлагбаум ҳаракатни тартибга солувчи светофор ва товуш мосламаси билан жиҳозланган бўлиб, кесишма орқали ҳаракатланишни темир йўл навбатчиси назорат қилади. «Шлагбаумли темир йўл кесишмаси» белгиси ҳайдовчини йўлнинг ўта хавфли қисмлари борлиги ҳақида огоҳлантириб, аҳоли  пунктларидан ташқарида 150 - 300 метр олдин, шунингдек, хавф-хатарга 50 метрдан кам бўлмаган масофа қолганда такрор ўрнатилади. Йўлнинг темир йўл кесишмаси ўтган қисмидан, эҳтиёт чораларини кўрган ҳолда, рухсат берилганидан кейин ўтиши керак."
+                        },
+                        {
+                            "type": "2",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_13-40-41_Z1JWRREWDS.mp4"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2024-06-03_13-40-41_PNF9HJH5U3.png"
+                        },
+                        {
+                            "type": "4",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_13-40-41_613JA7YK85.mp3"
+                        }
+                    ]
+                },
+                "order": 1
+            },
+            {
+                "id": 2,
+                "name": {
+                    "uz": "1.2. Shlagbaumsiz temir yo’l kesishmasi",
+                    "ru": "1.2. Железнодорожный переезд без шлагбаумов",
+                    "kiril": "1.2. Шлагбаумсиз темир йўл кесишмаси",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_15-57-44_WE144KRV7W.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "Shlakbaumsiz temir yo‘l kesishmasi\r\nBu belgi transport vositasining yo‘lida shlakbaunsiz, yani qo‘riqlanmaydigan temir yo‘l kesishmasi borligi xaqida xaydovchini ogoxlantiradi, belgi axoli yashaydigan joylarda yo‘lning temir yo‘l kesib o‘tkan qismidan 50-100 metr, axoli yashash joylaridan tashqarida esa 150-300 metr masofada o‘rnatiladi.\r\nXaydovchining yo‘lning o‘ta xavfli qisimlari borligi xaqida ogoxlantiradigan ushbu belgi axoli yashash joylaridan tashqarida takrorlanadi, belgi ikinchi marta takrorlanganda xavf xatarga 50 metrdan kam bo‘lmagan masofa qolganda o‘rnatiladi bunday vaziatlarda xaydovchi xavf xatarning oldini olib extiyot choralarini ko‘rgan xolda xarakatlanishi kerak"
+                        },
+                        {
+                            "type": "2",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_15-43-37_1MF5DDV3UE.mp4"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2024-06-03_15-43-37_PWWV7A5Y75.png"
+                        },
+                        {
+                            "type": "4",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_15-43-37_3U33YC4KJV.mp3"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "Железнодорожный переезд без шлагбаума\r\nэтот знак предупреждает водителя о том что на дороге транспортного средства имеется безбарьерный то есть не защищенный железнодорожный переезд знак будет установлен в жилых районах на расстоянии 50-100 метро и вне жилых массивов  на расстоянии 150-300 метров, этот знак предупреждающий водителя о наличие особо опасных участков дороги повторяется за пределами жилых районов , при повторном повторение знака устанавливается что расстояние до опасности менее 50 метров, в таких случаях водитель должен принимать меры чтобы избежать опасности"
+                        },
+                        {
+                            "type": "2",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_15-43-37_V7ZHTGDQHG.mp4"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2024-06-03_15-43-37_77W1F8JPXW.png"
+                        },
+                        {
+                            "type": "4",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_15-43-37_ZBWTPAGVB5.mp3"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "Шлакбаумсиз темир йўл кесишмаси\r\nБу белги транспорт воситасининг йўлида шлакбаунсиз, яни қўриқланмайдиган темир йўл кесишмаси борлиги хақида хайдовчини огохлантиради, белги ахоли яшайдиган жойларда йўлнинг темир йўл кесиб ўткан қисмидан 50-100 метр, ахоли яшаш жойларидан ташқарида эса 150-300 метр масофада ўрнатилади.\r\nХайдовчининг йўлнинг ўта хавфли қисимлари борлиги хақида огохлантирадиган ушбу белги ахоли яшаш жойларидан ташқарида такрорланади, белги икинчи марта такрорланганда хавф хатарга 50 метрдан кам бўлмаган масофа қолганда ўрнатилади бундай вазиатларда хайдовчи хавф хатарнинг олдини олиб эхтиёт чораларини кўрган холда харакатланиши керак"
+                        },
+                        {
+                            "type": "2",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_15-43-37_R7YBY39UZJ.mp4"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2024-06-03_15-43-37_DTCV6N43RQ.png"
+                        },
+                        {
+                            "type": "4",
+                            "value": "/storage/tests/images changed/road_signs/road_sign_content/all_files/2024-06-03_15-43-37_W3FZTZ9717.mp3"
+                        }
+                    ]
+                },
+                "order": 2
+            },
+            {
+                "id": 390,
+                "name": {
+                    "uz": "1.3.1. “Bir izli temir yo‘l”.",
+                    "ru": "1.3.1. «Однопутная железная дорога».",
+                    "kiril": "1.3.1. “Бир изли темир йўл”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-22_15-17-34_B7VQ78HM7U.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.3.1. \"Bir izli temir yo'l\" va 1.3.2. \"Ko'p izli temir yo'l\"\r\nUshbu yoʼl belgilari haydovchini bir izli va ikki va undan ortiq - koʼp izli shlagbaumsiz temir yoʼl kesishmalari borligi haqida qoʼshimcha ravishda ogohlantiradi va bevosita shlagbaum bilan jihozlanmagan temir yoʼl kesishmasi oldida, eng yaqin relьsdan 20 metrdan kam boʼlmagan masofada, shlagbaumsiz temir yoʼl kesishmasi oldida oʼrnatiladi. Bunda 1.3.1. bir izli temir yoʼlni, 1.3.2. esa koʼp izli temir yoʼlni anglatadi Haydovchi yoʼlning bu qismidan zarur ehtiyot choralarini koʼrib, harakatlanishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.3.1. «Однопутная железная дорога» и 1.3.2. «Многопутная железная дорога»  \r\nЭти дорожные знаки дополнительно предупреждают водителя о наличии железнодорожных переездов без шлагбаума:  \r\n— 1.3.1 обозначает пересечение с однопутной железной дорогой,  \r\n— 1.3.2 — с многопутной (двумя и более путями).\r\n\r\nЗнаки устанавливаются непосредственно перед железнодорожным переездом, не оборудованным шлагбаумом, на расстоянии не менее 20 метров от ближайшего рельса.  \r\n\r\nВодитель обязан проявить особую осторожность и соблюдать правила проезда таких участков."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.3.1. \"Бир изли темир йўл\" ва 1.3.2. \"Кўп изли темир йўл\"\r\nУшбу йўл белгилари ҳайдовчини бир изли ва икки ва ундан ортиқ - кўп изли шлагбаумсиз темир йўл кесишмалари борлиги ҳақида қўшимча равишда огоҳлантиради ва бевосита шлагбаум билан жиҳозланмаган темир йўл кесишмаси олдида, енг яқин рельсдан 20 метрдан кам бўлмаган масофада, шлагбаумсиз темир йўл кесишмаси олдида ўрнатилади. Бунда 1.3.1. бир изли темир йўлни, 1.3.2. еса кўп изли темир йўлни англатади Ҳайдовчи йўлнинг бу қисмидан зарур еҳтиёт чораларини кўриб, ҳаракатланиши керак."
+                        }
+                    ]
+                },
+                "order": 3
+            },
+            {
+                "id": 5,
+                "name": {
+                    "uz": "1.3.2. Ko’p izli temir yo’l",
+                    "ru": "1.3.2. Многоколейная железная дорога",
+                    "kiril": "1.3.2. Кўп изли темир йўл",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.3.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_15-58-38_PK7DKRZWAF.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.3.1. \"Bir izli temir yo'l\" va 1.3.2. \"Ko'p izli temir yo'l\"\r\nUshbu yoʼl belgilari haydovchini bir izli va ikki va undan ortiq - koʼp izli shlagbaumsiz temir yoʼl kesishmalari borligi haqida qoʼshimcha ravishda ogohlantiradi va bevosita shlagbaum bilan jihozlanmagan temir yoʼl kesishmasi oldida, eng yaqin relьsdan 20 metrdan kam boʼlmagan masofada, shlagbaumsiz temir yoʼl kesishmasi oldida oʼrnatiladi. Bunda 1.3.1. bir izli temir yoʼlni, 1.3.2. esa koʼp izli temir yoʼlni anglatadi Haydovchi yoʼlning bu qismidan zarur ehtiyot choralarini koʼrib, harakatlanishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.3.1. «Железнодорожный переезд с одним путем» и 1.3.2. «Железнодорожный переезд с несколькими путями»  \r\nДанные дорожные знаки дополнительно предупреждают водителя о наличии железнодорожных переездов без шлагбаума: с одним путем — знак 1.3.1, с двумя и более путями — знак 1.3.2. Устанавливаются непосредственно перед железнодорожным переездом без шлагбаума, не ближе 20 метров от ближайшего рельса. При этом знак 1.3.1 обозначает однопутную железную дорогу, а знак 1.3.2 — многопутную. Водитель должен соблюдать необходимые меры предосторожности при проезде данного участка дороги."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.3.1. \"Бир изли темир йўл\" ва 1.3.2. \"Кўп изли темир йўл\"\r\nУшбу йўл белгилари ҳайдовчини бир изли ва икки ва ундан ортиқ - кўп изли шлагбаумсиз темир йўл кесишмалари борлиги ҳақида қўшимча равишда огоҳлантиради ва бевосита шлагбаум билан жиҳозланмаган темир йўл кесишмаси олдида, енг яқин рельсдан 20 метрдан кам бўлмаган масофада, шлагбаумсиз темир йўл кесишмаси олдида ўрнатилади. Бунда 1.3.1. бир изли темир йўлни, 1.3.2. еса кўп изли темир йўлни англатади Ҳайдовчи йўлнинг бу қисмидан зарур еҳтиёт чораларини кўриб, ҳаракатланиши керак."
+                        }
+                    ]
+                },
+                "order": 4
+            },
+            {
+                "id": 6,
+                "name": {
+                    "uz": "1.4.1. Temir yo’l kesishmasining yaqinligi haqida ogohlantirish",
+                    "ru": "1.4.1. Предупреждение о железнодорожном переезде",
+                    "kiril": "1.4.1. Темир йўл кесишмасининг яқинлиги ҳақида огоҳлантириш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.4.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-20-21_XNFTXFR2UZ.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. \"Temir yo'l kesishmasiga yaqinlashuv\"\r\nUshbu yo'l belgilari aholi yashash joylaridan tashqarida, haydovchining temir yo'l kesishmalariga yaqinlashish darajasini ko'rsatadi va 1.1.\"Shlagbaumli temir yo'l kesishmasi\" yoki 1.2.\"Shlagbaumsiz temir yo'l kesishmasi\" yo'l belgilari bilan birgalikda o'rnatiladi. Bu yo'l belgilarining asosiy maqsadi, haydovchilarning temir yo'l kesishmalariga e'tiborini yanada kuchliroq qaratishdan iborat. Zarur holatlarda, keng yo'llarda ushbu yo'l belgilari qo'shimcha ravishda yo'lning chap tomoniga ham qo'yiladi. Haydovchi temir yo'l kesishmasiga yaqinlashayotganda tezlikni kamaytirishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. «Приближение к железнодорожному переезду»  \r\nДанные дорожные знаки устанавливаются вне населённых пунктов и указывают степень приближения водителя к железнодорожному переезду. Они размещаются совместно со знаками 1.1 «Железнодорожный переезд со шлагбаумом» или 1.2 «Железнодорожный переезд без шлагбаума». Основная цель этих знаков — усилить внимание водителей при приближении к железнодорожным переездам. При необходимости, на широких дорогах эти знаки дополнительно устанавливаются и с левой стороны дороги. При приближении к железнодорожному переезду водитель должен снизить скорость."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. \"Темир йўл кесишмасига яқинлашув\"\r\nУшбу йўл белгилари аҳоли яшаш жойларидан ташқарида, ҳайдовчининг темир йўл кесишмаларига яқинлашиш даражасини кўрсатади ва 1.1.\"Шлагбаумли темир йўл кесишмаси\" ёки 1.2.\"Шлагбаумсиз темир йўл кесишмаси\" йўл белгилари билан биргаликда ўрнатилади. Бу йўл белгиларининг асосий мақсади, ҳайдовчиларнинг темир йўл кесишмаларига еътиборини янада кучлироқ қаратишдан иборат. Зарур ҳолатларда, кенг йўлларда ушбу йўл белгилари қўшимча равишда йўлнинг чап томонига ҳам қўйилади. Ҳайдовчи темир йўл кесишмасига яқинлашаётганда тезликни камайтириши керак."
+                        }
+                    ]
+                },
+                "order": 5
+            },
+            {
+                "id": 7,
+                "name": {
+                    "uz": "1.4.2. Temir yo’l kesishmasining yaqinligi haqida ogohlantirish",
+                    "ru": "1.4.2. Предупреждение о железнодорожном переезде",
+                    "kiril": "1.4.2. Темир йўл кесишмасининг яқинлиги ҳақида огоҳлантириш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.4.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-20-39_NJSQEAFGCY.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>1.4.1 – 1.4.6. \"Temir yo'l kesishmasiga yaqinlashuv\"</strong> Ushbu yo'l belgilari aholi yashash joylaridan tashqarida, haydovchining temir yo'l kesishmalariga yaqinlashish darajasini ko'rsatadi va 1.1.\"Shlagbaumli temir yo'l kesishmasi\" yoki 1.2.\"Shlagbaumsiz temir yo'l kesishmasi\" yo'l belgilari bilan birgalikda o'rnatiladi. Bu yo'l belgilarining asosiy maqsadi, haydovchilarning temir yo'l kesishmalariga e'tiborini yanada kuchliroq qaratishdan iborat. Zarur holatlarda, keng yo'llarda ushbu yo'l belgilari qo'shimcha ravishda yo'lning chap tomoniga ham qo'yiladi. Haydovchi temir yo'l kesishmasiga yaqinlashayotganda tezlikni kamaytirishi kerak.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>1.4.1 – 1.4.6. «Приближение к железнодорожному переезду»</strong> Данные дорожные знаки устанавливаются вне населённых пунктов и указывают степень приближения водителя к железнодорожному переезду. Они размещаются совместно со знаками 1.1 «Железнодорожный переезд со шлагбаумом» или 1.2 «Железнодорожный переезд без шлагбаума». Основная цель этих знаков — усилить внимание водителей при приближении к железнодорожным переездам. При необходимости, на широких дорогах эти знаки дополнительно устанавливаются и с левой стороны дороги. При приближении к железнодорожному переезду водитель должен снизить скорость.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>1.4.1 – 1.4.6. \"Темир йўл кесишмасига яқинлашув\" </strong>Ушбу йўл белгилари аҳоли яшаш жойларидан ташқарида, ҳайдовчининг темир йўл кесишмаларига яқинлашиш даражасини кўрсатади ва 1.1.\"Шлагбаумли темир йўл кесишмаси\" ёки 1.2.\"Шлагбаумсиз темир йўл кесишмаси\" йўл белгилари билан биргаликда ўрнатилади. Бу йўл белгиларининг асосий мақсади, ҳайдовчиларнинг темир йўл кесишмаларига еътиборини янада кучлироқ қаратишдан иборат. Зарур ҳолатларда, кенг йўлларда ушбу йўл белгилари қўшимча равишда йўлнинг чап томонига ҳам қўйилади. Ҳайдовчи темир йўл кесишмасига яқинлашаётганда тезликни камайтириши керак.</p>"
+                        }
+                    ]
+                },
+                "order": 6
+            },
+            {
+                "id": 8,
+                "name": {
+                    "uz": "1.4.3. Temir yo’l kesishmasining yaqinligi haqida ogohlantirish",
+                    "ru": "1.4.3. Предупреждение о железнодорожном переезде",
+                    "kiril": "1.4.3. Темир йўл кесишмасининг яқинлиги ҳақида огоҳлантириш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.4.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-21-03_6WMXBVX89K.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. \"Temir yo'l kesishmasiga yaqinlashuv\"\r\nUshbu yo'l belgilari aholi yashash joylaridan tashqarida, haydovchining temir yo'l kesishmalariga yaqinlashish darajasini ko'rsatadi va 1.1.\"Shlagbaumli temir yo'l kesishmasi\" yoki 1.2.\"Shlagbaumsiz temir yo'l kesishmasi\" yo'l belgilari bilan birgalikda o'rnatiladi. Bu yo'l belgilarining asosiy maqsadi, haydovchilarning temir yo'l kesishmalariga e'tiborini yanada kuchliroq qaratishdan iborat. Zarur holatlarda, keng yo'llarda ushbu yo'l belgilari qo'shimcha ravishda yo'lning chap tomoniga ham qo'yiladi. Haydovchi temir yo'l kesishmasiga yaqinlashayotganda tezlikni kamaytirishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. «Приближение к железнодорожному переезду»  \r\nДанные дорожные знаки устанавливаются вне населённых пунктов и указывают степень приближения водителя к железнодорожному переезду. Они размещаются совместно со знаками 1.1 «Железнодорожный переезд со шлагбаумом» или 1.2 «Железнодорожный переезд без шлагбаума». Основная цель этих знаков — усилить внимание водителей при приближении к железнодорожным переездам. При необходимости, на широких дорогах эти знаки дополнительно устанавливаются и с левой стороны дороги. При приближении к железнодорожному переезду водитель должен снизить скорость."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. \"Темир йўл кесишмасига яқинлашув\"\r\nУшбу йўл белгилари аҳоли яшаш жойларидан ташқарида, ҳайдовчининг темир йўл кесишмаларига яқинлашиш даражасини кўрсатади ва 1.1.\"Шлагбаумли темир йўл кесишмаси\" ёки 1.2.\"Шлагбаумсиз темир йўл кесишмаси\" йўл белгилари билан биргаликда ўрнатилади. Бу йўл белгиларининг асосий мақсади, ҳайдовчиларнинг темир йўл кесишмаларига еътиборини янада кучлироқ қаратишдан иборат. Зарур ҳолатларда, кенг йўлларда ушбу йўл белгилари қўшимча равишда йўлнинг чап томонига ҳам қўйилади. Ҳайдовчи темир йўл кесишмасига яқинлашаётганда тезликни камайтириши керак."
+                        }
+                    ]
+                },
+                "order": 7
+            },
+            {
+                "id": 9,
+                "name": {
+                    "uz": "1.4.4. Temir yo’l kesishmasining yaqinligi haqida ogohlantirish",
+                    "ru": "1.4.4. Предупреждение о железнодорожном переезде",
+                    "kiril": "1.4.4. Темир йўл кесишмасининг яқинлиги ҳақида огоҳлантириш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.4.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-21-24_C819BEVJWK.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. \"Temir yo'l kesishmasiga yaqinlashuv\"\r\nUshbu yo'l belgilari aholi yashash joylaridan tashqarida, haydovchining temir yo'l kesishmalariga yaqinlashish darajasini ko'rsatadi va 1.1.\"Shlagbaumli temir yo'l kesishmasi\" yoki 1.2.\"Shlagbaumsiz temir yo'l kesishmasi\" yo'l belgilari bilan birgalikda o'rnatiladi. Bu yo'l belgilarining asosiy maqsadi, haydovchilarning temir yo'l kesishmalariga e'tiborini yanada kuchliroq qaratishdan iborat. Zarur holatlarda, keng yo'llarda ushbu yo'l belgilari qo'shimcha ravishda yo'lning chap tomoniga ham qo'yiladi. Haydovchi temir yo'l kesishmasiga yaqinlashayotganda tezlikni kamaytirishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. «Приближение к железнодорожному переезду»  \r\nДанные дорожные знаки устанавливаются вне населённых пунктов и указывают степень приближения водителя к железнодорожному переезду. Они размещаются совместно со знаками 1.1 «Железнодорожный переезд со шлагбаумом» или 1.2 «Железнодорожный переезд без шлагбаума». Основная цель этих знаков — усилить внимание водителей при приближении к железнодорожным переездам. При необходимости, на широких дорогах эти знаки дополнительно устанавливаются и с левой стороны дороги. При приближении к железнодорожному переезду водитель должен снизить скорость."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. \"Темир йўл кесишмасига яқинлашув\"\r\nУшбу йўл белгилари аҳоли яшаш жойларидан ташқарида, ҳайдовчининг темир йўл кесишмаларига яқинлашиш даражасини кўрсатади ва 1.1.\"Шлагбаумли темир йўл кесишмаси\" ёки 1.2.\"Шлагбаумсиз темир йўл кесишмаси\" йўл белгилари билан биргаликда ўрнатилади. Бу йўл белгиларининг асосий мақсади, ҳайдовчиларнинг темир йўл кесишмаларига еътиборини янада кучлироқ қаратишдан иборат. Зарур ҳолатларда, кенг йўлларда ушбу йўл белгилари қўшимча равишда йўлнинг чап томонига ҳам қўйилади. Ҳайдовчи темир йўл кесишмасига яқинлашаётганда тезликни камайтириши керак."
+                        }
+                    ]
+                },
+                "order": 8
+            },
+            {
+                "id": 10,
+                "name": {
+                    "uz": "1.4.5. Temir yo’l kesishmasining yaqinligi haqida ogohlantirish",
+                    "ru": "1.4.5. Предупреждение о железнодорожном переезде",
+                    "kiril": "1.4.5. Темир йўл кесишмасининг яқинлиги ҳақида огоҳлантириш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.4.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-21-43_P9JJE7JGC9.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. \"Temir yo'l kesishmasiga yaqinlashuv\"\r\nUshbu yo'l belgilari aholi yashash joylaridan tashqarida, haydovchining temir yo'l kesishmalariga yaqinlashish darajasini ko'rsatadi va 1.1.\"Shlagbaumli temir yo'l kesishmasi\" yoki 1.2.\"Shlagbaumsiz temir yo'l kesishmasi\" yo'l belgilari bilan birgalikda o'rnatiladi. Bu yo'l belgilarining asosiy maqsadi, haydovchilarning temir yo'l kesishmalariga e'tiborini yanada kuchliroq qaratishdan iborat. Zarur holatlarda, keng yo'llarda ushbu yo'l belgilari qo'shimcha ravishda yo'lning chap tomoniga ham qo'yiladi. Haydovchi temir yo'l kesishmasiga yaqinlashayotganda tezlikni kamaytirishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. «Приближение к железнодорожному переезду»  \r\nДанные дорожные знаки устанавливаются вне населённых пунктов и указывают степень приближения водителя к железнодорожному переезду. Они размещаются совместно со знаками 1.1 «Железнодорожный переезд со шлагбаумом» или 1.2 «Железнодорожный переезд без шлагбаума». Основная цель этих знаков — усилить внимание водителей при приближении к железнодорожным переездам. При необходимости, на широких дорогах эти знаки дополнительно устанавливаются и с левой стороны дороги. При приближении к железнодорожному переезду водитель должен снизить скорость."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. \"Темир йўл кесишмасига яқинлашув\"\r\nУшбу йўл белгилари аҳоли яшаш жойларидан ташқарида, ҳайдовчининг темир йўл кесишмаларига яқинлашиш даражасини кўрсатади ва 1.1.\"Шлагбаумли темир йўл кесишмаси\" ёки 1.2.\"Шлагбаумсиз темир йўл кесишмаси\" йўл белгилари билан биргаликда ўрнатилади. Бу йўл белгиларининг асосий мақсади, ҳайдовчиларнинг темир йўл кесишмаларига еътиборини янада кучлироқ қаратишдан иборат. Зарур ҳолатларда, кенг йўлларда ушбу йўл белгилари қўшимча равишда йўлнинг чап томонига ҳам қўйилади. Ҳайдовчи темир йўл кесишмасига яқинлашаётганда тезликни камайтириши керак."
+                        }
+                    ]
+                },
+                "order": 9
+            },
+            {
+                "id": 11,
+                "name": {
+                    "uz": "1.4.6. Temir yo’l kesishmasining yaqinligi haqida ogohlantirish",
+                    "ru": "1.4.6. Предупреждение о железнодорожном переезде",
+                    "kiril": "1.4.6. Темир йўл кесишмасининг яқинлиги ҳақида огоҳлантириш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.4.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-22-02_G9T92ABVSN.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. \"Temir yo'l kesishmasiga yaqinlashuv\"\r\nUshbu yo'l belgilari aholi yashash joylaridan tashqarida, haydovchining temir yo'l kesishmalariga yaqinlashish darajasini ko'rsatadi va 1.1.\"Shlagbaumli temir yo'l kesishmasi\" yoki 1.2.\"Shlagbaumsiz temir yo'l kesishmasi\" yo'l belgilari bilan birgalikda o'rnatiladi. Bu yo'l belgilarining asosiy maqsadi, haydovchilarning temir yo'l kesishmalariga e'tiborini yanada kuchliroq qaratishdan iborat. Zarur holatlarda, keng yo'llarda ushbu yo'l belgilari qo'shimcha ravishda yo'lning chap tomoniga ham qo'yiladi. Haydovchi temir yo'l kesishmasiga yaqinlashayotganda tezlikni kamaytirishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. «Приближение к железнодорожному переезду»  \r\nДанные дорожные знаки устанавливаются вне населённых пунктов и указывают степень приближения водителя к железнодорожному переезду. Они размещаются совместно со знаками 1.1 «Железнодорожный переезд со шлагбаумом» или 1.2 «Железнодорожный переезд без шлагбаума». Основная цель этих знаков — усилить внимание водителей при приближении к железнодорожным переездам. При необходимости, на широких дорогах эти знаки дополнительно устанавливаются и с левой стороны дороги. При приближении к железнодорожному переезду водитель должен снизить скорость."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.4.1 – 1.4.6. \"Темир йўл кесишмасига яқинлашув\"\r\nУшбу йўл белгилари аҳоли яшаш жойларидан ташқарида, ҳайдовчининг темир йўл кесишмаларига яқинлашиш даражасини кўрсатади ва 1.1.\"Шлагбаумли темир йўл кесишмаси\" ёки 1.2.\"Шлагбаумсиз темир йўл кесишмаси\" йўл белгилари билан биргаликда ўрнатилади. Бу йўл белгиларининг асосий мақсади, ҳайдовчиларнинг темир йўл кесишмаларига еътиборини янада кучлироқ қаратишдан иборат. Зарур ҳолатларда, кенг йўлларда ушбу йўл белгилари қўшимча равишда йўлнинг чап томонига ҳам қўйилади. Ҳайдовчи темир йўл кесишмасига яқинлашаётганда тезликни камайтириши керак."
+                        }
+                    ]
+                },
+                "order": 10
+            },
+            {
+                "id": 12,
+                "name": {
+                    "uz": "1.5. Tramvay yo’li bilan kesishuv",
+                    "ru": "1.5. Трамвайный переход",
+                    "kiril": "1.5. Трамвай йўли билан кесишув",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-22-40_PPCS4YWJAC.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.5. \"Tramvay yo'li bilan kesishuv\"\r\nUshbu belgi xavfli chorrahalarda yoki chorrahadan tashqari joyda, yo'lning qatnov qismini kesib o'tadigan tramvay yo'llari oldida, shu bilan birga, aholi yashash punktlariga kirishdagi birinchi tramvay yo'li kesishmasi oldida o'rnatiladi va haydovchini bu haqida ogohlantiradi. Haydovchi bunday yo'ldan ehtiyot chorasini ko'rib, harakatlanishi kerak. Zero, relsli transport vositalari imtiyozga ega bo'lib, chorrahadan tashqarida haydovchilar tramvayga yo'l berishlari lozim."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.5. «Пересечение с трамвайной линией»  \r\nДанный знак устанавливается перед трамвайными путями, пересекающими проезжую часть на опасных перекрестках или вне перекрестков, а также перед первым пересечением с трамвайной линией при въезде в населенный пункт. Он предупреждает водителя о предстоящем пересечении с трамвайными путями. Водитель должен проявить осторожность при проезде такого участка, так как рельсовый транспорт имеет преимущество, и вне перекрестков водители обязаны уступать дорогу трамваю."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.5. \"Трамвай йўли билан кесишув\"\r\nУшбу белги хавфли чорраҳаларда ёки чорраҳадан ташқари жойда, йўлнинг қатнов қисмини кесиб ўтадиган трамвай йўллари олдида, шу билан бирга, аҳоли яшаш пунктларига киришдаги биринчи трамвай йўли кесишмаси олдида ўрнатилади ва ҳайдовчини бу ҳақида огоҳлантиради. Ҳайдовчи бундай йўлдан еҳтиёт чорасини кўриб, ҳаракатланиши керак. Зеро, релсли транспорт воситалари имтиёзга ега бўлиб, чорраҳадан ташқарида ҳайдовчилар трамвайга йўл беришлари лозим."
+                        }
+                    ]
+                },
+                "order": 11
+            },
+            {
+                "id": 13,
+                "name": {
+                    "uz": "1.6. Teng ahamiyatli yo’llar kesishuvi",
+                    "ru": "1.6. Не менее важные перекрестки",
+                    "kiril": "1.6. Тенг аҳамиятли йўллар кесишуви",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-22-52_3NRCAJJW9J.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.6. \"Teng ahamiyatli yo'llar kesishuvi\"\r\nBu belgi usti qanday qoplama: asfalt, beton yoki tosh bo'lishidan qat'i nazar, teng ahamiyatli yo'llar kesishgan joylar oldida o'rnatiladi. Ushbu holatda haydovchi o'ng tomondan kelayotgan transport vositasiga yo'l berishi shart. Aks holda, chorrahada harakatlanish tartibi buzilishi va yo'l transport hodisasi ro'y berishi mumkin."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.6. «Перекресток равнозначных дорог»  \r\nДанный знак устанавливается перед перекрестками равнозначных дорог, независимо от типа покрытия: будь то асфальт, бетон или булыжник. В такой ситуации водитель обязан уступить дорогу транспортному средству, приближающемуся справа. В противном случае может быть нарушен порядок движения на перекрестке, что может привести к дорожно-транспортному происшествию."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.6. \"Тенг аҳамиятли йўллар кесишуви\"\r\nБу белги усти қандай қоплама: асфалт, бетон ёки тош бўлишидан қатъи назар, тенг аҳамиятли йўллар кесишган жойлар олдида ўрнатилади. Ушбу ҳолатда ҳайдовчи ўнг томондан келаётган транспорт воситасига йўл бериши шарт. Aкс ҳолда, чорраҳада ҳаракатланиш тартиби бузилиши ва йўл транспорт ҳодисаси рўй бериши мумкин."
+                        }
+                    ]
+                },
+                "order": 12
+            },
+            {
+                "id": 14,
+                "name": {
+                    "uz": "1.7. Aylanma harakatlanish bilan kesishuv",
+                    "ru": "1.7. Пересечение с вращательным движением",
+                    "kiril": "1.7. Айланма ҳаракатланиш билан кесишув",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-23-03_QZQX51GSRM.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.7. \"Aylanma harakatlanish bilan kesishuv\"\r\nAgar aylanma harakatli chorraha yo‘l sharoiti, ya'ni burilish, past - balandlik tufayli xavfsizlikni ta'minlovchi masofadan ko‘rinmasa, bu belgi aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida esa, 150 - 300 metr masofada o‘rnatiladi. Aylanma harakatlanish bilan kesishuv haqida ogohlantiruvchi ushbu belgi qo‘yilgan joydan transport vositasi tezligini pasaytirib, ehtiyot choralarini ko‘rgan holda, harakatni davom ettirish maqsadga muvofiq. Chunki aylanma harakatlanish chorrahasida harakatlanayotgan transport vositalari aylanaga kirib kelayotgan transport vositalariga nisbatan ustunlikka (imtiyozga) ega."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.7. «Пересечение с круговым движением»  \r\nЭтот знак устанавливается на расстоянии 50–100 метров в населённых пунктах и 150–300 метров вне населённых пунктов перед перекрестками с круговым движением, если из-за поворота дороги, перепадов высоты или других условий видимость перекрестка ограничена. Знак предупреждает водителя о предстоящем пересечении с круговым движением. В таких местах рекомендуется снизить скорость и проявить осторожность при движении, так как транспортные средства, уже находящиеся на круговом движении, имеют преимущество перед теми, кто только въезжает в него."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.7. \"Aйланма ҳаракатланиш билан кесишув\"\r\nAгар айланма ҳаракатли чорраҳа йўл шароити, яъни бурилиш, паст - баландлик туфайли хавфсизликни таъминловчи масофадан кўринмаса, бу белги аҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида еса, 150 - 300 метр масофада ўрнатилади. Aйланма ҳаракатланиш билан кесишув ҳақида огоҳлантирувчи ушбу белги қўйилган жойдан транспорт воситаси тезлигини пасайтириб, еҳтиёт чораларини кўрган ҳолда, ҳаракатни давом еттириш мақсадга мувофиқ. Чунки айланма ҳаракатланиш чорраҳасида ҳаракатланаётган транспорт воситалари айланага кириб келаётган транспорт воситаларига нисбатан устунликка (имтиёзга) ега."
+                        }
+                    ]
+                },
+                "order": 13
+            },
+            {
+                "id": 15,
+                "name": {
+                    "uz": "1.8. Svetofor tartibga soladi",
+                    "ru": "1.8. Светофор регулирует",
+                    "kiril": "1.8. Светофор тартибга солади",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.8",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-23-16_2KQAZDG2GV.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.8 “Svetafor tartibga soladi”\r\nBa’zi chorrahalarda haydovchilarni xabardor qilish uchun 1.8 “Svetafor tartibga soladi” yo'l belgisi o‘rnatiladi. Bu ayniqsa, svetoforlar unchalik keng tarqalgan bo'lmagan kichik shaharlarda to‘g‘ri keladi va haydovchilar o‘z harakatlarini shu tarzda tartibga solishni kutishmaydi. Shunga ko‘ra, ular svetoforni ko‘rganlarida tezlikni pasaytirishga vaqtlari bo‘lmasligi mumkin. Bunday uchastkani kesib o‘tishda haydovchi signalizatsiya qilingan chorrahalarni kesib o‘tishning umumiy qoidalariga rioya qilishi kerak.\r\n\r\nSvetofor ishlamay qolganda, haydovchi imtiyoz belgilari talablariga amal qilishlari kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.8 «Светофором регулируемый перекресток»  \r\nНа некоторых перекрестках для информирования водителей устанавливается знак 1.8 «Перекресток регулируется светофором». Это особенно актуально в небольших городах, где светофоры не так широко распространены и водители могут не ожидать регулирования движения с помощью светофора. В таких случаях у них может не оказаться времени на своевременное снижение скорости при появлении сигнала светофора.  \r\n\r\nПри проезде таких участков водитель должен соблюдать общие правила проезда регулируемых перекрестков.  \r\nЕсли светофор не работает, водитель обязан руководствоваться требованиями приоритетных знаков."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.8 “Светафор тартибга солади”\r\nБаъзи чорраҳаларда ҳайдовчиларни хабардор қилиш учун 1.8 “Светафор тартибга солади” йўл белгиси ўрнатилади. Бу айниқса, светофорлар унчалик кенг тарқалган бўлмаган кичик шаҳарларда тўғри келади ва ҳайдовчилар ўз ҳаракатларини шу тарзда тартибга солишни кутишмайди. Шунга кўра, улар светофорни кўрганларида тезликни пасайтиришга вақтлари бўлмаслиги мумкин. Бундай участкани кесиб ўтишда ҳайдовчи сигнализация қилинган чорраҳаларни кесиб ўтишнинг умумий қоидаларига риоя қилиши керак.\r\n\r\nСветофор ишламай қолганда, ҳайдовчи имтиёз белгилари талабларига амал қилишлари керак."
+                        }
+                    ]
+                },
+                "order": 14
+            },
+            {
+                "id": 16,
+                "name": {
+                    "uz": "1.9. Ko’tarma ko’prik",
+                    "ru": "1.9. Подъемный мост",
+                    "kiril": "1.9. Кўтарма кўприк",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.9",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-09_16-23-31_Y57ASC2Q12.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.9. \"Ko'tarma ko'prik\"\r\nBu belgi ko‘tarma ko‘prik yoki solda kesib o‘tish joylari oldida, jumladan aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida 150 - 300 metr masofada o‘rnatiladi. Aholi punktlaridan tashqarida ushbu 1.9. belgisi takrorlanadi va ikkinchi belgi 50 metrdan kam bo‘lmagan masofada o‘rnatiladi. Belgi ehtimoli bor bo‘lgan xavf -xatar haqida qo‘shimcha ravishda haydovchilarni oldindan ogohlantiradi"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.9. «Разводной мост»  \r\nЭтот знак устанавливается перед разводным мостом или местами пересечения с судоходными каналами: в населённых пунктах — за 50–100 метров, вне населённых пунктов — за 150–300 метров до объекта. Вне населённых пунктов знак 1.9 повторяется, при этом второй знак размещается не ближе чем за 50 метров до самого объекта.  \r\nЗнак служит дополнительным предупреждением для водителей о возможной опасности, связанной с подъемом моста, и требует от них повышенной осторожности при проезде."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.9. \"Кўтарма кўприк\"\r\nБу белги кўтарма кўприк ёки солда кесиб ўтиш жойлари олдида, жумладан аҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида 150 - 300 метр масофада ўрнатилади. Aҳоли пунктларидан ташқарида ушбу 1.9. белгиси такрорланади ва иккинчи белги 50 метрдан кам бўлмаган масофада ўрнатилади. Белги еҳтимоли бор бўлган хавф -хатар ҳақида қўшимча равишда ҳайдовчиларни олдиндан огоҳлантиради"
+                        }
+                    ]
+                },
+                "order": 15
+            },
+            {
+                "id": 17,
+                "name": {
+                    "uz": "1.10. Sohilga chiqish",
+                    "ru": "1.10. Собираться на пляж",
+                    "kiril": "1.10. Соҳилга чиқиш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-28-45_T2HTZK48G1.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.10. \"Sohilga chiqish\"\r\nBu belgi daryo yoki suv havzasi qirg'oqlariga chiqish oldidan o'rnatiladi.Aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida 150 - 300 metr masofa oldinda o‘rnatiladi. Belgi aholi punktlaridan tashqarida takrorlanadi va ikkinchi belgi 50 metrdan kam bo‘lmagan masofada o‘rnatiladi, hamda haydovchini bunday holatda tezlikni kamaytirib, e'tiborliroq bo‘lishi haqida qayta ogohlantiradi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.10. «Выезд на набережную»  \r\nЭтот знак устанавливается перед выездом к берегу реки или водоёма: в населённых пунктах — за 50–100 метров, вне населённых пунктов — за 150–300 метров. Вне населённых пунктов знак повторяется, при этом второй знак размещается не ближе чем за 50 метров до берега.  \r\nЗнак предупреждает водителя о приближении к водной преграде и повторно напоминает о необходимости снизить скорость и быть особенно внимательным на данном участке дороги."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.10. \"Соҳилга чиқиш\"\r\nБу белги дарё ёки сув ҳавзаси қирғоқларига чиқиш олдидан ўрнатилади.Aҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида 150 - 300 метр масофа олдинда ўрнатилади. Белги аҳоли пунктларидан ташқарида такрорланади ва иккинчи белги 50 метрдан кам бўлмаган масофада ўрнатилади, ҳамда ҳайдовчини бундай ҳолатда тезликни камайтириб, еътиборлироқ бўлиши ҳақида қайта огоҳлантиради."
+                        }
+                    ]
+                },
+                "order": 16
+            },
+            {
+                "id": 18,
+                "name": {
+                    "uz": "1.11.1. Xavfli burilish",
+                    "ru": "1.11.1. Опасный поворот",
+                    "kiril": "1.11.1. Хавфли бурилиш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "1.11.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-29-49_NUVTXY3FND.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.11.1, 1.11.2. “Xavfli burilish”. 1.11.1 — o‘ngga, 1.11.2 — chapga yo‘l belgilari yo‘lning kichik radiusli yoki ko‘rinishi cheklangan burilish joyini bildiradi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.11.1, 1.11.2. «Опасный поворот»  \r\nЗнаки 1.11.1 — с поворотом направо и 1.11.2 — с поворотом налево обозначают участок дороги с опасным поворотом малого радиуса или с ограниченной видимостью."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.11.1, 1.11.2. “Хавфли бурилиш”. 1.11.1 — ўнгга, 1.11.2 — чапга йўл белгилари йўлнинг кичик радиусли ёки кўриниши чекланган бурилиш жойини билдиради."
+                        }
+                    ]
+                },
+                "order": 17
+            },
+            {
+                "id": 19,
+                "name": {
+                    "uz": "1.11.2. Xavfli burilish",
+                    "ru": "1.11.2. Опасный поворот",
+                    "kiril": "1.11.2. Хавфли бурилиш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "1.11.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-30-20_G8PYAR14JE.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.11.1, 1.11.2. “Xavfli burilish”. 1.11.1 — o‘ngga, 1.11.2 — chapga yo‘l belgilari yo‘lning kichik radiusli yoki ko‘rinishi cheklangan burilish joyini bildiradi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.11.1, 1.11.2. «Опасный поворот»  \r\nЗнаки 1.11.1 — с поворотом направо и 1.11.2 — с поворотом налево обозначают участок дороги с опасным поворотом малого радиуса или с ограниченной видимостью."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.11.1, 1.11.2. “Хавфли бурилиш”. 1.11.1 — ўнгга, 1.11.2 — чапга йўл белгилари йўлнинг кичик радиусли ёки кўриниши чекланган бурилиш жойини билдиради."
+                        }
+                    ]
+                },
+                "order": 18
+            },
+            {
+                "id": 20,
+                "name": {
+                    "uz": "1.12.1. Xavfli burilishlar",
+                    "ru": "1.12.1. Опасные повороты",
+                    "kiril": "1.12.1. Хавфли бурилишлар",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "1.12.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-30-37_STZCV36HBS.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.12.1, 1.12.2. \"Xavfli burilishlar\"\r\nUshbu belgilar transport vositasi harakatlanayotgan yo'lda ketma-ket bir nechta xavfli burilishlar borligi haqida haydovchini ogohlantiradi.Ular yo‘lning xavfli burilishlari oldidan, aholi  punktlarida  50- 100 metr masofada aholi punktlaridan tashqarida 150 - 300 metr masofada o‘rnatiladi. Haydovchi yo‘lning bunday qismlaridan tezlikni kamaytirib, ehtiyot choralarini ko‘rib, harakatlanishi lozim."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.12.1, 1.12.2. «Опасные повороты»  \r\nЭти знаки предупреждают водителя о наличии на дороге нескольких подряд идущих опасных поворотов. Устанавливаются перед такими участками дороги: в населённых пунктах — за 50–100 метров, вне населённых пунктов — за 150–300 метров.  \r\nВодитель должен снизить скорость и соблюдать повышенную осторожность при проезде этих участков."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.12.1, 1.12.2. \"Хавфли бурилишлар\"\r\nУшбу белгилар транспорт воситаси ҳаракатланаётган йўлда кетма-кет бир нечта хавфли бурилишлар борлиги ҳақида ҳайдовчини огоҳлантиради.Улар йўлнинг хавфли бурилишлари олдидан, аҳоли пунктларида 50- 100 метр масофада аҳоли пунктларидан ташқарида 150 - 300 метр масофада ўрнатилади. Ҳайдовчи йўлнинг бундай қисмларидан тезликни камайтириб, еҳтиёт чораларини кўриб, ҳаракатланиши лозим."
+                        }
+                    ]
+                },
+                "order": 19
+            },
+            {
+                "id": 21,
+                "name": {
+                    "uz": "1.12.2. Xavfli burilishlar",
+                    "ru": "1.12.2. Опасные повороты",
+                    "kiril": "1.12.2. Хавфли бурилишлар",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "1.12.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-30-53_AZK889GX91.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.12.1, 1.12.2. \"Xavfli burilishlar\"\r\nUshbu belgilar transport vositasi harakatlanayotgan yo'lda ketma-ket bir nechta xavfli burilishlar borligi haqida haydovchini ogohlantiradi.Ular yo‘lning xavfli burilishlari oldidan, aholi  punktlarida  50- 100 metr masofada aholi punktlaridan tashqarida 150 - 300 metr masofada o‘rnatiladi. Haydovchi yo‘lning bunday qismlaridan tezlikni kamaytirib, ehtiyot choralarini ko‘rib, harakatlanishi lozim."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.12.1, 1.12.2. «Опасные повороты»  \r\nЭти знаки предупреждают водителя о наличии на дороге нескольких подряд идущих опасных поворотов. Устанавливаются перед такими участками дороги: в населённых пунктах — за 50–100 метров, вне населённых пунктов — за 150–300 метров.  \r\nВодитель должен снизить скорость и соблюдать повышенную осторожность при проезде этих участков."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.12.1, 1.12.2. \"Хавфли бурилишлар\"\r\nУшбу белгилар транспорт воситаси ҳаракатланаётган йўлда кетма-кет бир нечта хавфли бурилишлар борлиги ҳақида ҳайдовчини огоҳлантиради.Улар йўлнинг хавфли бурилишлари олдидан, аҳоли пунктларида 50- 100 метр масофада аҳоли пунктларидан ташқарида 150 - 300 метр масофада ўрнатилади. Ҳайдовчи йўлнинг бундай қисмларидан тезликни камайтириб, еҳтиёт чораларини кўриб, ҳаракатланиши лозим."
+                        }
+                    ]
+                },
+                "order": 20
+            },
+            {
+                "id": 22,
+                "name": {
+                    "uz": "1.13. Tik nishablik",
+                    "ru": "1.13. Крутой склон",
+                    "kiril": "1.13. Тик нишаблик",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 2,
+                "code": "1.13",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-31-33_UZEXX15YRT.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.13. \"Tik nishablik\"\r\nBu belgi aholi punktlarida 50 - 100 metr masofada, aholi punktlaridan tashqarida 150 - 300 metr masofada, yo‘lning tik nishablik ya'ni pastlik qismi oldidan o‘rnatiladi va haydovchini harakatlanish yo‘lida tik nishablik borligi haqida ogohlantiradi. Haydovchi yo‘lning bunday qismlaridan tezlikni kamaytirib, albatta, uzatmalar qutisini ulagan holda, harakatlanishi shart. Aks holda, avtomobilь o‘zining og‘irligi bilan qiyalikda inertsiya kuchini vujudga kelishi va ortiqcha tezlanish olishi, natijada uni tormoz tizimi bilan to‘xtatib bo‘lmay qolishi imkoniyati ortib ketadi. Oqibatda yo‘l-transport hodisasi sodir bo‘lishiga olib kelishi mumkin"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.13. «Крутой спуск»  \r\nЭтот знак устанавливается перед крутым спуском: в населённых пунктах — за 50–100 метров, вне населённых пунктов — за 150–300 метров. Он предупреждает водителя о наличии резкого уклона на дороге.  \r\n\r\nПри проезде таких участков водитель обязан снизить скорость и двигаться на включённой передаче. В противном случае масса автомобиля может усилить инерцию на спуске, что приведёт к избыточному ускорению и увеличит риск того, что тормозная система не сможет своевременно остановить автомобиль. Это, в свою очередь, может привести к дорожно-транспортному происшествию."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.13. \"Тик нишаблик\"\r\nБу белги аҳоли пунктларида 50 - 100 метр масофада, аҳоли пунктларидан ташқарида 150 - 300 метр масофада, йўлнинг тик нишаблик яъни пастлик қисми олдидан ўрнатилади ва ҳайдовчини ҳаракатланиш йўлида тик нишаблик борлиги ҳақида огоҳлантиради. Ҳайдовчи йўлнинг бундай қисмларидан тезликни камайтириб, албатта, узатмалар қутисини улаган ҳолда, ҳаракатланиши шарт. Aкс ҳолда, автомобиль ўзининг оғирлиги билан қияликда инерция кучини вужудга келиши ва ортиқча тезланиш олиши, натижада уни тормоз тизими билан тўхтатиб бўлмай қолиши имконияти ортиб кетади. Оқибатда йўл-транспорт ҳодисаси содир бўлишига олиб келиши мумкин"
+                        }
+                    ]
+                },
+                "order": 21
+            },
+            {
+                "id": 23,
+                "name": {
+                    "uz": "1.14. Tik balandlik",
+                    "ru": "1.14. Крутая высота",
+                    "kiril": "1.14. Тик баландлик",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 2,
+                "code": "1.14",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-31-50_5RZ1WUESPU.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.14. \"Tik balandlik\"\r\nBu belgi aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida esa, 150 - 300 metr masofada, yo‘lning tik balandlik qismi oldidan o‘rnatiladi va transport vositasi harakatlanayotgan yo‘lda tik balandlik borligi haqida haydovchini ogohlantiradi. Bunda haydovchi kerakli uzatmani ulagan holda belgilangan tezlik me'yorini saqlab, harakatlanishi kerak. Aks holda, transport vositasi to‘xtab qolib, o‘z og‘irligi bilan orqaga harakatlanib ketib qolishi va harakat xavfsizligiga tahdid solishi mumkin."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.14. «Крутой подъём»  \r\nЭтот знак устанавливается перед крутым подъёмом: в населённых пунктах — за 50–100 метров, вне населённых пунктов — за 150–300 метров. Он предупреждает водителя о наличии крутого уклона вверх на пути движения.  \r\n\r\nВ таких условиях водитель должен двигаться на соответствующей передаче, соблюдая установленный скоростной режим. В противном случае транспортное средство может остановиться и начать скатываться назад под собственной массой, что создаёт угрозу безопасности дорожного движения."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.14. \"Тик баландлик\"\r\nБу белги аҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида еса, 150 - 300 метр масофада, йўлнинг тик баландлик қисми олдидан ўрнатилади ва транспорт воситаси ҳаракатланаётган йўлда тик баландлик борлиги ҳақида ҳайдовчини огоҳлантиради. Бунда ҳайдовчи керакли узатмани улаган ҳолда белгиланган тезлик меъёрини сақлаб, ҳаракатланиши керак. Aкс ҳолда, транспорт воситаси тўхтаб қолиб, ўз оғирлиги билан орқага ҳаракатланиб кетиб қолиши ва ҳаракат хавфсизлигига таҳдид солиши мумкин."
+                        }
+                    ]
+                },
+                "order": 22
+            },
+            {
+                "id": 24,
+                "name": {
+                    "uz": "1.15. Sirpanchiq yo’l",
+                    "ru": "1.15. Это скользкая дорожка",
+                    "kiril": "1.15. Сирпанчиқ йўл",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.15",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-32-14_AASJZW2DS6.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.15 «Sirpanchiq yo‘l» yo‘l belgisi  uchburchak shaklga ega bo‘lib, qizil hoshiyali oq fonda sirpanayotgan avtomobil tasvirlangan.\r\n\r\nUshbu belgi yo‘lning sirpanish darajasi yuqori bo‘lgan  qatnov qismi haqida ogohlantiradi. Boshqa barcha ogohlantiruvchi belgilar singari, 1.15 «Sirpanchiq yo‘l» belgisi aholi punktlarida xavfli uchastka boshlanishidan 50-100 metr oldin, aholi punktidan tashqarida xavfli uchastka boshlanishidan 150-300 metr oldin o‘rnatiladi.\r\n\r\n\r\n\r\n\r\n\r\nZamonaviy avtomobil turg‘unligini ta’minlash tizimi (ESP (Electronic Stability Program))  bo‘lmasa, sirpanchiq yo‘llar haydovchiga, ayniqsa haydovchilikni endi boshlagan haydovchilar uchun xavf tug‘diradi.\r\n\r\nSirpanchiq yuza vaqtinchalik bo‘lgan joylarda, masalan, ta’mirlash ishlari tufayli, 1.15 belgisi sariq fonda o‘rnatilishi mumkin, bu ta’mirlash ishlari olib borilayotganda haydovchilarni xavf haqida ogohlantirish vazifasini bajaradi.\r\n\r\nYomon ob-havo sharoitida yo‘l xizmatlari imkon qadar tezroq yo‘l qoplamalarini tartibga solishga harakat qiladi, ammo bu ko‘p vaqt olishi mumkin. Shu sababli, har bir haydovchi uchun sirpanchiq joylardan harakatlanish qoidalarini eslab qolish juda muhimdir.\r\n\r\n\r\n\r\n\r\nBu belgining 7.16 «Nam qoplama» belgisi bilan o‘rnatilishi, belgi yo‘l qoplamasi nam yoki ho‘l bo‘lganida ta’sir qilishini bildiradi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.15 «Скользкая дорога»  \r\nЭтот дорожный знак имеет форму треугольника с изображением скользящего автомобиля на белом фоне с красной окантовкой.  \r\n\r\n\r\n\r\n\r\n\r\nЗнак предупреждает о том, что участок дороги впереди отличается повышенной скользкостью. Как и другие предупреждающие знаки, 1.15 «Скользкая дорога» устанавливается:  \r\n— в населённых пунктах за 50–100 метров до опасного участка;  \r\n— вне населённых пунктов — за 150–300 метров.  \r\n\r\nЕсли на автомобиле нет системы курсовой устойчивости (ESP — Electronic Stability Program), то скользкие дороги особенно опасны, в частности, для начинающих водителей.  \r\n\r\nВременные участки со скользким покрытием, например, в местах дорожных работ, могут обозначаться этим же знаком, но на жёлтом фоне — это служит предупреждением о временной опасности.  \r\n\r\nВ условиях плохой погоды дорожные службы стремятся как можно быстрее устранить скользкость покрытия, однако это может занять время. Поэтому водителям важно знать и соблюдать правила движения на скользкой дороге.  \r\n\r\nЕсли знак установлен вместе со знаком 7.16 «Мокрое покрытие», это означает, что предупреждение действительно только при влажной или мокрой дороге."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.15 «Сирпанчиқ йўл» йўл белгиси учбурчак шаклга ега бўлиб, қизил ҳошияли оқ фонда сирпанаётган автомобил тасвирланган.\r\n\r\nУшбу белги йўлнинг сирпаниш даражаси юқори бўлган қатнов қисми ҳақида огоҳлантиради. Бошқа барча огоҳлантирувчи белгилар сингари, 1.15 «Сирпанчиқ йўл» белгиси аҳоли пунктларида хавфли участка бошланишидан 50-100 метр олдин, аҳоли пунктидан ташқарида хавфли участка бошланишидан 150-300 метр олдин ўрнатилади.\r\n\r\n\r\n\r\n\r\n\r\nЗамонавий автомобил турғунлигини таъминлаш тизими (ЕСП (Елеcтрониc Стабилитй Програм)) бўлмаса, сирпанчиқ йўллар ҳайдовчига, айниқса ҳайдовчиликни енди бошлаган ҳайдовчилар учун хавф туғдиради.\r\n\r\nСирпанчиқ юза вақтинчалик бўлган жойларда, масалан, таъмирлаш ишлари туфайли, 1.15 белгиси сариқ фонда ўрнатилиши мумкин, бу таъмирлаш ишлари олиб борилаётганда ҳайдовчиларни хавф ҳақида огоҳлантириш вазифасини бажаради.\r\n\r\nЁмон об-ҳаво шароитида йўл хизматлари имкон қадар тезроқ йўл қопламаларини тартибга солишга ҳаракат қилади, аммо бу кўп вақт олиши мумкин. Шу сабабли, ҳар бир ҳайдовчи учун сирпанчиқ жойлардан ҳаракатланиш қоидаларини еслаб қолиш жуда муҳимдир.\r\n\r\nБу белгининг 7.16 «Нам қоплама» белгиси билан ўрнатилиши, белги йўл қопламаси нам ёки ҳўл бўлганида таъсир қилишини билдиради."
+                        }
+                    ]
+                },
+                "order": 23
+            },
+            {
+                "id": 25,
+                "name": {
+                    "uz": "1.16. Notekis yo’l",
+                    "ru": "1.16. Дорога грубая",
+                    "kiril": "1.16. Нотекис йўл",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.16",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-33-09_RNMVD5UJBN.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.16. \"Notekis yo'l\"\r\nUshbu belgi aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida esa, 150 - 300 metr masofada, yo‘lning notekis qismlari oldidan o‘rnatiladi va transport vositasi haydovchisidan yo‘lning notekis qismidan harakatlanish vaqtida diqqat - e'tiborini to‘plab, ehtiyotkorlik bilan harakatlanishini davom ettirishni talab qiladi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.16. «Неровная дорога»  \r\nДанный знак устанавливается перед участками дороги с неровным покрытием:  \r\n— в населённых пунктах — за 50–100 метров,  \r\n— вне населённых пунктов — за 150–300 метров.  \r\n\r\nОн предупреждает водителя о возможных выбоинах, волнообразных деформациях или других неровностях на проезжей части. При проезде такого участка водитель должен быть особенно внимателен и осторожен, снизить скорость и контролировать транспортное средство для обеспечения безопасности движения."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.16. \"Нотекис йўл\"\r\nУшбу белги аҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида еса, 150 - 300 метр масофада, йўлнинг нотекис қисмлари олдидан ўрнатилади ва транспорт воситаси ҳайдовчисидан йўлнинг нотекис қисмидан ҳаракатланиш вақтида диққат - еътиборини тўплаб, еҳтиёткорлик билан ҳаракатланишини давом еттиришни талаб қилади."
+                        }
+                    ]
+                },
+                "order": 24
+            },
+            {
+                "id": 26,
+                "name": {
+                    "uz": "1.17. Tosh otilish xavfi",
+                    "ru": "1.17. Риск бросания камней",
+                    "kiril": "1.17. Тош отилиш хавфи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.17",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-33-28_5WSBWX9C8Z.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.17. \"Tosh otilishi xavfi\"\r\nBu belgi aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida esa, 150 - 300 metr masofada, yo‘lning ta'mirlash ishlari olib borilayotgan va transport vositasi g‘ildiragi ostidan shag‘al, tosh, shunga o‘xshash jismlarning otilib chiqish ehtimoli bor bo‘lgan joylari oldidan o‘rnatiladi. Yo‘lning bunday qismlarida haydovchi transport vositasining shikastlanishini oldini olish maqsadida, tezlikni kamaytirib, xavfsiz oraliq masofani saqlab borishi lozim."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.17. «Опасность выброса гравия (камней)»  \r\nЭтот знак устанавливается перед участками дороги, где возможен выброс щебня, камней или других частиц из-под колёс транспортных средств — например, в местах дорожных работ:  \r\n— в населённых пунктах — за 50–100 метров,  \r\n— вне населённых пунктов — за 150–300 метров.  \r\n\r\nЗнак предупреждает водителя о риске повреждения автомобиля или других транспортных средств. На таких участках следует снизить скорость и соблюдать безопасную дистанцию до впереди идущего транспорта."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.17. \"Тош отилиши хавфи\"\r\nБу белги аҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида еса, 150 - 300 метр масофада, йўлнинг таъмирлаш ишлари олиб борилаётган ва транспорт воситаси ғилдираги остидан шағал, тош, шунга ўхшаш жисмларнинг отилиб чиқиш еҳтимоли бор бўлган жойлари олдидан ўрнатилади. Йўлнинг бундай қисмларида ҳайдовчи транспорт воситасининг шикастланишини олдини олиш мақсадида, тезликни камайтириб, хавфсиз оралиқ масофани сақлаб бориши лозим."
+                        }
+                    ]
+                },
+                "order": 25
+            },
+            {
+                "id": 27,
+                "name": {
+                    "uz": "1.18.1. Yo’lning torayishi",
+                    "ru": "1.18.1. Дорога сужается",
+                    "kiril": "1.18.1. Йўлнинг торайиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.18.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-33-46_T7WQNDWM3S.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.18.1, 1.18.2, 1.18.3. \"Yo'lning torayishi\"\r\nBu belgilar aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida esa, 150 - 300 metr masofada, yo‘lning torayish qismlari oldidan o‘rnatiladi:\r\n\r\nBunda, 1.18.1. belgisi - yo‘lning «Ikki tomonlama torayishi»;1.18.2. «O‘ngdan torayishi»; 1.18.3. «Chapdan torayishi» haqida ogohlantiradi. Bunday vaziyatlarda yo‘lning torayadigan tomonidan harakatlanayotgan transport vositalari haydovchilari tezlikni kamaytirib, ehtiyot chorasini ko‘rgan holda, harakatni davom ettirishi darkor."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.18.1, 1.18.2, 1.18.3. «Сужение дороги»  \r\nЭти знаки устанавливаются перед участками дороги, где происходит сужение проезжей части:  \r\nв населённых пунктах — за 50–100 метров,  \r\nвне населённых пунктов — за 150–300 метров.  \r\n\r\n1.18.1 обозначает сужение с обеих сторон,  \r\n1.18.2 — сужение справа,  \r\n1.18.3 — сужение слева.  \r\n\r\nВ подобных ситуациях водители, движущиеся со стороны сужения, должны снизить скорость и проявить осторожность при движении."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.18.1, 1.18.2, 1.18.3. \"Йўлнинг торайиши\"\r\nБу белгилар аҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида еса, 150 - 300 метр масофада, йўлнинг торайиш қисмлари олдидан ўрнатилади:\r\n\r\nБунда, 1.18.1. белгиси - йўлнинг «Икки томонлама торайиши»;1.18.2. «Ўнгдан торайиши»; 1.18.3. «Чапдан торайиши» ҳақида огоҳлантиради. Бундай вазиятларда йўлнинг тораядиган томонидан ҳаракатланаётган транспорт воситалари ҳайдовчилари тезликни камайтириб, еҳтиёт чорасини кўрган ҳолда, ҳаракатни давом еттириши даркор."
+                        }
+                    ]
+                },
+                "order": 26
+            },
+            {
+                "id": 28,
+                "name": {
+                    "uz": "1.18.2. Yo’lning torayishi",
+                    "ru": "1.18.2. Дорога сужается",
+                    "kiril": "1.18.2. Йўлнинг торайиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.18.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-34-17_6KBZ1ZRQ8E.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.18.1, 1.18.2, 1.18.3. \"Yo'lning torayishi\"\r\nBu belgilar aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida esa, 150 - 300 metr masofada, yo‘lning torayish qismlari oldidan o‘rnatiladi:\r\n\r\nBunda, 1.18.1. belgisi - yo‘lning «Ikki tomonlama torayishi»;1.18.2. «O‘ngdan torayishi»; 1.18.3. «Chapdan torayishi» haqida ogohlantiradi. Bunday vaziyatlarda yo‘lning torayadigan tomonidan harakatlanayotgan transport vositalari haydovchilari tezlikni kamaytirib, ehtiyot chorasini ko‘rgan holda, harakatni davom ettirishi darkor."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.18.1, 1.18.2, 1.18.3. «Сужение дороги»  \r\nЭти знаки устанавливаются перед участками дороги, где происходит сужение проезжей части:  \r\nв населённых пунктах — за 50–100 метров,  \r\nвне населённых пунктов — за 150–300 метров.  \r\n\r\n1.18.1 обозначает сужение с обеих сторон,  \r\n1.18.2 — сужение справа,  \r\n1.18.3 — сужение слева.  \r\n\r\nВ подобных ситуациях водители, движущиеся со стороны сужения, должны снизить скорость и проявить осторожность при движении."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.18.1, 1.18.2, 1.18.3. \"Йўлнинг торайиши\"\r\nБу белгилар аҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида еса, 150 - 300 метр масофада, йўлнинг торайиш қисмлари олдидан ўрнатилади:\r\n\r\nБунда, 1.18.1. белгиси - йўлнинг «Икки томонлама торайиши»;1.18.2. «Ўнгдан торайиши»; 1.18.3. «Чапдан торайиши» ҳақида огоҳлантиради. Бундай вазиятларда йўлнинг тораядиган томонидан ҳаракатланаётган транспорт воситалари ҳайдовчилари тезликни камайтириб, еҳтиёт чорасини кўрган ҳолда, ҳаракатни давом еттириши даркор."
+                        }
+                    ]
+                },
+                "order": 27
+            },
+            {
+                "id": 29,
+                "name": {
+                    "uz": "1.18.3. Yo’lning torayishi",
+                    "ru": "1.18.3. Дорога сужается",
+                    "kiril": "1.18.3. Йўлнинг торайиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.18.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-34-48_1YNNEJ747P.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.18.1, 1.18.2, 1.18.3. \"Yo'lning torayishi\"\r\nBu belgilar aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida esa, 150 - 300 metr masofada, yo‘lning torayish qismlari oldidan o‘rnatiladi:\r\n\r\nBunda, 1.18.1. belgisi - yo‘lning «Ikki tomonlama torayishi»;1.18.2. «O‘ngdan torayishi»; 1.18.3. «Chapdan torayishi» haqida ogohlantiradi. Bunday vaziyatlarda yo‘lning torayadigan tomonidan harakatlanayotgan transport vositalari haydovchilari tezlikni kamaytirib, ehtiyot chorasini ko‘rgan holda, harakatni davom ettirishi darkor."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.18.1, 1.18.2, 1.18.3. «Сужение дороги»  \r\nЭти знаки устанавливаются перед участками дороги, где происходит сужение проезжей части:  \r\nв населённых пунктах — за 50–100 метров,  \r\nвне населённых пунктов — за 150–300 метров.  \r\n\r\n1.18.1 обозначает сужение с обеих сторон,  \r\n1.18.2 — сужение справа,  \r\n1.18.3 — сужение слева.  \r\n\r\nВ подобных ситуациях водители, движущиеся со стороны сужения, должны снизить скорость и проявить осторожность при движении."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.18.1, 1.18.2, 1.18.3. \"Йўлнинг торайиши\"\r\nБу белгилар аҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида еса, 150 - 300 метр масофада, йўлнинг торайиш қисмлари олдидан ўрнатилади:\r\n\r\nБунда, 1.18.1. белгиси - йўлнинг «Икки томонлама торайиши»;1.18.2. «Ўнгдан торайиши»; 1.18.3. «Чапдан торайиши» ҳақида огоҳлантиради. Бундай вазиятларда йўлнинг тораядиган томонидан ҳаракатланаётган транспорт воситалари ҳайдовчилари тезликни камайтириб, еҳтиёт чорасини кўрган ҳолда, ҳаракатни давом еттириши даркор."
+                        }
+                    ]
+                },
+                "order": 28
+            },
+            {
+                "id": 30,
+                "name": {
+                    "uz": "1.19. Ikki tomonlama harakatlanish",
+                    "ru": "1.19. Двустороннее движение",
+                    "kiril": "1.19. Икки томонлама ҳаракатланиш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.19",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-35-19_22DS61EDAK.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.19. \"Ikki tomonlama harakatlanish\"\r\nBu belgi aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida esa, 150 - 300 metr masofada, yo‘lning bir taraflama harakatlanishi tashkil qilingan qismi tugab, qarama-qarshi harakatlanish qismi boshlanishi oldidan o‘rnatiladi va haydovchini bu haqda ogohlantiradi. Transport vositalari egalari bunday paytda ziyraklikni oshirib, qarama-qarshi harakat qismiga chiqib ketishning oldini olishlari zarur."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.19. «Движение в обоих направлениях»  \r\nЭтот знак устанавливается:  \r\nв населённых пунктах — за 50–100 метров,  \r\nвне населённых пунктов — за 150–300 метров до начала участка дороги с двухсторонним движением после завершения участка с односторонним движением.  \r\n\r\nЗнак предупреждает водителя о начале встречного движения. Водители должны быть особенно внимательны и не выезжать на полосу встречного движения."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.19. \"Икки томонлама ҳаракатланиш\"\r\nБу белги аҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида еса, 150 - 300 метр масофада, йўлнинг бир тарафлама ҳаракатланиши ташкил қилинган қисми тугаб, қарама-қарши ҳаракатланиш қисми бошланиши олдидан ўрнатилади ва ҳайдовчини бу ҳақда огоҳлантиради. Транспорт воситалари егалари бундай пайтда зийракликни ошириб, қарама-қарши ҳаракат қисмига чиқиб кетишнинг олдини олишлари зарур."
+                        }
+                    ]
+                },
+                "order": 29
+            },
+            {
+                "id": 31,
+                "name": {
+                    "uz": "1.20. Piyodalar o’tish joyi",
+                    "ru": "1.20. Пешеходный переход",
+                    "kiril": "1.20. Пиёдалар ўтиш жойи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.20",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-36-03_H8UHJNU2UM.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.20. \"Piyodalar o'tish joyi\"\r\nBu yo‘l belgisi aholi punktlarida 50 - 100 metr, aholi punktlaridan tashqarida esa, 150 - 300 metr masofada o‘rnatilib, haydovchini piyodalar o‘tish joyiga yaqinlashayotganligi haqida ogohlantiradi. Piyodalar o‘tish joyiga yaqinlashar ekan, haydovchi transport vositasi tezligini pasaytirib, e'tiborni kuchaytirishi lozim. Haydovchilar yo‘lning harakat qismidagi piyodalarga yo‘l berishlari kerak"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.20. «Пешеходный переход»  \r\nЭтот дорожный знак устанавливается:  \r\nв населённых пунктах — за 50–100 метров,  \r\nвне населённых пунктов — за 150–300 метров до пешеходного перехода.  \r\n\r\nОн предупреждает водителя о приближении к зоне, где пешеходы пересекают проезжую часть. При приближении к пешеходному переходу водитель должен снизить скорость и быть особенно внимательным. Водители обязаны уступить дорогу пешеходам, находящимся на проезжей части."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.20. \"Пиёдалар ўтиш жойи\"\r\nБу йўл белгиси аҳоли пунктларида 50 - 100 метр, аҳоли пунктларидан ташқарида еса, 150 - 300 метр масофада ўрнатилиб, ҳайдовчини пиёдалар ўтиш жойига яқинлашаётганлиги ҳақида огоҳлантиради. Пиёдалар ўтиш жойига яқинлашар екан, ҳайдовчи транспорт воситаси тезлигини пасайтириб, еътиборни кучайтириши лозим. Ҳайдовчилар йўлнинг ҳаракат қисмидаги пиёдаларга йўл беришлари керак"
+                        }
+                    ]
+                },
+                "order": 30
+            },
+            {
+                "id": 32,
+                "name": {
+                    "uz": "1.21. Bolalar",
+                    "ru": "1.21. Дети",
+                    "kiril": "1.21. Болалар",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.21",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-36-26_BFX2GX25C3.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.21. \"Bolalar\"\r\nBu belgi haydovchini bolalar muassasalariga, jumladan bog‘cha, maktab va bolalar oromgohi kabi joylarga yaqinlashayotganligi va yo‘lning bu qismidan har daqiqada bolalar chiqib qolishi ehtimoli borligi haqida ogohlantiradi. Bunday vaziyatda haydovchi yo‘lning mazkur xavfli qismidan ehtiyotkorlik bilan o‘tishi kerak. Belgi aholi  punktlarida 50 -100 metr masofada o‘rnatiladi. Aholi punktlaridan tashqarida esa yo‘lning xavfli qismidan 150 - 300 metr oldin, hamda 50 metrdan kam bo‘lmagan masofada takroran o‘rnatiladi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.21. «Дети»  \r\nЭтот знак предупреждает водителя о приближении к детским учреждениям, таким как детский сад, школа или детский лагерь, а также о высокой вероятности внезапного появления детей на проезжей части.  \r\n\r\nВодитель должен проявить особую осторожность при проезде такого участка дороги.  \r\nЗнак устанавливается:  \r\nв населённых пунктах — за 50–100 метров,  \r\nвне населённых пунктов — за 150–300 метров,  \r\nа также повторно не ближе чем за 50 метров до опасного участка."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.21. \"Болалар\"\r\nБу белги ҳайдовчини болалар муассасаларига, жумладан боғча, мактаб ва болалар оромгоҳи каби жойларга яқинлашаётганлиги ва йўлнинг бу қисмидан ҳар дақиқада болалар чиқиб қолиши еҳтимоли борлиги ҳақида огоҳлантиради. Бундай вазиятда ҳайдовчи йўлнинг мазкур хавфли қисмидан еҳтиёткорлик билан ўтиши керак. Белги аҳоли пунктларида 50 -100 метр масофада ўрнатилади. Aҳоли пунктларидан ташқарида еса йўлнинг хавфли қисмидан 150 - 300 метр олдин, ҳамда 50 метрдан кам бўлмаган масофада такроран ўрнатилади."
+                        }
+                    ]
+                },
+                "order": 31
+            },
+            {
+                "id": 33,
+                "name": {
+                    "uz": "1.22. Velosiped yo’lkasi bilan kesishuv",
+                    "ru": "1.22. Переход по велосипедной дорожке",
+                    "kiril": "1.22. Велосипед йўлкаси билан кесишув",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.22",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-36-41_KK2QZMV6VB.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>1.22. \"Velosiped yo'lkasi bilan kesishuv\"</strong></li></ul><p><strong>1.22. \"Velosiped yo‘lkasi bilan kesishuv\"</strong></p><p><strong>1.22 «Velosiped yo‘lkasi bilan kesishuv» </strong>belgisi qizil hoshiyali uchburchak shaklida bo‘lib, uning markazida, oq fonda qora rangli velosiped tasvirlangan.</p><p><strong>«Velosiped yo‘lkasi bilan kesishuv» </strong>belgisi velosiped yo‘lkasi yo‘lning qatnov qismini kesib o‘tadigan joylar oldidan o‘rnatiladi va yo‘l harakati qatnashchilarini qatnov qismida kutilmaganda velosipedchi paydo bo‘lib qolishidan ogohlantiradi. &nbsp;</p><p><strong>1.22</strong> yo‘l belgisini ko‘rgan haydovchidan qandaydir aniq bir harakat talab qilinmaydi. Haydovchi, faqat zarurat paydo bo‘lganida tezlikni kamaytirishi va to‘xtashi shart. Velosiped yo‘lkasi yo‘lning qatnov qismi bilan kesishgan joylarda, odatda imtiyoz avtomobilda bo‘ladi, shuning uchun velosiped va moped haydovchilari yo‘l berishlari kerak. Biroq haydovchi hushyor bo‘lishi va har qanday vaqtda to‘xtashga tayyor bo‘lishi kerak.Bundan tashqari, velosiped yo‘lkasi yo‘lning qatnov qismi bilan kesishgan joylar svetofor orqali tartibga solinishi mumkin. Bunday vaziyatda haydovchilar, svetofor ishoralariga asosan harakatlanadilar.</p><p>Haydovchi, velosiped yo‘lkasi yo‘lning qatnov qismi bilan kesishgan joyga yaqinlashayotganligi to‘g‘risida <strong>«Velosiped yo‘lkasi bilan kesishuv» </strong>belgisi bilan ogohlantiriladi, yo‘lkaning o‘zi esa, <strong>4.5 «Velosiped yo‘lkasi» </strong>yoki velosiped yo‘lkasini yoki velosiped harakatlanishi uchun mo‘ljallangan tasmani bildiruvchi <strong>1.26</strong> yo‘l chizig‘i bilan belgilanadi. Velosiped yo‘lkasi yo‘lning qatnov qismi bilan kesishgan joyga yo‘lning velosiped yo‘lkasi kesib o‘tgan joyini bildiruvchi 1.15 yo‘l chizig‘i chiziladi. <strong>1.22 «Velosiped yo‘lkasi bilan kesishuv»</strong> belgisi ko‘pchilik ogohlantiruchi belgilar kabi, aholi punktlaridan tashqarida <strong>150 – 300</strong> metr, ahli punktlarida <strong>50 – 100</strong> metr oldin o‘rnatiladi. Agar belgini boshqa masofada o‘rnatish zaruriyati bo‘lsa &nbsp;<strong>7.1.1 «Obyektgacha bo‘lgan masofa»</strong> qo‘shimcha axborot belgisi bilan birga qo‘llanilishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>1.22.&nbsp;</strong>&nbsp; <strong>\"Пересечение&nbsp;&nbsp; с&nbsp;&nbsp;&nbsp; велосипедной&nbsp;дорожкой\"</strong></li></ul><p>Знак&nbsp;<strong>1.22 «Пересечение с велосипедной дорожкой»</strong> представляет собой треугольник с красной каймой, в центре которого на белом фоне изображен велосипед черного цвета.</p><p>Знак <strong>«Пересечение с велосипедной дорожкой»</strong> устанавливается перед местами пересечения велосипедной дорожки с проезжей частью и предупреждает участников дорожного движения о внезапном появлении велосипедиста на проезжей части. От водителя автотранспортного средства, увидевшего дорожный знак <strong>1.22</strong>, каких-либо специальных действий не требуется. Всё, что он должен сделать, это сбросить скорость на тот случай, если потребуется остановиться.</p><p>В месте пересечения велосипедной дорожки с проезжей частью преимущество обычно предоставляется автомобилю, следовательно, дорогу обязан уступить водитель велосипеда или мопеда. Тем не менее, водитель обязан сохранять бдительность и быть готовым в любую минуту остановиться.</p><p>Кроме того, места пересечения велосипедной дорожки с проезжей частью могут регулироваться светофорами. В такой ситуации водители движутся по сигналам светофора.</p><p>Если велосипедная дорожка пересекается с проезжей частью, водителей об этом предупреждает дорожный знак <strong>«Пересечение с велосипедной дорожкой»</strong>. Сама же дорожка обозначается знаком <strong>4.5&nbsp;&nbsp; «Велосипедная дорожка»</strong> или же разметкой <strong>1.26</strong>&nbsp;обозначающий велосипедную дорожку или велосипедную часть дорожки. На пересечении велосипедной дорожки с проезжей частью проводят дорожную разметку <strong>1.15</strong>, обозначающую место пересечения дороги с велосипедной дорожкой.</p><p>Знак <strong>1.22 «Пересечение с велосипедной дорожкой»,</strong> как и большинство предупреждающих знаков, устанавливается на расстоянии в 150 – 300 метров от пересечения вне населенного пункта и на расстоянии 50 – 100 метров в населенном пункте. В случае, если знак по необходимости устанавливается на ином расстоянии, он дополняется со знаком дополнительной информации <strong>7.1.1 «Расстояние до объекта»</strong>.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>1.22. \"Велосипед йўлкаси билан кесишув\"</strong></li></ul><p><strong>1.22 «Велосипед йўлкаси билан кесишув»</strong> белгиси қизил ҳошияли учбурчак шаклида бўлиб, унинг марказида, оқ фонда қора рангли велосипед тасвирланган.</p><p><strong>«Велосипед йўлкаси билан кесишув»</strong> белгиси велосипед йўлкаси йўлнинг қатнов қисмини кесиб ўтадиган жойлар олдидан ўрнатилади ва йўл ҳаракати қатнашчиларини қатнов қисмида кутилмаганда велосипедчи пайдо бўлиб қолишидан огоҳлантиради.&nbsp;</p><p><strong>1.22</strong> йўл белгисини кўрган ҳайдовчидан қандайдир аниқ бир ҳаракат талаб қилинмайди. Ҳайдовчи, фақат зарурат пайдо бўлганида тезликни камайтириши ва тўхташи шарт. Велосипед йўлкаси йўлнинг қатнов қисми билан кесишган жойларда, одатда имтиёз автомобилда бўлади, шунинг учун велосипед ва мопед ҳайдовчилари йўл беришлари керак. Бироқ ҳайдовчи ҳушёр бўлиши ва ҳар қандай вақтда тўхташга тайёр бўлиши керак.Бундан ташқари, велосипед йўлкаси йўлнинг қатнов қисми билан кесишган жойлар светофор орқали тартибга солиниши мумкин. Бундай вазиятда ҳайдовчилар, светофор ишораларига асосан ҳаракатланадилар.</p><p>Ҳайдовчи, велосипед йўлкаси йўлнинг қатнов қисми билан кесишган жойга яқинлашаётганлиги тўғрисида <strong>«Велосипед йўлкаси билан кесишув»</strong> белгиси билан огоҳлантирилади, йўлканинг ўзи эса, <strong>4.5 «Велосипед йўлкаси»</strong> ёки велосипед йўлкасини ёки велосипед ҳаракатланиши учун мўлжалланган тасмани билдирувчи <strong>1.26</strong> йўл чизиғи билан белгиланади. Велосипед йўлкаси йўлнинг қатнов қисми билан кесишган жойга йўлнинг велосипед йўлкаси кесиб ўтган жойини билдирувчи <strong>1.15</strong> йўл чизиғи чизилади. <strong>1.22 «Велосипед йўлкаси билан кесишув» </strong>белгиси кўпчилик огоҳлантиручи белгилар каби, аҳоли пунктларидан ташқарида 150 – 300 метр, аҳли пунктларида 50 – 100 метр олдин ўрнатилади. Агар белгини бошқа масофада ўрнатиш зарурияти бўлса &nbsp;<strong>7.1.1 «Объектгача бўлган масофа» </strong>қўшимча ахборот белгиси билан бирга қўлланилиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 32
+            },
+            {
+                "id": 34,
+                "name": {
+                    "uz": "1.23. Ta’mirlash ishlari",
+                    "ru": "1.23. Ремонт",
+                    "kiril": "1.23. Таъмирлаш ишлари",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.23",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-22_14-30-05_VJMT4J2QW2.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>1.23 «Ta’mirlash ishlari»</strong></li></ul><p>belgisi ogohlantiruvchi belgilari uchun an’anaviy bo‘lgan uchburchak shaklga ega. Qizil hoshiyali belgining oq fonida ta’mirlash ishlarini bajarayotgan odamning tasviri tushirilgan.</p><p>Haydovchilar <strong>1.23 «Ta’mirlash ishlari»</strong> yo‘l belgisi orqali yo‘lning qatnov qismida olib borilayotgan ta’mirlash ishlari to‘g‘risida ogohlantiriladi.</p><p>Ta’mirlash ishlari turli xil, asfalt yotqizish, chuqurlarni ta’mirlash va yo‘l chiziqlarini yangilashdan tortib, daraxtlarni kesish va svetofordagi chiroqlarni almashtirishgacha bo‘lishi mumkin. Bu shuni anglatadiki, yo‘lda ishchilar va maxsus texnikalar bo‘lishi mumkin, yo‘lning bir qismida yo‘l qoplamasi yoki yo‘l chetidagi ariq olib tashlanishi mumkin. Va yo‘l hududida qanday ish olib borilishidan qat’i nazar, haydovchidan ko‘proq e’tibor talab qiladi.</p><p>Haydovchilar yodda tutishlari kerakki, yo‘l xizmati xodimlari ta’mirlash ishlari paytida tartibga soluvchining vakolatlarini oladilar va istalgan vaqtda transport oqimini to‘xtatishi yoki yo‘naltirishi, shuningdek, ularga to‘siqlarni chetlab o‘tish yo‘nalishini ko‘rsatishi mumkin. Shuning uchun, yo‘l xizmati xodimlari kiyimida jezl ushlab turgan odamni ko‘rib hayron bo‘lmaslik kerak.</p><p><strong>1.23</strong> yo‘l belgisini ko‘rgan haydovchilar tezlikni kamaytirishlari va boshqa yo‘l belgilari va yo‘l chiziqlariga e’tibor qaratgan holda yo‘l sharoitlariga muvofiq harakat qilishlari kerak.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>1.23.&nbsp;\"Дорожные&nbsp;работы\"</strong></li></ul><p>Знак <strong>1.23 «Дорожные работы»</strong> имеет традиционную для предупреждающих знаков треугольную форму. На белом фоне знака с красной окантовкой имеется схематическое изображение человека, выполняющего ремонтные работы.</p><p>О проведении на проезжей части каких – либо работ водителей предупреждает дорожный знак <strong>1.23 «Дорожные работы»</strong>. Работы могут быть самыми разными, от укладки асфальта, ямочного ремонта и нанесения дорожной разметки до обрезки деревьев и замены лампочек в светофорах. А это означает, что на проезжей части могут находиться рабочие и спецтехника, на участке дороги может быть снято дорожное полотно или выта канава. И какой бы вид работ не производился в зоне проезжей части, это требует от водителя повышенного внимания.</p><p>Водители должны помнить, что дорожные рабочие во время проведения работ получают права регулировщиков и в любой момент могут останавливать или перенаправлять транспортные потоки, а также указывать им путь для объезда препятствия. Поэтому не стоит удивляться, увидев человека с жезлом, одетым при этом в форму дорожного рабочего. Увидев дорожный знак <strong>1.23</strong> водители обязаны снизить скорость и действовать в соответствии с дорожными условиями, ориентируясь на другие дорожные знаки и дорожную разметку.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>1.23. \"Таъмирлаш ишлари\"</strong></li></ul><p>белгиси огоҳлантирувчи белгилари учун анъанавий бўлган учбурчак шаклга эга. Қизил ҳошияли белгининг оқ фонида таъмирлаш ишларини бажараётган одамнинг тасвири туширилган.</p><p>Ҳайдовчилар <strong>1.23 «Таъмирлаш ишлари»</strong> йўл белгиси орқали йўлнинг қатнов қисмида олиб борилаётган таъмирлаш ишлари тўғрисида огоҳлантирилади.</p><p>Таъмирлаш ишлари турли хил, асфальт ётқизиш, чуқурларни таъмирлаш ва йўл чизиқларини янгилашдан тортиб, дарахтларни кесиш ва светофордаги чироқларни алмаштиришгача бўлиши мумкин. Бу шуни англатадики, йўлда ишчилар ва махсус техникалар бўлиши мумкин, йўлнинг бир қисмида йўл қопламаси ёки йўл четидаги ариқ олиб ташланиши мумкин. Ва йўл ҳудудида қандай иш олиб борилишидан қатъи назар, ҳайдовчидан кўпроқ эътибор талаб қилади.</p><p>Ҳайдовчилар ёдда тутишлари керакки, йўл хизмати ходимлари таъмирлаш ишлари пайтида тартибга солувчининг ваколатларини оладилар ва исталган вақтда транспорт оқимини тўхтатиши ёки йўналтириши, шунингдек, уларга тўсиқларни четлаб ўтиш йўналишини кўрсатиши мумкин. Шунинг учун, йўл хизмати ходимлари кийимида жезл ушлаб турган одамни кўриб ҳайрон бўлмаслик керак.</p><p><strong>1.23</strong> йўл белгисини кўрган ҳайдовчилар тезликни камайтиришлари ва бошқа йўл белгилари ва йўл чизиқларига эътибор қаратган ҳолда йўл шароитларига мувофиқ ҳаракат қилишлари керак.</p>"
+                        }
+                    ]
+                },
+                "order": 33
+            },
+            {
+                "id": 35,
+                "name": {
+                    "uz": "1.24. Mol haydab o’tish",
+                    "ru": "1.24. Вождение",
+                    "kiril": "1.24. Мол ҳайдаб ўтиш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.24",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-37-10_YS33QB1TYX.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.24. «Mol haydab o‘tish».\r\nBu ogohlantiruvchi belgi aholi punktlarida xavfli joydan 50 — 100 metr, aholi punktlaridan tashqarida esa 150 — 300 metr oldin o‘rnatiladi. Zaruriyat bo‘lganda, 7.1.1 qo‘shimcha axborot belgisida ko‘rsatilgan boshqa masofada ham o‘rnatilishi mumkin."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.24. «Вывод скота»  \r\nЭтот предупреждающий знак устанавливается:  \r\nв населённых пунктах — за 50–100 метров до опасного участка,  \r\nвне населённых пунктов — за 150–300 метров.  \r\n\r\nПри необходимости может быть установлен на другом расстоянии, указанном на дополнительной табличке 7.1.1.  \r\nЗнак предупреждает водителя о возможном появлении на дороге сельскохозяйственных животных и требует повышенной осторожности при движении."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.24. «Мол ҳайдаб ўтиш».\r\nБу огоҳлантирувчи белги аҳоли пунктларида хавфли жойдан 50 — 100 метр, аҳоли пунктларидан ташқарида еса 150 — 300 метр олдин ўрнатилади. Зарурият бўлганда, 7.1.1 қўшимча ахборот белгисида кўрсатилган бошқа масофада ҳам ўрнатилиши мумкин."
+                        }
+                    ]
+                },
+                "order": 34
+            },
+            {
+                "id": 36,
+                "name": {
+                    "uz": "1.25. Yovvoyi hayvonlar",
+                    "ru": "1.25. Дикие животные",
+                    "kiril": "1.25. Ёввойи ҳайвонлар",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.25",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-37-34_J2WYGJAFAW.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.25.1. \"Yovvoyi hayvonlar\"\r\nBu belgi o‘rmon xo‘jaligi, qo‘riqxona va yovvoyi hayvonlar bo‘lishi mumkin bo‘lgan yo‘l qismlari oldida o‘rnatiladi. Ushbu belgi haydovchini yo‘lga yovvoyi hayvonlar chiqib qolishi ehtimoli borligidan ogohlantiradi. Belgi aholi yashaydigan joylarda 50 - 100 metr, aholi punktlaridan tashqarida esa, 150 - 300 metr masofada o‘rnatiladi."
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-22_18-07-07_44MND32NTJ.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "1.25.2. \"Pastlab uchuvchi qushlar\"\r\nBu belgi aholi punktlarida xavfli joydan 50 — 100 metr, aholi punktlaridan tashqarida esa 150 — 300 metr oldin o‘rnatiladi va haydovchini pastlab uchuvchi qushlar bo‘lishi mumkin bo‘lgan hudud haqida ogohlantiradi. Zaruriyat bo‘lganda, bu belgi 7.1.1 qo‘shimcha axborot belgisida ko‘rsatilgan boshqa masofada ham o‘rnatilishi mumkin."
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-22_18-07-07_S7RSRRXR6N.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "1.25.3 «Kemiruvchi va sudralib yuruvchi hayvonlar»  \r\nbelgisi uchburchak shaklga ega. Qizil hoshiyali belgining oq fonida tipratikan surati tasvirlangan. Mazkur belgi haydovchilarni yo‘lda turli kemiruvchilar va sudralib yuruvchi hayvonlar chiqib qolish ehtimoli borligidan ogohlantiradi va alohida e’tibor bilan harakatlanishni tavsiya qiladi. «Kemiruvchi va sudralib yuruvchi hayvonlar» belgisi turli hayvonot olamini asrash va haydovchini mavjud xavf haqida ogohlantirish uchun ko‘proq o‘mon va to‘qaylar yaqinida, tog‘ va tog‘ oldi hududlarida va boshqa shu turdagi hayvonlar yo‘lga chiqib qolishi ehtimoli bor bo‘lgan joylar oldida o‘rnatilishi mumkin.\r\n\r\nBelgi ta’sir oralig‘ida haydovchi tezlikni kamaytirishi va diqqat e’tiborni oshirishi zarur. Inson psixalogiyasi shundayki, haydovchi oldidan qandaydir kutilmagan to‘siq birdaniga paydo bo‘lib qolsa, undan qochishga harakat qiladi. Shunday vaziyatda haydovchi qarama – qarshi yo‘nalishga yoki yo‘l chetiga chiqib ketishi mumkin.  1.25.3 yo‘l belgisi haydovchidan aynan shunday kutilmagan holatlarga tayyor bo‘lib borishni talab qiladi.  \r\n\r\n1.25.3 belgisi, ko‘pgina ogohlantiruvchi belgilar kabi, aholi punktlarida 50 – 100 metr masofada va aholi punktlaridan tashqarida yo‘lning xavfli qismigacha 150 – 300 metr masofada o‘rnatiladi.  Agar belgi boshqa masofada o‘rnatilishi kerak bo‘lsa, u  7.1.1 «Obyektgacha bo‘lgan masofa»  belgisi bilan birga o‘rnatiladi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.25.1. «Дикие животные»  \r\nЭтот знак устанавливается перед участками дорог, проходящих через лесные хозяйства, заповедники или другие места, где возможно появление диких животных на проезжей части.  \r\n\r\nОн предупреждает водителя о риске внезапного выхода диких животных на дорогу.  \r\nЗнак размещается:  \r\nв населённых пунктах — за 50–100 метров,  \r\nвне населённых пунктов — за 150–300 метров до опасного участка."
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-22_18-07-07_47SCE639MN.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "1.25.2. «Низколетающие птицы»  \r\nЭтот знак устанавливается перед участками дорог, где возможно появление низколетающих птиц:  \r\nв населённых пунктах — за 50–100 метров,  \r\nвне населённых пунктов — за 150–300 метров до опасного участка.  \r\n\r\nЗнак предупреждает водителя о потенциальной опасности, связанной с полётом птиц вблизи дороги. При необходимости знак может быть установлен на ином расстоянии, указанном на дополнительной табличке 7.1.1."
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-22_18-07-07_X74P6Z7RJQ.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "1.25.3. «Грызуны и пресмыкающиеся»  \r\nЗнак имеет форму треугольника с изображением ежа на белом фоне с красной окантовкой. Он предупреждает водителей о возможном появлении на проезжей части различных грызунов и пресмыкающихся животных и рекомендует двигаться с повышенным вниманием.\r\n\r\nЭтот знак чаще всего устанавливается вблизи лесов, рощ, предгорных и горных районов, а также в других местах, где существует вероятность появления таких животных на дороге.\r\n\r\nВ зоне действия знака водитель должен снизить скорость и быть особенно внимателен. Психологически водитель может попытаться резко избежать столкновения с внезапно появившимся животным, что может привести к выезду на встречную полосу или обочину. Знак 1.25.3 призван предупредить и подготовить водителя к таким неожиданным ситуациям.\r\n\r\nКак и большинство предупреждающих знаков, он устанавливается:  \r\n— в населённых пунктах — за 50–100 метров,  \r\n— вне населённых пунктов — за 150–300 метров до опасного участка.  \r\n\r\nЕсли знак должен быть установлен на другом расстоянии, он сопровождается табличкой 7.1.1 «Расстояние до объекта»."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.25.1. \"Ёввойи ҳайвонлар\"\r\nБу белги ўрмон хўжалиги, қўриқхона ва ёввойи ҳайвонлар бўлиши мумкин бўлган йўл қисмлари олдида ўрнатилади. Ушбу белги ҳайдовчини йўлга ёввойи ҳайвонлар чиқиб қолиши еҳтимоли борлигидан огоҳлантиради. Белги аҳоли яшайдиган жойларда 50 - 100 метр, аҳоли пунктларидан ташқарида еса, 150 - 300 метр масофада ўрнатилади."
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-22_18-07-07_P9WB4BMJ12.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "1.25.2. \"Пастлаб учувчи қушлар\"\r\nБу белги аҳоли пунктларида хавфли жойдан 50 — 100 метр, аҳоли пунктларидан ташқарида еса 150 — 300 метр олдин ўрнатилади ва ҳайдовчини пастлаб учувчи қушлар бўлиши мумкин бўлган ҳудуд ҳақида огоҳлантиради. Зарурият бўлганда, бу белги 7.1.1 қўшимча ахборот белгисида кўрсатилган бошқа масофада ҳам ўрнатилиши мумкин."
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-22_18-07-07_HD5BR8GCDF.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "1.25.3 «Кемирувчи ва судралиб юрувчи ҳайвонлар» \r\nбелгиси учбурчак шаклга ега. Қизил ҳошияли белгининг оқ фонида типратикан сурати тасвирланган. Мазкур белги ҳайдовчиларни йўлда турли кемирувчилар ва судралиб юрувчи ҳайвонлар чиқиб қолиш еҳтимоли борлигидан огоҳлантиради ва алоҳида еътибор билан ҳаракатланишни тавсия қилади. «Кемирувчи ва судралиб юрувчи ҳайвонлар» белгиси турли ҳайвонот оламини асраш ва ҳайдовчини мавжуд хавф ҳақида огоҳлантириш учун кўпроқ ўмон ва тўқайлар яқинида, тоғ ва тоғ олди ҳудудларида ва бошқа шу турдаги ҳайвонлар йўлга чиқиб қолиши еҳтимоли бор бўлган жойлар олдида ўрнатилиши мумкин.\r\n\r\nБелги таъсир оралиғида ҳайдовчи тезликни камайтириши ва диққат еътиборни ошириши зарур. Инсон психалогияси шундайки, ҳайдовчи олдидан қандайдир кутилмаган тўсиқ бирданига пайдо бўлиб қолса, ундан қочишга ҳаракат қилади. Шундай вазиятда ҳайдовчи қарама – қарши йўналишга ёки йўл четига чиқиб кетиши мумкин. 1.25.3 йўл белгиси ҳайдовчидан айнан шундай кутилмаган ҳолатларга тайёр бўлиб боришни талаб қилади. \r\n\r\n1.25.3 белгиси, кўпгина огоҳлантирувчи белгилар каби, аҳоли пунктларида 50 – 100 метр масофада ва аҳоли пунктларидан ташқарида йўлнинг хавфли қисмигача 150 – 300 метр масофада ўрнатилади. Aгар белги бошқа масофада ўрнатилиши керак бўлса, у 7.1.1 «Обйектгача бўлган масофа» белгиси билан бирга ўрнатилади."
+                        }
+                    ]
+                },
+                "order": 35
+            },
+            {
+                "id": 37,
+                "name": {
+                    "uz": "1.26. Toshlar tushishi",
+                    "ru": "1.26. Падающие камни",
+                    "kiril": "1.26. Тошлар тушиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.26",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-38-03_R7Y6QRREAJ.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.26 «Toshlar tushishi»\r\nyo‘l belgisi haydovchini yo‘lning yo‘l qismiga tosh tushishi, ko‘chkilar, qor ko‘chkilari va hatto sel tushishi mumkin bo‘lgan yo‘l qismiga yaqinlashayotgani haqida ogohlantiradi.\r\n\r\nHaydovchi «Toshlar tushishi» belgisini ko‘rib, yo‘ldagi yuqoridan tushgan kutilmagan to‘siqqa yoki aksincha, har qanday vaqtda yuqoridan nimadir qulashi mumkinligiga tayyor bo‘lishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.26. «Падение камней»  \r\nЭтот дорожный знак предупреждает водителя о приближении к участку дороги, где возможны обвалы, оползни, снежные лавины или селевые потоки.  \r\n\r\nУвидев знак «Падение камней», водитель должен быть готов к внезапному появлению препятствий на проезжей части, а также учитывать риск падения объектов сверху в любой момент.  \r\nНа таких участках необходимо снизить скорость, быть внимательным и, при необходимости, быть готовым быстро остановиться."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.26 «Тошлар тушиши»\r\nйўл белгиси ҳайдовчини йўлнинг йўл қисмига тош тушиши, кўчкилар, қор кўчкилари ва ҳатто сел тушиши мумкин бўлган йўл қисмига яқинлашаётгани ҳақида огоҳлантиради.\r\n\r\nҲайдовчи «Тошлар тушиши» белгисини кўриб, йўлдаги юқоридан тушган кутилмаган тўсиққа ёки аксинча, ҳар қандай вақтда юқоридан нимадир қулаши мумкинлигига тайёр бўлиши керак."
+                        }
+                    ]
+                },
+                "order": 36
+            },
+            {
+                "id": 38,
+                "name": {
+                    "uz": "1.27. Yonlama shamol",
+                    "ru": "1.27. Направленный ветер",
+                    "kiril": "1.27. Ёнлама шамол",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.27",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-38-21_45MEVZ25T3.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.27. «Yonlama shamol».\r\nBu ogohlantiruvchi belgi aholi punktlarida xavfli joydan 50 — 100 metr, aholi punktlaridan tashqarida esa 150 — 300 metr oldin o‘rnatiladi. Zaruriyat bo‘lganda, bu belgi 7.1.1 qo‘shimcha axborot belgisida ko‘rsatilgan boshqa masofada ham o‘rnatilishi mumkin."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.27. «Боковой ветер»  \r\nЭтот предупреждающий знак устанавливается:  \r\n— в населённых пунктах — за 50–100 метров до опасного участка,  \r\n— вне населённых пунктов — за 150–300 метров.  \r\n\r\nПри необходимости знак может быть установлен на другом расстоянии, указанном на дополнительной табличке 7.1.1.  \r\n\r\nЗнак предупреждает водителя о возможных сильных порывах бокового ветра, которые могут повлиять на устойчивость транспортного средства, особенно лёгких автомобилей, мотоциклов и грузов с большой парусностью."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.27. «Ёнлама шамол».\r\nБу огоҳлантирувчи белги аҳоли пунктларида хавфли жойдан 50 — 100 метр, аҳоли пунктларидан ташқарида еса 150 — 300 метр олдин ўрнатилади. Зарурият бўлганда, бу белги 7.1.1 қўшимча ахборот белгисида кўрсатилган бошқа масофада ҳам ўрнатилиши мумкин."
+                        }
+                    ]
+                },
+                "order": 37
+            },
+            {
+                "id": 39,
+                "name": {
+                    "uz": "1.28. Pastlab uchuvchi samolyotlar",
+                    "ru": "1.28. Замедление самолетов",
+                    "kiril": "1.28. Пастлаб учувчи самолётлар",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.28",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-38-51_C672ZTMCMX.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.28. \"Pastlab uchuvchi samolyotlar\"\r\nUshbu yo‘l belgisi aeroportlar yaqinidan o‘tuvchi yo‘llarning samolyotlar pastlab uchuvchi yo‘l qismlari oldidan, aholi  punktlarida 50 -100 metr, aholi punktlaridan tashqarida esa, 150 -300 metr masofada o‘rnatiladi va haydovchilarni qisqa muddatli shovqinlar bo‘lib turishi haqida ogohlantiradi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.28. «Низколетающие самолёты»  \r\nЭтот дорожный знак устанавливается перед участками дорог, проходящих вблизи аэропортов, где возможен пролёт самолётов на малой высоте.  \r\n\r\nЗнак размещается:  \r\n— в населённых пунктах — за 50–100 метров,  \r\n— вне населённых пунктов — за 150–300 метров до опасного участка.  \r\n\r\nОн предупреждает водителей о возможных внезапных и громких шумах от пролетающих самолётов, которые могут отвлечь или испугать водителя."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.28. \"Пастлаб учувчи самолётлар\"\r\nУшбу йўл белгиси аеропортлар яқинидан ўтувчи йўлларнинг самолётлар пастлаб учувчи йўл қисмлари олдидан, аҳоли пунктларида 50 -100 метр, аҳоли пунктларидан ташқарида еса, 150 -300 метр масофада ўрнатилади ва ҳайдовчиларни қисқа муддатли шовқинлар бўлиб туриши ҳақида огоҳлантиради."
+                        }
+                    ]
+                },
+                "order": 38
+            },
+            {
+                "id": 40,
+                "name": {
+                    "uz": "1.29. Tonnel",
+                    "ru": "1.29. Тоннель",
+                    "kiril": "1.29. Тоннел",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.29",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-39-23_WKSHDKERYT.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.29 «Tunnel» belgisi ogohlantiruvchi belgilarning odatiy ko‘rinishi kabi qizil hoshiyali oq uchburchak shakliga ega bo‘lib, uning markazida tunnelning sxematik tasviri joylashgan.\r\n\r\n«Tunnel» belgisi kirish peshtog‘ining (tunel boshlanishi) ko‘rinishi cheklangan, tabiiy yoritish imkonsiz bo‘lgan, sun’iy yoritilgan yoki yoritilmagan, uzoq cho‘zilgan tunnellarga yaqinlashayotganlik haqida ogohlantirish uchun o‘rnatiladi.\r\n\r\nAgar tunnelga kirishda uning qarama – qarshi tomoni ko‘rinmasa, 1.29 belgisi bilan 7.2.1 «Ta’sir oralig‘i» belgisi qo‘llanilishi mumkin.  \r\n\r\n«Tunnel» yo‘l belgisini ko‘rgan haydovchi tezlikni kamaytirishi va tunnellarda harakatlanish bilan bog‘liq yo‘l harakati qoidalariga amal qilishi shart.\r\nAgar ushbu belgini boshqa masofaga o‘rnatish zarurati tug‘ilsa, u belgilangan tartibda tunnelgacha bo‘lgan aniq masofani ko‘rsatadigan 7.1.1 «Obyektgacha bo‘lgan masofa» belgisi bilan o‘rnatiladi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.29. «Тоннель»  \r\nЭтот предупреждающий знак имеет форму стандартного треугольника с красной окантовкой и изображением тоннеля в центре на белом фоне.\r\n\r\nЗнак устанавливается перед длинными тоннелями, в которых ограничена видимость въезда, отсутствует естественное освещение, и которые могут быть с искусственным освещением или без него. Он предупреждает водителя о приближении к тоннелю.\r\n\r\nЕсли при въезде в тоннель не виден его противоположный конец, знак 1.29 может дополняться табличкой 7.2.1 «Зона действия».  \r\nПри необходимости установки на другом расстоянии, используется табличка 7.1.1 «Расстояние до объекта».\r\n\r\nУвидев знак «Тоннель», водитель обязан снизить скорость и строго соблюдать правила дорожного движения, касающиеся движения в тоннелях."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.29 «Туннел» белгиси огоҳлантирувчи белгиларнинг одатий кўриниши каби қизил ҳошияли оқ учбурчак шаклига ега бўлиб, унинг марказида туннелнинг схематик тасвири жойлашган.\r\n\r\n«Туннел» белгиси кириш пештоғининг (тунел бошланиши) кўриниши чекланган, табиий ёритиш имконсиз бўлган, сунъий ёритилган ёки ёритилмаган, узоқ чўзилган туннелларга яқинлашаётганлик ҳақида огоҳлантириш учун ўрнатилади.\r\n\r\nAгар туннелга киришда унинг қарама – қарши томони кўринмаса, 1.29 белгиси билан 7.2.1 «Таъсир оралиғи» белгиси қўлланилиши мумкин. \r\n\r\n«Туннел» йўл белгисини кўрган ҳайдовчи тезликни камайтириши ва туннелларда ҳаракатланиш билан боғлиқ йўл ҳаракати қоидаларига амал қилиши шарт.\r\nAгар ушбу белгини бошқа масофага ўрнатиш зарурати туғилса, у белгиланган тартибда туннелгача бўлган аниқ масофани кўрсатадиган 7.1.1 «Обйектгача бўлган масофа» белгиси билан ўрнатилади."
+                        }
+                    ]
+                },
+                "order": 39
+            },
+            {
+                "id": 41,
+                "name": {
+                    "uz": "1.30. Boshqa xavf-xatar",
+                    "ru": "1.30. Прочие риски",
+                    "kiril": "1.30. Бошқа хавф-хатар",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.30",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-39-42_SPFHV9FTN6.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.30. \"Boshqa xavf-xatarlar\"\r\nbelgisi ogohlantiruvchi belgilar uchun odatiy bo‘lgan rang va shaklga ega: qora rangli undov belgisi tasvirlangan qizil hoshiyali oq uchburchak. 1.30 «Boshqa xavf-xatarlar» yo‘l belgisi yo‘l harakati qatnashchilarini boshqa ogohlantiruvchi yo‘l belgilarida nazarda tutilmagan xavfli yo‘l qismiga yaqinlashayotganlik haqida ogohlantiradi. Belgi borasida, haydovchiga aniq tavsiyalar mavjud emas, chunki bu vaziyatda hamma narsa o‘ziga xos yo‘l holatiga bog‘liq. Shu bilan birga, tezlikni kamaytirish, diqqatni, hushyorlikni oshirish va turli xil kutilmagan hodisalarga tayyor bo‘lish tavsiya yetiladi.\r\n\r\nBo‘lishi mumkin bo‘lgan xavf haqida ogohlantiruvchi ushbu belgi ta’sir oralig‘ida haydovchidan hech qanday aniq harakatlar qilish talab etilmaydi, u iloji boricha yehtiyot bo‘lishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.30. «Прочие опасности»  \r\nЭтот предупреждающий знак имеет стандартную форму и цветовую гамму: белый треугольник с красной окантовкой, в центре которого изображён чёрный восклицательный знак.  \r\n\r\nЗнак 1.30 предупреждает участников дорожного движения о приближении к опасному участку дороги, который не охватывается другими предупреждающими знаками.  \r\n\r\nКонкретных рекомендаций по действиям для водителя не предусмотрено, так как ситуация зависит от конкретных дорожных условий. Однако рекомендуется снизить скорость, повысить внимание и быть готовым к неожиданностям.  \r\n\r\nНа участке действия этого знака не требуется выполнение каких-либо определённых манёвров — достаточно соблюдать максимальную осторожность."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.30. \"Бошқа хавф-хатарлар\"\r\nбелгиси огоҳлантирувчи белгилар учун одатий бўлган ранг ва шаклга ега: қора рангли ундов белгиси тасвирланган қизил ҳошияли оқ учбурчак. 1.30 «Бошқа хавф-хатарлар» йўл белгиси йўл ҳаракати қатнашчиларини бошқа огоҳлантирувчи йўл белгиларида назарда тутилмаган хавфли йўл қисмига яқинлашаётганлик ҳақида огоҳлантиради. Белги борасида, ҳайдовчига аниқ тавсиялар мавжуд емас, чунки бу вазиятда ҳамма нарса ўзига хос йўл ҳолатига боғлиқ. Шу билан бирга, тезликни камайтириш, диққатни, ҳушёрликни ошириш ва турли хил кутилмаган ҳодисаларга тайёр бўлиш тавсия йетилади.\r\n\r\nБўлиши мумкин бўлган хавф ҳақида огоҳлантирувчи ушбу белги таъсир оралиғида ҳайдовчидан ҳеч қандай аниқ ҳаракатлар қилиш талаб етилмайди, у иложи борича йеҳтиёт бўлиши керак."
+                        }
+                    ]
+                },
+                "order": 40
+            },
+            {
+                "id": 42,
+                "name": {
+                    "uz": "1.31. Sun'iy yo'l notekisliklari",
+                    "ru": "1.31. Искусственная неровность дороги",
+                    "kiril": "1.31. Сунъий йўл нотекисликлари",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "1.31",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-40-01_GRMFKHU47J.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.31 «Sun’iy yo‘l notekisligi»  \r\nbelgisi qizil hoshiyali oq uchburchak shaklda bo‘lib, uning pastki qismida sun’iy yo‘l notekisligi ko‘ndalang kesimi tasvirlangan. 1.31 «Sun’iy yo‘l notekisligi» belgisi tezlikni ataylab kamaytirish uchun yo‘lda sun’iy notekislik o‘rnatilganligi haqida ogohlantiradi. Shunday vaziyatlar bo‘ladiki, haydovchining tezligini qanday bo‘lmasin kamatirish kerak bo‘ladi. Bu odatda bolalar o‘yin maydonchalari, ta’lim muassasalari, hovli maydonlari yoki piyodalar o‘tish joylari yaqinidagi yo‘llarda talab qilinadi. Buning uchun yo‘llarda sun’iy yo‘l notekisligi – qavariq joy o‘rnatiladi, agar siz undan yuqori tezlikda harakatlanib o‘tmoqchi bo‘lsangiz, mashinaga (va haydovchiga ham) jiddiy zarar yetkazishi mumkin. Agar  1.31 «Sun’iy yo‘l notekisligi» belgisini boshqa masofaga o‘rnatish zarurati bo‘lsa, u notekis joygacha bo‘lgan masofani aniq ko‘rsatgan holda  7.1.1 «Obyektgacha bo‘lgan masofa» belgisi bilan o‘rnatilishi mumkin."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.31. «Искусственная неровность»  \r\nЗнак представляет собой белый треугольник с красной каймой, в нижней части которого изображён поперечный профиль искусственной неровности.  \r\n\r\nЗнак 1.31 предупреждает водителя о наличии на дороге искусственной неровности, предназначенной для принудительного снижения скорости. Такие неровности обычно устанавливаются вблизи детских игровых площадок, образовательных учреждений, дворовых территорий или пешеходных переходов, где особенно важно снижение скорости.  \r\n\r\nЕсли водитель попытается проехать такой участок на высокой скорости, это может повредить автомобиль и создать опасность для самого водителя.  \r\n\r\nПри необходимости знак может быть установлен на другом расстоянии и сопровождаться табличкой 7.1.1 «Расстояние до объекта», указывающей точное расстояние до неровности."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.31 «Сунъий йўл нотекислиги» \r\nбелгиси қизил ҳошияли оқ учбурчак шаклда бўлиб, унинг пастки қисмида сунъий йўл нотекислиги кўндаланг кесими тасвирланган. 1.31 «Сунъий йўл нотекислиги» белгиси тезликни атайлаб камайтириш учун йўлда сунъий нотекислик ўрнатилганлиги ҳақида огоҳлантиради. Шундай вазиятлар бўладики, ҳайдовчининг тезлигини қандай бўлмасин каматириш керак бўлади. Бу одатда болалар ўйин майдончалари, таълим муассасалари, ҳовли майдонлари ёки пиёдалар ўтиш жойлари яқинидаги йўлларда талаб қилинади. Бунинг учун йўлларда сунъий йўл нотекислиги – қавариқ жой ўрнатилади, агар сиз ундан юқори тезликда ҳаракатланиб ўтмоқчи бўлсангиз, машинага (ва ҳайдовчига ҳам) жиддий зарар йетказиши мумкин. Aгар 1.31 «Сунъий йўл нотекислиги» белгисини бошқа масофага ўрнатиш зарурати бўлса, у нотекис жойгача бўлган масофани аниқ кўрсатган ҳолда 7.1.1 «Обйектгача бўлган масофа» белгиси билан ўрнатилиши мумкин."
+                        }
+                    ]
+                },
+                "order": 41
+            },
+            {
+                "id": 43,
+                "name": {
+                    "uz": "1.31.1. Burilishning yo’nalishi",
+                    "ru": "1.31.1. Направление вращения",
+                    "kiril": "1.31.1. Бурилишнинг йўналиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.31.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-40-16_NX4MT2FMG9.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.31.1 «Burilishning yo‘nalishi»  \r\nbelgisi gorizontal chiziqga o‘xshaydi yoki o‘ng tomonga bir, ikki yoki to‘rtta oq (yoki qora) strelka tasvirlangan qizil (yoki sariq) rangdagi to‘rtburchak.  1.31.1 «Burilishning yo‘nalishi» belgisi bir nechta strelkalari bo‘lgan keng yoki bittagacha strelkasi bo‘lgan ensiz bo‘lishi mumkin. Kichkina belgilar burilish davomida bir nechtasi takroriy o‘rnatiladi.\r\n\r\nBelgi yo‘l harakati qatnashchilarini o‘ngga juda keskin burilish borligidan yoki yo‘lning ta’mirlanayotgan qismida to‘siqni chetlab o‘tish yo‘nalishi haqida ogohlantiradi. Burilishda ko‘rinish cheklangan bo‘lishi yoki juda kichik radiusga ega bo‘lishi mumkin.\r\n\r\nHaydovchiga tezlikni tezlik cheklangan belgisida (agar mavjud bo‘lsa) ko‘rsatilgan tezlik chegarasigacha kamaytirish va burilish bo‘ylab harakatlanish uchun eng mos trayektoriyani tanlash tavsiya etiladi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.31.1. «Направление поворота»  \r\nЗнак представляет собой прямоугольник красного (или жёлтого) цвета с одной или несколькими белыми (или чёрными) стрелками, указывающими направление поворота вправо. Он может быть как широким с несколькими стрелками, так и узким — с одной стрелкой. Такие знаки часто повторяются вдоль крутого поворота.  \r\n\r\nЗнак предупреждает участников дорожного движения о резком повороте вправо или указывает направление объезда препятствия, например, в зоне дорожных работ.  \r\n\r\nПоворот может иметь ограниченную видимость или малый радиус, поэтому водителю рекомендуется снизить скорость до предельно допустимого значения (указанного на сопутствующем знаке ограничения скорости, если он установлен) и выбрать безопасную траекторию для движения по повороту."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.31.1 «Бурилишнинг йўналиши» \r\nбелгиси горизонтал чизиқга ўхшайди ёки ўнг томонга бир, икки ёки тўртта оқ (ёки қора) стрелка тасвирланган қизил (ёки сариқ) рангдаги тўртбурчак. 1.31.1 «Бурилишнинг йўналиши» белгиси бир нечта стрелкалари бўлган кенг ёки биттагача стрелкаси бўлган енсиз бўлиши мумкин. Кичкина белгилар бурилиш давомида бир нечтаси такрорий ўрнатилади.\r\n\r\nБелги йўл ҳаракати қатнашчиларини ўнгга жуда кескин бурилиш борлигидан ёки йўлнинг таъмирланаётган қисмида тўсиқни четлаб ўтиш йўналиши ҳақида огоҳлантиради. Бурилишда кўриниш чекланган бўлиши ёки жуда кичик радиусга ега бўлиши мумкин.\r\n\r\nҲайдовчига тезликни тезлик чекланган белгисида (агар мавжуд бўлса) кўрсатилган тезлик чегарасигача камайтириш ва бурилиш бўйлаб ҳаракатланиш учун енг мос трайекторияни танлаш тавсия етилади."
+                        }
+                    ]
+                },
+                "order": 42
+            },
+            {
+                "id": 44,
+                "name": {
+                    "uz": "1.31.2. Burilishning yo’nalishi",
+                    "ru": "1.31.2. Направление вращения",
+                    "kiril": "1.31.2. Бурилишнинг йўналиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.31.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-40-36_P7VD83PFDD.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.31.2 «Burilishning yo‘nalishi» \r\nbelgisi gorizontal chiziqga o‘xshaydi yoki chap tomonga bir, ikki yoki to‘rtta oq (yoki qora) strelka tasvirlangan qizil (yoki sariq) rangdagi to‘rtburchak.  \r\n\r\n1.31.2 «Burilishning yo‘nalishi» belgisi bir nechta strelkalari bo‘lgan keng yoki bittagacha strelkasi bo‘lgan ensiz bo‘lishi mumkin. Kichkina belgilar burilish davomida bir nechtasi takroriy o‘rnatiladi.\r\n\r\n«Burilishning yo‘nalishi» belgisi yo‘l harakati qatnashchilarini chapga juda keskin burilish borligidan yoki yo‘lning ta’mirlanayotgan qismida to‘siqni chetlab o‘tish yo‘nalishi haqida ogohlantiradi. Burilishda ko‘rinish cheklangan bo‘lishi yoki juda kichik radiusga ega bo‘lishi mumkin.\r\n\r\nHaydovchiga tezlikni tezlik cheklangan belgisida (agar mavjud bo‘lsa) ko‘rsatilgan tezlik chegarasigacha kamaytirish va burilish bo‘ylab harakatlanish uchun eng mos trayektoriyani tanlash tavsiya etiladi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.31.2. «Направление поворота»  \r\nЗнак представляет собой прямоугольник красного (или жёлтого) цвета с одной, двумя или четырьмя белыми (или чёрными) стрелками, направленными влево. Он может быть широким — с несколькими стрелками, или узким — с одной стрелкой. Такие знаки часто повторяются вдоль всего поворота.  \r\n\r\nЗнак предупреждает участников дорожного движения о резком повороте влево или указывает направление объезда препятствия, например, в зоне дорожных работ. Поворот может иметь ограниченную видимость или быть малого радиуса.  \r\n\r\nВодителю рекомендуется снизить скорость до установленного предела (если имеется соответствующий знак) и выбрать безопасную траекторию движения по повороту."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.31.2 «Бурилишнинг йўналиши» \r\nбелгиси горизонтал чизиқга ўхшайди ёки чап томонга бир, икки ёки тўртта оқ (ёки қора) стрелка тасвирланган қизил (ёки сариқ) рангдаги тўртбурчак. \r\n\r\n1.31.2 «Бурилишнинг йўналиши» белгиси бир нечта стрелкалари бўлган кенг ёки биттагача стрелкаси бўлган енсиз бўлиши мумкин. Кичкина белгилар бурилиш давомида бир нечтаси такрорий ўрнатилади.\r\n\r\n«Бурилишнинг йўналиши» белгиси йўл ҳаракати қатнашчиларини чапга жуда кескин бурилиш борлигидан ёки йўлнинг таъмирланаётган қисмида тўсиқни четлаб ўтиш йўналиши ҳақида огоҳлантиради. Бурилишда кўриниш чекланган бўлиши ёки жуда кичик радиусга ега бўлиши мумкин.\r\n\r\nҲайдовчига тезликни тезлик чекланган белгисида (агар мавжуд бўлса) кўрсатилган тезлик чегарасигача камайтириш ва бурилиш бўйлаб ҳаракатланиш учун енг мос трайекторияни танлаш тавсия етилади."
+                        }
+                    ]
+                },
+                "order": 43
+            },
+            {
+                "id": 45,
+                "name": {
+                    "uz": "1.31.3. Burilishning yo’nalishi",
+                    "ru": "1.31.3. Направление вращения",
+                    "kiril": "1.31.3. Бурилишнинг йўналиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.31.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-40-50_R4C2G3E4UH.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.31.3 «Burilishning yo‘nalishi»  \r\nbelgisi gorizontal chiziqga o‘xshaydi yoki chap va o‘ng tomonga bir, ikki yoki to‘rtta oq (yoki qora) strelka tasvirlangan qizil (yoki sariq) rangdagi to‘rtburchak.  Xususan, haydovchi ko‘rinish cheklangan aylanma yo‘lda ham chapga, ham o‘ngga burilishi mumkinligi, shuningdek, agar yo‘l     «T simon» chorrahalarda ayrilgan yoki tugaydigan bo‘lsa, bu haqda haydovchiga 1.31.3 «Burilishning yo‘nalishi» ogohlantiruvchi yo‘l belgisi orqali xabar qilinadi. Ushbu belgi, shuningdek, ta’mirlash ishlari olib borilayotgan yo‘l qismini aylanib o‘tish yo‘nalishini ham ko‘rsatadi. Haydovchiga tezlikni tezlik cheklangan belgisida (agar mavjud bo‘lsa) ko‘rsatilgan tezlik chegarasigacha kamaytirish va burilish bo‘ylab harakatlanish uchun eng mos trayektoriyani tanlash tavsiya etiladi. Haydovchi boshqa ogohlantiruvchi belgilardan farqli o‘laroq,  1.31.3 «Burilishning yo‘nalishi»  belgisi burilish boshlanishidan 50 – 300 metr oldin emas, balki to‘g‘ridan – to‘g‘ri burilish oldidada o‘rnatilishiga e’tibor berishi kerak. «Burilishning yo‘nalishi» belgisida ko‘rsatilgan yo‘nalishlar bo‘yicha harakatlanish majburiy emas va orqaga qayrilish taqiqlanmagan"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.31.3. «Направление поворота»  \r\nЭтот знак представляет собой прямоугольник красного (или жёлтого) цвета с изображением одной, двух или четырёх белых (или чёрных) стрелок, направленных одновременно влево и вправо.\r\n\r\nЗнак предупреждает водителя о том, что впереди дорога может поворачивать как влево, так и вправо — особенно в условиях ограниченной видимости или если дорога заканчивается на Т-образном перекрёстке. Также знак может указывать направление объезда ремонтируемого участка дороги.\r\n\r\nВодителю рекомендуется снизить скорость до значения, указанного на знаке ограничения скорости (если он установлен), и выбрать наиболее безопасную траекторию движения при повороте.\r\n\r\nОтличие этого знака от других предупреждающих знаков заключается в том, что он устанавливается не за 50–300 метров до поворота, а непосредственно перед самим поворотом. При этом направления, указанные на знаке, носят рекомендательный характер — движение строго по ним не является обязательным, и разворот не запрещается."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.31.3 «Бурилишнинг йўналиши» \r\nбелгиси горизонтал чизиқга ўхшайди ёки чап ва ўнг томонга бир, икки ёки тўртта оқ (ёки қора) стрелка тасвирланган қизил (ёки сариқ) рангдаги тўртбурчак. Хусусан, ҳайдовчи кўриниш чекланган айланма йўлда ҳам чапга, ҳам ўнгга бурилиши мумкинлиги, шунингдек, агар йўл «Т симон» чорраҳаларда айрилган ёки тугайдиган бўлса, бу ҳақда ҳайдовчига 1.31.3 «Бурилишнинг йўналиши» огоҳлантирувчи йўл белгиси орқали хабар қилинади. Ушбу белги, шунингдек, таъмирлаш ишлари олиб борилаётган йўл қисмини айланиб ўтиш йўналишини ҳам кўрсатади. Ҳайдовчига тезликни тезлик чекланган белгисида (агар мавжуд бўлса) кўрсатилган тезлик чегарасигача камайтириш ва бурилиш бўйлаб ҳаракатланиш учун енг мос трайекторияни танлаш тавсия етилади. Ҳайдовчи бошқа огоҳлантирувчи белгилардан фарқли ўлароқ, 1.31.3 «Бурилишнинг йўналиши» белгиси бурилиш бошланишидан 50 – 300 метр олдин емас, балки тўғридан – тўғри бурилиш олдидада ўрнатилишига еътибор бериши керак. «Бурилишнинг йўналиши» белгисида кўрсатилган йўналишлар бўйича ҳаракатланиш мажбурий емас ва орқага қайрилиш тақиқланмаган"
+                        }
+                    ]
+                },
+                "order": 44
+            },
+            {
+                "id": 46,
+                "name": {
+                    "uz": "1.32. Tirbandlik",
+                    "ru": "1.32. Скопление",
+                    "kiril": "1.32. Тирбандлик",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "1.32",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_14-41-16_QS4UFGGZNQ.png",
+                "road_sign_type_id": 1,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1.32 «Tirbandlik» \r\nbelgisi qizil hoshiyali uchburchak shaklida bo‘lib, uning markazida uchta mashinalar ketma-ket  joylashgan holdagi tasviri tushirilgan.\r\n\r\n«Tirbandlik» yo‘l belgisi yo‘l harakati ishtirokchilarini ta’mirlash ishlari sabali yoki boshqa sabablarga ko‘ra tirbandlik yuzaga keladigan yo‘l qismiga yaqinlashish haqida ogohlantiradi.\r\n\r\n1.32 belgisi odatda, tirbandlik paydo bo‘lishi mumkin bo‘lgan yo‘l qismini chetlab o‘tish imkoni mavjud bo‘lgan chorrahadan oldin o‘rnatiladi. Ya’ni, aholi punktlarida: tirbandlik yuzaga kelishi mumkin bo‘lgan hudud boshlanishidan 50 -100 metr oldin, aholi punktlaridan tashqarida: tirbandlik yuzaga kelishi mumkin bo‘lgan hudud boshlanishidan 150 - 300 metr oldin."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1.32. «Пробка»  \r\nЭтот предупреждающий знак имеет форму треугольника с красной каймой и изображением трёх автомобилей, стоящих друг за другом в центре знака.\r\n\r\nЗнак «Пробка» информирует участников дорожного движения о приближении к участку дороги, где может возникнуть затор — из-за дорожных работ или других причин.\r\n\r\nЗнак, как правило, устанавливается до перекрёстков, с которых возможен объезд участка с предполагаемой пробкой:  \r\n— в населённых пунктах — за 50–100 метров до начала участка,  \r\n— вне населённых пунктов — за 150–300 метров до начала участка возможной загруженности."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1.32 «Тирбандлик» \r\nбелгиси қизил ҳошияли учбурчак шаклида бўлиб, унинг марказида учта машиналар кетма-кет жойлашган ҳолдаги тасвири туширилган.\r\n\r\n«Тирбандлик» йўл белгиси йўл ҳаракати иштирокчиларини таъмирлаш ишлари сабали ёки бошқа сабабларга кўра тирбандлик юзага келадиган йўл қисмига яқинлашиш ҳақида огоҳлантиради.\r\n\r\n1.32 белгиси одатда, тирбандлик пайдо бўлиши мумкин бўлган йўл қисмини четлаб ўтиш имкони мавжуд бўлган чорраҳадан олдин ўрнатилади. Яъни, аҳоли пунктларида: тирбандлик юзага келиши мумкин бўлган ҳудуд бошланишидан 50 -100 метр олдин, аҳоли пунктларидан ташқарида: тирбандлик юзага келиши мумкин бўлган ҳудуд бошланишидан 150 - 300 метр олдин."
+                        }
+                    ]
+                },
+                "order": 45
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}

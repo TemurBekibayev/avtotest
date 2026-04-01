@@ -1,0 +1,1345 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 1,
+        "total_pages": 1,
+        "total_items": 36,
+        "show_count": "50",
+        "data": [
+            {
+                "id": 56,
+                "name": {
+                    "uz": "3.1. Kirish ta'qiqlangan",
+                    "ru": "3.1. Не входить",
+                    "kiril": "3.1. Кириш таъқиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.1.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.1. \"Kirish taqiqlangan\"\r\n\"Kirish taqiqlangan\" belgisi qo'yilgan joyga transport vositalarining kirishi taqiqlanadi. Ya'ni, ushbu belgi bir tomonlama harakat tashkil qilingan yo'llarda qarama-qarshi harakatni bekor qiladi. 3.1. belgisi o'rnatilgan joylarga faqat belgilangan yo'nalishdagi jamoat transportlari – avtobus, trolleybus, tramvay va yo'nalishli taksilargina kirishi mumkin.Boshqa transport vositalari haydovchilarini yo‘lning qarama-qarshi harakatlanish uchun mo‘ljallangan tomoniga yoki bo‘lagiga kirishi taqiqlanadi. Chunki avariya holatini yuzaga keltiradi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "3.1. «Въезд запрещён»  \r\n\r\nЗнак 3.1 запрещает въезд транспортных средств в указанное место. Он используется на дорогах с односторонним движением для исключения встречного направления.  \r\n\r\nВ зону действия этого знака могут въезжать только общественные транспортные средства, движущиеся по установленному маршруту — автобусы, троллейбусы, трамваи и маршрутные такси.  \r\n\r\nВсем остальным транспортным средствам запрещается въезжать на полосу или участок дороги, предназначенный для встречного движения, так как это создаёт риск дорожно-транспортного происшествия."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.1. \"Кириш тақиқланган\"\r\n\"Кириш тақиқланган\" белгиси қўйилган жойга транспорт воситаларининг кириши тақиқланади. Яъни, ушбу белги бир томонлама ҳаракат ташкил қилинган йўлларда қарама-қарши ҳаракатни бекор қилади. 3.1. белгиси ўрнатилган жойларга фақат белгиланган йўналишдаги жамоат транспортлари – автобус, троллейбус, трамвай ва йўналишли таксиларгина кириши мумкин.Бошқа транспорт воситалари ҳайдовчиларини йўлнинг қарама-қарши ҳаракатланиш учун мўлжалланган томонига ёки бўлагига кириши тақиқланади. Чунки авария ҳолатини юзага келтиради."
+                        }
+                    ]
+                },
+                "order": 1
+            },
+            {
+                "id": 57,
+                "name": {
+                    "uz": "3.2. Harakatlanish ta'qiqlangan",
+                    "ru": "3.2. Движение запрещено",
+                    "kiril": "3.2. Ҳаракатланиш таъқиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.2.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.2. \"Harakatlanish taqiqlangan\"\r\nBu belgi o'rnatilgan joylarda barcha turdagi transport vositalarining harakati taqiqlanadi. Bu yo'l belgisi transport vositalarining harakatini cheklash maqsadida, dam olish maskanlari, umumfoydalanadigan hovlilar va yo'lning zarur bo'lgan boshqa qismlari oldida o'rnatiladi.Ushbu belgining belgilangan yo'nalishli jamoat transport vositalari, ya'ni avtobus, trolleybus, tramvay va yo'nalishli taksilar, nogironlar boshqaradigan motokolyaska, shu hududdagi korxonalarga xizmat ko'rsatuvchi transport vositalari, yengil va yuk taksilari, shuningdek, belgi ta'siri oralig'ida yashovchilarning transport vositalariga daxli yo'q. Ushbu transport vositalari belgilangan joyga yaqin chorrahadan kirib yoki chiqib ketishlari kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "3.2. «Движение запрещено»  \r\n\r\nЭтот знак запрещает движение всех видов транспортных средств в месте его установки. Он применяется для ограничения движения в определённых зонах, таких как места отдыха, дворы общего пользования или другие участки дорог, где необходимо исключить движение транспорта.\r\n\r\n**Исключения из действия знака**:  \r\nЗапрет не распространяется на следующие транспортные средства:  \r\n— маршрутные транспортные средства (автобусы, троллейбусы, трамваи, маршрутные такси);  \r\n— мотоколяски, управляемые инвалидами;  \r\n— транспорт, обслуживающий предприятия, расположенные в данной зоне;  \r\n— легковые и грузовые такси;  \r\n— транспортные средства жителей, проживающих в зоне действия знака.  \r\n\r\nЭти транспортные средства могут въезжать в обозначенную зону или выезжать из неё через ближайший перекрёсток."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.2. \"Ҳаракатланиш тақиқланган\"\r\nБу белги ўрнатилган жойларда барча турдаги транспорт воситаларининг ҳаракати тақиқланади. Бу йўл белгиси транспорт воситаларининг ҳаракатини чеклаш мақсадида, дам олиш масканлари, умумфойдаланадиган ҳовлилар ва йўлнинг зарур бўлган бошқа қисмлари олдида ўрнатилади.Ушбу белгининг белгиланган йўналишли жамоат транспорт воситалари, яъни автобус, троллейбус, трамвай ва йўналишли таксилар, ногиронлар бошқарадиган мотоколяска, шу ҳудуддаги корхоналарга хизмат кўрсатувчи транспорт воситалари, йенгил ва юк таксилари, шунингдек, белги таъсири оралиғида яшовчиларнинг транспорт воситаларига дахли йўқ. Ушбу транспорт воситалари белгиланган жойга яқин чорраҳадан кириб ёки чиқиб кетишлари керак."
+                        }
+                    ]
+                },
+                "order": 2
+            },
+            {
+                "id": 58,
+                "name": {
+                    "uz": "3.3. Mexanik transport vositalarining harakatlanishi taqiqlangan",
+                    "ru": "3.3. Автотранспортным средствам проезд запрещен",
+                    "kiril": "3.3. Механик транспорт воситаларининг ҳаракатланиши тақиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.3.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.3. \"Mexanik transport vositalarining harakatlanishi taqiqlangan\"\r\nBarcha turdagi mexanik transport vositalarining harakatlanishini taqiqlovchi bu belgi yashil hududlar, istirohat bog'lari kabi maskanlarning ekologiyasini asrash maqsadida o'rnatiladi. Lekin bu belgining ot-arava, velosiped, moped va belgilangan yo'nalishli jamoat transport vositalari, shuningdek nogironlar boshqaradigan motokolyaska, shu hududdagi korxonalarga xizmat ko'rsatuvchi transport vositalari, yengil va yuk taksilari, shuningdek, belgi ta'siri oralig'ida yashovchilarning transport vositalariga daxli yo'q. Ushbu transport vositalari belgilangan joyga yaqin chorrahadan kirib yoki chiqib ketishlari kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "3.3. «Движение механических транспортных средств запрещено»  \r\n\r\nЭтот знак запрещает движение всех видов механических транспортных средств и, как правило, устанавливается в зонах с особыми экологическими требованиями — например, в зелёных зонах, парках и местах отдыха.\r\n\r\n**Однако действие знака не распространяется на**:  \r\n— гужевые повозки, велосипеды, мопеды;  \r\n— маршрутные транспортные средства (автобусы, троллейбусы, трамваи, маршрутные такси);  \r\n— мотоколяски, управляемые инвалидами;  \r\n— транспортные средства, обслуживающие предприятия в данной зоне;  \r\n— легковые и грузовые такси;  \r\n— транспортные средства жителей, проживающих в зоне действия знака.  \r\n\r\nУказанные транспортные средства должны заезжать в зону или выезжать из неё через ближайший перекрёсток."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.3. \"Механик транспорт воситаларининг ҳаракатланиши тақиқланган\"\r\nБарча турдаги механик транспорт воситаларининг ҳаракатланишини тақиқловчи бу белги яшил ҳудудлар, истироҳат боғлари каби масканларнинг екологиясини асраш мақсадида ўрнатилади. Лекин бу белгининг от-арава, велосипед, мопед ва белгиланган йўналишли жамоат транспорт воситалари, шунингдек ногиронлар бошқарадиган мотоколяска, шу ҳудуддаги корхоналарга хизмат кўрсатувчи транспорт воситалари, йенгил ва юк таксилари, шунингдек, белги таъсири оралиғида яшовчиларнинг транспорт воситаларига дахли йўқ. Ушбу транспорт воситалари белгиланган жойга яқин чорраҳадан кириб ёки чиқиб кетишлари керак."
+                        }
+                    ]
+                },
+                "order": 3
+            },
+            {
+                "id": 59,
+                "name": {
+                    "uz": "3.4. Yuk avtomobillarining harakatlanishi taqiqlangan",
+                    "ru": "3.4. Движение грузовых автомобилей запрещено.",
+                    "kiril": "3.4. Юк автомобилларининг ҳаракатланиши тақиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.4.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.4. \"Yuk avtomobillarining harakatlanishi taqiqlangan\"\r\nBu belgi transport vositalarining to'la vazni ko'rsatilgan yoki ko'rsatilmagan shakl ko'rinishida bo'ladi. Agar belgida vazni ko'rsatilmagan bo'lsa, to'la vazni 3,5 tonnadan ortiq bo'lgan yuk avtomobillari va tizimli transport vositalari, traktorlar, o'zi yurar mashina hamda mexanizmlarning ushbu belgi o'rnatilgan yo'llarda harakatlanishi taqiqlanadi. Bu belgi bortlariga oq qiya chiziq tortilgan maxsus yuk avtomobillari, yuk taksilari, odamlarni tashiyotgan, shuningdek, shu belgi ta'sir doirasida xizmat ko'rsatayotgan yuk avtomobillarining harakatlanishini taqiqlamaydi Ushbu yuk avtomobillari belgilangan joyga yaqin chorrahadan kirib yoki chiqib ketishlari kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "3.4. «Движение грузовых автомобилей запрещено»**  \r\n\r\nЭтот знак может быть установлен с указанием полной массы или без неё.  \r\n\r\nЕсли масса **не указана**, то под запрет подпадают:  \r\n— грузовые автомобили и составы транспортных средств с полной массой **более 3,5 тонн**,  \r\n— тракторы,  \r\n— самоходные машины и механизмы.  \r\n\r\nЗнак **не распространяется** на:  \r\n— специальные грузовики с белыми диагональными полосами на бортах,  \r\n— грузовые такси,  \r\n— транспорт, перевозящий людей,  \r\n— грузовые автомобили, которые обслуживают объекты, расположенные в зоне действия знака.  \r\n\r\nДопускается въезд и выезд таких транспортных средств через ближайший перекрёсток."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.4. \"Юк автомобилларининг ҳаракатланиши тақиқланган\"\r\nБу белги транспорт воситаларининг тўла вазни кўрсатилган ёки кўрсатилмаган шакл кўринишида бўлади. Aгар белгида вазни кўрсатилмаган бўлса, тўла вазни 3,5 тоннадан ортиқ бўлган юк автомобиллари ва тизимли транспорт воситалари, тракторлар, ўзи юрар машина ҳамда механизмларнинг ушбу белги ўрнатилган йўлларда ҳаракатланиши тақиқланади. Бу белги бортларига оқ қия чизиқ тортилган махсус юк автомобиллари, юк таксилари, одамларни ташиётган, шунингдек, шу белги таъсир доирасида хизмат кўрсатаётган юк автомобилларининг ҳаракатланишини тақиқламайди Ушбу юк автомобиллари белгиланган жойга яқин чорраҳадан кириб ёки чиқиб кетишлари керак."
+                        }
+                    ]
+                },
+                "order": 4
+            },
+            {
+                "id": 60,
+                "name": {
+                    "uz": "3.5. Mototsikllar harakatlanishi taqiqlangan",
+                    "ru": "3.5. Мотоциклы не допускаются.",
+                    "kiril": "3.5. Мотоцикллар ҳаракатланиши тақиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.5.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.5. \"Motosikllar harakatlanishi taqiqlangan\"\r\nYo'lning ma'lum bir qismlariga o'rnatilgan bu belgi barcha turdagi motosikllarning harakatini taqiqlaydi, ammo u ta'sir oralig'ida yashovchi va shu hududga xizmat qiluvchi motosikllarga daxldor emas. Serqatnov yo'llarda motosikllarning transport vositalari harakatiga xalaqit berishining oldini olish va ortiqcha shovqindan saqlanish maqsadida ushbu yo'l belgisi o'rnatiladi.. Ushbu mototsikllar belgilangan joyga yaqin chorrahadan kirib yoki chiqib ketishlari kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "**3.5. «Движение мотоциклов запрещено»**  \r\n\r\nЭтот знак запрещает движение всех типов мотоциклов на определённом участке дороги.  \r\n\r\nОн устанавливается, как правило, на участках с интенсивным движением, где мотоциклы могут мешать другим участникам дорожного движения или создавать избыточный шум.  \r\n\r\n**Исключения**:  \r\nЗнак **не распространяется** на мотоциклы, которые:  \r\n— обслуживают объекты в зоне действия знака,  \r\n— принадлежат жителям, проживающим в этой зоне.  \r\n\r\nЭти мотоциклы могут въезжать и выезжать через ближайший перекрёсток."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.5. \"Мотосикллар ҳаракатланиши тақиқланган\"\r\nЙўлнинг маълум бир қисмларига ўрнатилган бу белги барча турдаги мотосиклларнинг ҳаракатини тақиқлайди, аммо у таъсир оралиғида яшовчи ва шу ҳудудга хизмат қилувчи мотосиклларга дахлдор емас. Серқатнов йўлларда мотосиклларнинг транспорт воситалари ҳаракатига халақит беришининг олдини олиш ва ортиқча шовқиндан сақланиш мақсадида ушбу йўл белгиси ўрнатилади.. Ушбу мотоцикллар белгиланган жойга яқин чорраҳадан кириб ёки чиқиб кетишлари керак."
+                        }
+                    ]
+                },
+                "order": 5
+            },
+            {
+                "id": 61,
+                "name": {
+                    "uz": "3.6. Traktorlar harakatlanishi taqiqlangan",
+                    "ru": "3.6. Движение тракторов запрещено.",
+                    "kiril": "3.6. Тракторлар ҳаракатланиши тақиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.6.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.6. \"Traktorlar harakatlanishi taqiqlangan\"\r\nBunday belgi o'rnatilgan yo'llarda barcha turdagi traktorlar, o'zi yurar mashina va mexanizmlarning harakatlanishi taqiqlanadi. Traktorlar serqatnov yo'llarda transport vositalari harakatiga xalaqit berishi, yo'l qoplamasiga zarar yetkazishi va uni ifloslantirishi mumkin. Ana shunday holatlarning oldini olish maqsadida ma'lum yo'llarda ularning harakati taqiqlab qo'yiladi.Lekin bu belgi ta'sir oralig'ida yashovchi fuqarolarga tegishli va shu hududga xizmat qiluvchi traktorlarga daxldor emas.Ushbu traktorlar belgilangan joyga yaqin chorrahadan kirib yoki chiqib ketishlari kerak"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "**3.6. «Движение тракторов запрещено»**  \r\n\r\nЭтот знак запрещает движение всех типов тракторов, самоходных машин и механизмов на участке дороги, где он установлен.  \r\n\r\nЗнак применяется на дорогах с интенсивным движением, где:  \r\n— тракторы могут мешать другим транспортным средствам,  \r\n— повреждать дорожное покрытие,  \r\n— загрязнять проезжую часть.\r\n\r\n**Исключения**:  \r\nДействие знака **не распространяется** на тракторы, которые:  \r\n— обслуживают объекты в зоне действия знака,  \r\n— принадлежат жителям, проживающим в этой зоне.  \r\n\r\nТаким транспортным средствам разрешено въезжать и выезжать с территории через ближайший перекрёсток."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.6. \"Тракторлар ҳаракатланиши тақиқланган\"\r\nБундай белги ўрнатилган йўлларда барча турдаги тракторлар, ўзи юрар машина ва механизмларнинг ҳаракатланиши тақиқланади. Тракторлар серқатнов йўлларда транспорт воситалари ҳаракатига халақит бериши, йўл қопламасига зарар йетказиши ва уни ифлослантириши мумкин. Aна шундай ҳолатларнинг олдини олиш мақсадида маълум йўлларда уларнинг ҳаракати тақиқлаб қўйилади.Лекин бу белги таъсир оралиғида яшовчи фуқароларга тегишли ва шу ҳудудга хизмат қилувчи тракторларга дахлдор емас.Ушбу тракторлар белгиланган жойга яқин чорраҳадан кириб ёки чиқиб кетишлари керак"
+                        }
+                    ]
+                },
+                "order": 6
+            },
+            {
+                "id": 62,
+                "name": {
+                    "uz": "3.7. Tirkama bilan harakatlanish taqiqlangan",
+                    "ru": "3.7. Запрещено ездить на прицепе.",
+                    "kiril": "3.7. Тиркама билан ҳаракатланиш тақиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.7.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.7. \"Tirkama bilan harakatlanish taqiqlangan\"\r\nBu belgi tirkamali transport vositalari, avtopoyezdlarning harakatlanishi va manyovr qilishi qiyin bo'lgan tor ko'chalar oldida o'rnatiladi.Yuk tashuvchi transport vositalari, traktorlarning barcha turdagi tirkamalar bilan harakatlanishi, shuningdek, mexanik transport vositalarining har qanday usul bilan shatakka olib harakatlanishini taqiqlaydi.Belgining tirkamali yengil avtomobillarga, ta'sir oralig'idagi hududga xizmat ko'rsatayotgan va istiqomat qilayotganlarning tirkamali transport vositalariga daxli yo'q.Ushbu tirkamali transport vositalari belgilangan joyga yaqin chorrahadan kirib yoki chiqib ketishlari kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "**3.7. «Движение с прицепом запрещено»**  \r\n\r\nЭтот знак запрещает движение транспортных средств с прицепами, включая автопоезда, на участках дорог, где маневрирование или проезд затруднён — например, на узких улицах.  \r\n\r\nЗнак **запрещает**:  \r\n— движение грузовых автомобилей и тракторов с любыми типами прицепов,  \r\n— буксировку любых транспортных средств механическими средствами.\r\n\r\n**Исключения**:  \r\nЗнак **не распространяется** на:  \r\n— легковые автомобили с прицепом,  \r\n— транспортные средства с прицепом, которые обслуживают территорию в зоне действия знака,  \r\n— прицепные транспортные средства жителей, проживающих в этой зоне.\r\n\r\nТакие транспортные средства могут въезжать и выезжать из зоны действия знака через ближайший перекрёсток."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.7. \"Тиркама билан ҳаракатланиш тақиқланган\"\r\nБу белги тиркамали транспорт воситалари, автопойездларнинг ҳаракатланиши ва манёвр қилиши қийин бўлган тор кўчалар олдида ўрнатилади.Юк ташувчи транспорт воситалари, тракторларнинг барча турдаги тиркамалар билан ҳаракатланиши, шунингдек, механик транспорт воситаларининг ҳар қандай усул билан шатакка олиб ҳаракатланишини тақиқлайди.Белгининг тиркамали йенгил автомобилларга, таъсир оралиғидаги ҳудудга хизмат кўрсатаётган ва истиқомат қилаётганларнинг тиркамали транспорт воситаларига дахли йўқ.Ушбу тиркамали транспорт воситалари белгиланган жойга яқин чорраҳадан кириб ёки чиқиб кетишлари керак."
+                        }
+                    ]
+                },
+                "order": 7
+            },
+            {
+                "id": 63,
+                "name": {
+                    "uz": "3.8. Ot-arava harakatlanishi taqiqlangan",
+                    "ru": "3.8. Конные перевозки запрещены.",
+                    "kiril": "3.8. От-арава ҳаракатланиши тақиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.8",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.8.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.8. \"Ot – arava harakatlanishi taqiqlangan\"\r\nMexanik transport vositalarining harakatini yengillashtirish maqsadida bunday belgi o'rnatilgan yo'llarda, ot - aravalar, otliqlar, yuk ortilgan hayvonlarning harakatlanishi, shuningdek, mol, podani haydab o'tish taqiqlanadi. Bu belgining ta'sir oralig'ida yashovchi va xizmat ko'rsatuvchilarga daxli yo'q.Ushbu ot-aravalar belgilangan joyga yaqin chorrahadan kirib yoki chiqib ketishlari kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "**3.8. «Движение гужевых повозок запрещено»**  \r\n\r\nЭтот знак запрещает движение гужевых повозок (отар), всадников, вьючных животных, а также прогон скота по участку дороги, где он установлен.  \r\n\r\nОн применяется для облегчения движения механических транспортных средств и предотвращения заторов или аварийных ситуаций.\r\n\r\n**Исключения**:  \r\nЗнак **не распространяется** на:  \r\n— повозки и всадников, обслуживающих объекты, расположенные в зоне действия знака,  \r\n— жителей, проживающих в этой зоне.\r\n\r\nТакие участники движения могут въезжать или выезжать через ближайший перекрёсток."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.8. \"От – арава ҳаракатланиши тақиқланган\"\r\nМеханик транспорт воситаларининг ҳаракатини йенгиллаштириш мақсадида бундай белги ўрнатилган йўлларда, от - аравалар, отлиқлар, юк ортилган ҳайвонларнинг ҳаракатланиши, шунингдек, мол, подани ҳайдаб ўтиш тақиқланади. Бу белгининг таъсир оралиғида яшовчи ва хизмат кўрсатувчиларга дахли йўқ.Ушбу от-аравалар белгиланган жойга яқин чорраҳадан кириб ёки чиқиб кетишлари керак."
+                        }
+                    ]
+                },
+                "order": 8
+            },
+            {
+                "id": 64,
+                "name": {
+                    "uz": "3.9. Velosipedda harakatlanish ta'qiqlangan",
+                    "ru": "3.9. Езда на велосипеде запрещена",
+                    "kiril": "3.9. Велосипедда ҳаракатланиш таъқиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.9",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.9.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.9. \"Velosipedda harakatlanish taqiqlangan\"\r\nBu belgi yo'l – transport hodisalarining oldini olish maqsadida o'rnatilgan bo'lib, serqatnov yo'llarda velosiped, motovelosiped va mopedlarning harakatlanishini taqiqlaydi. Chunki harakatlanishda velosiped (moped)lar to‘sqinlik tug‘diradi, ularning haydovchilari esa xavf ostida bo‘ladilar."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "**3.9. «Движение на велосипедах запрещено»**  \r\n\r\nЭтот знак устанавливается с целью предотвращения дорожно-транспортных происшествий и **запрещает движение велосипедов, мотовелосипедов и мопедов** на определённых участках дороги — особенно на магистралях и улицах с интенсивным движением.  \r\n\r\nПричина запрета:  \r\n— велосипедисты и водители мопедов могут создавать помехи для других участников движения,  \r\n— они сами оказываются в зоне повышенного риска.  \r\n\r\nЗнак направлен на обеспечение безопасности как для велосипедистов, так и для других участников дорожного движения."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.9. \"Велосипедда ҳаракатланиш тақиқланган\"\r\nБу белги йўл – транспорт ҳодисаларининг олдини олиш мақсадида ўрнатилган бўлиб, серқатнов йўлларда велосипед, мотовелосипед ва мопедларнинг ҳаракатланишини тақиқлайди. Чунки ҳаракатланишда велосипед (мопед)лар тўсқинлик туғдиради, уларнинг ҳайдовчилари еса хавф остида бўладилар."
+                        }
+                    ]
+                },
+                "order": 9
+            },
+            {
+                "id": 65,
+                "name": {
+                    "uz": "3.10. Piyodalarning harakatlanishi ta'qiqlangan",
+                    "ru": "3.10. Движение пешеходов запрещено",
+                    "kiril": "3.10. Пиёдаларнинг ҳаракатланиши таъқиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "3.10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-18_17-21-54_5SFT4S9H4X.png",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.10. \"Piyodalarning harakatlanishi taqiqlangan\"\r\nBu belgi yo'l yoqasida qurilish, ta'mirlash ishlari olib boriladigan joylarda piyodalarning xavfsizligini ta'minlash maqsadida yo'l chetiga, ya'ni trotuarlarga o'rnatiladi va piyodalarning harakatlanishini taqiqlaydi. Bunday vaziyatda, piyoda yo'lning boshqa xavfsiz tomonidan yurishi yoki o'tishi kerak.Belgi yo‘lning qaysi tomoniga o‘rnatilgan bo‘lsa, unga faqat o‘sha tomonda amal qilinadi"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "**3.10. «Движение пешеходов запрещено»**  \r\n\r\nЭтот знак устанавливается на обочинах, тротуарах или других пешеходных зонах, где ведутся строительные или ремонтные работы, с целью обеспечения безопасности пешеходов.  \r\n\r\nЗнак **запрещает движение пешеходов** на той стороне дороги, где он установлен.  \r\n\r\nВ такой ситуации пешеход должен воспользоваться противоположной стороной дороги или другим безопасным маршрутом.  \r\n\r\nВажно: действие знака распространяется **только на ту сторону дороги**, на которой он установлен."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.10. \"Пиёдаларнинг ҳаракатланиши тақиқланган\"\r\nБу белги йўл ёқасида қурилиш, таъмирлаш ишлари олиб бориладиган жойларда пиёдаларнинг хавфсизлигини таъминлаш мақсадида йўл четига, яъни тротуарларга ўрнатилади ва пиёдаларнинг ҳаракатланишини тақиқлайди. Бундай вазиятда, пиёда йўлнинг бошқа хавфсиз томонидан юриши ёки ўтиши керак.Белги йўлнинг қайси томонига ўрнатилган бўлса, унга фақат ўша томонда амал қилинади"
+                        }
+                    ]
+                },
+                "order": 10
+            },
+            {
+                "id": 66,
+                "name": {
+                    "uz": "3.11. Vazn cheklangan",
+                    "ru": "3.11. Вес ограничен",
+                    "kiril": "3.11. Вазн чекланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.11",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.11.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.11. \"Vazn cheklangan\"\r\nBu belgi ko'tarish imkoniyati cheklangan ko'prik, estakadalar va boshqa sun'iy inshootlar oldida o'rnatiladi. Belgi haqiqiy umumiy vazni yo'l belgisida ko'rsatilganidan ortiq bo'lgan barcha transport vositalarining harakatlanishini taqiqlaydi. Aks holda, bu ko'ngilsiz oqibatlarga olib kelishi mumkin."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "**3.11. «Ограничение массы»**  \r\n\r\nЭтот знак устанавливается перед мостами, эстакадами и другими искусственными сооружениями с ограниченной грузоподъёмностью.  \r\n\r\nЗнак **запрещает движение транспортных средств**, фактическая **полная масса** которых превышает указанное на знаке значение.  \r\n\r\nНесоблюдение этого ограничения может привести к повреждению конструкции и созданию аварийной ситуации."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.11. \"Вазн чекланган\"\r\nБу белги кўтариш имконияти чекланган кўприк, естакадалар ва бошқа сунъий иншоотлар олдида ўрнатилади. Белги ҳақиқий умумий вазни йўл белгисида кўрсатилганидан ортиқ бўлган барча транспорт воситаларининг ҳаракатланишини тақиқлайди. Aкс ҳолда, бу кўнгилсиз оқибатларга олиб келиши мумкин."
+                        }
+                    ]
+                },
+                "order": 11
+            },
+            {
+                "id": 67,
+                "name": {
+                    "uz": "3.12. O‘qqa tushadigan og‘irlik cheklangan",
+                    "ru": "3.12. Допустимая нагрузка на ось",
+                    "kiril": "3.12. Ўққа тушадиган оғирлик чекланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.12",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.12.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3.12. \"O'qqa tushadigan og'irlik cheklangan\"\r\nBu belgi avtomobil yo'llarining qoplamasi yupqa bo'lgan qismlari oldida o'rnatiladi. Yo'l qoplamasiga og'ir transport vositalari zarar yetkazmasligi uchun, birorta o'qiga tushadigan haqiqiy og'irligi yo'l belgisida ko'rsatilganidan yuqori bo'lgan barcha transport vositalarining harakatlanishini taqiqlaydi. Bu belgiga rioya qilishda haydovchilar transport vositalarining tasnifiga ko'ra, yengil avtomobillarda haqiqiy og'irligi ikki o'qqa shartli ravishda teng taqsimlanishini, ikki o'qli yuk avtomobillarda esa, haqiqiy  og'irligini oldingi o'qqa 1/3, orqa o'qqa 2/3 qismi  tushishini va uch o'qli avtomobillarda esa, haqiqiy og'irlik uchala o'qqa teng taqsimlanishini bilishlari kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "**3.12. «Ограничение нагрузки на ось»**  \r\n\r\nЭтот знак устанавливается перед участками дорог с **слабым покрытием**, чтобы защитить его от повреждений.  \r\n\r\nЗнак **запрещает движение всех транспортных средств**, у которых **нагрузка на любую одну ось** превышает значение, указанное на знаке.  \r\n\r\n### Важно для водителей:\r\nПри соблюдении этого ограничения необходимо учитывать особенности распределения массы по осям:\r\n- У **легковых автомобилей** нагрузка условно делится поровну на две оси (по 50%).\r\n- У **двухосных грузовиков** принято считать:  \r\n  — 1/3 массы приходится на переднюю ось,  \r\n  — 2/3 — на заднюю ось.\r\n- У **трёхосных транспортных средств** масса распределяется примерно равномерно по всем осям (по 1/3).\r\n\r\nНесоблюдение этого ограничения может привести к повреждению дорожного полотна и административной ответственности."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3.12. \"Ўққа тушадиган оғирлик чекланган\"\r\nБу белги автомобил йўлларининг қопламаси юпқа бўлган қисмлари олдида ўрнатилади. Йўл қопламасига оғир транспорт воситалари зарар йетказмаслиги учун, бирорта ўқига тушадиган ҳақиқий оғирлиги йўл белгисида кўрсатилганидан юқори бўлган барча транспорт воситаларининг ҳаракатланишини тақиқлайди. Бу белгига риоя қилишда ҳайдовчилар транспорт воситаларининг таснифига кўра, йенгил автомобилларда ҳақиқий оғирлиги икки ўққа шартли равишда тенг тақсимланишини, икки ўқли юк автомобилларда еса, ҳақиқий оғирлигини олдинги ўққа 1/3, орқа ўққа 2/3 қисми тушишини ва уч ўқли автомобилларда еса, ҳақиқий оғирлик учала ўққа тенг тақсимланишини билишлари керак."
+                        }
+                    ]
+                },
+                "order": 12
+            },
+            {
+                "id": 68,
+                "name": {
+                    "uz": "3.13. Cheklangan balandlik",
+                    "ru": "3.13. Ограниченная высота",
+                    "kiril": "3.13. Чекланган баландлик",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.13",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.13.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.13. \"Cheklangan balandlik\"</strong></li></ul><p>Ushbu belgi balandligi cheklangan tonnel, ko'prik, estakadalar, yuqori kuchlanishli elektr toki o'tkazgichlari va turli kommunikatsion qurilmalar ostidan o'tgan yo'llar oldida o'rnatiladi. Gabarit balandligi belgida ko'rsatilgandan ortiq bo'lgan transport vositalarining harakatlanishini taqiqlaydi.<br><br>Eslatib o'tamiz, belgi bo'lmagan taqdirda, yo'l harakati qoidasiga ko'ra, transport vositalarining ruxsat etilgan gabarit balandligi 4 metr qilib belgilangan.</p><p>Transport vositasining gabarit balandligini hisobga olmay, taqiqlangan yo'ldan harakatlanishi yo'l inshootlariga shikast yetkazishi, yuqori kuchlanishli elektr toki o'tkazgichlarini uzib yuborishi va boshqa qator ko'ngilsizliklarni keltirib chiqarishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>3.13. «Ограничение по высоте»</strong></p><p>Данный знак устанавливается перед тоннелями, мостами, эстакадами, линиями электропередач высокого напряжения и другими инженерными сооружениями, под которыми ограничен проезд по высоте.</p><p>Знак запрещает движение транспортных средств, габаритная высота которых превышает указанное на знаке значение.</p><p>Напоминаем: если знак отсутствует, по Правилам дорожного движения максимально допустимая габаритная высота транспортного средства считается 4 метра.</p><p>Игнорирование этого ограничения может привести к повреждению дорожных сооружений, обрыву высоковольтных линий и другим серьёзным последствиям.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.13. \"Чекланган баландлик\"</strong></li></ul><p>Ушбу белги баландлиги чекланган тоннел, кўприк, естакадалар, юқори кучланишли електр токи ўтказгичлари ва турли коммуникацион қурилмалар остидан ўтган йўллар олдида ўрнатилади. Габарит баландлиги белгида кўрсатилгандан ортиқ бўлган транспорт воситаларининг ҳаракатланишини тақиқлайди.</p><p>Еслатиб ўтамиз, белги бўлмаган тақдирда, йўл ҳаракати қоидасига кўра, транспорт воситаларининг рухсат етилган габарит баландлиги 4 метр қилиб белгиланган.</p><p>Транспорт воситасининг габарит баландлигини ҳисобга олмай, тақиқланган йўлдан ҳаракатланиши йўл иншоотларига шикаст йетказиши, юқори кучланишли електр токи ўтказгичларини узиб юбориши ва бошқа қатор кўнгилсизликларни келтириб чиқариши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 13
+            },
+            {
+                "id": 69,
+                "name": {
+                    "uz": "3.14. Cheklangan kenglik",
+                    "ru": "3.14. Ограниченная ширина",
+                    "kiril": "3.14. Чекланган кенглик",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.14",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.14.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.14. \"Cheklangan kenglik\"</strong></li></ul><p>Ushbu belgi tor yo'lak, tonnel, ko'prik va estakadalar oldida o'rnatiladi hamda gabarit kengligi belgida ko'rsatilganidan ortiq bo'lgan transport vositalarining harakatini taqiqlaydi.&nbsp;</p><p>Gabarit kengligi tor yo'llardan yurish imkoniyatini bermaydigan transport vositalarining ushbu belgiga amal qilmasligi oqibatida yo'l inshootlariga shikast yetishi, boshqa transport vositalari harakatiga xavf solishi mumkin.</p><p>Tegishli ruxsatnomasi bo‘lmay turib yirik gabaritli transport vositalari bilan yo‘lga chiqish yoki ruxsatnomada ko‘rsatilgan harakat yo‘nalishidan chetga chiqish taqiqlanadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.14. «Ограничение по ширине»</strong></li></ul><p>Этот знак устанавливается перед узкими проездами, тоннелями, мостами и эстакадами и запрещает движение транспортных средств, габаритная ширина которых превышает указанное на знаке значение.</p><p>Если транспортное средство превышает допустимую ширину и не соблюдает требования знака, это может привести к:<br>— повреждению дорожных сооружений,<br>— созданию помех и опасности для других участников движения.</p><p>Также запрещается выезд на дорогу крупногабаритных транспортных средств без специального разрешения или отклонение от маршрута, указанного в разрешении.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.14. \"Чекланган кенглик\"</strong></li></ul><p>Ушбу белги тор йўлак, тоннел, кўприк ва естакадалар олдида ўрнатилади ҳамда габарит кенглиги белгида кўрсатилганидан ортиқ бўлган транспорт воситаларининг ҳаракатини тақиқлайди.&nbsp;</p><p>Габарит кенглиги тор йўллардан юриш имкониятини бермайдиган транспорт воситаларининг ушбу белгига амал қилмаслиги оқибатида йўл иншоотларига шикаст йетиши, бошқа транспорт воситалари ҳаракатига хавф солиши мумкин.</p><p>Тегишли рухсатномаси бўлмай туриб йирик габаритли транспорт воситалари билан йўлга чиқиш ёки рухсатномада кўрсатилган ҳаракат йўналишидан четга чиқиш тақиқланади.</p>"
+                        }
+                    ]
+                },
+                "order": 14
+            },
+            {
+                "id": 70,
+                "name": {
+                    "uz": "3.15. Cheklangan uzunlik",
+                    "ru": "3.15. Ограниченная длина",
+                    "kiril": "3.15. Чекланган узунлик",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.15",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.15.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.15. \"Cheklangan uzunlik\"</strong></li></ul><p>Ushbu belgi uzun transport vositalarining ko'p burilishli tor ko'chalarda harakatlana olmasligi va boshqa harakat ishtirokchilariga xalaqit bermasligi maqsadida o'rnatiladi.</p><p>Bu belgi gabarit uzunligi (yuk bilan yoki yuksiz) belgida ko‘rsatilgandan uzun bo‘lgan transport vositalarining harakatlanishini taqiqlaydi.&nbsp;</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.15. «Ограничение по длине»</strong></li></ul><p>Этот знак устанавливается на участках дорог с узкими и многоповоротными улицами, где движение длинномерных транспортных средств затруднено и может создавать помехи другим участникам движения. Знак запрещает движение транспортных средств, чья габаритная длина (с грузом или без) превышает указанное на знаке значение.</p><p>Цель установки — предотвратить заторы, аварии и повреждение инфраструктуры на участках, не приспособленных для движения длинных транспортных средств.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.15. \"Чекланган узунлик\"</strong></li></ul><p>Ушбу белги узун транспорт воситаларининг кўп бурилишли тор кўчаларда ҳаракатлана олмаслиги ва бошқа ҳаракат иштирокчиларига халақит бермаслиги мақсадида ўрнатилади.</p><p>Бу белги габарит узунлиги (юк билан ёки юксиз) белгида кўрсатилгандан узун бўлган транспорт воситаларининг ҳаракатланишини тақиқлайди.</p>"
+                        }
+                    ]
+                },
+                "order": 15
+            },
+            {
+                "id": 71,
+                "name": {
+                    "uz": "3.16. Eng kam oraliq",
+                    "ru": "3.16. Минимальный интервал",
+                    "kiril": "3.16. Энг кам оралиқ",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.16",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.16.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.16. \"Eng kam oraliq\"</strong></li></ul><p>Ushbu belgi usti muzlik bilan qoplangan joylar, sirpanchiq yo‘llar, tog‘li yo‘llar, ko‘tarish imkoniyati cheklangan uzun ko‘priklar, nazorat punktlari oldida o‘rnatiladi.&nbsp;</p><p>Belgida ko‘rsatilganidan kam oraliq masofada harakatlanish taqiqlanadi. Bunday joylarda transport vositasi haydovchilari ehtiyot choralarini ko‘rgan holda, oraliq masofani saqlab, o‘z yo‘nalishlari bo‘yicha harakatlanishni davom ettirishlari mumkin.&nbsp;</p><p>Belgi o‘rnatilgan joydan keyingi eng yaqin chorrahagacha, chorrahasi bo‘lmagan aholi punktlarida aholi yashaydigan hududning oxirigacha yoki 7.2.1 qo‘shimcha axborot belgisi bilan belgilangan joygacha ta’sir qiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.16. «Минимальное расстояние»</strong></li></ul><p>Этот знак устанавливается на участках с повышенной опасностью:<br>— покрытых льдом,<br>— на скользких дорогах,<br>— в горной местности,<br>— перед длинными мостами с ограниченной пропускной способностью,<br>— перед контрольно-пропускными пунктами. Знак запрещает движение с расстоянием между транспортными средствами меньше указанного на знаке.</p><p>На таких участках водители обязаны соблюдать повышенную осторожность и держать безопасную дистанцию, продолжая движение в своём направлении.</p><p>Зона действия знака распространяется:<br>— до ближайшего перекрёстка,<br>— в населённых пунктах — до конца населённого пункта (если нет перекрёстка),<br>— либо до места, указанного с помощью дополнительной таблички 7.2.1.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.16. \"Енг кам оралиқ\"</strong></li></ul><p>Ушбу белги усти музлик билан қопланган жойлар, сирпанчиқ йўллар, тоғли йўллар, кўтариш имконияти чекланган узун кўприклар, назорат пунктлари олдида ўрнатилади.&nbsp;</p><p>Белгида кўрсатилганидан кам оралиқ масофада ҳаракатланиш тақиқланади. Бундай жойларда транспорт воситаси ҳайдовчилари еҳтиёт чораларини кўрган ҳолда, оралиқ масофани сақлаб, ўз йўналишлари бўйича ҳаракатланишни давом еттиришлари мумкин.&nbsp;</p><p>Белги ўрнатилган жойдан кейинги енг яқин чорраҳагача, чорраҳаси бўлмаган аҳоли пунктларида аҳоли яшайдиган ҳудуднинг охиригача ёки 7.2.1 қўшимча ахборот белгиси билан белгиланган жойгача таъсир қилади.</p>"
+                        }
+                    ]
+                },
+                "order": 16
+            },
+            {
+                "id": 72,
+                "name": {
+                    "uz": "3.17.1. Bojxona",
+                    "ru": "3.17.1. Обычаи",
+                    "kiril": "3.17.1. Божхона",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "3.17.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-18_17-22-37_PMRH6USKY8.png",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.17.1. \"Bojxona\"</strong></li></ul><p>Ushbu belgi bojxona posti oldida o'rnatiladi. Haydovchilar kerakli hujjatlarni rasmiylashtirish uchun post oldida majburiy ravishda to'xtab o'tishlari shart. Transport vositasi haydovchilarining bojxona oldida to'xtamasdan o'tishlari taqiqlanadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.17.1. «Таможня»</strong></li></ul><p>Этот знак устанавливается перед таможенным постом и обязывает водителей остановиться для прохождения контроля и оформления необходимых документов. Проезд без остановки через таможенный пункт строго запрещён. Нарушение этого правила может привести к административной или уголовной ответственности.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.17.1. \"Божхона\"</strong></li></ul><p>Ушбу белги божхона пости олдида ўрнатилади. Ҳайдовчилар керакли ҳужжатларни расмийлаштириш учун пост олдида мажбурий равишда тўхтаб ўтишлари шарт. Транспорт воситаси ҳайдовчиларининг божхона олдида тўхтамасдан ўтишлари тақиқланади.</p>"
+                        }
+                    ]
+                },
+                "order": 17
+            },
+            {
+                "id": 73,
+                "name": {
+                    "uz": "3.17.2. Xavf-xatar",
+                    "ru": "3.17.2. Риск",
+                    "kiril": "3.17.2. Хавф-хатар",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "3.17.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-18_17-24-09_EUCNFAXDUY.png",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.17.2. «Xavf-xatar».&nbsp;</strong></li></ul><p>Bu belgi yo‘l-transport hodisasi yoki boshqa xavfli holatlar, ya’ni qor ko‘chishi, yo‘lni suv bosishi, ko‘prikni suv olib ketishi, radiatsiya, zaharli gazlar tarqalishi, shu bilan birga, boshqa tabiiy va texnogen ofatlar yuz bergan yo‘l qismlari oldida o‘rnatiladi.&nbsp;</p><p>Ushbu yo‘l belgisi barcha transport vositalarining xavfli hududdan harakatlanishlarini taqiqlaydi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.17.2. «Опасность»</strong></li></ul><p>Этот знак устанавливается перед участками дороги, где произошло дорожно-транспортное происшествие или имеются другие опасные условия: сход лавины, затопление дороги, разрушение моста, радиация, утечка токсичных газов, а также другие природные или техногенные чрезвычайные ситуации.</p><p>Знак запрещает движение всех транспортных средств по опасному участку дороги.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.17.2. «Хавф-хатар». &nbsp;</strong></li></ul><p>Бу белги йўл-транспорт ҳодисаси ёки бошқа хавфли ҳолатлар, яъни қор кўчиши, йўлни сув босиши, кўприкни сув олиб кетиши, радиация, заҳарли газлар тарқалиши, шу билан бирга, бошқа табиий ва техноген офатлар юз берган йўл қисмлари олдида ўрнатилади.&nbsp;</p><p>Ушбу йўл белгиси барча транспорт воситаларининг хавфли ҳудуддан ҳаракатланишларини тақиқлайди.</p>"
+                        }
+                    ]
+                },
+                "order": 18
+            },
+            {
+                "id": 410,
+                "name": {
+                    "uz": "3.17.3. «Nazorat joyi».",
+                    "ru": "3.17.3. «Контрольный пункт»",
+                    "kiril": "3.17.3. «Назорат жойи».",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-24_15-24-40_1713HYK3J7.png",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.17.3. «Nazorat joyi».</strong></li></ul><p><strong>3.17.3 «Nazorat joyi»</strong> yo‘l belgisi dumaloq shaklga va qizil hoshiyali oq fonga ega. Unda qora harflar bilan&nbsp;<strong>«STOP»</strong> va&nbsp;<strong>«NAZORAT»</strong> so‘zlari yozilgan.</p><p><strong>3.17.3 «Nazorat joyi»</strong> belgisi transport vositalarining tekshirib o‘tkazilishi majburiy bo‘lgan vaqtincha yoki doimiy nazorat punktlarida o‘rnatiladi. &nbsp;</p><p><strong>3.17.3</strong>&nbsp;belgisi haydovchining yo‘lda joylashgan nazorat punktida to‘xtamasdan o‘tishini taqiqlash zarurati bo‘lgan hollarda qo‘llaniladi. Bunday punkt YPX (Yo‘l-patrul xizmati) maskani yoki karantin posti bo‘lishi mumkin. <strong>3.17.3</strong> belgisi chegara hududlari oldida ham o‘rnatilishi mumkin.</p><p>Ushbu belgi, shuningdek, pullik yo‘llar yoki xususiy yo‘llardagi pullik punktlarga kirish joylarida ham o‘rnatilishi mumkin.</p><p>Ushbu belgi transport vositasini to‘xtash chizig‘ida to‘xtatish va agar to‘xtash chizig‘i bo‘lmasa, u holda belgidan yo‘lni perpendikulyar ravishda kesib o‘tadigan xayoliy chiziqda (ya’ni belgining to‘g‘risida) to‘xtatishni talab qiladi.</p><p><strong>«Nazorat joyi»</strong> belgisi ta’sir oralig‘ida haydovchilarning xatti-harakati bojxona punkti orqali harakatlanishdagi kabi bo‘lishi kerak. Haydovchi nazorat posti xodimlarining barcha qonuniy talablariga rioya qilishi, ularga tekshirish va qidiruv o‘tkazish imkoniyatini ta’minlashi hamda ularning ruxsati bilan harakatni to‘g‘ri yo‘nalishda davom ettirishi shart.</p><p>Odatda &nbsp;<strong>«Nazorat joyi»</strong> belgisi to‘g‘ridan to‘g‘ri nazorat punktida o‘rnatiladi. Ammo ba’zi hollarda uni oldindan takrorlash mumkin. Bunday holda, <strong>3.17.3</strong> &nbsp;belgisi, &nbsp;<strong>7.1.1 «Obyektgacha bo‘lgan masofa» </strong>qo‘shimcha axborot belgisi bilan birga o‘rnatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.17.3. «Место контроля».</strong></li></ul><p>Дорожный знак <strong>3.17.3 «Контроль»</strong> имеет круглую форму и белый фон с красной окантовкой. На котором черными буквами написаны слова «STOP» «NAZORAT».</p><p>Знак <strong>3.17.3 «Контроль»&nbsp;</strong>устанавливается на временных или постоянных контрольно-пропускных пунктах, где обязательна проверка транспортных средств.&nbsp;</p><p>Знак <strong>3.17.3&nbsp;</strong>используется в тех случаях, когда существует необходимость запретить водителю проезд без остановки на находящемся на дороге контрольном пункте. Таким пунктом может быть либо пост ДПС (Дорожно-Патрульная Служба), либо карантинный пост. Знак <strong>3.17.3</strong> может также устанавливаться перед приграничными зонами.</p><p>Этим знаком также обозначаются места въезда на пункты оплаты за проезд по платным или частным дорогам.</p><p>Этот знак требует, чтобы транспортное средство остановилось на стоп-линии, а если стоп-линии нет, то знак требует, чтобы транспортное средство остановилось на воображаемой линии, пересекающей дорогу перпендикулярно (то есть около знака).</p><p>Поведение водителей в зоне действия знака <strong>«Контроль»</strong> должно быть таким же, как и в случае проезда через таможенный пункт. Водитель обязан выполнять все законные требования сотрудников контрольного поста, предоставить им возможность произведения осмотра и досмотра и продолжать движение в нужном направлении лишь после их разрешения.</p><p>Обычно знак &nbsp;<strong>«Контроль»</strong> устанавливается непосредственно у контрольно-пропускного пункта. Но в ряде случаев он может быть и продублирован заранее. При этом знак &nbsp;<strong>3.17.3&nbsp;</strong> устанавливается совместно со знаком дополнительной информации &nbsp;<strong>7.1.1 «Расстояние до объекта»</strong></p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>3.17.3. «Назорат жойи».</strong></p><p>3.17.3 «Назорат жойи» йўл белгиси думалоқ шаклга ва қизил ҳошияли оқ фонга ега. Унда қора ҳарфлар билан «СТОП» ва «НAЗОРAТ» сўзлари ёзилган.</p><p>3.17.3 «Назорат жойи» белгиси транспорт воситаларининг текшириб ўтказилиши мажбурий бўлган вақтинча ёки доимий назорат пунктларида ўрнатилади. &nbsp;</p><p>3.17.3 белгиси ҳайдовчининг йўлда жойлашган назорат пунктида тўхтамасдан ўтишини тақиқлаш зарурати бўлган ҳолларда қўлланилади. Бундай пункт ЙПХ (Йўл-патрул хизмати) маскани ёки карантин пости бўлиши мумкин. 3.17.3 белгиси чегара ҳудудлари олдида ҳам ўрнатилиши мумкин.</p><p>Ушбу белги, шунингдек, пуллик йўллар ёки хусусий йўллардаги пуллик пунктларга кириш жойларида ҳам ўрнатилиши мумкин.</p><p>Ушбу белги транспорт воситасини тўхташ чизиғида тўхтатиш ва агар тўхташ чизиғи бўлмаса, у ҳолда белгидан йўлни перпендикуляр равишда кесиб ўтадиган хаёлий чизиқда (яъни белгининг тўғрисида) тўхтатишни талаб қилади.</p><p>«Назорат жойи» белгиси таъсир оралиғида ҳайдовчиларнинг хатти-ҳаракати божхона пункти орқали ҳаракатланишдаги каби бўлиши керак. Ҳайдовчи назорат пости ходимларининг барча қонуний талабларига риоя қилиши, уларга текшириш ва қидирув ўтказиш имкониятини таъминлаши ҳамда уларнинг рухсати билан ҳаракатни тўғри йўналишда давом еттириши шарт.</p><p>Одатда «Назорат жойи» белгиси тўғридан тўғри назорат пунктида ўрнатилади. Aммо баъзи ҳолларда уни олдиндан такрорлаш мумкин. Бундай ҳолда, 3.17.3 белгиси, 7.1.1 «Обйектгача бўлган масофа» қўшимча ахборот белгиси билан бирга ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 19
+            },
+            {
+                "id": 74,
+                "name": {
+                    "uz": "3.18.1. O’ngga burilish ta'qiqlanadi",
+                    "ru": "3.18.1. Поворот направо запрещен",
+                    "kiril": "3.18.1. Ўнгга бурилиш таъқиқланади",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.18.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.18.1.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.18.1. «O‘ngga burilish taqiqlangan».</strong></li></ul><p>Bu belgi yo‘l kesishmasi oldida o‘rnatiladi. Taqiqlovchi ushbu belgi yo‘nalishli transport vositalari, ya’ni avtobus, trolleybus, tramvay va yo‘nalishli taksilardan boshqa barcha transport vositalarining o‘ngga burilishini taqiqlaydi.&nbsp;Belgi o‘rnatilgan kesishmaning o‘zigagina ta’sir qiladi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.18.1.</strong>&nbsp; <strong>\"Поворот направо&nbsp;запрещен\"</strong></li></ul><p>Этот знак устанавливается перед перекрестком. Запрещающий знак запрещает разворот направо всем транспортным средствам, кроме общественного транспорта с обозначенным маршрутом, то есть автобусам, троллейбусам, трамваям и маршрутным такси. Знак влияет только на сам установленный перекресток.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.18.1. «Ўнгга бурилиш тақиқланган».</strong><br>&nbsp;</li></ul><p>Бу белги йўл кесишмаси олдида ўрнатилади. Тақиқловчи ушбу белги йўналишли транспорт воситалари, яъни автобус, троллейбус, трамвай ва йўналишли таксилардан бошқа барча транспорт воситаларининг ўнгга бурилишини тақиқлайди.&nbsp;Белги ўрнатилган кесишманинг ўзигагина таъсир қилади</p>"
+                        }
+                    ]
+                },
+                "order": 20
+            },
+            {
+                "id": 75,
+                "name": {
+                    "uz": "3.18.2. Chapga burilish taqiqlanadi",
+                    "ru": "3.18.2. Поворот налево запрещен",
+                    "kiril": "3.18.2. Чапга бурилиш тақиқланади",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.18.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.18.2.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.18.2.</strong>&nbsp;<strong>\"Chapga burilish taqiqlanadi\".</strong></li></ul><p>Bu belgi qatnov qismlarining qaysi kesishmasi oldiga o'rnatilsa, shu kesishmaga tatbiq etiladi va belgiga amal qilish yo'nalishli transport vositalariga ta'sir qilmaydi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.18.2. \"Поворот налево запрещен\"</strong></li></ul><p>Действие знака распространяется на пересечение проезжих частей, перед которыми установлен этот знак и не распространяется — на маршрутные транспортные средства.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.18.2. \"Чапга бурилиш тақиқланади\"</strong></li></ul><p>Бу белги қатнов қисмларининг қайси кесишмаси олдига ўрнатилса, шу кесишмага татбиқ этилади ва белгига амал қилиш йўналишли транспорт воситаларига таъсир қилмайди.</p>"
+                        }
+                    ]
+                },
+                "order": 21
+            },
+            {
+                "id": 76,
+                "name": {
+                    "uz": "3.19. Qayrilish ta'qiqlanadi",
+                    "ru": "3.19. Переворачивание запрещено",
+                    "kiril": "3.19. Қайрилиш таъқиқланади",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.19",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.19.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.19. “Qayrilish taqiqlangan” &nbsp;</strong></li></ul><p>Belgisi manevrni bajarish qiyin bo‘lgan yoki boshqa transport vositalarining harakati uchun xavf tug‘diradigan chorrahalarda qayrilishni taqiqlash uchun qo‘llanilishi kerak. U chorrahalar orasidagi yo‘l uchastkalarida ajratuvchi mintaqadagi bo‘shliqlar orqali&nbsp;qayrilishlarni taqiqlash uchun ishlatilmasligi kerak.Bu belgi o‘rnatilgan joyda faqat qayrilib olish taqiqlanadi, chapga burilish taqiqlanmaydi. Ushbu belgi talablariga amal qilmagan haydovchi, qayrilib olish boshqa transport vositalarining harakati uchun xavf tug‘diradigan chorrahada yo‘l-transport hodisasini keltirib chiqarishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.19 «Разворот запрещен»</strong></li></ul><p>Должен применятся для запрещения разворота на перекрестках, где этот маневр трудно выполним или создает опасность для движения других транспортных средств. Он не должен применятся для запрещения разворотов в разрывах разделительных полос на участках дорог между перекрестками. Там, где установлен этот знак, запрещен только разворот, поворот налево не запрещен. Водитель, не соблюдающий требования данного знака, может стать виновником дорожно-транспортного происшествия на перекрестке, разворот на котором создаст угрозу движению других транспортных средств.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.19. “Қайрилиш тақиқланган”&nbsp;</strong></li></ul><p>Белгиси маневрни бажариш қийин бўлган ёки бошқа транспорт воситаларининг ҳаракати учун хавф туғдирадиган чорраҳаларда қайрилишни тақиқлаш учун қўлланилиши керак. У чорраҳалар орасидаги йўл участкаларида ажратувчи минтақадаги бўшлиқлар орқали&nbsp;қайрилишларни тақиқлаш учун ишлатилмаслиги керак.Бу белги ўрнатилган жойда фақат қайрилиб олиш тақиқланади, чапга бурилиш тақиқланмайди. Ушбу белги талабларига амал қилмаган ҳайдовчи, қайрилиб олиш бошқа транспорт воситаларининг ҳаракати учун хавф туғдирадиган чорраҳада йўл-транспорт ҳодисасини келтириб чиқариши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 22
+            },
+            {
+                "id": 77,
+                "name": {
+                    "uz": "3.20. Quvib o’tish taqiqlanadi",
+                    "ru": "3.20. Обгон запрещен",
+                    "kiril": "3.20. Қувиб ўтиш тақиқланади",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.20",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.20.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.20. «Quvib o‘tish taqiqlangan»&nbsp;</strong></li></ul><p>belgisi harakat jadalligi yuqoriligi, qatnov qismi kengligi sababli transport vositalarining quvib o‘tishi qarama - qarshi yo‘nalishdagi yoki yo‘lakay yo‘nalishdagi boshqa transport vositalarining harakatlanishi uchun xafv tug‘dirishi mumkin bo‘lgan holatlarda qo‘llaniladi. <strong>3.20. «Quvib o‘tish taqiqlangan»</strong> belgisi, shuningdek, ko‘rinish cheklangan joylarda o‘rnatilishi mumkin, bunda belgining ta’sir oralig‘i yo‘lning xavfli hududi bilan belgilanadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.20. «Обгон запрещен»</strong>.</li></ul><p>Указывает, что запрещается обгон всех транспортных средств,&nbsp;за исключением одиночного транспортного средства, движущегося со скоростью менее 40 км/ч. Действие знака 3.20 распространяется от места установки знака&nbsp; до&nbsp; ближайшего&nbsp;перекрестка&nbsp; за&nbsp; знаком,&nbsp;а&nbsp; в&nbsp; населенном&nbsp;пункте&nbsp; при&nbsp; отсутствии&nbsp;перекрестка &nbsp;— до конца населенного пункта. При выездах с прилегающих территорий или при пересечениях (перекрестках) с полями, лесными и другими дорогами, не предназначенными для постоянного движения, если перед ними не установлены соответствующие знаки, действие знака 3.20 не исчезает.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.20. «Қувиб ўтиш тақиқланган»&nbsp;</strong></li></ul><p>белгиси ҳаракат жадаллиги юқорилиги, қатнов қисми кенглиги сабабли транспорт воситаларининг қувиб ўтиши қарама - қарши йўналишдаги ёки йўлакай йўналишдаги бошқа транспорт воситаларининг ҳаракатланиши учун хафв туғдириши мумкин бўлган ҳолатларда қўлланилади.<strong> 3.20. «Қувиб ўтиш тақиқланган»</strong> белгиси, шунингдек, кўриниш чекланган жойларда ўрнатилиши мумкин, бунда белгининг таъсир оралиғи йўлнинг хавфли ҳудуди билан белгиланади.</p>"
+                        }
+                    ]
+                },
+                "order": 23
+            },
+            {
+                "id": 78,
+                "name": {
+                    "uz": "3.21. Quvib o’tish ta'qiqlangan hududning oxiri",
+                    "ru": "3.21. Конец запретной зоны",
+                    "kiril": "3.21. Қувиб ўтиш таъқиқланган ҳудуднинг охири",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.21",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.21.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.21. «Quvib o‘tish taqiqlangan hududning oxiri».</strong></li></ul><p>Bu belgi 3.20. «Quvib o‘tish taqiqlangan» belgisi bilan qo‘yilgan, soatiga 40 km dan kam tezlikda harakatlanayotgan yakka transport vositasidan boshqa transport vositalarini quvib o‘tish taqiqlangan cheklovni bekor qiladi. Belgidan so‘ng yo‘lning ushbu qismida harakatlanayotgan transport vositalari barcha turdagi transport vositalarini qoidada belgilangan tartibda quvib o‘tishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.21. «Конец зоны запрещения обгона».</strong></li></ul><p>Этот знак отменяет запрет на обгон отмеченных знаком 3.20. «Обгон запрещен», кроме одиночных транспортных средств со скоростью менее 40 км/ч. После знака транспортные средства, движущиеся по данному участку дороги, могут обгонять все виды транспортных средств в соответствии с правилами.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.21. «Қувиб ўтиш тақиқланган ҳудуднинг охири».</strong></li></ul><p>Бу белги 3.20. «Қувиб ўтиш тақиқланган» белгиси билан қўйилган, соатига 40 км дан кам тезликда ҳаракатланаётган якка транспорт воситасидан бошқа транспорт воситаларини қувиб ўтиш тақиқланган чекловни бекор қилади. Белгидан сўнг йўлнинг ушбу қисмида ҳаракатланаётган транспорт воситалари барча турдаги транспорт воситаларини қоидада белгиланган тартибда қувиб ўтиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 24
+            },
+            {
+                "id": 79,
+                "name": {
+                    "uz": "3.22. Yuk avtomobillarida quvib o’tish taqiqlangan",
+                    "ru": "3.22. Запрещено преследовать грузовики",
+                    "kiril": "3.22. Юк автомобилларида қувиб ўтиш тақиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.22",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.22.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.22. \"Yuk avtomobillarida quvib o‘tish taqiqlangan\"</strong></li></ul><p>Ushbu belgi ruxsat etilgan to‘la vazni 3.5 tonnadan ortiq bo‘lgan yuk avtomobillarida barcha transport vositalarini quvib o‘tishni taqiqlaydi. Lekin soatiga 40 km.dan kam tezlikda yakka tartibda harakatlanayotgan transport vositalarini quvib o‘tishga ruxsat etiladi. Bu belgi birinchi chorrahagacha va 3.23. \"Yuk avtomobillarida quvib o‘tish taqiqlangan hududning oxiri\" belgisi o‘rnatilgan joygacha amal qiladi. Agar chorraha va \"Yuk avtomobillarida quvib o‘tish taqiqlangan hududning oxiri\" yo‘l belgisi bo‘lmasa, belgining aholi yashaydigan joylarning oxirigacha amal qiladi.</p><p>Transport vositalarini quvib o‘tish qoidasini buzgan haydovchi eng kam oylik ish haqining 0,5 baravari miqdorida jarimaga tortiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.22.</strong>&nbsp;<strong>\"Обгон&nbsp;грузовым&nbsp;автомобилям&nbsp;запрещен\"</strong></li></ul><p>Этот знак запрещает обгон всех транспортных средств на грузовых автомобилях с разрешенной полной массой более 3.5 тонн.&nbsp;Но разрешается обгонять транспортные средства которые движутся не больше 40км/в час<strong>.</strong>&nbsp; 3.23. Знак\" Конец территории, запрещенной для обгона грузовых автомобилей \" действует до момента установки. При отсутствии перекрестка и дорожного знака \"конец территории, на которой запрещен обгон грузовых автомобилей\" знак действует до конца населенных пунктов.</p><p>Водитель, нарушивший правила обгона транспортных средств, подлежит штрафу в размере 0,5 минимального размера оплаты труда.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.22. \"Юк автомобилларида қувиб ўтиш тақиқланган\"</strong></li></ul><p>Ушбу белги рухсат этилган тўла вазни 3.5 тоннадан ортиқ бўлган юк автомобилларида барча транспорт воситаларини қувиб ўтишни тақиқлайди. Лекин соатига 40 км.дан кам тезликда якка тартибда ҳаракатланаётган транспорт воситаларини қувиб ўтишга рухсат этилади. Бу белги биринчи чорраҳагача ва 3.23. \"Юк автомобилларида қувиб ўтиш тақиқланган ҳудуднинг охири\" белгиси ўрнатилган жойгача амал қилади. Агар чорраҳа ва \"Юк автомобилларида қувиб ўтиш тақиқланган ҳудуднинг охири\" йўл белгиси бўлмаса, белгининг аҳоли яшайдиган жойларнинг охиригача амал қилади.</p><p>Транспорт воситаларини қувиб ўтиш қоидасини бузган ҳайдовчи энг кам ойлик иш ҳақининг 0,5 баравари миқдорида жаримага тортилади.</p>"
+                        }
+                    ]
+                },
+                "order": 25
+            },
+            {
+                "id": 80,
+                "name": {
+                    "uz": "3.23. Yuk avtommobillarida quvib o’tish taqiqlangan hududning oxiri",
+                    "ru": "3.23. Конец зоны, где запрещено преследовать грузовики",
+                    "kiril": "3.23. Юк автоммобилларида қувиб ўтиш тақиқланган ҳудуднинг охири",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.23",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.23.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.23. \"Yuk avtomobillarida quvib o‘tish taqiqlangan hududning oxiri\"</strong></li></ul><p>Bu belgi transport vositalariga 3.22. \"Yuk avtomobillarida quvib o‘tish taqiqlangan\" belgisi bilan qo‘yilgan cheklovni bekor qiladi. Yo‘lning bu qismida harakatlanayotgan yuk avtomobillari barcha turdagi transport vositalarini qoidada belgilangan tartibda quvib o‘tishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.23. «Конец запретной зоны для грузовиков»</strong></li></ul><p>Этот знак относится к транспортным средствам 3.22. Он отменяет ограничение со знаком «Гонка на грузовиках запрещена». Грузовые автомобили, движущиеся по данному участку дороги, могут обгонять все виды транспортных средств в порядке, установленном правилами.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.23. \"Юк автомобилларида қувиб ўтиш тақиқланган ҳудуднинг охири\"</strong></li></ul><p>Бу белги транспорт воситаларига 3.22. \"Юк автомобилларида қувиб ўтиш тақиқланган\" белгиси билан қўйилган чекловни бекор қилади. Йўлнинг бу қисмида ҳаракатланаётган юк автомобиллари барча турдаги транспорт воситаларини қоидада белгиланган тартибда қувиб ўтиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 26
+            },
+            {
+                "id": 81,
+                "name": {
+                    "uz": "3.24. Yuqori tezlik cheklangan",
+                    "ru": "3.24. Высокая скорость ограничена",
+                    "kiril": "3.24. Юқори тезлик чекланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.24",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.24.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.24. \"Yuqori tezlik cheklangan\"</strong></li></ul><p>belgisi doira shaklida va unda yo‘lning ushbu qismida ruxsat etilgan maksimal tezlik ko‘rsatilgan qizil hoshiyali oq fonga ega.<strong> 3.24 «Yuqori tezlik cheklangan»</strong> belgisi ko‘rsatilganidan ortiq tezlikda (km/s) harakatlanish taqiqlanishini bildiradi.</p><p>Yo‘l-transport hodisalarining eng ko‘p uchraydigan sabablaridan biri bu tezlikni oshirishdir. Shu sababli transport vositalarining tezligini cheklash yo‘l harakati xavfsizligini ta’minlashning eng muhim chorasidir. Shuning uchun 3.24 belgisi amaliyotida eng ko‘p qo‘llaniladigan belgilardan hisoblanadi. Belgining talablari juda oddiy: har qanday transport vositasining haydovchisiga belgida belgilangan maksimal tezlik chegarasidan oshib ketishi qat’iyan man qilinadi.</p><p><strong>«Yuqori tezlik cheklangan» </strong>belgisining ta’sir oralig‘iga kelsak, u to‘g‘ridan to‘g‘ri belgi joylashgan joydan boshlanadi. Ammo bu hududning oxiri bir necha usullar yordamida ko‘rsatilishi mumkin.</p><p>Birinchidan, <strong>«Yuqori tezlik cheklangan»</strong> belgisi harakatlanish yo‘nalishida yangi tezlikni cheklovchi belgi o‘rnatilmagan bo‘lsa keyingi chorrahalarda yoki aholi punkti oxirida ta’sirini to‘xtatadi. Yangi aholi punktining boshlanishi ham belgi tugaydigan joy bo‘lishi mumkin. Ikkinchidan, <strong>3.24</strong> belgisining ta’sir oxiri <strong>3.25 «Yuqori tezlik cheklangan hududning oxiri»</strong> belgisi yoki <strong>3.31 «Barcha cheklovlarning oxiri»</strong> belgisi bilan belgilanishi mumkin.</p><p>Uchinchidan, belgi ta’siri shu turdagi boshqa tezlik chegarasi ko‘rsatilgan, belgining o‘rnatilishi orqali tugatilishi mumkin. To‘rtinchidan, <strong>3.24</strong> belgisining ta’sir oralig‘i <strong>7.2.1 «Ta’sir oralig‘i»</strong> qo‘shimcha axborot belgisi bilan ko‘rsatilishi mumkin, bu belgining aniq ta’sir masofasini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.24.</strong> <strong>\"Ограничение&nbsp;максимальной скорости\"&nbsp;</strong></li></ul><p>Знак имеет круглую форму и белый фон с красной окантовкой, на котором указана максимально допустимая на данном участке дороги скорость. Знак&nbsp;<strong>3.24 «Ограничение максимальной скорости»</strong> запрещается движение со скоростью (км/ч), превышающей указанную на знаке. Одной из самых частых причин дорожных аварий является нарушение скоростного режима. В связи с этим, ограничение скорости передвижения транспортных средств является важнейшей мерой обеспечения безопасного дорожного движения. Именно поэтому дорожный знак&nbsp;<strong>3.24&nbsp;</strong>является одним из самых применяемых в дорожной практике. Требования знака предельно просты: водителю любого транспортного средства категорически запрещается превышать лимит максимальной скорости, установленный знаком.</p><p>Что касается зоны действия знака&nbsp;<strong>«Ограничение максимальной скорости»</strong>, то она начинается непосредственно в месте нахождения знака. А вот окончание этой зоны может быть обозначено при помощи нескольких способов. Во-первых, знак&nbsp;<strong>«Ограничение максимальной скорости»</strong>, прекращает своё действие за следующим по ходу движения перекрёстком или в конце населённого пункта, если в этих точках не установлен новый ограничительный знак. Начало нового населённого пункта тоже может быть местом прекращения действия знака. Во-вторых, окончание зоны действия знака <strong>3.24</strong> может быть отмечено знаком <strong>3.25 «Конец зоны ограничения максимальной скорости»</strong> или знаком <strong>3.31 «Конец зоны всех ограничений»</strong>. В третьих, действие знака может быть прекращено путём установки другого такого же знака, но уже с другими показателями максимальной скорости.</p><p>В четвёртых, зона действия знака <strong>3.24</strong> может быть обозначена его сочетанием с табличкой <strong>7.2.1 «Зона действия»</strong>, на которой указывается точное расстояние, на котором действует знак.&nbsp;</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.24 «Юқори тезлик чекланган»</strong></li></ul><p>белгиси доира шаклида ва унда йўлнинг ушбу қисмида рухсат этилган максимал тезлик кўрсатилган қизил ҳошияли оқ фонга эга. <strong>3.24 «Юқори тезлик чекланган»</strong> белгиси кўрсатилганидан ортиқ тезликда (км/с) ҳаракатланиш тақиқланишини билдиради.</p><p>Йўл-транспорт ҳодисаларининг энг кўп учрайдиган сабабларидан бири бу тезликни оширишдир. Шу сабабли транспорт воситаларининг тезлигини чеклаш йўл ҳаракати хавфсизлигини таъминлашнинг энг муҳим чорасидир. Шунинг учун <strong>3.24&nbsp;</strong>белгиси амалиётида энг кўп қўлланиладиган белгилардан ҳисобланади. Белгининг талаблари жуда оддий: ҳар қандай транспорт воситасининг ҳайдовчисига белгида белгиланган максимал тезлик чегарасидан ошиб кетиши қатъиян ман қилинади.</p><p><strong>«Юқори тезлик чекланган»</strong> белгисининг таъсир оралиғига келсак, у тўғридан-тўғри белги жойлашган жойдан бошланади. Аммо бу ҳудуднинг охири бир неча усуллар ёрдамида кўрсатилиши мумкин. Биринчидан, <strong>«Юқори тезлик чекланган»</strong> белгиси ҳаракатланиш йўналишида янги тезликни чекловчи белги ўрнатилмаган бўлса кейинги чорраҳаларда ёки аҳоли пункти охирида таъсирини тўхтатади. Янги аҳоли пунктининг бошланиши ҳам белги тугайдиган жой бўлиши мумкин.</p><p>Иккинчидан, <strong>3.24 </strong>белгисининг таъсир охири <strong>3.25 «Юқори тезлик чекланган ҳудуднинг охири»</strong> белгиси ёки <strong>3.31 «Барча чекловларнинг охири»</strong> белгиси билан белгиланиши мумкин. Учинчидан, белги таъсири шу турдаги бошқа тезлик чегараси кўрсатилган, белгининг ўрнатилиши орқали тугатилиши мумкин.</p><p>Тўртинчидан, <strong>3.24</strong> белгисининг таъсир оралиғи <strong>7.2.1 «Таъсир оралиғи»</strong> қўшимча ахборот белгиси билан кўрсатилиши мумкин, бу белгининг аниқ таъсир масофасини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 27
+            },
+            {
+                "id": 82,
+                "name": {
+                    "uz": "3.25. Yuqori tezlik cheklangan hududning oxiri",
+                    "ru": "3.25. Конец зоны с ограниченным доступом к высокой скорости",
+                    "kiril": "3.25. Юқори тезлик чекланган ҳудуднинг охири",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.25",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.25.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.25. \"Yuqori tezlik cheklangan hududning oxiri\"</strong></li></ul><p><strong>3.25 «Yuqori tezlik cheklangan hududning oxiri»</strong> belgisi qora hoshiyali doira shaklida bo‘lib, oq fonda kulrang rangda oldin o‘rnatilgan <strong>3.24</strong> belgidagi raqamlar ko‘rsatilgan va beshta ingichka dioganal chiziqlar chizilgan. &nbsp;</p><p><strong>3.24 «Yuqori tezlik cheklangan»</strong> belgisi ta'sir oxirini ko‘rsatuvchi usullardan biri, bu 3.25 «Yuqori tezlik cheklangan hududning oxiri» belgisini o‘rnatish hisoblanadi. <strong>3.25 «Yuqori tezlik cheklangan hududning oxiri»</strong> belgisi <strong>3.24 «Yuqori tezlik cheklangan»</strong> belgisining ta'sirini keyingi chorrahagacha yoki aholi punktining oxirigacha davom ettirishga zarurat qolmagan holatlarda o‘rnatiladi. &nbsp;</p><p>Biroq tezlik chegarasining bekor qilinishi haydovchi o‘zi uchun qulay bo‘lgan istalgan tezlikda harakatlana oladi, degani emas, chunki yo‘llarda belgilangan tezlik chegaralari mavjud. Masalan, yengil avtomobillar va ruxsat etilgan to‘la vazni 3,5 tonnadan ortiq bo‘lmagan yuk avtomobillariga aholi punktlarida 70 km/soatdan oshirib, aholi punktlaridan tashqarida 100 km/soatdan yuqori, turar joy dahalarida esa 20 km/soatdan yuqori tezlikda harakatlanish taqiqlanadi. Turli toifadagi transport vositalari uchun yuqori tezlik ko‘rsatkichlari turli xil.</p><p>Har ikki yo‘nalishda harakatlanish uchun bir, ikki yoki uch tasmali yo‘llarda 3.25 belgisi faqat yo‘lning chap tomonida, qarama-qarshi yo‘nalishda harakatlanadigan transport vositalarining haydovchilari uchun mo‘ljallangan 3.24 belgisining teskari tomonida o‘rnatilishi mumkin.</p><p><strong>«Yuqori tezlik cheklangan hududning oxiri»</strong> belgisi nafaqat yo‘lning chap tomoniga, balki o‘ng tomoniga ham o‘rnatilishi mumkin. Bu haydovchiga<strong> «Yuqori tezlik cheklangan» </strong>belgisining ta'siri tugaganligi to‘g‘risida tezda xabardor qilish uchun amalga oshiriladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.25 \"Конец зоны ограничения максимальной скорости\"</strong></li></ul><p>Знак <strong>3.25 «Конец зоны ограничения максимальной скорости»&nbsp;</strong>имеет круглую форму и белый фон с чёрной окантовкой, на котором изображены указанные на предыдущем знаке <strong>3.24</strong> цифры серого цвета, перечёркнутые пять параллельными тонкими диагональными линиями чёрного цвета.</p><p>Одним из способов отметить место завершения зоны действия знака <strong>3.24 «Ограничение максимальной скорости»</strong> является установка дорожного знака <strong>3.25 «Конец зоны ограничения максимальной скорости».</strong> Знак <strong>3.25 «Конец зоны ограничения максимальной скорости»</strong> устанавливается в тех случаях, когда нет необходимости в действии знака <strong>3.24 «Ограничение максимальной скорости»</strong> до начала следующего перекрёстка или же окончания населённого пункта.</p><p>Однако отмена ограничения скорости не означает того, что водитель может двигаться с любой удобной для него скоростью, ведь имеются скоростные ограничения, действующие на дорогах по умолчанию. Например, для легковых автомобилей и грузовых автомобилей с разрешённой максимальной массой не более 3,5 тонн в черте населённого пункта запрещается двигаться со скоростью, превышающей 70 км/ч, на дорогах за границей населённых пунктов – не выше 100 км/ч, а на дворовых территориях и в жилых зонах нельзя ездить со скоростью выше 20 км/ч. Для различных категорий транспортных средств показатели максимальной скорости движения различны. На дорогах с одной, двумя или тремя полосами для движения в обоих направлениях знак <strong>3.25</strong> допускается располагать только с левой стороны дороги, на оборотной стороне знака <strong>3.24</strong>, предназначенных для водителей транспортных средств, движущихся во встречном направлении. Знак <strong>«Конец зоны ограничения максимальной скорости» </strong>может устанавливаться не только на левой стороне дороги, но и на правой. Это делается для того, чтобы своевременно проинформировать водителя о том, что действие знака &nbsp;<strong>«Ограничение максимальной скорости» </strong>прекращено.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.25. \"Юқори тезлик чекланган ҳудуднинг охири\"</strong></li></ul><p><strong>3.25 «Юқори тезлик чекланган ҳудуднинг охири»&nbsp;</strong>белгиси қора ҳошияли доира шаклида бўлиб, оқ фонда кулранг рангда олдин ўрнатилган <strong>3.24</strong> белгидаги рақамлар кўрсатилган ва бешта ингичка диоганал чизиқлар чизилган.&nbsp;</p><p><strong>3.24 «Юқори тезлик чекланган»&nbsp;</strong>белгиси таъсир охирини кўрсатувчи усуллардан бири, бу <strong>3.25 «Юқори тезлик чекланган ҳудуднинг охири»&nbsp;</strong>белгисини ўрнатиш ҳисобланади.<strong> 3.25 «Юқори тезлик чекланган ҳудуднинг охири»&nbsp;</strong>белгиси&nbsp;<strong>3.24 «Юқори тезлик чекланган»&nbsp;</strong>белгисининг таъсирини кейинги чорраҳагача ёки аҳоли пунктининг охиригача давом эттиришга зарурат қолмаган ҳолатларда ўрнатилади.&nbsp;</p><p>Бироқ тезлик чегарасининг бекор қилиниши ҳайдовчи ўзи учун қулай бўлган исталган тезликда ҳаракатлана олади, дегани эмас, чунки йўлларда белгиланган тезлик чегаралари мавжуд. Масалан, енгил автомобиллар ва рухсат этилган тўла вазни 3,5 тоннадан ортиқ бўлмаган юк автомобилларига аҳоли пунктларида 70 км/соатдан ошириб, аҳоли пунктларидан ташқарида 100 км/соатдан юқори, турар жой даҳаларида эса 20 км/соатдан юқори тезликда ҳаракатланиш тақиқланади. Турли тоифадаги транспорт воситалари учун юқори тезлик кўрсаткичлари турли хил.</p><p>Ҳар икки йўналишда ҳаракатланиш учун бир, икки ёки уч тасмали йўлларда <strong>3.25</strong> белгиси фақат йўлнинг чап томонида, қарама-қарши йўналишда ҳаракатланадиган транспорт воситаларининг ҳайдовчилари учун мўлжалланган <strong>3.24</strong> белгисининг тескари томонида ўрнатилиши мумкин. <strong>«Юқори тезлик чекланган ҳудуднинг охири» </strong>белгиси нафақат йўлнинг чап томонига, балки ўнг томонига ҳам ўрнатилиши мумкин. Бу ҳайдовчига &nbsp;<strong>«Юқори тезлик чекланган» </strong>белгисининг таъсири тугаганлиги тўғрисида тезда хабардор қилиш учун амалга оширилади.</p>"
+                        }
+                    ]
+                },
+                "order": 28
+            },
+            {
+                "id": 83,
+                "name": {
+                    "uz": "3.26. Tovuch moslamalaridan foydalanish ta'qiqlangan",
+                    "ru": "3.26. Запрещается использование приборов для курицы.",
+                    "kiril": "3.26. Товуч мосламаларидан фойдаланиш таъқиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.26",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.26.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.26. \"Tovush moslamalaridan foydalanish taqiqlangan\"</strong></li></ul><p>Bu belgi yo'l-transport hodisasining oldini olish hollaridan boshqa vaziyatlarda, tovush moslamalaridan foydalanishni taqiqlaydi. Ushbu belgi aholi yashash joylaridan tashqarida, dam olish uylari, kasalxonalar, sanatoriyalar, bolalar dam olish oromgohlari oldida o'rnatiladi. Aholi yashaydigan joylarda belgi o'rnatilmasada, sababsiz tovush moslamalaridan foydalanish taqiqlangan.</p><p>Yo'l belgilari qoidalariga amal qilmaganlik uchun eng kam ish haqining 0,5 baravari miqdorida jarima belgilanadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.26. \"Подача звукового сигнала запрещена\"&nbsp;</strong></li></ul><p>Запрещается пользоваться звуковыми сигналами, кроме тех случаев, когда сигнал подается для предотвращения дорожно- транспортного происшествия. За несоблюдение правил дорожного движения установлен штраф в размере 0,5 минимального размера оплаты труда.</p><p>За несоблюдение правил дорожного движения налагается штраф в размере 0,5 минимального размера оплаты труда.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.26. \"Товуш мосламаларидан фойдаланиш тақиқланган\"</strong></li></ul><p>Бу белги йўл-транспорт ҳодисасининг олдини олиш ҳолларидан бошқа вазиятларда, товуш мосламаларидан фойдаланишни тақиқлайди. Ушбу белги аҳоли яшаш жойларидан ташқарида, дам олиш уйлари, касалхоналар, санаториялар, болалар дам олиш оромгоҳлари олдида ўрнатилади. Аҳоли яшайдиган жойларда белги ўрнатилмасада, сабабсиз товуш мосламаларидан фойдаланиш тақиқланган.</p><p>Йўл белгилари қоидаларига амал қилмаганлик учун энг кам иш ҳақининг 0,5 баравари миқдорида жарима белгиланади.</p>"
+                        }
+                    ]
+                },
+                "order": 29
+            },
+            {
+                "id": 84,
+                "name": {
+                    "uz": "3.27. To’xtash taqiqlangan",
+                    "ru": "3.27. Парковка запрещена",
+                    "kiril": "3.27. Тўхташ тақиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.27",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.27.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.27 «To‘xtash taqiqlangan»&nbsp;</strong></li></ul><p>belgisi qizil hoshiyali doira shaklida. Biroq belgi foni oq emas ko‘k rangda. Belgi doirasi bo‘ylab X (iks) shaklida ikkita qizil rangli dioganal chiziqlar tortilgan.</p><p><strong>3.27 «To‘xtash taqiqlangan»</strong> yo‘l belgisi yo‘l harakati qatnashchilariga ushbu joyda to‘xtashga ruxsat etilmaganligini bildiradi. Ushbu belgi avtomobillarning boshqa transport vositalariga xalaqit bermasligini ta’minlash uchun o‘rnatiladi.</p><p>Avtomobil – bu harakatlanish uchun mo‘ljallangan qurilma. Ammo ba’zida avtomobil ham to‘xtashi kerak. Yo‘l harakati qoidalarida bunday holatlar to‘xtash yoki to‘xtab turish deb ataladi. Shunday vaziyatlar bo‘ladiki, ba’zan avtomobillar yo‘lning u yoki bu qismida noo‘rin to‘xtashadi, chunki, bu boshqa avtomoballar harakatiga to‘sqinlik tug‘dirishi, tirbandlikka yoki yo‘l – transport hodisasiga sabab bo‘lishi mumkin.</p><p>Avtotransport vositalarini to‘xtash yoki to‘xtab turishi taqiqlangan holatlar Yo‘l harakati qoidalarida batafsil ko‘rsatilgan. Biroq, qandaydir joylarda to‘xtash taqiqlanishi kerak bo‘lgan holatlar bo‘lishi mumkin. Bunday joylar <strong>3.27 «To‘xtash taqiqlangan»</strong> yo‘l belgisi bilan belgilanadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>Знак</strong>&nbsp;<strong>3.27 «Остановка запрещена»</strong></li></ul><p>имеет круглую форму и красную окантовку. Однако фон у него не белый, а синий. По кругу знака проведены две красные диагональные линии в виде буквы Х (икс). Дорожный знак <strong>3.27 «Остановка запрещена»</strong> указывает участникам движения, что в этом месте парковка не разрешается. Данный знак устанавливается для того, чтобы машины не создавали помех другим транспортным средствам.</p><p>Автомобиль - это устройство, созданное для движения. Но иногда и автомобилю необходимо остановиться. В правилах дорожного движения такие явления называются остановкой или стоянкой. И случаются ситуации, когда остановка автомобиля является на том или ином участке дороги нежелательной, поскольку может создать проблемы для движения других автомобилей, затор или даже аварийную ситуацию.</p><p>Участки дороги, на которых запрещена стоянка или остановка транспортных средств, подробно прописаны в Правилах дорожного движения. Однако могут быть ситуации, когда остановку необходимо запретить и в каком – либо другом месте. Такие участки обозначаются дорожным знаком <strong>3.27 «Остановка запрещена»</strong>.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.27 «Тўхташ тақиқланган»</strong></li></ul><p>белгиси қизил ҳошияли доира шаклида. Бироқ белги фони оқ эмас кўк рангда. Белги доираси бўйлаб X (икс) шаклида иккита қизил рангли диоганал чизиқлар тортилган.</p><p><strong>3.27 «Тўхташ тақиқланган»</strong> йўл белгиси йўл ҳаракати қатнашчиларига ушбу жойда тўхташга рухсат этилмаганлигини билдиради. Ушбу белги автомобилларнинг бошқа транспорт воситаларига халақит бермаслигини таъминлаш учун ўрнатилади. Автомобил – бу ҳаракатланиш учун мўлжалланган қурилма. Аммо баъзида автомобил ҳам тўхташи керак. Йўл ҳаракати қоидаларида бундай ҳолатлар тўхташ ёки тўхтаб туриш деб аталади. Шундай вазиятлар бўладики, баъзан автомобиллар йўлнинг у ёки бу қисмида ноўрин тўхташади, чунки, бу бошқа автомобаллар ҳаракатига тўсқинлик туғдириши, тирбандликка ёки йўл – транспорт ҳодисасига сабаб бўлиши мумкин.</p><p>Автотранспорт воситаларини тўхташ ёки тўхтаб туриши тақиқланган ҳолатлар Йўл ҳаракати қоидаларида батафсил кўрсатилган. Бироқ, қандайдир жойларда тўхташ тақиқланиши керак бўлган ҳолатлар бўлиши мумкин. Бундай жойлар <strong>3.27 «Тўхташ тақиқланган»</strong>&nbsp;йўл белгиси билан белгиланади.</p>"
+                        }
+                    ]
+                },
+                "order": 30
+            },
+            {
+                "id": 85,
+                "name": {
+                    "uz": "3.28. To’xtab turish ta'qiqlangan",
+                    "ru": "3.28. Парковка запрещена",
+                    "kiril": "3.28. Тўхтаб туриш таъқиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.28",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.28.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.28. \"To'xtab turish taqiqlangan\"</strong></li></ul><p>Transport vositalarining to‘xtab turishi taqiqlanadi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xizmat vazifasini bajarayotgan xodimga biriktirilgan ko‘k yoki qizil yoxud ko‘k va qizil rangli yaltiroq mayoqchasi bilan jihozlangan hamda maxsus rangli bo‘yoq sxemalar va yozuvlar bilan belgilangan transport vositalari bundan mustasno).Ushbu Qoidalarning 176-bandiga binoan «Nogiron» tanish belgisi bilan belgilangan avtomobillar va kajavali mototsikllarni boshqarayotgan nogiron haydovchilar belgi talablaridan chetga chiqishlari mumkin. Bu belgi taksometri ishlab turgan taksilarga taalluqli emas.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.28.</strong> <strong>\"Стоянка запрещена\"&nbsp;</strong></li></ul><p>Запрещается стоянка транспортных средств. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (за исключением транспортных средств, оборудованных проблесковым маячком синего или синего и красного цветов, маркированным специальными цветовыми схемами и надписями прикрепленным к сотруднику выполняющую служебное задание).Автомобили и мотоциклы с коляской, оборудованные опознавательным знаком «Инвалид» в соответствии с пунктом 176 настоящих Правил, управляемые инвалидами, могут отступать от требования знака 3.28. Знак не действуют на такси с включенным таксометром.&nbsp;</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.28. \"Тўхтаб туриш тақиқланган\"</strong></li></ul><p>Транспорт воситаларининг тўхтаб туриши тақиқланади &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (хизмат вазифасини бажараётган ходимга бириктирилган кўк ёки қизил ёхуд кўк ва қизил рангли ялтироқ маёқчаси билан жиҳозланган ҳамда махсус рангли бўёқ схемалар ва ёзувлар билан белгиланган транспорт воситалари бундан мустасно).Ушбу Қоидаларнинг 176-бандига биноан «Ногирон» таниш белгиси билан белгиланган автомобиллар ва кажавали мотоциклларни бошқараётган ногирон ҳайдовчилар белги талабларидан четга чиқишлари мумкин. Бу белги таксометри ишлаб турган таксиларга тааллуқли эмас.</p>"
+                        }
+                    ]
+                },
+                "order": 31
+            },
+            {
+                "id": 86,
+                "name": {
+                    "uz": "3.29. Oyning toq kunlarida to’xtab turish taqiqlanadi",
+                    "ru": "3.29. Запрещено останавливаться в нечетные дни месяца.",
+                    "kiril": "3.29. Ойнинг тоқ кунларида тўхтаб туриш тақиқланади",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.29",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.29.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.29. \"Oyning toq kunlarida to'xtab turish taqiqlanadi\" va 3.30. \"Oyning juft kunlarida to'xtab turish taqiqlanadi\"</strong></li></ul><p><strong>3.29 «Oyning toq kunlarida to‘xtab turish taqiqlangan»</strong> belgisi qizil chiziq tortilgan, qizil hoshiyali ko‘k fon va uning markazida vertikal oq chiziq tortilgan ko‘rinishga ega.</p><p><strong>3.29 «Oyning toq kunlarida to‘xtab turish taqiqlangan»</strong> belgisi oyning oq kunlarida (sanalarida) transport vositalarining belgi ta'sir oralig‘ida to‘xtab turishini taqiqlaydi.</p><p><strong>3.29</strong> belgisi odatda qarama-qarshi harakatlanayotgan transport vositalarini aylanib o‘tish qiyin bo‘lishi mumkin bo‘lgan yo‘llarning tor hududlarida, shuningdek, ma'muriy binolar, turli muassasalar, supermarketlar va boshqa joylarda transport vositalarining to‘xtab turishi zurur bo‘lgan joylarda o‘rnatiladi. Yo‘lning ikki tomonida to‘xtab qolgan avtomobillar harakatga sezilarli darajada to‘sqinlik qilishi mumkin, ayni paytda yo‘lning faqat bir tomonida to‘xtab turish, transport harakati uchun muammo tug‘dirmaydi. Shuning uchun <strong>3.29 «Oyning toq kunlarida to‘xtab turish taqiqlangan»</strong> belgisi ko‘pincha yo‘lning bir tomoniga, ikkinchi tomoniga esa <strong>3.30 «Oyning juft kunlarida to‘xtab turish taqiqlangan» </strong>belgisi o‘rnatiladi. Shunday qilib, ma'lum bir muvozanatga erishiladi va transport vositalari mumkin qadar to‘siqsiz harakatlana oladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.29.&nbsp;\"Стоянка&nbsp;запрещена&nbsp;по нечетным числам месяца\" и 3.30. \"Стоянка&nbsp;запрещена&nbsp;по четным числам месяца\"</strong></li></ul><p>Знак <strong>3.29 «Стоянка запрещена по нечетным числам месяца»</strong> имеет синий круг с красной окантовкой, «перечёркнутый» красной полосой,&nbsp;в его центре имеется вертикальная белая полоска.&nbsp;</p><p>Знак <strong>3.29 «Стоянка запрещена по нечетным числам месяца»&nbsp;</strong>запрещает стоянку транспортных средств в пределах зоны действия знака в нечетные дни (числа) месяца.</p><p>Знак <strong>3.29</strong> обычно устанавливается на узких участках дорог, где может быть затруднён разъезд встречно двигающегося транспортного средство, а также в местах скопления офисных зданий, различных учреждений, супермаркетов и других мест, которые предполагают парковку транспортного средство. Припаркованные с обеих сторон дороги автомобили могут существенно помешать дорожному движению, тогда как парковка только с одной стороны дороги проблем для трафика не составит. Поэтому этом зачастую знак <strong>3.29 «Стоянка запрещена по нечётным числам месяца»</strong> устанавливается на одной стороне дороги, а знак <strong>3.30 «Стоянка запрещена по чётным числам месяца»</strong> - на другой. Таким образом достигается некий баланс и транспортное средство имеет возможность двигаться более-менее беспрепятственно.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.29. \"Ойнинг тоқ кунларида тўхтаб туриш тақиқланади\" ва 3.30. \"Oйнинг жуфт кунларида тўхтаб туриш тақиқланади\"</strong></li></ul><p><strong>3.29 «Ойнинг тоқ кунларида тўхтаб туриш тақиқланган»</strong>&nbsp;белгиси қизил чизиқ тортилган, қизил ҳошияли кўк фон ва унинг марказида вертикал оқ чизиқ тортилган кўринишга эга. <strong>3.29 «Ойнинг тоқ кунларида тўхтаб туриш тақиқланган»</strong> белгиси ойнинг оқ кунларида (саналарида) транспорт воситаларининг белги таъсир оралиғида тўхтаб туришини тақиқлайди.</p><p><strong>3.29</strong> белгиси одатда қарама-қарши ҳаракатланаётган транспорт воситаларини айланиб ўтиш қийин бўлиши мумкин бўлган йўлларнинг тор ҳудудларида, шунингдек, маъмурий бинолар, турли муассасалар, супермаркетлар ва бошқа жойларда транспорт воситаларининг тўхтаб туриши зурур бўлган жойларда ўрнатилади. Йўлнинг икки томонида тўхтаб қолган автомобиллар ҳаракатга сезиларли даражада тўсқинлик қилиши мумкин, айни пайтда йўлнинг фақат бир томонида тўхтаб туриш, транспорт ҳаракати учун муаммо туғдирмайди. Шунинг учун <strong>3.29 «Ойнинг тоқ кунларида тўхтаб туриш тақиқланган»</strong> белгиси кўпинча йўлнинг бир томонига, иккинчи томонига эса <strong>3.30 «Ойнинг жуфт кунларида тўхтаб туриш тақиқланган»</strong> белгиси ўрнатилади. Шундай қилиб, маълум бир мувозанатга эришилади ва транспорт воситалари мумкин қадар тўсиқсиз ҳаракатлана олади.</p>"
+                        }
+                    ]
+                },
+                "order": 32
+            },
+            {
+                "id": 87,
+                "name": {
+                    "uz": "3.30. Oyning juft kunlarida to’xtab turish taqiqlanadi",
+                    "ru": "3.30. Запрещено останавливаться в два дня месяца.",
+                    "kiril": "3.30. Ойнинг жуфт кунларида тўхтаб туриш тақиқланади",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.30",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.30.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.30. «Oyning juft kunlarida to‘xtab turish taqiqlangan»</strong></li></ul><p><strong>3.30 «Oyning juft kunlarida to‘xtab turish taqiqlangan»</strong> belgisi qizil chiziq tortilgan, qizil hoshiyali ko‘k fon va uning markazida &nbsp;ikkita vertikal oq chiziqlar tortilgan ko‘rinishga ega.</p><p><strong>3.30 «Oyning juft kunlarida to‘xtab turish taqiqlangan»</strong> belgisi oyning juft kunlarida (sanalarida) transport vositalarining belgi ta'sir oralig‘ida to‘xtab turishini taqiqlaydi.</p><p>3.30 belgisi odatda qarama-qarshi harakatlanayotgan transport vositalarini aylanib o‘tish qiyin bo‘lishi mumkin bo‘lgan yo‘llarning tor hududlarida, shuningdek, ma'muriy binolar, turli muassasalar, supermarketlar va boshqa joylarda transport vositalarining to‘xtab turishi zurur bo‘lgan joylarda o‘rnatiladi. Yo‘lning ikki tomonida to‘xtab qolgan avtomobillar harakatga sezilarli darajada to‘sqinlik qilishi mumkin, ayni paytda yo‘lning faqat bir tomonida to‘xtab turish, transport harakati uchun muammo tug‘dirmaydi. Shuning uchun <strong>3.29 «Oyning toq kunlarida to‘xtab turish taqiqlangan»</strong> belgisi ko‘pincha yo‘lning bir tomoniga, ikkinchi tomoniga esa 3.30 «Oyning juft kunlarida to‘xtab turish taqiqlangan» belgisi o‘rnatiladi. Shunday qilib, ma'lum bir muvozanatga erishiladi va transport vositalari mumkin qadar to‘siqsiz harakatlana oladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.30. «Парковка запрещена в четные дни месяца»</strong></li></ul><p>Знак <strong>3.30 «Стоянка запрещена по четным числам месяца»</strong> имеет синий круг с красной окантовкой, «перечёркнутый» красной полосой,&nbsp;в его центре имеется две вертикальные белые полоски.&nbsp;</p><p>Знак <strong>3.30 «Стоянка запрещена по четным числам месяца»&nbsp;</strong>запрещает стоянку транспортных средств в пределах зоны действия знака в четные дни (числа) месяца.</p><p>Знак <strong>3.30</strong> обычно устанавливается на узких участках дорог, где может быть затруднён разъезд встречно двигающегося транспортного средство, а также в местах скопления офисных зданий, различных учреждений, супермаркетов и других мест, которые предполагают парковку транспортного средство. Припаркованные с обеих сторон дороги автомобили могут существенно помешать дорожному движению, тогда как парковка только с одной стороны дороги проблем для трафика не составит. Поэтому этом зачастую знак <strong>3.29 «Стоянка запрещена по нечётным числам месяца»</strong> устанавливается на одной стороне дороги, а знак <strong>3.30 «Стоянка запрещена по чётным числам месяца»</strong> - на другой. Таким образом достигается некий баланс и транспортное средство имеет возможность двигаться более-менее беспрепятственно.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.30. «Ойнинг жуфт кунларида тўхтаб туриш тақиқланган»&nbsp;</strong></li></ul><p><strong>3.30 «Ойнинг жуфт кунларида тўхтаб туриш тақиқланган»</strong>&nbsp;белгиси қизил чизиқ тортилган, қизил ҳошияли кўк фон ва унинг марказида&nbsp; иккита вертикал оқ чизиқлар тортилган кўринишга эга.</p><p><strong>3.30 «Ойнинг жуфт кунларида тўхтаб туриш тақиқланган»</strong> белгиси ойнинг жуфт кунларида (саналарида) транспорт воситаларининг белги таъсир оралиғида тўхтаб туришини тақиқлайди.</p><p><strong>3.30</strong> белгиси одатда қарама-қарши ҳаракатланаётган транспорт воситаларини айланиб ўтиш қийин бўлиши мумкин бўлган йўлларнинг тор ҳудудларида, шунингдек, маъмурий бинолар, турли муассасалар, супермаркетлар ва бошқа жойларда транспорт воситаларининг тўхтаб туриши зурур бўлган жойларда ўрнатилади. Йўлнинг икки томонида тўхтаб қолган автомобиллар ҳаракатга сезиларли даражада тўсқинлик қилиши мумкин, айни пайтда йўлнинг фақат бир томонида тўхтаб туриш, транспорт ҳаракати учун муаммо туғдирмайди. Шунинг учун <strong>3.29 «Ойнинг тоқ кунларида тўхтаб туриш тақиқланган»</strong> белгиси кўпинча йўлнинг бир томонига, иккинчи томонига эса <strong>3.30 «Ойнинг жуфт кунларида тўхтаб туриш тақиқланган»</strong> белгиси ўрнатилади. Шундай қилиб, маълум бир мувозанатга эришилади ва транспорт воситалари мумкин қадар тўсиқсиз ҳаракатлана олади.</p>"
+                        }
+                    ]
+                },
+                "order": 33
+            },
+            {
+                "id": 88,
+                "name": {
+                    "uz": "3.31. Barcha cheklovlarning oxiri",
+                    "ru": "3.31. Конец всех ограничений",
+                    "kiril": "3.31. Барча чекловларнинг охири",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.31",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.31.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.31. \"Barcha cheklovlarning oxiri\"</strong></li></ul><p>Haydovchidan bu belgining mazmunini chuqurroq tushunib olishi talab etiladi. Garchand bu belgi barcha cheklovlarning oxiri deb nomlansada, amalda <strong>3.16. \"Eng kam oraliq\", 3.20. \"Quvib o'tish taqiqlanadi\", 3.22 \"Yuk avtomobillarida quvib o'tish taqiqlangan\", 3.24. \"Yuqori tezlik cheklangan\", 3.26. \"Tovush moslamalaridan foydalanish taqiqlangan\", 3.27. \"To'xtash taqiqlangan\", 3.28. \"To'xtab turish taqiqlangan\", 3.29. \"Oyning toq kunlarida to'xtab turish taqiqlanadi\", 3.30. \"Oyning juft kunlarida to'xtab turish taqiqlanadi\"</strong> yo'l belgilaridan birini, yo bir nechtasiga bir vaqtda amal qiladigan oraliqlarning oxirini bildiradi va yuqoridagi yo'l belgilarining ta'sir doirasini kesishmadan avvalroq tugatish uchun ishlatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.31.</strong>&nbsp;<strong>\"Конец зоны всех&nbsp;ограничений\"</strong></li></ul><p>От водителя требуется более глубокое понимание содержания данного знака. Хотя этот символ называют концом всех ограничений, на практике это <strong>3.16. \"Минимальный диапазон\", 3.20. \"Обгон запрещен\", 3.22. \"Обгон запрещен на грузовых автомобилях\", 3.24. \"Высокая скорость ограничена\", 3.26. \"Использование звуковых устройств запрещено\", 3.27. \"Остановка запрещена\", 3.28. \"Парковка запрещена\", 3.29. \"Стоянка запрещена в нечетные дни месяца\", 3.30. \"Стоянка запрещена в четные дни месяца\" </strong>обозначает окончание одного из дорожных знаков, либо интервалов, действующих одновременно на нескольких, и используется для завершения зоны действия вышеуказанных дорожных знаков ранее пересечения.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.31. \"Барча чекловларнинг охири\"</strong></li></ul><p>Ҳайдовчидан бу белгининг мазмунини чуқурроқ тушуниб олиши талаб этилади. Гарчанд бу белги барча чекловларнинг охири деб номлансада, амалда <strong>3.16. \"Энг кам оралиқ\", 3.20. \"Қувиб ўтиш тақиқланади\", 3.22 \"Юк автомобилларида қувиб ўтиш тақиқланган\", 3.24. \"Юқори тезлик чекланган\", 3.26. \"Товуш мосламаларидан фойдаланиш тақиқланган\", 3.27. \"Тўхташ тақиқланган\", 3.28. \"Тўхтаб туриш тақиқланган\", 3.29. \"Ойнинг тоқ кунларида тўхтаб туриш тақиқланади\", 3.30. \"Ойнинг жуфт кунларида тўхтаб туриш тақиқланади\"</strong> йўл белгиларидан бирини, ё бир нечтасига бир вақтда амал қиладиган оралиқларнинг охирини билдиради ва юқоридаги йўл белгиларининг таъсир доирасини кесишмадан аввалроқ тугатиш учун ишлатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 34
+            },
+            {
+                "id": 89,
+                "name": {
+                    "uz": "3.32. Xavfli yuklarga ega transport vositalarining harakati ta'qiqlanadi",
+                    "ru": "3.32. Движение автотранспорта с опасными грузами запрещено.",
+                    "kiril": "3.32. Хавфли юкларга эга транспорт воситаларининг ҳаракати таъқиқланади",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.32",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.32.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.32. «Xavfli yuk&nbsp;tashiyotgan transport vositasining harakatlanishi taqiqlangan»</strong></li></ul><p>Ushbu belgi o‘rnatilgan joydan keyingi eng yaqin chorrahagacha, chorrahasi bo‘lmagan aholi punktlarida aholi yashaydigan hududning oxirigacha ta’sir qiladi. Yo‘lga tutash hududlardan dala va o‘rmonlarning yo‘l bilan tutashgan hamda ikkinchi darajali yo‘llardan chiqish joylarida, ularning oldiga tegishli belgilar o‘rnatilmagan bo‘lsa, bu&nbsp;belgilarning ta’siri yo‘qolmaydi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.32. «Запрещается движение транспортного средства, перевозящего опасные грузы»</strong></li></ul><p>Этот знак распространяется на ближайший к месту установки перекресток, а в непересекающихся населенных пунктах - на конец жилой зоны. Действие этих знаков не &nbsp;утрачивает силу, если перед ними на пересечениях полей и лесов с дорогой и на выездах со второстепенных дорог не будут установлены соответствующие знаки.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.32. «Хавфли юк&nbsp;ташиётган транспорт воситасининг ҳаракатланиши тақиқланган» &nbsp;</strong></li></ul><p>Ушбу белги ўрнатилган жойдан кейинги энг яқин чорраҳагача, чорраҳаси бўлмаган аҳоли пунктларида аҳоли яшайдиган ҳудуднинг охиригача таъсир қилади. Йўлга туташ ҳудудлардан дала ва ўрмонларнинг йўл билан туташган ҳамда иккинчи даражали йўллардан чиқиш жойларида, уларнинг олдига тегишли белгилар ўрнатилмаган бўлса, бу&nbsp;белгиларнинг таъсири йўқолмайди.</p>"
+                        }
+                    ]
+                },
+                "order": 35
+            },
+            {
+                "id": 90,
+                "name": {
+                    "uz": "3.33. Portlovchi va yonuvchan yuklarga ega transport vositalarining harakatlanishi ta'qiqlanadi",
+                    "ru": "3.33. Запрещается движение транспортных средств с взрывоопасными и легковоспламеняющимися грузами.",
+                    "kiril": "3.33. Портловчи ва ёнувчан юкларга эга транспорт воситаларининг ҳаракатланиши таъқиқланади",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "3.33",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/3.33.gif",
+                "road_sign_type_id": 3,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.33. «Portlovchi va&nbsp;tez alangalanuvchi yukni tashiyotgan transport vositasining harakati taqiqlangan»</strong></li></ul><p>Ushbu belgi o‘rnatilgan joydan keyingi eng yaqin chorrahagacha, chorrahasi bo‘lmagan aholi punktlarida aholi yashaydigan hududning oxirigacha ta’sir qiladi. Yo‘lga tutash hududlardan dala va o‘rmonlarning yo‘l bilan tutashgan hamda ikkinchi darajali yo‘llardan chiqish joylarida, ularning oldiga tegishli belgilar o‘rnatilmagan bo‘lsa, bu&nbsp;belgilarning ta’siri yo‘qolmaydi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.33. «Запрещается движение транспортного средства, перевозящего взрывоопасные и легковоспламеняющиеся грузы»</strong></li></ul><p>Этот знак распространяется на ближайший к месту установки перекресток, а в непересекающихся населенных пунктах - на конец жилой зоны. Действие этих знаков не утрачивает силу, если перед ними на пересечениях полей и лесов с дорогой и на выездах со второстепенных дорог не будут установлены соответствующие знаки.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>3.33. «Портловчи ва&nbsp;тез алангаланувчи юкни ташиётган транспорт воситасининг ҳаракати тақиқланган»</strong></li></ul><p>Ушбу белги ўрнатилган жойдан кейинги энг яқин чорраҳагача, чорраҳаси бўлмаган аҳоли пунктларида аҳоли яшайдиган ҳудуднинг охиригача таъсир қилади. Йўлга туташ ҳудудлардан дала ва ўрмонларнинг йўл билан туташган ҳамда иккинчи даражали йўллардан чиқиш жойларида, уларнинг олдига тегишли белгилар ўрнатилмаган бўлса, бу&nbsp;белгиларнинг таъсири йўқолмайди.</p>"
+                        }
+                    ]
+                },
+                "order": 36
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}

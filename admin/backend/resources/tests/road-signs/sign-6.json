@@ -1,0 +1,675 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 1,
+        "total_pages": 1,
+        "total_items": 17,
+        "show_count": "50",
+        "data": [
+            {
+                "id": 198,
+                "name": {
+                    "uz": "6.1. “Tibbiy yordam ko‘rsatish joyi”.",
+                    "ru": "6.1. \"Медицинский центр.\"",
+                    "kiril": "6.1. “Тиббий ёрдам кўрсатиш жойи”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-27-30_Y8CPY8C4CB.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.1 &nbsp; \"Tibbiy yordam ko'rsatish joyi\"</strong></li></ul><p><strong>6.1 «Tibbiy yordam ko‘rsatish joyi»</strong> &nbsp;yo‘l belgisi ushbu belgilar toifasiga xos bo‘lgan to‘rtburchak shakliga va ko‘k fonga ega bo‘lib, uning ichida qizil «+» belgisi chizilgan oq kvadrat mavjud.</p><p>Ushbu belgi haydovchilarga undan ma’lum masofada birinchi tibbiy yordam ko‘rsatishi mumkin bo‘lgan joy borligi haqida xabar beradi. Belgida harakat yo‘nalishida aynan qanday tibbiyot muassasasi joylashganligi ko‘rsatilmagan: bu dorixona, shifoxona yoki masalan, stomatologiya klinikasi bo‘lishi mumkin. Ushbu belgi tibbiy yordam olishingiz mumkin bo‘lgan muassasaga yaqin joyda o‘rnatiladi. Ammo bu belgini oldindan o‘rnatish ham mumkin.</p><p>Aholi punktlarida 6.1 belgisi belgilangan obyektdan 100-150 metr, aholi punktlaridan tashqarida esa 400-800 metr masofada o‘rnatiladi. Ammo belgi boshqa masofada ham o‘rnatilishi mumkin, bu ba’zi hollarda 10 - 15 yoki hatto 70 - 80 kilometrni tashkil qilishi mumkin. Bunday holatda belgining pastki qismida ko‘k fonda tibbiy yordam ko‘rsatish joyigacha bo‘lgan masofa ko‘rsatiladi. Shuningdek, tibbiy yordam ko‘rsatish joyi bevosita yo‘lda emas, balki undan tashqarida joylashgan bo‘lishi mumkin. Bunday holda, &nbsp;</p><p><strong>«Tibbiy yordam ko‘rsatish joyi»</strong> &nbsp;belgisi obyektga eng yaqin chorrahada o‘rnatiladi va belgida ungacha bo‘lgan masofadan tashqari harakat yo‘nalishi ko‘rsatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.1 «Пункт медицинской помощи»</strong></li></ul><p>Дорожный знак <strong>6.1 «Пункт медицинской помощи»</strong> имеет характерную для данной категории знаков прямоугольную форму и синий фон, внутри которого имеется квадрат белого цвета с вписанным в него красным крестом.</p><p>Данный знак информирует водителей о том, что на каком-то расстоянии от него расположен пункт, где можно будет получить первую медицинскую помощь. Знаком не уточняется, какое именно лечебное учреждение расположено по ходу следования автомобиля: это может быть аптека, больница или, к примеру, стоматологическая клиника.</p><p>Этот знак устанавливается в непосредственной близости от учреждения, в котором можно получить медпомощь. Но возможна и предварительная установка данного знака.</p><p>В пределах населенного пункта знак <strong>6.1</strong> устанавливается на расстоянии в 100 – 150 метров до изображаемого объекта, а на загородных дорогах – за 400 – 800 метров до него.&nbsp; Но знак может устанавливаться и на ином расстоянии, которое в некоторых случаях может составлять и 10 – 15 и даже 70 – 80 километров. При этом в нижней части самого знака, на синем фоне, будет указано соответствующее расстояние до пункта первой медицинской помощи.</p><p>Может случиться и так, что пункт медпомощи находится не на трассе, а в стороне от неё. В этом случае знак «Пункт медицинской помощи» будет установлен на ближайшем к объекту перекрёстке, а на знаке, помимо расстояния, будет указано направление движения к нему.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.1 «Тиббий ёрдам кўрсатиш жойи»</strong></li></ul><p><strong>6.1 «Тиббий ёрдам кўрсатиш жойи»</strong>&nbsp; йўл белгиси ушбу белгилар тоифасига хос бўлган тўртбурчак шаклига ва кўк фонга эга бўлиб, унинг ичида қизил «+» белгиси чизилган оқ квадрат мавжуд.</p><p>Ушбу белги ҳайдовчиларга ундан маълум масофада биринчи тиббий ёрдам кўрсатиши мумкин бўлган жой борлиги ҳақида хабар беради. Белгида ҳаракат йўналишида айнан қандай тиббиёт муассасаси жойлашганлиги кўрсатилмаган: бу дорихона, шифохона ёки масалан, стоматология клиникаси бўлиши мумкин. Ушбу белги тиббий ёрдам олишингиз мумкин бўлган муассасага яқин жойда ўрнатилади. Аммо бу белгини олдиндан ўрнатиш ҳам мумкин. Аҳоли пунктларида <strong>6.1</strong> белгиси белгиланган объектдан 100-150 метр, аҳоли пунктларидан ташқарида эса 400-800 метр масофада ўрнатилади. Аммо белги бошқа масофада ҳам ўрнатилиши мумкин, бу баъзи ҳолларда 10 - 15 ёки ҳатто 70 - 80 километрни ташкил қилиши мумкин. Бундай ҳолатда белгининг пастки қисмида кўк фонда тиббий ёрдам кўрсатиш жойигача бўлган масофа кўрсатилади.</p><p>Шунингдек, тиббий ёрдам кўрсатиш жойи бевосита йўлда эмас, балки ундан ташқарида жойлашган бўлиши мумкин. Бундай ҳолда,&nbsp;</p><p><strong>«Тиббий ёрдам кўрсатиш жойи»&nbsp;</strong> белгиси объектга энг яқин чорраҳада ўрнатилади ва белгида унгача бўлган масофадан ташқари ҳаракат йўналиши кўрсатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 1
+            },
+            {
+                "id": 199,
+                "name": {
+                    "uz": "6.2. “Shifoxona”.",
+                    "ru": "6.2. «Больница».",
+                    "kiril": "6.2. “Шифохона”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-27-45_3T5XT2P2UB.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.2. «Shifoxona».</strong></li></ul><p>Ushbu yo‘l belgisi haydovchiga yo‘lning yondosh hududida shifoxona borligi haqida ma’lumot beradi. Bu yerda birinchi tibbiy yordam stansiyasidan farqli o‘laroq, Siz nafaqat tibbiy yordam olishingiz, balki diagnostika va davolanishdan ham o‘tishingiz mumkin. Bu yo‘l belgisida qo‘shimcha ravishda pastki qismida <strong>7.1.1, 7.1.3 </strong>va <strong>7.1.4&nbsp;«Obyektgacha bo‘lgan masofa»</strong> belgilarining tasviri ham ko‘rsatilishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.2. «Больница».</strong></li></ul><p>Этот дорожный знак информирует водителя о том, что недалеко от дороги находится больница. Здесь, в отличие от медпункта, можно не только получить медицинскую помощь, но и пройти диагностику и лечение. Внизу этого дорожного знака можно дополнительно отображать изображение знаков <strong>7.1.1, 7.1.3 и 7.1.4 «Расстояние до объекта».</strong></p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.2. «Шифохона».</strong></li></ul><p>Ушбу йўл белгиси ҳайдовчига йўлнинг ёндош ҳудудида шифохона борлиги ҳақида маълумот беради. Бу ерда биринчи тиббий ёрдам станциясидан фарқли ўлароқ, Сиз нафақат тиббий ёрдам олишингиз, балки диагностика ва даволанишдан ҳам ўтишингиз мумкин. Бу йўл белгисида қўшимча равишда пастки қисмида <strong>7.1.1, 7.1.3</strong> ва <strong>7.1.4&nbsp;«Объектгача бўлган масофа»</strong> белгиларининг тасвири ҳам кўрсатилиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 2
+            },
+            {
+                "id": 200,
+                "name": {
+                    "uz": "6.3. “Yonilg‘i shoxobchasi”.",
+                    "ru": "6.3. Бензоколонка.",
+                    "kiril": "6.3. “Ёнилғи шохобчаси”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-27-55_R26QPYFQBE.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.3. \"Yonilg'i shaxobchasi\"</strong></li></ul><p>Bu belgi bevosita yonilg'i shaxobchasining oldida, belgida ko'rsatilgan masofada yoki manzilga burilish joyida o'rnatiladi. Transport vositasi haydovchilari ushbu belgi yordamida yaqin orada joylashgan yonilg'i quyish shaxobchasining manzilini bilib olishlari mumkin. Belgining quyi qismida manzilgacha bo'lgan masofa metrlarda ko'rsatiladi.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_17-26-01_495U3N1X83.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.3.2. Avtomobillarga ko‘p tarmoqli yonilg‘i quyish shoxobchasi</strong></li></ul><p>yo‘l belgisi to‘rtburchak shakliga va ko‘k fonga ega bo‘lib, uning ichida ikkita qora va ko‘k to‘ldirish kalonkasi tasvirlangan oq kvadrat mavjud.</p><p>Yo‘l harakati qoidalarida&nbsp;haydovchilarni yo‘ldagi ko‘p tarmoqli yoqilg‘i quyish shoxobchasi joylashganligi to‘g‘risida xabardor qilish uchun 6.3.2 «Avtomobillarga ko‘p tarmoqli yonilg‘i quyish shoxobchasi» belgisi o‘rnatilishi belgilangan. Ya’ni avtomobillarga yoqilg‘i quyish shaxobchasining bu turida haydovchilar bir joyning o‘zida bir nechta, masalan benzin, gaz, dizel va boshqa yoqilg‘ilarni olishlari mumkin bo‘ladi.</p><p>Ushbu yo‘l belgisi to‘g‘ridan to‘g‘ri ushbu xizmat ko‘rsatish obyektida o‘rnatiladi. Yo‘l harakati qoidalarida &nbsp;6.3.2 &nbsp;belgisi oldindan o‘rnatilishi mumkinligi ham belgilangan. Bunday holda, ushbu obyektgacha bo‘lgan masofa belgining pastki qismida (ko‘k fonda) ko‘rsatiladi. Bundan tashqari belgi ko‘p tarmoqli yoqilg‘i quyish shoxobchasi transport vositasining yo‘nalishi bo‘ylab emas, balki yo‘ldan tashqarida joylashgan holatlarda ishlatiladi. Bunday holda, &nbsp;«Avtomobillarga ko‘p tarmoqli yonilg‘i quyish shoxobchasi» belgisi obyektga eng yaqin chorrahada o‘rnatiladi. Belgining pastki qismida strelka yordamida obyekt yo‘nalishi ko‘rsatiladi va ko‘rsatilgan yo‘nalish bo‘yicha harakatlangan haydovchi oldinda avtomobillarga ko‘p tarmoqli yonilg‘i quyish shoxobchasini ko‘rishi mumkin bo‘ladi.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_17-26-01_QJZMURRJ69.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.3.3. Elektromobillarni quvvatlash shaxobchasi</strong></li></ul><p><strong>6.3.3</strong> yo‘l belgisi to‘rtburchak shakliga va ko‘k fonga ega bo‘lib, uning ichida avtomobil va to‘ldirish kalonkasi tasvirlangan oq kvadrat mavjud. Yo‘l harakati qoidalarida &nbsp;haydovchilarni yo‘ldagi elektromobillarni quvvatlash shoxobchasi joylashganligi to‘g‘risida xabardor qilish uchun &nbsp;<strong>6.3.3 «Elektromobillarni quvvatlash shaxobchasi»</strong> belgisi o‘rnatilishi belgilangan. Ushbu yo‘l belgisi to‘g‘ridan to‘g‘ri ushbu xizmat ko‘rsatish obyektida o‘rnatiladi. &nbsp;</p><p><strong>6.3.3</strong>&nbsp;belgisi oldindan o‘rnatilishi ham mumkin. Bunday holda, ushbu obyektgacha bo‘lgan masofa belgining pastki qismida (ko‘k fonda) ko‘rsatiladi. Bundan tashqari belgi bunday shaxobcha transport vositasining yo‘nalishi bo‘ylab emas, balki yo‘ldan tashqarida joylashgan holatlarda ishlatiladi. Bunday holda, &nbsp;<strong>«Elektromobillarni quvvatlash shaxobchasi»</strong> belgisi obyektga eng yaqin chorrahada o‘rnatiladi. Belgining pastki qismida strelka yordamida obyekt yo‘nalishi va ungacha bo‘lgan masofa ko‘rsatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.3.\"Автозаправочная&nbsp;станция\"</strong></li></ul><p>Этот знак устанавливается непосредственно перед АЗС, на указанном на знаке расстоянии или в точке поворота. Водители транспортных средств могут использовать этот знак, чтобы найти адрес ближайшей заправки. Внизу значка отображается расстояние до пункта назначения в метрах.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_17-26-01_M56HJXR7UC.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.3.2. Универсальная заправка для автомобилей</strong></li></ul><p>Дорожный знак <strong>6.3.2 «Многофункциональная автомобильная заправочная станция»</strong> имеет прямоугольную форму и синий фон, внутри которого имеется квадрат белого цвета с изображением в него две заправочные колонки, чёрного и голубого цвета.</p><p>Знак <strong>6.3.2 «Многофункциональная автомобильная заправочная станция»</strong> предусмотрен ПДД для информирования водителей о месте расположения многофункциональний автозаправочной станции в пределах дороги. То есть на автозаправках такого типа водители смогут получить в одном месте несколько видов топлива, например, бензин, газ, дизельное топливо и другие виды топлива.</p><p>Данный дорожный знак устанавливается непосредственно у данного объекта сервиса. ПДД предусматривают возможность предварительной установки знака <strong>6.3.2</strong>. В этом случае в нижней части знака (на синем фоне) указывается расстояние до данного объекта. Другой вариант используется тогда, когда многофункциональная АЗС расположена не по ходу следования транспортного средства, а где-то в стороне от дороги. Знак <strong>«Многофункциональная автомобильная заправочная станция»</strong> в этом случае устанавливается на ближайшем к объекту перекрестке. Нижняя часть знака содержит информацию о необходимости следовать в указанном стрелкой направлении, и через указанное расстояние водитель обязательно увидит многофункциональная АЗС.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_17-26-01_B36S26WZG3.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.3.3. Зарядная станция для электромобилей</strong></li></ul><p>Дорожный знак <strong>6.3.3 «Станция для подзарядки электромобилей»</strong> имеет прямоугольную форму и синий фон, внутри которого имеется квадрат белого цвета с изображением заправочные колонки с автомобилем.</p><p>Дорожный знак <strong>«Станция для подзарядки электромобилей»</strong> предусмотрен ПДД для информирования водителей о месте расположения электрозарядной станции в пределах дороги. Знак устанавливается непосредственно у данного объекта сервиса. Возможна предварительная установка знака <strong>6.3.3</strong>. В этом случае в его нижней части (на синем фоне) указывается необходимое расстояние до данного объекта. Другой вариант используется тогда, когда такая станция расположена не по ходу следования транспортного средства, а где-то в стороне от дороги.&nbsp;</p><p>Знак <strong>«Станция для подзарядки электромобилей»</strong> в этом случае устанавливается на ближайшем к объекту перекрестке. Нижняя часть знака содержит информацию о необходимости следовать в указанном стрелкой направлении и расстоянии до станции.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.3. \"Ёнилғи шахобчаси\"</strong></li></ul><p>Бу белги бевосита ёнилғи шахобчасининг олдида, белгида кўрсатилган масофада ёки манзилга бурилиш жойида ўрнатилади. Транспорт воситаси ҳайдовчилари ушбу белги ёрдамида яқин орада жойлашган ёнилғи қуйиш шахобчасининг манзилини билиб олишлари мумкин. Белгининг қуйи қисмида манзилгача бўлган масофа метрларда кўрсатилади.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_17-26-01_CUN217F1EV.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.3.2. Автомобилларга кўп тармоқли ёнилғи қуйиш шохобчаси</strong></li></ul><p>йўл белгиси тўртбурчак шаклига ва кўк фонга эга бўлиб, унинг ичида иккита қора ва кўк тўлдириш калонкаси тасвирланган оқ квадрат мавжуд.</p><p>Йўл ҳаракати қоидаларида<strong>&nbsp;</strong>ҳайдовчиларни йўлдаги кўп тармоқли ёқилғи қуйиш шохобчаси жойлашганлиги тўғрисида хабардор қилиш учун <strong>6.3.2 «Автомобилларга кўп тармоқли ёнилғи қуйиш шохобчаси»</strong> белгиси ўрнатилиши белгиланган. Яъни автомобилларга ёқилғи қуйиш шахобчасининг бу турида ҳайдовчилар бир жойнинг ўзида бир нечта, масалан бензин, газ, дизел ва бошқа ёқилғиларни олишлари мумкин бўлади.</p><p>Ушбу йўл белгиси тўғридан-тўғри ушбу хизмат кўрсатиш объектида ўрнатилади. Йўл ҳаракати қоидаларида &nbsp;<strong>6.3.2&nbsp; </strong>белгиси олдиндан ўрнатилиши мумкинлиги ҳам белгиланган. Бундай ҳолда, ушбу объектгача бўлган масофа белгининг пастки қисмида (кўк фонда) кўрсатилади. Бундан ташқари белги кўп тармоқли ёқилғи қуйиш шохобчаси транспорт воситасининг йўналиши бўйлаб эмас, балки йўлдан ташқарида жойлашган ҳолатларда ишлатилади. Бундай ҳолда, &nbsp;<strong>«Автомобилларга кўп тармоқли ёнилғи қуйиш шохобчаси» </strong>белгиси объектга энг яқин чорраҳада ўрнатилади. Белгининг пастки қисмида стрелка ёрдамида объект йўналиши кўрсатилади ва кўрсатилган йўналиш бўйича ҳаракатланган ҳайдовчи олдинда автомобилларга кўп тармоқли ёнилғи қуйиш шохобчасини кўриши мумкин бўлади.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_17-26-01_VFNN1NSRG7.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.3.3. Электромобилларни қувватлаш шахобчаси</strong></li></ul><p><strong>6.3.3</strong> йўл белгиси тўртбурчак шаклига ва кўк фонга эга бўлиб, унинг ичида автомобил ва тўлдириш калонкаси тасвирланган оқ квадрат мавжуд. Йўл ҳаракати қоидаларида &nbsp;ҳайдовчиларни йўлдаги электромобилларни қувватлаш шохобчаси жойлашганлиги тўғрисида хабардор қилиш учун <strong>6.3.3 «Электромобилларни қувватлаш шахобчаси»</strong> белгиси ўрнатилиши белгиланган. Ушбу йўл белгиси тўғридан-тўғри ушбу хизмат кўрсатиш объектида ўрнатилади.&nbsp;</p><p><strong>6.3.3&nbsp;</strong>белгиси олдиндан ўрнатилиши ҳам мумкин. Бундай ҳолда, ушбу объектгача бўлган масофа белгининг пастки қисмида (кўк фонда) кўрсатилади. Бундан ташқари белги бундай шахобча транспорт воситасининг йўналиши бўйлаб эмас, балки йўлдан ташқарида жойлашган ҳолатларда ишлатилади. Бундай ҳолда, <strong>«Электромобилларни қувватлаш шахобчаси»</strong> белгиси объектга энг яқин чорраҳада ўрнатилади. Белгининг пастки қисмида стрелка ёрдамида объект йўналиши ва унгача бўлган масофа кўрсатилади.&nbsp;</p>"
+                        }
+                    ]
+                },
+                "order": 3
+            },
+            {
+                "id": 201,
+                "name": {
+                    "uz": "6.4. “Texnik xizmat ko‘rsatish joyi”.",
+                    "ru": "6.4. «Зона обслуживания».",
+                    "kiril": "6.4. “Техник хизмат кўрсатиш жойи”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-28-07_HDC3BS7P8T.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.4. «Avtomobillarga texnik xizmat ko‘rsatish joyi»</strong></li></ul><p>Ushbu yo‘l belgisi to‘g‘ridan-to‘g‘ri haydovchiga o‘z mashinasiga texnik xizmat ko‘rsatish imkoniyati berilgan joyning oldida o‘rnatiladi. Biroq, belgilangan belgini oldindan o‘rnatish imkoniyati bo‘lganda qo‘shimcha ravishda pastki qismida <strong>7.1.1, 7.1.3</strong> va <strong>7.1.4 &nbsp;«Obyektgacha bo‘lgan masofa»</strong> belgilarining tasviri ham ko‘rsatilishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.4.&nbsp;«Техническое обслуживание автомобилей».</strong></li></ul><p>Этот дорожный знак устанавливается непосредственно перед местом, где водителю предоставляется возможность выполнить техническое обслуживание своего автомобиля. Однако при возможности заранее внизу этого знака также может отображаться изображение знака <strong>7.1.1, 7.1.3 </strong>и<strong> 7.1.4 «Расстояние до объекта».</strong></p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.4. «Автомобилларга техник хизмат кўрсатиш жойи».</strong></li></ul><p>Ушбу йўл белгиси тўғридан-тўғри ҳайдовчига ўз машинасига техник хизмат кўрсатиш имконияти берилган жойнинг олдида ўрнатилади. Бироқ, белгиланган белгини олдиндан ўрнатиш имконияти бўлганда&nbsp;қўшимча равишда пастки қисмида <strong>7.1.1, 7.1.3</strong> ва <strong>7.1.4&nbsp; «Объектгача бўлган масофа»</strong> белгиларининг тасвири ҳам кўрсатилиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 4
+            },
+            {
+                "id": 202,
+                "name": {
+                    "uz": "6.5. “Transport vositalarini yuvish joyi”.",
+                    "ru": "6.5. «Место мойки автомобилей».",
+                    "kiril": "6.5. “Транспорт воситаларини ювиш жойи”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-28-17_5BQAS2SB2P.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.5. \"Transport vositalarini yuvish joyi\"</strong></li></ul><p>Bu belgi haydovchilarga yaqin orada joylashgan transport vositalarini yuvish joyining manzili haqida axborot beradi. Belgi bevosita yuvish joyining oldida, uning quyi qismida ko'rsatilgan masofada, yoki ularga burilish nuqtasida o'rnatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.5. \"Мойка&nbsp;автомобилей\"</strong></li></ul><p>Этот знак информирует водителей об адресе ближайшей автомойки. Табличку ставят прямо перед местом умывания, на расстоянии, указанном на ее дне, или в точке поворота на них.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.5. \"Транспорт воситаларини ювиш жойи\"</strong></li></ul><p>Бу белги ҳайдовчиларга яқин орада жойлашган транспорт воситаларини ювиш жойининг манзили ҳақида ахборот беради. Белги бевосита ювиш жойининг олдида, унинг қуйи қисмида кўрсатилган масофада, ёки уларга бурилиш нуқтасида ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 5
+            },
+            {
+                "id": 203,
+                "name": {
+                    "uz": "6.6. “Telefon”.",
+                    "ru": "6.6. \"Телефон\".",
+                    "kiril": "6.6. “Телефон”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-28-29_K1TYR2ETPA.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.6. \"Telefon\"</strong></li></ul><p>Ushbu belgi yo'l harakati qatnashchilariga harakat yo'nalishida yoki yaqin orada joylashgan telefon aloqasining manzili haqida axborot beradi.</p><p>Belgi bevosita telefon shaxobchasi oldida, uning quyi qismida ko'rsatilgan masofada, yoki shaxobcha tomonga burilish joyida o'rnatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.6. \"Телефон\"</strong></li></ul><p>Этот знак информирует участников дорожного движения об адресе телефонной линии в направлении движения или поблизости.</p><p>Знак размещается непосредственно перед телефонной станцией, на расстоянии, указанном внизу, или в точке поворота в сторону станции.</p><p>&nbsp;</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.6. \"Телефон\"</strong></li></ul><p>Ушбу белги йўл ҳаракати қатнашчиларига ҳаракат йўналишида ёки яқин орада жойлашган телефон алоқасининг манзили ҳақида ахборот беради.</p><p>Белги бевосита телефон шахобчаси олдида, унинг қуйи қисмида кўрсатилган масофада, ёки шахобча томонга бурилиш жойида ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 6
+            },
+            {
+                "id": 204,
+                "name": {
+                    "uz": "6.7. “Oshxona”.",
+                    "ru": "6.7. \"Кухня\".",
+                    "kiril": "6.7. “Ошхона”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-28-39_CMHE6SGSF4.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.7. \"Oshxona\"</strong></li></ul><p>Bu belgi yo'l harakati qatnashchilariga yaqin orada joylashgan umumiy ovqatlanish joylari haqida axborot beradi. Belgi oshxona oldida, uning quyi qismida ko'rsatilgan masofada, yoki oshxona tomonga burilish joylarida o'rnatiladi. Uni asosan yirik shaharlarni bog'lovchi magistral yo'llarda uchratasiz. Demak, uzoq yo'lga chiqqan haydovchi yoki yo'lovchilar belgi o'rnatilgan joyda to'xtab, tamaddi qilib olishlari mumkin bo'ladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.7. \"Пункт питания\"</strong></li></ul><p>Этот знак информирует участников дорожного движения о близлежащих обеденных зонах. Табличку ставят перед кухней на расстоянии, указанном внизу, или в точках поворота в сторону кухни. Вы найдете его в основном на автомагистралях, соединяющих крупные города. Это означает, что водители дальнего следования или пассажиры смогут остановиться и перекусить у знака.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.7. \"Ошхона\"</strong></li></ul><p>Бу белги йўл ҳаракати қатнашчиларига яқин орада жойлашган умумий овқатланиш жойлари ҳақида ахборот беради. Белги ошхона олдида, унинг қуйи қисмида кўрсатилган масофада, ёки ошхона томонга бурилиш жойларида ўрнатилади. Уни асосан йирик шаҳарларни боғловчи магистрал йўлларда учратасиз. Демак, узоқ йўлга чиққан ҳайдовчи ёки йўловчилар белги ўрнатилган жойда тўхтаб, тамадди қилиб олишлари мумкин бўлади.</p>"
+                        }
+                    ]
+                },
+                "order": 7
+            },
+            {
+                "id": 205,
+                "name": {
+                    "uz": "6.8. “Ichimlik suv”.",
+                    "ru": "6.8. \"Питьевая вода\".",
+                    "kiril": "6.8. “Ичимлик сув”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.8",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-28-49_6RAY2Z3Z2D.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.8. \"Ichimlik suvi\"</strong></li></ul><p>Ushbu belgi barcha yo'l harakati qatnashchilariga ichimlik suvi bor bo'lgan manzil haqida axborot beradi. Belgi manzil oldida, belgining quyi qismida ko'rsatilgan masofada, yoki ularga burilish joyida o'rnatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.8. \"Питьевая вода\"</strong></li></ul><p>Этот знак информирует всех участников дорожного движения о местах, где есть питьевая вода. Знак размещается перед адресом, на расстоянии, указанном внизу знака, или в точке их поворота.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.8. \"Ичимлик суви\"</strong></li></ul><p>Ушбу белги барча йўл ҳаракати қатнашчиларига ичимлик суви бор бўлган манзил ҳақида ахборот беради. Белги манзил олдида, белгининг қуйи қисмида кўрсатилган масофада, ёки уларга бурилиш жойида ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 8
+            },
+            {
+                "id": 206,
+                "name": {
+                    "uz": "6.9. “Mehmonxona”.",
+                    "ru": "6.9. \"Отель\".",
+                    "kiril": "6.9. “Меҳмонхона”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.9",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-28-56_PVG3HVJFHU.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.9. \"Mehmonxona\"</strong></li></ul><p>Bu belgi mehmonxona joylashgan manzil haqida axborot beradi. Yo'l harakati qatnashchilari turli sharoitlar yaratilgan ushbu mehmonxonalarda tunashlari, dam olishlari va ovqatlanishlari mumkin. \"Mehmonxona\" belgisi bevosita manzil oldida, belgining quyi qismida ko'rsatilgan masofada, yoki ularga burilish joylarida o'rnatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.9.&nbsp;\"Гостиница&nbsp;или&nbsp;мотель\"</strong></li></ul><p>Этот значок предоставляет информацию о местонахождении отеля. Участники дорожного движения могут переночевать, отдохнуть и поесть в этих гостиницах с различными удобствами. Знак «Гостиница» устанавливается непосредственно перед адресом, на расстоянии, указанном внизу знака, или в точках их поворота.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.9. \"Меҳмонхона\"</strong></li></ul><p>Бу белги меҳмонхона жойлашган манзил ҳақида ахборот беради. Йўл ҳаракати қатнашчилари турли шароитлар яратилган ушбу меҳмонхоналарда тунашлари, дам олишлари ва овқатланишлари мумкин. \"Меҳмонхона\" белгиси бевосита манзил олдида, белгининг қуйи қисмида кўрсатилган масофада, ёки уларга бурилиш жойларида ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 9
+            },
+            {
+                "id": 207,
+                "name": {
+                    "uz": "6.10. “Kemping”.",
+                    "ru": "6.10. «Кемпинг».",
+                    "kiril": "6.10. “Кемпинг”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-29-08_9KNSVTQP9P.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.10. \"Kemping\"</strong></li></ul><p><strong>6.10 «Kemping»</strong> yo‘l belgisi to‘rtburchak shaklli va ko‘k fonga ega, uning ichida osongina tanib olinadigan piktogramma bilan chodir tasvirlangan oq kvadrat mavjud.</p><p>Ko‘pincha «Kemping» belgisini kurort zonalari yaqinida uchratish mumkin. U haydovchiga yaqin joyda tunash uchun to‘xtash va chodir tikish mumkin bo‘lgan joy borligi haqida axborot beradi.</p><p>Albatta, chodirni boshqa joyga o‘rnatish mumkin. Ammo bu, birinchi navbatda, xavfli bo‘lishi mumkin, ikkinchidan, ko‘pincha kempinglardan tashqaridagi kurort hududlarida chodirlarni o‘rnatish taqiqlanadi va kemping hududlarida hech bo‘lmaganda ba’zi sharoitlar mavjud: suv, axlat yig‘ish uchun joy, hojatxona va ochiq havoda ovqat pishirish uchun imkoniyatlar. Shunday uchun, bu belgining talablariga amal qilgan yaxshiroq.</p><p><strong>6.10</strong> belgisi odatda obyektga yaqin joyda o‘rnatiladi, ammo Yo‘l harakati qoidalari ushbu belgini oldindan o‘rnatish imkoniyatini ham nazarda tutadi. Aholi punktlarida <strong>6.10</strong> belgisi tasvirlangan obyektdan 100-150 metr, aholi punktlaridan tashqarida esa 400-800 metr masofada o‘rnatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.10.&nbsp;\"Кемпинг\"</strong></li></ul><p>Дорожный знак&nbsp;<strong>6.10 «Кемпинг»</strong> имеет прямоугольную форму и синий фон, внутри которого расположен белый квадрат с изображением палатки с легкоузнаваемой пиктограммой.</p><p>Чаще всего знак&nbsp;<strong>«Кемпинг»</strong> можно встретить поблизости курортных зон. Он сообщает водителю о том, что где-то рядом есть место, где можно остановиться на ночлег и разбить палатку.</p><p>Конечно, палатку можно установить и в другом месте. Но это, во-первых, может быть небезопасно, и, во-вторых, в курортных зонах вне кемпингов палатки зачастую устанавливать запрещается. А ещё в кемпинговых зонах имеются хоть какие-то условия: вода, место для сбора мусора, туалет&nbsp; и возможности для приготовления пищи на открытом воздухе. Так что лучше, всё-таки, руководствоваться информацией данного знака.</p><p>Знак <strong>6.10</strong> обычно устанавливается в непосредственной близости от объекта, однако Правила дорожного движения предусматривают также возможность предварительной установки данного знака. В населенных пунктах знак <strong>6.10</strong> устанавливается на расстоянии в 100 – 150 метров до изображаемого объекта, а на загородных дорогах – за 400 – 800 метров до него.&nbsp;</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.10. \"Кемпинг\"</strong></li></ul><p><strong>6.10 «Кемпинг»</strong> йўл белгиси тўртбурчак шаклли ва кўк фонга эга, унинг ичида осонгина таниб олинадиган пиктограмма билан чодир тасвирланган оқ квадрат мавжуд.</p><p>Кўпинча <strong>«Кемпинг»</strong> белгисини курорт зоналари яқинида учратиш мумкин. У ҳайдовчига яқин жойда тунаш учун тўхташ ва чодир тикиш мумкин бўлган жой борлиги ҳақида ахборот беради.</p><p>Албатта, чодирни бошқа жойга ўрнатиш мумкин. Аммо бу, биринчи навбатда, хавфли бўлиши мумкин, иккинчидан, кўпинча кемпинглардан ташқаридаги курорт ҳудудларида чодирларни ўрнатиш тақиқланади ва кемпинг ҳудудларида ҳеч бўлмаганда баъзи шароитлар мавжуд: сув, ахлат йиғиш учун жой, ҳожатхона ва очиқ ҳавода овқат пишириш учун имкониятлар. Шундай учун, бу белгининг талабларига амал қилган яхшироқ.</p><p><strong>6.10</strong> белгиси одатда объектга яқин жойда ўрнатилади, аммо Йўл ҳаракати қоидалари ушбу белгини олдиндан ўрнатиш имкониятини ҳам назарда тутади. Аҳоли пунктларида <strong>6.10</strong> белгиси тасвирланган объектдан 100-150 метр, аҳоли пунктларидан ташқарида эса 400-800 метр масофада ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 10
+            },
+            {
+                "id": 208,
+                "name": {
+                    "uz": "6.11. “Dam olish joyi”.",
+                    "ru": "6.11. \"Место отдыха\".",
+                    "kiril": "6.11. “Дам олиш жойи”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.11",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-29-20_5ZVATG7YJG.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.11. «Dam olish joyi».</strong></li></ul><p><strong>“Dam olish joyi”</strong> yo‘l belgisi aynan shu yerda qisqa muddatli dam olish uchun maxsus infratuzilma yaratilgani haqida yo‘l harakati qatnashchilariga ma’lum qiladi. Bundan tashqari, belgini oldindan o‘rnatish mumkin, bunda belgiga qo‘shimcha ravishda pastki qismida <strong>7.1.1, 7.1.3</strong> va <strong>7.1.4 &nbsp;«Obyektgacha bo‘lgan masofa»</strong> belgilarining tasviri ham ko‘rsatilishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.11. «Место отдыха».</strong></li></ul><p>Дорожный знак <strong>«Место отдыха»</strong> информирует участников дорожного движения о том, что здесь создана специальная инфраструктура для краткосрочного отдыха. Кроме того, внизу может отображаться также изображение знака <strong>7.1.1, 7.1.3</strong> и <strong>7.1.4 «Расстояние до объекта»</strong>.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.11. «Дам олиш жойи».</strong></li></ul><p><strong>“Дам олиш жойи”</strong> йўл белгиси айнан шу ерда қисқа муддатли дам олиш учун махсус инфратузилма яратилгани ҳақида йўл ҳаракати қатнашчиларига маълум қилади. Бундан ташқари, белгини олдиндан ўрнатиш мумкин, бунда белгига қўшимча равишда пастки қисмида <strong>7.1.1</strong>, <strong>7.1.3 </strong>ва<strong> 7.1.4</strong>&nbsp; <strong>«Объектгача бўлган масофа»</strong> белгиларининг тасвири ҳам кўрсатилиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 11
+            },
+            {
+                "id": 209,
+                "name": {
+                    "uz": "6.12. “DAN maskani”.",
+                    "ru": "6.12. «Маска ДАН».",
+                    "kiril": "6.12. “ДАН маскани”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 2,
+                "code": "6.12",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-29-28_3RRW8Z8EJZ.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.12. \"YPX maskani\"</strong></li></ul><p>Ushbu belgi transport vositalari haydovchilariga zamonaviy aloqa vositalari bilan ta'minlangan Yo'l patrul xizmati maskanining manzili haqida axborot beradi. Yo'l harakati ishtirokchilari yo'l – transport hodisalari, yo'llarda paydo bo'lgan turli to'siqlar, jamoat tartibi buzilganlik holatlari yoki kerakli axborotlarni olish bo'yicha yo'l patrul xizmatiga murojaat qilishlari mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.12. \"Пост ДПС\"</strong></li></ul><p>Этот знак сообщает водителям об адресе Дорожно-патрульной службы, которая оснащена современными средствами связи. Участники дорожного движения могут обращаться в ДПС за информацией о дорожно-транспортных происшествиях, различных препятствиях на дорогах, нарушениях общественного порядка или для получения необходимой информации.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>6.12. \"ЙПХ маскани\"</strong></li></ul><p>Ушбу белги транспорт воситалари ҳайдовчиларига замонавий алоқа воситалари билан таъминланган Йўл патруль хизмати масканининг манзили ҳақида ахборот беради. Йўл ҳаракати иштирокчилари йўл – транспорт ҳодисалари, йўлларда пайдо бўлган турли тўсиқлар, жамоат тартиби бузилганлик ҳолатлари ёки керакли ахборотларни олиш бўйича йўл патруль хизматига мурожаат қилишлари мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 12
+            },
+            {
+                "id": 210,
+                "name": {
+                    "uz": "6.13 Xalqaro avtomobillarni tashish nazorat punkti",
+                    "ru": "6.13 Пункт пропуска международного автомобильного транспорта",
+                    "kiril": "6.13 Халқаро автомобилларни ташиш назорат пункти",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 2,
+                "code": "6.13",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-29-38_HEM7HTMP9U.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "6.13 Xalqaro avtomobillarni tashish nazorat punkti"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "6.13 Пункт пропуска международного автомобильного транспорта"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "6.13 Халқаро автомобилларни ташиш назорат пункти"
+                        }
+                    ]
+                },
+                "order": 13
+            },
+            {
+                "id": 211,
+                "name": {
+                    "uz": "6.14 Xojatxona",
+                    "ru": "6.14 Туалет",
+                    "kiril": "6.14 Хожатхона",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "6.14",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-29-50_SBSY15KA2K.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>6.14. “Hojatxona”.</strong><br><strong>6.14 «Hojatxona» </strong>yo‘l belgisi to‘rtburchak shaklli va ko‘k fonga ega, uning ichida «WC» yozuvi bo‘lgan oq kvadrat mavjud. Bu harflar inglizcha «water-closet» so‘zining qisqartmasi bo‘lib, «hojatxona» deb tarjima qilinadi.</p><p>Ko‘pincha uzoq safarlarga otlanganda, vaqti-vaqti bilan xojatxonalarga zarurat tug‘ilishi mumkin. Ko‘pincha yo‘l chekkalarida o‘rnatilgan xojatxonalari, tegishli belgilar bo‘lmaganligi sababli haydovchi payqamasligi mumkin. &nbsp;<strong>«Hojatxona»</strong> belgisi, shunga o‘xshash holatlarda haydovchiga tegishli obyekt joylashgan joy haqida o‘z vaqtida axborot berish maqsadida o‘rnatiladi.</p><p><strong>6.14</strong> belgisi odatda obyektga yaqin joyda o‘rnatiladi, ammo Yo‘l harakati qoidalari ushbu belgini oldindan o‘rnatish imkoniyatini ham nazarda tutadi. Aholi punktlarida <strong>6.14</strong> belgisi tasvirlangan obyektdan 100-150 metr, aholi punktlaridan tashqarida esa 400-800 metr masofada o‘rnatiladi.</p><p>Zarurat bo‘lsa, <strong>«Hojatxona»</strong> belgisi boshqa masofalarda ham o‘rnatilishi mumkin. Bunday hollarda ungacha bo‘lgan aniq masofa ko‘k to‘rtburchakning pastki qismida oq rangda ko‘rsatiladi.</p><p>Agar xojatxona bevosita yo‘lda emas, balki undan tashqarida joylashgan bo‘lsa, <strong>6.14</strong> belgisi unga eng yaqin chorrahada qo‘yiladi va uning pastki qismida obyektgacha bo‘lgan masofa bilan birga strelka yordamida, harakat yo‘nalishini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>&nbsp; &nbsp;6.14. «Туалет».</strong><br>Дорожный знак&nbsp;<strong>6.14 «Туалет»</strong> имеет прямоугольную форму и синий фон, внутри которого имеется квадрат белого цвета с надписью «WC». Эти буквы являются аббревиатурой английского слова «water-closet», которое переводится как «уборная».</p><p>Часто, отправляясь в дальние путешествия, время от времени может возникнуть необходимость в туалете&nbsp;Часто туалеты, установленные возле дороги, могут быть не замечены водителем из-за отсутствия соответствующих знаков.&nbsp;Знак <strong>«Туалет»</strong> устанавливается для того, чтобы в таких случаях предоставить водителю своевременную информацию о местонахождении соответствующего объекта.</p><p>Знак <strong>6.14</strong> обычно устанавливается в непосредственной близости от объекта, однако Правила дорожного движения предусматривают также возможность предварительной установки данного знака. В населенных пунктах знак <strong>6.14</strong> устанавливается на расстоянии в 100 – 150 метров до изображаемого объекта, а на загородных дорогах – за 400 – 800 метров до него.</p><p>В случае необходимости знак <strong>«Туалет»</strong> может быть размещён и на других расстояниях. В этих случаях в нижней части синего прямоугольника белым цветом указывается точное расстояние до оного.</p><p>В том случае, когда уборная расположена в стороне от дороги, знак <strong>6.14</strong> размещается на ближайшем к нему перекрестке, а в нижней его части вместе с расстоянием до объекта стрелкой указывается направление движения.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>&nbsp; 6.14 «Ҳожатхона»</strong><br><strong>6.14 «Ҳожатхона»</strong> йўл белгиси тўртбурчак шаклли ва кўк фонга эга, унинг ичида «WC» ёзуви бўлган оқ квадрат мавжуд. Бу ҳарфлар инглизча «water-closet» сўзининг қисқартмаси бўлиб, «ҳожатхона» деб таржима қилинади.</p><p>Кўпинча узоқ сафарларга отланганда, вақти-вақти билан хожатхоналарга зарурат туғилиши мумкин. Кўпинча йўл чеккаларида ўрнатилган хожатхоналари, тегишли белгилар бўлмаганлиги сабабли ҳайдовчи пайқамаслиги мумкин.<strong> &nbsp;«Ҳожатхона»</strong> белгиси, шунга ўхшаш ҳолатларда ҳайдовчига тегишли объект жойлашган жой ҳақида ўз вақтида ахборот бериш мақсадида ўрнатилади.</p><p><strong>6.14</strong> белгиси одатда объектга яқин жойда ўрнатилади, аммо Йўл ҳаракати қоидалари ушбу белгини олдиндан ўрнатиш имкониятини ҳам назарда тутади. Аҳоли пунктларида <strong>6.14</strong> белгиси тасвирланган объектдан 100-150 метр, аҳоли пунктларидан ташқарида эса 400-800 метр масофада ўрнатилади.</p><p>Зарурат бўлса, <strong>«Ҳожатхона»</strong> белгиси бошқа масофаларда ҳам ўрнатилиши мумкин. Бундай ҳолларда унгача бўлган аниқ масофа кўк тўртбурчакнинг пастки қисмида оқ рангда кўрсатилади.</p><p>Агар хожатхона бевосита йўлда эмас, балки ундан ташқарида жойлашган бўлса, <strong>6.14</strong> белгиси унга энг яқин чорраҳада қўйилади ва унинг пастки қисмида объектгача бўлган масофа билан бирга стрелка ёрдамида, ҳаракат йўналишини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 14
+            },
+            {
+                "id": 212,
+                "name": {
+                    "uz": "6.15 Axlat quti",
+                    "ru": "6.15 Мусорное ведро",
+                    "kiril": "6.15 Ахлат қути",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 2,
+                "code": "6.15",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-16_15-30-01_BD1J9FVTSZ.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "6.15 Axlat quti"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "6.15 Мусорное ведро"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "6.15 Ахлат қути"
+                        }
+                    ]
+                },
+                "order": 15
+            },
+            {
+                "id": 213,
+                "name": {
+                    "uz": "6.16 Basseyn yoki sohil bo'yi",
+                    "ru": "6.16 Бассейн или пляж",
+                    "kiril": "6.16 Бассейн ёки соҳил бўйи",
+                    "en": "6.16 Pool or beach",
+                    "qq": "6.16 Basseyn yamasa jaǵa boyı "
+                },
+                "format": 3,
+                "code": "6.16",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/6.16.gif",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": null,
+                    "ru": null,
+                    "kiril": null
+                },
+                "order": 16
+            },
+            {
+                "id": 214,
+                "name": {
+                    "uz": "6.17 Polisiya",
+                    "ru": "6.17 Полиция",
+                    "kiril": "6.17 Полисия",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "6.17",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/6.17.png",
+                "road_sign_type_id": 6,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>6.17. Ichki ishlar bo‘limi &nbsp;</strong>— bu belgi, ijroiya hokimiyati organi hisoblangan, o‘z vakolatlari doirasida fuqaro va inson erkinligi va huquqlarini himoyalashda davlat boshqaruvini amalga oshiradigan, huquq-tartibotni saqlash, jamoat xavfsizligini ta’minlovchi Ichki ishlar vazirligi bo‘limi haqida ma’lumot beradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>6.17. Отдел внутренних дел</strong> – это знак, даёт информацию об отделе министерство внутренних дел, осуществляет в пределах своих полномочий государственное управление по защите свобод и прав граждан и народа, поддержанию правопорядка, обеспечению общественной безопасности и считается органом исполнительной власти.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>6.17. Ички ишлар бўлими&nbsp;</strong>&nbsp;— бу белги, ижроия ҳокимияти органи ҳисобланган, ўз ваколатлари доирасида фуқаро ва инсон эркинлиги ва ҳуқуқларини ҳимоялашда давлат бошқарувини амалга оширадиган, ҳуқуқ-тартиботни сақлаш, жамоат хавфсизлигини таъминловчи Ички ишлар вазирлиги бўлими ҳақида маълумот беради.</p>"
+                        }
+                    ]
+                },
+                "order": 17
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}

@@ -1,0 +1,615 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 11,
+        "total_pages": 48,
+        "total_items": 475,
+        "show_count": "10",
+        "data": [
+            {
+                "id": 11782,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Quyidagi joyda sariq avtomobilga quvib o‘tishga ruxsat beradimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11782.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188442,
+                        "newtest_question_id": 11782,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat beriladi"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188443,
+                        "newtest_question_id": 11782,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 3.20 bandiga asosan: 3.20. «Quvib o‘tish taqiqlangan». Soatiga 40 km dan kam tezlikda harakatlanayotgan yakka transport vositasidan boshqa transport vositalarini quvib o‘tish taqiqlanishini bildiradi.",
+                "answer_video": "/storage/tests/videos changed/11782.mp4"
+            },
+            {
+                "id": 11779,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi avtomobilga qayrilib olishga ruxsat beriladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11779.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188438,
+                        "newtest_question_id": 11779,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkisiga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188439,
+                        "newtest_question_id": 11779,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Sariq avtomobilga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188440,
+                        "newtest_question_id": 11779,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘k avtomobilga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188441,
+                        "newtest_question_id": 11779,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki avtomobilga taqiqlanadi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "\"YHQga 2-ILOVA 1.11 bandi va 49-xatboshi hamda 9-bob. 56-band 1-xatboshiga asosan: 1.11 — faqat bir tomondan qayta tizilishga ruxsat etilgan yo‘l qismlarida, bir yo‘nalishdagi yoki qarama-qarshi kelayotgan transport oqimlarini ajratadi; qayrilib olish, to‘xtash maydonchalari va shunga o‘xshashlarga kirish-chiqish joylarida harakatlanish faqat bir yo‘nalishda ruxsat etilganligini ko‘rsatadi;\r\n1.11 chizig‘ini uzuq-uzuq chiziq tomonidan, sidirg‘a chiziq tomonidan esa faqat quvib yoki aylanib o‘tishni tugatayotganda bosib o‘tishga ruxsat etiladi.\r\n56. Aylanma harakatlanish tashkil qilingan chorrahalarga kirish uchun burilishdan boshqa barcha hollarda, haydovchi o‘ngga, chapga burilishi yoki qayrilib olishdan oldinroq shu yo‘nalishda harakatlanishi uchun mo‘ljallangan qatnov qismining eng chetki holatni egallashi shart.\"",
+                "answer_video": "/storage/tests/videos changed/11779.mp4"
+            },
+            {
+                "id": 11776,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi avtomobil haydovchisi svetaforning taqiqlovchi ishorasida to‘g‘ri to‘xtadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11776.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188435,
+                        "newtest_question_id": 11776,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1-rasmda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188436,
+                        "newtest_question_id": 11776,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "2-rasmda"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188437,
+                        "newtest_question_id": 11776,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkala rasmda"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 7-bob. 41-band 1-xatboshiga asosan: 41. Svetofor (reversivdan tashqari)ning yoki tartibga soluvchining taqiqlovchi ishorasida haydovchilar transport vositalarini to‘xtash chizig‘i (5.33 yo‘l belgisi) oldida (bunda transport vositasining eng oldingi nuqtasi to‘xtash chizig‘i ustiga chiqib ketmasligi kerak), to‘xtashi kerak.",
+                "answer_video": "/storage/tests/videos changed/11776.mp4"
+            },
+            {
+                "id": 11772,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Quyidagi 3.24. “Yuqori tezlik cheklangan” yo‘l belgisining ta’siri qaysi belgilar bekor qiladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11772.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 1,
+                "answers": [
+                    {
+                        "id": 185287,
+                        "newtest_question_id": 11772,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat birinchi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185288,
+                        "newtest_question_id": 11772,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat ikkinchi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185289,
+                        "newtest_question_id": 11772,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat uchinchi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185290,
+                        "newtest_question_id": 11772,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat to‘rtinchi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185291,
+                        "newtest_question_id": 11772,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha javoblar to‘g‘ri"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "\"YHQga 1-ILOVA 3.24 va 3.31 band va 3.Taqiqlovchi belgilarning 46, 48, 51 va 52-xatboshiga asosan: 3.24. «Yuqori tezlik cheklangan». Belgida ko‘rsatilganidan ortiq tezlikda (km/s) harakatlanish taqiqlanishini bildiradi.\r\n3.31. «Barcha cheklovlarning oxiri». 3.16, 3.20, 3.22, 3.24, 3.26 — 3.30 belgilaridan bir nechtasiga bir vaqtda amal qiladigan hududlarning oxiri.\r\n3.16, 3.20, 3.22, 3.24, 3.26 — 3.30 belgilarining ta’siri belgi o‘rnatilgan joydan keyingi eng yaqin chorrahagacha, ular bo‘lmaganda — aholi punktining oxirigacha ta’siri qiladi.\r\nAholi punktlariga yetmasdan o‘rnatilgan 3.24 belgisining ta’siri 5.22 belgisigacha kuchini saqlaydi.\r\nBelgilarning ta’sir doirasi aniqlashtirilishi mumkin: 3.20, 3.22, 3.24 belgilari 3.21, 3.23, 3.25 belgilari va 7.2.1 qo‘shimcha axborot belgisi orqali;\r\n3.24 belgisining ta’sir oralig‘i undan keyin boshqa eng yuqori harakatlanish tezligi ko‘rsatilgan 3.24 belgisini o‘rnatish bilan.\"",
+                "answer_video": null
+            },
+            {
+                "id": 11769,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi yo‘l belgisi qayrilib olishga ruxsat beradi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11769.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 1,
+                "answers": [
+                    {
+                        "id": 185284,
+                        "newtest_question_id": 11769,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 1 va 2"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185285,
+                        "newtest_question_id": 11769,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 2 va 3"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185286,
+                        "newtest_question_id": 11769,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barchasi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQga 1-ILOVA 3.18.1 va 3.18.2 bandlariga asosan: 3.18.1. «O‘ngga burilish taqiqlangan».\r\n3.18.2. «Chapga burilish taqiqlanadi».\"",
+                "answer_video": null
+            },
+            {
+                "id": 11766,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Quyidagi yo‘l belgilaridan qaysilari qo‘shimcha axborot belgilari hisoblanadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11766.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185292,
+                        "newtest_question_id": 11766,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1 va 2 belgilar"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185293,
+                        "newtest_question_id": 11766,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "2 va 3 belgilar"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185294,
+                        "newtest_question_id": 11766,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha belgilar"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQga 1-ILOVA 7.2.1 va 7.5.4 bandlariga asosan: 7.2.1. «Ta’sir oralig‘i». Ogohlantiruvchi belgilar bilan belgilangan xavfli joyning uzunligini yoki taqiqlovchi va axborot-ko‘rsatkich belgilarining ta’sir oralig‘ini ko‘rsatadi.\r\n7.5.4. «Amal qilish vaqti». Belgiga kunning qaysi vaqtida amal qilishni ko‘rsatadi.\"",
+                "answer_video": null
+            },
+            {
+                "id": 11763,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Bu xavflilik belgisi qanday nomlanadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11763.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185295,
+                        "newtest_question_id": 11763,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Oksidlovchi moddalar"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185296,
+                        "newtest_question_id": 11763,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Organik peroksidlar"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185297,
+                        "newtest_question_id": 11763,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Tez alangalanadigan gazlar va suyuqliklar"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 4-ILOVA 5.2 bandiga asosan: 5.2 Organik peroksidlar.",
+                "answer_video": null
+            },
+            {
+                "id": 11760,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Transport vositalarini boshqarishni dastlabki o‘rgatish (boshlang‘ich mashg‘ulot) qayerda amalga oshiriladi?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185280,
+                        "newtest_question_id": 11760,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Avtomagistralda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185281,
+                        "newtest_question_id": 11760,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Aholi punktlarida"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185282,
+                        "newtest_question_id": 11760,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yopiq maydonchalarda yoki avtodromlarda"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185283,
+                        "newtest_question_id": 11760,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Turar joy dahalarida"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 25-bob. 146-bandga asosan: 146. Transport vositalarini boshqarishni dastlabki o‘rgatishga yopiq maydonchalarda yoki avtodromlarda o‘tkazilishi kerak.",
+                "answer_video": null
+            },
+            {
+                "id": 11757,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Agar yo‘l belgilari va chiziqlari boshqa yo‘nalishni ko‘rsatmagan bo‘lsa, haydovchilar ajratuvchi bo‘lagi bo‘lmagan ikki tomonlama harakat tashkil etilgan yo‘llardagi xavfsizlik orolchalari, ustunchalar va yo‘l inshooti qismlari (ko‘prik, yo‘l o‘tkazgich ustunlari va shunga o‘xshashlar)ni qaysi tomondan aylanib o‘tishlari kerak?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185277,
+                        "newtest_question_id": 11757,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat o‘ng tomondan aylanib o‘tishlari kerak"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185278,
+                        "newtest_question_id": 11757,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat chap tomondan aylanib o‘tishlari kerak"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185279,
+                        "newtest_question_id": 11757,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkala tomondan aylanib o‘tishlari kerak"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 10-bob. 76-bandga asosan: 76. Agar yo‘l belgilari va chiziqlari boshqa yo‘nalishni ko‘rsatmagan bo‘lsa, haydovchilar ajratuvchi bo‘lagi bo‘lmagan ikki tomonlama harakat tashkil etilgan yo‘llardagi xavfsizlik orolchalari, ustunchalar va yo‘l inshooti qismlari (ko‘prik, yo‘l o‘tkazgich ustunlari va shunga o‘xshashlar)ni o‘ng tomondan aylanib o‘tishlari kerak.",
+                "answer_video": null
+            },
+            {
+                "id": 11754,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Imtiyoz belgilari qaysi joylarda harakatlanish navbatini belgilaydi?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 1,
+                "answers": [
+                    {
+                        "id": 185274,
+                        "newtest_question_id": 11754,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat chorrahalarda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185275,
+                        "newtest_question_id": 11754,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat yo‘lning tor qismlarida"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185276,
+                        "newtest_question_id": 11754,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkala javob ham to‘g‘ri"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 2. Imtiyoz belgilarining 1-xatboshiga asosan: Imtiyoz belgilari — chorrahalarda, qatnov qismlari kesishgan joylarda, yo‘lning tor qismlarida harakatlanish navbatini belgilaydi.",
+                "answer_video": null
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}
+

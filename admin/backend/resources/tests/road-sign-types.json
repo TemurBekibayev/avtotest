@@ -1,0 +1,143 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 1,
+        "total_pages": 1,
+        "total_items": 10,
+        "show_count": 20,
+        "data": [
+            {
+                "id": 1,
+                "name": {
+                    "uz": "Ogohlantiruvchi belgilar",
+                    "ru": "Предупреждающие знаки",
+                    "kiril": "Огоҳлантирувчи белгилар",
+                    "en": "Ogohlantiruvchi belgilar",
+                    "qq": "Eskertiwshi belgiler"
+                },
+                "code": "1",
+                "image_url": "/storage/tests/images changed/types/2025-08-09_15-54-03_R35Y9GAK7G.png",
+                "road_signs_count": 45
+            },
+            {
+                "id": 2,
+                "name": {
+                    "uz": "Imtiyoz belgilari",
+                    "ru": "Знаки привилегии",
+                    "kiril": "Имтиёз белгилари",
+                    "en": "Imtiyoz belgilari",
+                    "qq": " Jeńillik belgileri"
+                },
+                "code": "2",
+                "image_url": "/storage/tests/images changed/types/2025-08-09_15-54-13_DHWFMK8FFM.png",
+                "road_signs_count": 9
+            },
+            {
+                "id": 3,
+                "name": {
+                    "uz": "Taqiqlovchi belgilar",
+                    "ru": "Знаки запрета",
+                    "kiril": "Тақиқловчи белгилар",
+                    "en": "Taqiqlovchi belgilar",
+                    "qq": " Qadaǵalatugın belgiler"
+                },
+                "code": "3",
+                "image_url": "/storage/tests/images changed/types/2025-08-09_15-56-55_U67SYK21FQ.png",
+                "road_signs_count": 36
+            },
+            {
+                "id": 4,
+                "name": {
+                    "uz": "Buyuruvchi belgilar",
+                    "ru": "Командные символы",
+                    "kiril": "Буюрувчи белгилар",
+                    "en": "Buyuruvchi belgilar",
+                    "qq": " Buyıriwshi belgiler"
+                },
+                "code": "4",
+                "image_url": "/storage/tests/images changed/types/2025-08-09_15-54-41_ZYETUFUNTM.png",
+                "road_signs_count": 25
+            },
+            {
+                "id": 5,
+                "name": {
+                    "uz": "Axborot ishora belgilari",
+                    "ru": "Информационные знаки",
+                    "kiril": "Ахборот ишора белгилари",
+                    "en": "Axborot ishora belgilari",
+                    "qq": " Informaciya belgi belgileri"
+                },
+                "code": "5",
+                "image_url": "/storage/tests/images changed/types/2025-08-09_15-54-53_M4GQD4SZTV.png",
+                "road_signs_count": 84
+            },
+            {
+                "id": 6,
+                "name": {
+                    "uz": "Servic belgilar",
+                    "ru": "Служебные персонажи",
+                    "kiril": "Сервиc белгилар",
+                    "en": "Servic belgilar",
+                    "qq": " Servic belgiler"
+                },
+                "code": "6",
+                "image_url": "/storage/tests/images changed/types/2025-08-09_15-55-27_GS61YQ7B11.png",
+                "road_signs_count": 17
+            },
+            {
+                "id": 7,
+                "name": {
+                    "uz": "Qo'shimcha axborot belgilari",
+                    "ru": "Дополнительные информационные знаки",
+                    "kiril": "Қўшимча ахборот белгилари",
+                    "en": "Qo'shimcha axborot belgilari",
+                    "qq": " Qosımsha informaciya belgileri"
+                },
+                "code": "7",
+                "image_url": "/storage/tests/images changed/types/2025-08-14_17-47-22_5MQQH9FSYP.png",
+                "road_signs_count": 57
+            },
+            {
+                "id": 8,
+                "name": {
+                    "uz": "Transport svetaforlari",
+                    "ru": "Светофор",
+                    "kiril": "Транспорт светафорлари",
+                    "en": "Transport svetaforlari",
+                    "qq": " Transport svetaforlari"
+                },
+                "code": "8",
+                "image_url": null,
+                "road_signs_count": 0
+            },
+            {
+                "id": 9,
+                "name": {
+                    "uz": "Piyodalar svetaforlari",
+                    "ru": "Пешеходный светофор",
+                    "kiril": "Пиёдалар светафорлари",
+                    "en": "Piyodalar svetaforlari",
+                    "qq": " Piyadalar svetaforlari"
+                },
+                "code": "9",
+                "image_url": null,
+                "road_signs_count": 0
+            },
+            {
+                "id": 10,
+                "name": {
+                    "uz": "Transport vositalarining taniqlik belgilari",
+                    "ru": "Опознавательные знаки транспортных средств",
+                    "kiril": "Транспорт воситаларининг таниқлик белгилари",
+                    "en": "Transport vositalarining taniqlik belgilari",
+                    "qq": " Transport qurallarınıń belgilik belgileri"
+                },
+                "code": "10",
+                "image_url": "/storage/tests/images changed/types/2025-08-09_15-56-08_CM879GFYVX.png",
+                "road_signs_count": 14
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}

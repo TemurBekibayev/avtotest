@@ -1,0 +1,567 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 2,
+        "total_pages": 48,
+        "total_items": 475,
+        "show_count": "10",
+        "data": [
+            {
+                "id": 12056,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu yo‘l belgisi chorrahalarda o‘ngga burilayotgan relssiz transport vositalariga svetaforning qaysi ishorasida harakatlanishga ruxsat etiladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12056.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191648,
+                        "newtest_question_id": 12056,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Qizil ishorasida"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191649,
+                        "newtest_question_id": 12056,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Sariq ishorasida"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191650,
+                        "newtest_question_id": 12056,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yashil ishorasida"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191651,
+                        "newtest_question_id": 12056,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘rsatilgan barchasida"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 5.42 bandiga asosan: 5.42. «Qizil chiroqda o‘ngga harakatlanish». Transport svetofori qizil chirog‘ining o‘ng yoniga 5.42 yo‘l belgisi o‘rnatilgan bo‘lsa, transport vositalarining haydovchilari svetoforning taqiqlovchi ishorasi yonib turganda, barcha xavfsizlik choralarini ko‘rgan holda o‘ngga burilishlari mumkin. Bunda ular harakat yo‘nalishi bo‘yicha va burilayotgan ko‘chani kesib o‘tayotgan piyodalarga hamda boshqa transport vositalariga yo‘l berishlari shart.",
+                "answer_video": null
+            },
+            {
+                "id": 12052,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu ko‘rsatilgan holatda qaysi transport vositasi yo‘l berishi kerak?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12052.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191674,
+                        "newtest_question_id": 12052,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yashil avtomobil"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191675,
+                        "newtest_question_id": 12052,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Qizil avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 10-bob. 75-bandiga asosan: 75. Agar biror to‘siq sababli qarama-qarshi yo‘nalishlarda harakatlanish qiyin bo‘lsa, to‘siq o‘z tomonida bo‘lgan haydovchi yo‘l berishi kerak.",
+                "answer_video": "/storage/tests/videos changed/12052.mp4"
+            },
+            {
+                "id": 12049,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi transport vositasi yo‘l berishi kerak?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12049.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191676,
+                        "newtest_question_id": 12049,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Oq avtomobil"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191677,
+                        "newtest_question_id": 12049,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘k avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 10-bob. 75-bandiga asosan: 75. Agar biror to‘siq sababli qarama-qarshi yo‘nalishlarda harakatlanish qiyin bo‘lsa, to‘siq o‘z tomonida bo‘lgan haydovchi yo‘l berishi kerak.",
+                "answer_video": "/storage/tests/videos changed/12049.mp4"
+            },
+            {
+                "id": 12046,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi rasmda quvib o‘tishning to‘g‘ri holati ko‘rsatilgan?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12046.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191363,
+                        "newtest_question_id": 12046,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191364,
+                        "newtest_question_id": 12046,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "3"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191365,
+                        "newtest_question_id": 12046,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "2 va 3"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191366,
+                        "newtest_question_id": 12046,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "3 va 4"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 2-ILOVA 1.1 bandi va 44-xatboshi, 1.11 bandi va 49-xatboshi hamda YHQning 12-bob. 86-band 2-xatboshiga asosan: 1.1 — qarama-qarshi yo‘nalishlarda harakatlanayotgan transport oqimlarini ajratadi. 1.1 va 1.3 chiziqlarini bosib o‘tish taqiqlanadi, qatnov qismining chetini bildirish uchun qo‘llanilgan 1.1 chizig‘i bundan mustasno.\r\n1.11 — faqat bir tomondan qayta tizilishga ruxsat etilgan yo‘l qismlarida, bir yo‘nalishdagi yoki qarama-qarshi kelayotgan transport oqimlarini ajratadi; qayrilib olish, to‘xtash maydonchalari va shunga o‘xshashlarga kirish-chiqish joylarida harakatlanish faqat bir yo‘nalishda ruxsat etilganligini ko‘rsatadi. 1.11 chizig‘ini uzuq-uzuq chiziq tomonidan, sidirg‘a chiziq tomonidan esa faqat quvib yoki aylanib o‘tishni tugatayotganda bosib o‘tishga ruxsat etiladi.\r\n86. Quvib o‘tish quyidagi hollarda taqiqlanadi: tartibga solingan chorrahalarda.",
+                "answer_video": "/storage/tests/videos changed/12046.mp4"
+            },
+            {
+                "id": 12043,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Bu joyda avtomobilning to‘xtab turishiga ruxsat etiladimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12043.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191357,
+                        "newtest_question_id": 12043,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191358,
+                        "newtest_question_id": 12043,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat etiladi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 13-bob. 88-band 2-xatboshi va 91-band 13-xatboshiga asosan: Aholi punktlarida o‘rtada tramvay yo‘li bo‘lmagan, har yo‘nalishda bittadan tasmasi bo‘lgan, shuningdek bir tomonlama harakat tashkil etilgan yo‘llarda yo‘lning chap tomonida to‘xtash va to‘xtab turishga ruxsat etiladi.\r\n91. Quyidagilarda to‘xtash taqiqlanadi: qatnov qismi kesishmalarida va kesishayotgan qatnov qismi chetiga 30 metrdan kam masofada (uch tomonlama kesishadigan chorrahalarda yondan tutashgan yo‘lning sidirg‘a chiziq yoki ajratuvchi mintaqa bilan ajratilgan qarama-qarshi tomoni bundan mustasno).",
+                "answer_video": "/storage/tests/videos changed/12043.mp4"
+            },
+            {
+                "id": 12040,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu yo‘l nechta harakatlanish tasmasiga ega?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12040.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191345,
+                        "newtest_question_id": 12040,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Bitta harakatlanish tasmasiga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191346,
+                        "newtest_question_id": 12040,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Uchta harakatlanish tasmasiga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191347,
+                        "newtest_question_id": 12040,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkita harakatlanish tasmasiga"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 1-bob. 6-band 84-xatboshiga asosan: harakatlanish tasmasi — avtomobillarning bir qator bo‘lib harakatlanishi uchun yetarlicha keng bo‘lgan, yo‘l chiziqlari bilan belgilangan yoki belgilanmagan yo‘l qatnov qismining har qanday bo‘ylama tasmasi.",
+                "answer_video": "/storage/tests/videos changed/12040.mp4"
+            },
+            {
+                "id": 12037,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Yo‘lovchilarga taqiqlanadi:"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191337,
+                        "newtest_question_id": 12037,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Transport vositasi harakatlanayotgan vaqtda haydovchini boshqarishdan chalg‘itish va unga xalaqit berish"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191338,
+                        "newtest_question_id": 12037,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Harakatlanayotgan bortli yuk avtomobillarida tik turish, bortlarda yoki undan yuqoridagi yuk ustida o‘tirish"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191339,
+                        "newtest_question_id": 12037,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Transport vositasi harakatlanayotgan vaqtda uning eshiklarini ochish"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191340,
+                        "newtest_question_id": 12037,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha ko‘rsatilgan javoblar to‘g‘ri"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 5-bob. 24-bandga asosan: 24. Yo‘lovchilarga:\r\n- transport vositasi harakatlanayotgan vaqtda haydovchini boshqarishdan chalg‘itish (unga xalaqit berish);\r\n- harakatlanayotgan bortli yuk avtomobillarida tik turish, bortlarda yoki undan yuqoridagi yuk ustida o‘tirish;\r\n- transport vositasi harakatlanayotgan vaqtda uning eshiklarini ochish;\r\n- transport vositasi harakatlanayotgan vaqtda salondan tana qismlarini (qo‘ldan tashqari) chiqarish taqiqlanadi.\r\nBu talablarning bajarilishini haydovchi nazorat qilishi kerak.",
+                "answer_video": null
+            },
+            {
+                "id": 12034,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "L- toifasi bu?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191327,
+                        "newtest_question_id": 12034,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yuk avtomobillari"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191328,
+                        "newtest_question_id": 12034,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Mototransport vositalari"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191329,
+                        "newtest_question_id": 12034,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yo‘lovchi tashuvchi transport vositalari"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 3-ILOVA 7.22 bandi 25-xatboshiga asosan: L toifasi — mototransport vositalari.",
+                "answer_video": null
+            },
+            {
+                "id": 12031,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ikki tomonlama yo‘lda harakatsiz holda bo‘lgan jism bor (bo‘chka, meshok, ...). Siz bu narsalarni qaysi tomonidan aylanib o‘tasiz?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191315,
+                        "newtest_question_id": 12031,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "O‘ng va chap tomonidan"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191316,
+                        "newtest_question_id": 12031,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "O‘ng tomonidan"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191317,
+                        "newtest_question_id": 12031,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Chap tomonidan"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 10-bob. 76-bandiga asosan: 76. Agar yo‘l belgilari va chiziqlari boshqa yo‘nalishni ko‘rsatmagan bo‘lsa, haydovchilar ajratuvchi bo‘lagi bo‘lmagan ikki tomonlama harakat tashkil etilgan yo‘llardagi xavfsizlik orolchalari, ustunchalar va yo‘l inshooti qismlari (ko‘prik, yo‘l o‘tkazgich ustunlari va shunga o‘xshashlar)ni o‘ng tomondan aylanib o‘tishlari kerak.",
+                "answer_video": null
+            },
+            {
+                "id": 12028,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Bunday holatda qaysi haydovchi yo‘l berishi kerak?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12028.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191258,
+                        "newtest_question_id": 12028,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Tramvay haydovchisi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191259,
+                        "newtest_question_id": 12028,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Avtomobil haydovchisi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 22-bob. 131-bandiga asosan: 131. Tramvay yo‘llari chorrahadan tashqarida qatnov qismini kesib o‘tadigan joylarda tramvay relssiz transport vositalariga nisbatan imtiyozga ega bo‘ladi (depodan chiqish joylari bundan mustasno).",
+                "answer_video": "/storage/tests/videos changed/12028.mp4"
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}
+

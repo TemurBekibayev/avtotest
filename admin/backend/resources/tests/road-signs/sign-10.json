@@ -1,0 +1,567 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 1,
+        "total_pages": 1,
+        "total_items": 14,
+        "show_count": "50",
+        "data": [
+            {
+                "id": 376,
+                "name": {
+                    "uz": "1. Avtopoezd",
+                    "ru": "1. Автопоэзд",
+                    "kiril": "1. Автопоэзд",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_16-09-50_K1SF512JTY.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "1. Avtopoezd"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-19_16-09-50_NB6QBSGUH5.png"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-19_16-09-50_V2UU796EA9.png"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-19_16-09-50_JT4NKEB6V7.png"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "1. Автопоэзд"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-19_16-09-50_743UZSEXP1.png"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-19_16-09-50_EMRXJ5958A.png"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-19_16-09-50_2DG6Q25KGM.png"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "1. Автопоэзд"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-19_16-09-50_1DPRSSS5TM.png"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-19_16-09-50_YUK7VKFYN1.png"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-19_16-09-50_P7Q1RD4GUH.png"
+                        }
+                    ]
+                },
+                "order": 1
+            },
+            {
+                "id": 377,
+                "name": {
+                    "uz": "2. Turumlangan shina o'rnatilgan",
+                    "ru": "2. Установлена экранированная шина.",
+                    "kiril": "2. Турумланган шина ўрнатилган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_16-12-36_SVUHJYTRXW.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "2. Turumlangan shina o'rnatilgan"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "2. Установлена экранированная шина."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "2. Турумланган шина ўрнатилган"
+                        }
+                    ]
+                },
+                "order": 2
+            },
+            {
+                "id": 378,
+                "name": {
+                    "uz": "3. Bolalar guruhi tashiyotgan TB",
+                    "ru": "3. Транспортное средство, перевозящие группу детей.",
+                    "kiril": "3. Болалар гуруҳи ташиётган ТБ",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_16-21-02_1BJPPTSRR6.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "3. Bolalar guruhi tashiyotgan transport vositasi"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "3. Транспортное средство, перевозящие группу детей."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "3. Болалар гуруҳи ташиётган транспорт воситаси"
+                        }
+                    ]
+                },
+                "order": 3
+            },
+            {
+                "id": 379,
+                "name": {
+                    "uz": "4. Kar soqov yoki kar haydovchi boshqarayotgan avtomobil",
+                    "ru": "4. Автомобиль, управляемый глухонемым или глухим водителем.",
+                    "kiril": "4. Кар соқов ёки кар ҳайдовчи бошқараётган автомобил",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_16-22-33_ZYTJ1CFKU6.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "4. Kar soqov yoki kar haydovchi boshqarayotgan avtomobil"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "4. Автомобиль, управляемый глухонемым или глухим водителем."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "4. Кар соқов ёки кар ҳайдовчи бошқараётган автомобил"
+                        }
+                    ]
+                },
+                "order": 4
+            },
+            {
+                "id": 380,
+                "name": {
+                    "uz": "5. Boshqarishni o'rgatish",
+                    "ru": "5. Обучение вождению.",
+                    "kiril": "5. Бошқаришни ўргатиш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_16-26-18_APEMA6D53T.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "5. Boshqarishni o'rgatish"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "5. Обучение вождению."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "5. Бошқаришни ўргатиш"
+                        }
+                    ]
+                },
+                "order": 5
+            },
+            {
+                "id": 381,
+                "name": {
+                    "uz": "6. Tezligi cheklangan",
+                    "ru": "6. Ограниченная скорость.",
+                    "kiril": "6. Тезлиги чекланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_16-51-16_4V5J6VWM3G.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "6. Tezligi cheklangan"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "6. Ограниченная скорость."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "6. Тезлиги чекланган"
+                        }
+                    ]
+                },
+                "order": 6
+            },
+            {
+                "id": 382,
+                "name": {
+                    "uz": "7. Xavfli yuk tashiyotgan avtomobil",
+                    "ru": "7. Автомобиль, перевозящий опасный груз",
+                    "kiril": "7. Хавфли юк ташиётган автомобил",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-22_11-04-16_MRHDHTNXXK.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "7. Xavfli yuk tashiyotgan avtomobil"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "7. Автомобиль, перевозящий опасный груз"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "7. Хавфли юк ташиётган автомобил"
+                        }
+                    ]
+                },
+                "order": 7
+            },
+            {
+                "id": 383,
+                "name": {
+                    "uz": "8. Katta o'lchamli yuk",
+                    "ru": "8. Крупногабаритный груз",
+                    "kiril": "8. Катта ўлчамли юк",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-22_11-07-21_74FCHQVS9G.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "8. Katta o'lchamli yuk"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "8. Крупногабаритный груз"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "8. Катта ўлчамли юк"
+                        }
+                    ]
+                },
+                "order": 8
+            },
+            {
+                "id": 384,
+                "name": {
+                    "uz": "9. Uzun o'lchamli transport vositasi",
+                    "ru": "9. Длинномерное транспортное средство",
+                    "kiril": "9. Узун ўлчамли транспорт воситаси",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-22_11-09-16_ZQKR6EBFAR.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "9. Uzun o'lchamli transport vositasi"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "9. Длинномерное транспортное средство"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "9. Узун ўлчамли транспорт воситаси"
+                        }
+                    ]
+                },
+                "order": 9
+            },
+            {
+                "id": 385,
+                "name": {
+                    "uz": "10.1 Falokat sababli to'xtash",
+                    "ru": "10.1 Остановка по причине аварии",
+                    "kiril": "9. Узун ўлчамли транспорт воситаси",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-22_11-18-42_3B8W4JM4AZ.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "10.1 Falokat sababli to'xtash"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "10.1 Остановка по причине аварии"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "9. Узун ўлчамли транспорт воситаси"
+                        }
+                    ]
+                },
+                "order": 10
+            },
+            {
+                "id": 386,
+                "name": {
+                    "uz": "10. Falokat sababli to'xtash",
+                    "ru": "10. Остановка по причине аварии",
+                    "kiril": "10. Фалокат сабабли тўхташ",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-22_11-20-53_8EPB6UVRXS.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "10. Falokat sababli to'xtash"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "10. Остановка по причине аварии"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "10. Фалокат сабабли тўхташ"
+                        }
+                    ]
+                },
+                "order": 11
+            },
+            {
+                "id": 387,
+                "name": {
+                    "uz": "11. Shifokor xaydovchi boshqarayotgan avtomobil",
+                    "ru": "11. Автомобиль, управляемый водителем-врачом",
+                    "kiril": "11. Шифокор хайдовчи бошқараётган автомобил",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-22_11-22-07_HDVJ4PUJM6.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "11. Shifokor xaydovchi boshqarayotgan avtomobil"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "11. Автомобиль, управляемый водителем-врачом"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "11. Шифокор хайдовчи бошқараётган автомобил"
+                        }
+                    ]
+                },
+                "order": 12
+            },
+            {
+                "id": 388,
+                "name": {
+                    "uz": "12. Nogiron xaydochi boshqarayotgan avtomobil",
+                    "ru": "12. Автомобиль, управляемый водителем-инвалидом",
+                    "kiril": "12. Ногирон хайдочи бошқараётган автомобил",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-22_11-24-39_3FFU3FNXGN.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "12. Nogiron xaydochi boshqarayotgan avtomobil"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "12. Автомобиль, управляемый водителем-инвалидом"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "12. Ногирон хайдочи бошқараётган автомобил"
+                        }
+                    ]
+                },
+                "order": 13
+            },
+            {
+                "id": 389,
+                "name": {
+                    "uz": "13. Xaydovchilikni endi boshlangan",
+                    "ru": "13. Водитель-новичок",
+                    "kiril": "13. Хайдовчиликни енди бошланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-22_11-27-00_Y22R383CET.png",
+                "road_sign_type_id": 10,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "13. Xaydovchilikni endi boshlangan"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "13. Водитель-новичок"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "13. Хайдовчиликни енди бошланган"
+                        }
+                    ]
+                },
+                "order": 14
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}

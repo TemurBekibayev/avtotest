@@ -1,0 +1,612 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 6,
+        "total_pages": 48,
+        "total_items": 475,
+        "show_count": "10",
+        "data": [
+            {
+                "id": 11935,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi yo'nalish bo‘yicha chapga burilishga ruxsat etiladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11935.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188541,
+                        "newtest_question_id": 11935,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 1-yo‘nalish"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188542,
+                        "newtest_question_id": 11935,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 2-yo‘nalish"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188543,
+                        "newtest_question_id": 11935,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki yo‘nalishlarga taqiqlanadi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188544,
+                        "newtest_question_id": 11935,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha yo‘nalishlarga"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 9-bob. 56-band 2-xatboshiga asosan: Agar 5.8.1 yoki 5.8.2 yo‘l belgilari yoxud 1.18 yo‘l chizig‘i bilan boshqa harakatlanish tartibi o‘rnatilmagan bo‘lsa, qatnov qismining o‘rtasida u bilan bir sathda joylashgan bir yo‘nalishdagi tramvay izidan chapga burilish va qayrilib olishga ruxsat etiladi. Biroq, bu tramvay harakatiga xalaqit bermasligi kerak.",
+                "answer_video": "/storage/tests/videos changed/11935.mp4"
+            },
+            {
+                "id": 11932,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qizil avtomobil haydovchisi yaqinlashib kelayotgan poyezdni o‘tkazib yuborish uchun to‘g‘ri to‘xtadimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11932.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188539,
+                        "newtest_question_id": 11932,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "To‘g‘ri to‘xtadi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188540,
+                        "newtest_question_id": 11932,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Noto‘g‘ri to‘xtadi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 8-bob. 119-bandiga asosan: 119. Kesishma orqali harakatlanish taqiqlangan hollarda haydovchi to‘xtash chizig‘i, 2.5 yo‘l belgisi yoki svetofor oldida, ular bo‘lmaganda shlagbaumga kamida 5 metr, shlagbaum bo‘lmaganda esa birinchi temir yo‘l iziga kamida 10 metr qolganda to‘xtashi kerak.",
+                "answer_video": "/storage/tests/videos changed/11932.mp4"
+            },
+            {
+                "id": 11929,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Yondosh hududlardan yo‘lga chiqish joylarida yoki yo‘lning dala, o‘rmon yo‘llari va boshqa doimiy harakatlanish, o‘tib ketish uchun mo‘ljallanmagan yo‘llar bilan kesishgan (tutashgan) joylarida, ularning oldida tegishli belgilar o‘rnatilmagan bo‘lsa, bu belgilarning ta’siri yo‘qoladimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11929.png"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185784,
+                        "newtest_question_id": 11929,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yo‘qoladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185785,
+                        "newtest_question_id": 11929,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yo‘qolmaydi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "\"YHQga 1-ILOVA 3.Taqiqlovchi belgilarning 46 va 47-xatboshiga asosan: 3.16, 3.20, 3.22, 3.24, 3.26 — 3.30 belgilarining ta’siri belgi o‘rnatilgan joydan keyingi eng yaqin chorrahagacha, ular bo‘lmaganda — aholi punktining oxirigacha ta’siri qiladi.\r\nYondosh hududlardan yo‘lga chiqish joylarida yoki yo‘lning dala, o‘rmon yo‘llari va boshqa doimiy harakatlanish, o‘tib ketish uchun mo‘ljallanmagan yo‘llar bilan kesishgan (tutashgan) joylarida, ularning oldida tegishli belgilar o‘rnatilmagan bo‘lsa, bu belgilarning ta’siri yo‘qolmaydi.\"",
+                "answer_video": null
+            },
+            {
+                "id": 11926,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi avtomobil haydovchisi qoidani buzmasdan harakatlanmoqda?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11926.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188535,
+                        "newtest_question_id": 11926,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘k avtomobil haydovchisi"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188536,
+                        "newtest_question_id": 11926,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Qizil avtomobil haydovchisi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188537,
+                        "newtest_question_id": 11926,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkala avtomobil haydovchilari"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188538,
+                        "newtest_question_id": 11926,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkala avtomobil haydovchilari qoidani buzmoqda"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQga 1-ILOVA 3.18.2 bandi va 3.Taqiqlovchi belgilarning 47-xatboshi hamda YHQga 1-ILOVA 5.8.2 bandi va 5. Axborot-ko‘rsatgich belgilarining 11-xatboshiga asosan: 3.18.2. «Chapga burilish taqiqlanadi». 3.18.1 va 3.18.2 belgilari qatnov qismlarining qaysi kesishmasi oldiga o‘rnatilsa, shu kesishmaga tatbiq etiladi. \r\n5.8.2. «Tasma bo‘yicha harakatlanish yo‘nalishi». Tasma bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi. Boshqa yo‘nalishlar bo‘yicha harakatlanish taqiqlanadi.\r\nYo‘lning chetki chap bo‘lagidan chapga burilishga ruxsat beruvchi 5.8.1 va 5.8.2 belgilari shu tasmadan qayrilishga ham ruxsat beradi.\"",
+                "answer_video": "/storage/tests/videos changed/11926.mp4"
+            },
+            {
+                "id": 11923,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Miniladigan uy hayvonlarini boshqarishga necha yoshdan ruxsat etiladi?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185762,
+                        "newtest_question_id": 11923,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "12 yosh"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185763,
+                        "newtest_question_id": 11923,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "14 yosh"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185764,
+                        "newtest_question_id": 11923,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "16 yosh"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185765,
+                        "newtest_question_id": 11923,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "18 yosh"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 28-bob. 165-bandga asosan: 165. Yo‘lda velosiped, individual harakatlanish vositalarini va aravani boshqarish, miniladigan yoki yuk ortiladigan hayvonlarni haydab o‘tish 14 yoshdan kichik bo‘lmagan, moped va skuterni boshqarish esa 16 yoshdan kichik bo‘lmagan shaxslarga ruxsat etiladi.",
+                "answer_video": null
+            },
+            {
+                "id": 11920,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Velosipedni boshqarishga necha yoshdan ruxsat etiladi?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185750,
+                        "newtest_question_id": 11920,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "12 yosh"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185751,
+                        "newtest_question_id": 11920,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "14 yosh"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185752,
+                        "newtest_question_id": 11920,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "16 yosh"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185753,
+                        "newtest_question_id": 11920,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "18 yosh"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 28-bob. 165-bandga asosan: 165. Yo‘lda velosiped, individual harakatlanish vositalarini va aravani boshqarish, miniladigan yoki yuk ortiladigan hayvonlarni haydab o‘tish 14 yoshdan kichik bo‘lmagan, moped va skuterni boshqarish esa 16 yoshdan kichik bo‘lmagan shaxslarga ruxsat etiladi.",
+                "answer_video": null
+            },
+            {
+                "id": 11917,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Yo‘l chiziqlari nechta guruhdan iborat?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185740,
+                        "newtest_question_id": 11917,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "2 ta"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185741,
+                        "newtest_question_id": 11917,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "3 ta"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185742,
+                        "newtest_question_id": 11917,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "4 ta"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 2-ILOVAga asosan yo‘l chiziqlari 2 guruhga bo‘linadi: 1. Yotiq chiziqlar; 2. Tik chiziqlar.",
+                "answer_video": null
+            },
+            {
+                "id": 11914,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Vazirlar Mahkamasining 172-sonli qaroriga muvofiq, Yo‘l harakati qoidalari nechta banddan iborat?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185729,
+                        "newtest_question_id": 11914,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "184"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185730,
+                        "newtest_question_id": 11914,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "186"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185731,
+                        "newtest_question_id": 11914,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "216"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185732,
+                        "newtest_question_id": 11914,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "220"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 1-bob. 1-bandiga asosan: Yo‘l harakati qoidalari 186 ta banddan iborat.",
+                "answer_video": null
+            },
+            {
+                "id": 11911,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Aholi yashash joylaridan tashqaridagi ikki tomonlama harakat tashkil etilgan ikki tasmali yo‘llarda tezligini soatiga 50 kilometrdan oshirishi mumkin bo‘lmagan, shuningdek, uzunligi 7 metrdan ortiq bo‘lgan transport vositalarining (transport vositalarining tarkibi) haydovchilari o‘zi va oldida harakatlanayotgan transport vositasi orasida qancha masofani saqlashlari kerak?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185717,
+                        "newtest_question_id": 11911,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "3 metr"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185718,
+                        "newtest_question_id": 11911,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "5 metr"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185719,
+                        "newtest_question_id": 11911,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Haydovchi o‘zidan oldinda harakatlanayotgan transport vositasi keskin tormoz berganda, to‘qnashib ketmaslik kafolatini beradigan darajadagi oraliq masofani"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185720,
+                        "newtest_question_id": 11911,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ularni quvib o‘tayotgan transport vositalari oldin egallagan qatoriga bemalol qayta tizilishi uchun imkon beradigan masofani saqlashlari kerak"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 10-bob. 74-bandi 1-xatboshiga asosan: 74. Aholi yashash joylaridan tashqaridagi ikki tomonlama harakat tashkil etilgan ikki tasmali yo‘llarda tezligini soatiga 50 kilometrdan oshirishi mumkin bo‘lmagan, shuningdek, uzunligi 7 metrdan ortiq bo‘lgan transport vositalarining (transport vositalarining tarkibi) haydovchilari o‘zi va oldida harakatlanayotgan transport vositasi orasida, ularni quvib o‘tayotgan transport vositalari oldin egallagan qatoriga bemalol qayta tizilishi uchun imkon beradigan masofani saqlashlari kerak.",
+                "answer_video": null
+            },
+            {
+                "id": 11908,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Miltillovchi qizil ishora?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185707,
+                        "newtest_question_id": 11908,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Harakatni taqiqlaydi"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185708,
+                        "newtest_question_id": 11908,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Keskin tormoz bermasdan to‘xtashga ulgura olmaydigan haydovchilarga harakatlanishni davom ettirishga ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185709,
+                        "newtest_question_id": 11908,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Harakatlanishga ruxsat beradi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 7-bob. 31-band 7-xatboshiga asosan: 31. Svetoforning doirasimon ishoralari quyidagi ma’noni bildiradi: qizil ishora, shuningdek, miltillovchi qizil ishora harakatlanishni taqiqlaydi.",
+                "answer_video": null
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}
+

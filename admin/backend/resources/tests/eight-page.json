@@ -1,0 +1,668 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 8,
+        "total_pages": 48,
+        "total_items": 475,
+        "show_count": "10",
+        "data": [
+            {
+                "id": 11874,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi transport vositalari o‘ngga harakatlanishga ruxsat etiladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11874.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188513,
+                        "newtest_question_id": 11874,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkisiga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188514,
+                        "newtest_question_id": 11874,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Tramvayga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188515,
+                        "newtest_question_id": 11874,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Engil avtomobilga"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "\"YHQning 7-bob. 31-band 2-xatboshi hamda 36-band 2-xatboshiga asosan:  31. Svetoforning doirasimon ishoralari quyidagi ma’noni bildiradi:\r\nyashil ishora harakatlanishga ruxsat beradi.\r\n36. Tramvaylarning hamda maxsus ajratilgan tasma bo‘ylab harakatlanayotgan boshqa yo‘nalishli transport vositalarining harakatlanishini tartibga solish uchun «T» harfi ko‘rinishida joylashgan to‘rtta doirasimon oq rang ishorali svetoforlar qo‘llanilishi mumkin.\r\nYuqoridagi bir yoki bir nechta va pastki ishora bir vaqtning o‘zida yonganda, harakatlanishga ruxsat etiladi. Ulardan chapdagisi chapga, o‘ngdagisi o‘ngga, o‘rtadagisi to‘g‘riga yurishga ruxsat beradi. Pastdagi ishora o‘chirilib, yuqoridagi uchta ishora bir vaqtda yonsa, harakatlanish taqiqlanadi.\"",
+                "answer_video": "/storage/tests/videos changed/11874.mp4"
+            },
+            {
+                "id": 11871,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu avtomobilga ko‘rsatilgan yo‘nalishlardan qaysi biriga harakatlanishga ruxsat etiladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11871.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188509,
+                        "newtest_question_id": 11871,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat qayrilib olishga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188510,
+                        "newtest_question_id": 11871,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat chapga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188511,
+                        "newtest_question_id": 11871,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkala yo‘nalishga ham harakatlanish taqiqlanadi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188512,
+                        "newtest_question_id": 11871,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkala yo‘nalishga ham harakatlanishga ruxsat etiladi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 3.18.2 bandi va 3.Taqiqlovchi belgilarning 47-xatboshiga asosan: 3.18.2. «Chapga burilish taqiqlanadi». 3.18.1 va 3.18.2 belgilari qatnov qismlarining qaysi kesishmasi oldiga o‘rnatilsa, shu kesishmaga tatbiq etiladi.",
+                "answer_video": "/storage/tests/videos changed/11871.mp4"
+            },
+            {
+                "id": 11868,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Velosipeddan foydalanishda yo‘lovchi tashish qaysi hollarda ruxsat etiladi?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185585,
+                        "newtest_question_id": 11868,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 7 yoshgacha bo‘lgan bolalarni maxsus o‘rindiqda tashish mumkin"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185586,
+                        "newtest_question_id": 11868,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat kattalar uchun ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185587,
+                        "newtest_question_id": 11868,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har qanday yo‘lovchini tashish mumkin"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185588,
+                        "newtest_question_id": 11868,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Hech qachon ruxsat etilmaydi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQning 28-bob. 168-band 3-xatboshiga asosan:168. Velosipedchilar va individual harakatlanish vositalarini boshqarayotgan shaxslarga quyidagilar taqiqlanadi:\r\nodam tashish (ishonchli oyoq qo‘ygich bilan jihozlangan velosipeddagi qo‘shimcha o‘rindiqda 7 yoshgacha bo‘lgan bolani tashish bundan mustasno).\"",
+                "answer_video": null
+            },
+            {
+                "id": 11865,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Yo‘nalishli transport vositalariga bekatlardan tashqari joylarda yo‘lovchi olish va tushirishga (yo‘nalishli taksilar bundan mustasno) ruxsat etiladimi?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185577,
+                        "newtest_question_id": 11865,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185578,
+                        "newtest_question_id": 11865,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 22-bob. 133-band 2-xatboshiga asosan: Yo‘nalishli transport vositalariga bekatlardan tashqari joylarda yo‘lovchi olish va tushirish taqiqlanadi (yo‘nalishli taksilar bundan mustasno).",
+                "answer_video": null
+            },
+            {
+                "id": 11862,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Yengil avtomobil qaysi yo‘nalish bo‘yicha to‘g‘ri burilmoqda?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11862.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188506,
+                        "newtest_question_id": 11862,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188507,
+                        "newtest_question_id": 11862,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1 va 2"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188508,
+                        "newtest_question_id": 11862,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "2"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 22-bob. 132-band 2-xatboshiga asosan: Agar 5.9 yo‘l belgisi bilan belgilangan tasma qatnov qismining boshqa tasmalardan uzuq-uzuq chiziq bilan ajratilgan bo‘lsa, burilmoqchi bo‘layotgan transport vositalari bu tasmaga qayta tizilishlari kerak.",
+                "answer_video": "/storage/tests/videos changed/11862.mp4"
+            },
+            {
+                "id": 11859,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi yo‘nalishlarda harakat qilish mumkin?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11859.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185554,
+                        "newtest_question_id": 11859,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha yo‘nalishlarda harakatlanishga ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185555,
+                        "newtest_question_id": 11859,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "To‘g‘riga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185556,
+                        "newtest_question_id": 11859,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Chapga va orqaga qaytish (qayrilib olish)"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185557,
+                        "newtest_question_id": 11859,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Chapga"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185558,
+                        "newtest_question_id": 11859,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "To‘g‘riga va chapga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185559,
+                        "newtest_question_id": 11859,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha yo‘nalishlarda harakatlanish taqiqlanadi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQning 7-bob. 32-band 1 va 2-xatboshiga asosan: 32. Yo‘naltirgich ko‘rinishidagi qizil, sariq va yashil rangli svetofor ishoralari ham doirasimon shaklidagi svetofor ishoralari bilan bir xil ma’noga ega bo‘ladi. Ular faqat ko‘rsatilgan yo‘nalishga ta’sir etadi.\r\nAgar tegishli yo‘l belgisi bilan qayrilib olish taqiqlanmagan bo‘lsa, chapga burilishga ruxsat beruvchi yo‘naltirgich qayrilib olishga ham ruxsat beradi. Qo‘shimcha tarmoqdagi yashil yo‘naltirgich ham xuddi shu ma’noni bildiradi.\"",
+                "answer_video": null
+            },
+            {
+                "id": 11856,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Avtobus haydovchisiga bu joyda odam tushirishga ruxsat etiladimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11856.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185542,
+                        "newtest_question_id": 11856,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185543,
+                        "newtest_question_id": 11856,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185544,
+                        "newtest_question_id": 11856,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Agar avtobus belgilangan yo‘nalishli bo‘lsa ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 22-bob. 133-band 2-xatboshiga asosan: Yo‘nalishli transport vositalariga bekatlardan tashqari joylarda yo‘lovchi olish va tushirish taqiqlanadi (yo‘nalishli taksilar bundan mustasno).",
+                "answer_video": null
+            },
+            {
+                "id": 11853,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Aholi punktlaridan tashqarida qaysi avtomobil to‘xtab turish qoidasini buzmadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11853.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188501,
+                        "newtest_question_id": 11853,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Qizil avtomobil"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188502,
+                        "newtest_question_id": 11853,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yashil avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188503,
+                        "newtest_question_id": 11853,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Qizil va yashil avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188504,
+                        "newtest_question_id": 11853,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha avtomobillar to‘xtab turish qoidasini buzdi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188505,
+                        "newtest_question_id": 11853,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘k avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 13-bob. 88-band 1-xatboshiga asosan: 88. Transport vositalariga yo‘lning o‘ng tomonida yo‘l yoqasida, u bo‘lmaganda esa qatnov qismining chetida va Qoidalarning 89-bandida ko‘rsatilgan hollarda trotuarda to‘xtash va to‘xtab turishga ruxsat etiladi.",
+                "answer_video": "/storage/tests/videos changed/11853.mp4"
+            },
+            {
+                "id": 11848,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Chapga burilish sizga qaysi trayektoriya bo‘yicha amalga oshirishga ruxsat etiladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11848.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188498,
+                        "newtest_question_id": 11848,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat A trayektoriya bo‘yicha"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188499,
+                        "newtest_question_id": 11848,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘rsatilgan trayektoriyalardan istalgan biri bo‘yicha"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188500,
+                        "newtest_question_id": 11848,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat B trayektoriya bo‘yicha"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 9-bob. 56-band 1-xatboshiga asosan: 56. Aylanma harakatlanish tashkil qilingan chorrahalarga kirish uchun burilishdan boshqa barcha hollarda, haydovchi o‘ngga, chapga burilishi yoki qayrilib olishdan oldinroq shu yo‘nalishda harakatlanishi uchun mo‘ljallangan qatnov qismining eng chetki holatni egallashi shart.",
+                "answer_video": "/storage/tests/videos changed/11848.mp4"
+            },
+            {
+                "id": 11845,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Avtomobil haydovchisi qaysi yo‘nalish bo‘yicha qoidani buzib burilmoqda?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11845.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188494,
+                        "newtest_question_id": 11845,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "A"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188495,
+                        "newtest_question_id": 11845,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "B"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188496,
+                        "newtest_question_id": 11845,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki yo‘nalish bo‘yicha qoidani buzmoqda"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188497,
+                        "newtest_question_id": 11845,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki yo‘nalish bo‘yicha qoidani buzmayapti"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQning 9-bob. 56-band 1-xatboshi hamda YHQga 2-ILOVA 1.1 bandi va 44-xatboshiga asosan: 56. Aylanma harakatlanish tashkil qilingan chorrahalarga kirish uchun burilishdan boshqa barcha hollarda, haydovchi o‘ngga, chapga burilishi yoki qayrilib olishdan oldinroq shu yo‘nalishda harakatlanishi uchun mo‘ljallangan qatnov qismining eng chetki holatni egallashi shart.\r\n1.1 — qarama-qarshi yo‘nalishlarda harakatlanayotgan transport oqimlarini ajratadi, yo‘lning xavfli joylaridagi harakatlanish bo‘lagi chegarasini va velosipedchilar uchun bo‘lagining chegarasini bildiradi; yo‘lning kirish taqiqlangan qismi chegarasini belgilaydi; transport vositalarining to‘xtab turish joyi chegarasini hamda avtomagistral qatoriga kiritilmagan yo‘lning qatnov qismi chegarasini bildiradi; 1.1 va 1.3 chiziqlarini bosib o‘tish taqiqlanadi, qatnov qismining chetini bildirish uchun qo‘llanilgan 1.1 chizig‘i bundan mustasno.\"",
+                "answer_video": "/storage/tests/videos changed/11845.mp4"
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}
+

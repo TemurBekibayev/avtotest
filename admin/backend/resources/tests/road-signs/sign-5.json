@@ -1,0 +1,1947 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 1,
+        "total_pages": 2,
+        "total_items": 84,
+        "show_count": "50",
+        "data": [
+            {
+                "id": 116,
+                "name": {
+                    "uz": "5.1. “Avtomagistral”. Yo‘l harakati qoidalarining avtomagistrallarda harakatlanish tartibi o‘rnatilgan yo‘l.",
+                    "ru": "5.1. \"Шоссе\". Дорога с правилами дорожного движения по автомагистралям.",
+                    "kiril": "5.1. “Автомагистрал”. Йўл ҳаракати қоидаларининг автомагистралларда ҳаракатланиш тартиби ўрнатилган йўл.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-03-23_U1DMVF94PF.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.1. \"Avtomagistral\"</strong></li></ul><p>Bu yo‘l belgisi avtomagistral boshida yoki unga chiqishda 7.1.1, 7.1.3, 7.1.4. \"Manzilgacha bo‘lgan masofa\" qo‘shimcha yo‘l belgilari bilan birga, 1000 metrgacha bo‘lgan masofada o‘rnatiladi. Belgi yirik aholi yashash punktlarini o‘zaro bog‘laydigan, takomillashtirilgan ya’ni transport vositalarining tez, xavfsiz harakatlanishi uchun sharoit yaratilgan yo‘lning boshlanishini ko‘rsatadi. Avtomagistrallarda harakatlanishning alohida tartibi mavjud bo‘lib, bunday yo‘lda piyodalar, uy hayvonlari, ot – aravalar, velosipedlar, mopedlar, traktor va o‘zi yurar mashinalarning harakatlanishi taqiqlanadi. Bu haqda \"Yo‘l harakati qoidalari\" 18- bo‘limining &nbsp;bandlarida batafsil tanishish mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.1 \"Автомагистраль\"</strong></li></ul><p>Этот дорожный знак находится в начале автомагистрали или на выезде на нее <strong>7.1.1, 7.1.3, 7.1.4. \"Расстояние до пункта назначения\" вместе с дополнительными дорожными знаками устанавливается на расстоянии до 1000 метров.</strong> Знак указывает на начало дороги, соединяющей между собой крупные населенные пункты, которая усовершенствована, то есть созданы условия для быстрого, безопасного движения транспортных средств. Существует отдельный режим движения по автомагистралям, по такой дороге запрещено движение пешеходов, домашних животных, автомобилей, запряженных лошадьми, велосипедов, мопедов, тракторов и самоуправляемых автомобилей. С этим можно подробно ознакомиться в пунктах раздела 18 \"Правила дорожного движения\".</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.1. \"Автомагистраль\"</strong></li></ul><p>Бу йўл белгиси автомагистраль бошида ёки унга чиқишда <i><strong>7.1.1, 7.1.3, 7.1.4. \"Манзилгача бўлган масофа\" қўшимча йўл белгилари билан бирга, 1000 метргача бўлган масофада ўрнатилади</strong></i>. Белги йирик аҳоли яшаш пунктларини ўзаро боғлайдиган, такомиллаштирилган яъни транспорт воситаларининг тез, хавфсиз ҳаракатланиши учун шароит яратилган йўлнинг бошланишини кўрсатади. Автомагистралларда ҳаракатланишнинг алоҳида тартиби мавжуд бўлиб, бундай йўлда пиёдалар, уй ҳайвонлари, от – аравалар, велосипедлар, мопедлар, трактор ва ўзи юрар машиналарнинг ҳаракатланиши тақиқланади. Бу ҳақда \"Йўл ҳаракати қоидалари\" 18- бўлимининг&nbsp; бандларида батафсил танишиш мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 1
+            },
+            {
+                "id": 117,
+                "name": {
+                    "uz": "5.2. “Avtomagistralning oxiri”.",
+                    "ru": "5.2. «Конец шоссе».",
+                    "kiril": "5.2. “Автомагистралнинг охири”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-08-01_1UGKBYC9SW.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.2. \"Avtomagistralning oxiri\"</strong></li></ul><p>Ushbu belgi avtomagistral yo'lining oxirida yoki undan oldin 7.1.1.\"Manzilgacha bo'lgan masofa\" qo'shimcha yo'l belgilari bilan birga, 1000 metrgacha bo'lgan masofada o'rnatiladi.Shu joydan boshlab, 5.1. \"Avtomagistral\" yo'l belgisi bilan joriy etilgan harakatlanishning alohida tartib- talablari bekor qilinadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.2 \"Конец автомагистрали\"</strong></li></ul><p>Этот знак 7.1.1 в конце автомагистрали или перед ним.&nbsp;</p><p><strong>\"Расстояние до пункта назначения\" вместе с дополнительными дорожными знаками устанавливается на расстоянии до 1000 метров.&nbsp;</strong></p><p>Начиная с этого места о<i>тменяются отдельные требования к порядку движения, введенные дорожным знаком 5.1 \"Автомагистраль\".</i></p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.2. \"Автомагистралнинг охири\"</strong></li></ul><p>Ушбу белги автомагистраль йўлининг охирида ёки ундан олдин 7.1.1.</p><p><i><strong>\"Манзилгача бўлган масофа\" қўшимча йўл белгилари билан бирга, 1000 метргача бўлган масофада ўрнатилади</strong></i>.</p><p><i>Шу жойдан бошлаб, 5.1. \"Автомагистрал\" йўл белгиси билан жорий этилган ҳаракатланишнинг алоҳида тартиб- талаблари бекор қилинади.</i></p>"
+                        }
+                    ]
+                },
+                "order": 2
+            },
+            {
+                "id": 118,
+                "name": {
+                    "uz": "5.3. “Avtomobillar uchun mo‘ljallangan yo‘l”. Faqat avtomobillar, avtobus va mototsikllarning harakatlanishi uchun mo‘ljallangan yo‘l.",
+                    "ru": "5.3. «Дорога для машин». Дорога только для автомобилей, автобусов и мотоциклов.",
+                    "kiril": "5.3. “Автомобиллар учун мўлжалланган йўл”. Фақат автомобиллар, автобус ва мотоциклларнинг ҳаракатланиши учун мўлжалланган йўл.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-08-37_GEBFAGB5DH.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.3. \"Avtomobillar uchun mo'ljallangan yo'l\"</strong></li></ul><p>Avtomobillar, avtobus va motosikllarning harakatlanishi uchun mo'ljallangan yo'lni ko'rsatuvchi bu belgi mazkur takomillashtirilgan yo'l oldidan qo'yiladi. Bunday yo'lda barcha turdagi avtomobillar, avtobus va motosikllarning harakatlanishiga ruxsat etiladi, biroq ot – arava, velosiped, traktor, o'zi yurar mashina va mexanizm kabi transportlarning harakati taqiqlanadi. Avtomagistraldan farqli o'laroq avtomobillar uchun mo'ljallangan yo'llar faqatgina shahar ichidagi yirik sanoat va aholi mavzelarini o'zaro birlashtiradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.3&nbsp;\"Дорога&nbsp;для&nbsp;автомобилей\"</strong></li></ul><p>Данный знак, обозначающий дорогу, предназначенную для движения автомобилей, автобусов и мотоциклов, ставится перед данной улучшенной дорогой. На такой дороге разрешено движение всех видов автомобилей, автобусов и мотоциклов, но запрещено движение таких транспортных средств, как конная повозка, велосипед, трактор, самоходная машина и механизм. Дороги для автомобилей, в отличие от автомагистралей, соединяют между собой только крупные промышленные и населенные пункты внутри города.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.3. \"Автомобиллар учун мўлжалланган йўл\"</strong></li></ul><p>Автомобиллар, автобус ва мотоциклларнинг ҳаракатланиши учун мўлжалланган йўлни кўрсатувчи бу белги мазкур такомиллаштирилган йўл олдидан қўйилади. Бундай йўлда барча турдаги автомобиллар, автобус ва мотоциклларнинг ҳаракатланишига рухсат этилади, бироқ от – арава, велосипед, трактор, ўзи юрар машина ва механизм каби транспортларнинг ҳаракати тақиқланади. Автомагистралдан фарқли ўлароқ автомобиллар учун мўлжалланган йўллар фақатгина шаҳар ичидаги йирик саноат ва аҳоли мавзеларини ўзаро бирлаштиради.</p>"
+                        }
+                    ]
+                },
+                "order": 3
+            },
+            {
+                "id": 119,
+                "name": {
+                    "uz": "5.4. “Avtomobillar uchun mo‘ljallangan yo‘lning oxiri”.",
+                    "ru": "5.4. «Конец дороги для автомобилей».",
+                    "kiril": "5.4. “Автомобиллар учун мўлжалланган йўлнинг охири”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-08-44_FF9461TNEZ.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.4. \"Avtomobillar uchun mo'ljallangan yo'lning oxiri\"</strong></li></ul><p>Ushbu belgi avtomobillar uchun mo'ljallangan yo'lning oxirini bildiradi. Belgi o'rnatilgan joydan boshlab, <i><strong>5.3. \"Avtomobillar uchun mo'ljallangan yo'l\"</strong></i> belgisiga amal qiladigan talablar bekor qilinadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.4 \"Конец&nbsp;дороги&nbsp;для&nbsp;автомобилей\"</strong></li></ul><p>Этот знак обозначает конец дороги, предназначенной для автомобилей. Начиная с места установки знака, <i><strong>5.3 \"Дорога&nbsp;для&nbsp;автомобилей</strong></i><strong>\" </strong>требования предъявляемые к знаку отменяются.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.4. \"Автомобиллар учун мўлжалланган йўлнинг охири\"</strong></li></ul><p>Ушбу белги автомобиллар учун мўлжалланган йўлнинг охирини билдиради. Белги ўрнатилган жойдан бошлаб, <i><strong>5.3. \"Автомобиллар учун мўлжалланган йўл\"</strong></i> белгисига амал қиладиган талаблар бекор қилинади.</p>"
+                        }
+                    ]
+                },
+                "order": 4
+            },
+            {
+                "id": 120,
+                "name": {
+                    "uz": "5.5. “Bir tomonlama harakatlanish yo‘li”. Transport vositalarining butun kenglik bo‘yicha bir yo‘nalishda harakatlanadigan yo‘li yoki uning qatnov qismi.",
+                    "ru": "5.5. Одностороннее движение. Дорога или часть дороги, по которой автомобили движутся в одном направлении по всей ширине.",
+                    "kiril": "5.5. “Бир томонлама ҳаракатланиш йўли”. Транспорт воситаларининг бутун кенглик бўйича бир йўналишда ҳаракатланадиган йўли ёки унинг қатнов қисми.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-08-52_C8AKD5CVAK.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>5.5. \"Bir tomonlama harakatlanish yo'li\"</strong></p><p>Bu belgi yo'l boshida o'rnatilib, shu yo'lning butun kengligi bo'yicha transport vositalarining faqat bir yo'nalishda harakatlanishini joriy qiladi. Ushbu belgi qo'yilgan yo'lda transport vositalarining orqaga qayrilishi taqiqlangan.</p><p><i>Qayrilish transport vositasining qarama-qarshi harakatlanish tasmasiga kirishi bilan tenglashtiriladi va ushbu qoidabuzarlik uchun eng kam oylik ish haqining 10 baravari miqdorida ma'muriy javobgarlikka tortiladi.</i></p><p>Bir tomonlama harakatlanish yo'lida hovli va yo'lga tutash boshqa yondosh hududlarga burilish mumkin. Bundan tashqari, aholi yashaydigan joylarda bir tomonlama harakatlanish yo'llarining chap tarafida to'xtash va to'xtab turishga ruxsat etiladi. Biroq, to'liq vazni <i><strong>3,5 tonnadan ortiq bo'lgan yuk avtomobillari</strong> </i>esa bunday yo'llarda faqatgina yuk ortish yoki tushirish uchun to'xtashi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>5.5.&nbsp;\"Дорога с&nbsp;односторонним движением\"</strong></p><p>Этот знак устанавливается в начале дороги, тем самым вводя движение транспортных средств только в одном направлении по всей ширине дороги. Движение транспортных средств назад по дороге, обозначенной этим знаком, запрещено.</p><p><i>Нарушение приравнивается к въезду транспортного средства на полосу встречного движения и влечет административную ответственность за это нарушение в размере 10 минимальных размеров &nbsp;оплаты труда.</i></p><p>По дороге с односторонним движением можно повернуть во двор и другие прилегающие территории, прилегающие к дороге. Кроме того, остановка и стоянка разрешены в населенных пунктах по левой стороне дорог с односторонним движением. Однако <i><strong>грузовые автомобили с полной массой более 3,5 тонн </strong></i>могут останавливаться на таких дорогах только для погрузки или разгрузки.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>5.5. \"Бир томонлама ҳаракатланиш йўли\"</strong></p><p>Бу белги йўл бошида ўрнатилиб, шу йўлнинг бутун кенглиги бўйича транспорт воситаларининг фақат бир йўналишда ҳаракатланишини жорий қилади. Ушбу белги қўйилган йўлда транспорт воситаларининг орқага қайрилиши тақиқланган.</p><p><i>Қайрилиш транспорт воситасининг қарама-қарши ҳаракатланиш бўлагига кириши билан тенглаштирилади ва ушбу қоидабузарлик учун энг кам ойлик иш ҳақининг 10 баравари миқдорида маъмурий жавобгарликка тортилади.</i></p><p>Бир томонлама ҳаракатланиш йўлида ҳовли ва йўлга туташ бошқа ёндош ҳудудларга бурилиш мумкин. Бундан ташқари, аҳоли яшайдиган жойларда бир томонлама ҳаракатланиш йўлларининг чап тарафида тўхташ ва тўхтаб туришга рухсат этилади. Бироқ, тўлиқ вазни <i><strong>3,5 тоннадан ортиқ бўлган юк автомобиллари</strong> </i>эса бундай йўлларда фақатгина юк ортиш ёки тушириш учун тўхташи мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 5
+            },
+            {
+                "id": 121,
+                "name": {
+                    "uz": "5.6. “Bir tomonlama harakatlanish yo‘lining oxiri”.",
+                    "ru": "5.6. «Конец улицы с односторонним движением».",
+                    "kiril": "5.6. “Бир томонлама ҳаракатланиш йўлининг охири”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-09-13_JDZX1A8C2X.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.6. \"Bir tomonlama harakatlanish yo'lining oxiri\"</strong></li></ul><p>Ushbu belgi transport vositalari bir tomonlama harakatlanadigan yo'lning tugaganligini bildiradi. Bu belgi o'rnatilgan joydan boshlab, <i><strong>5.5. \"Bir tomonlama harakatlanish yo'li\"</strong></i> &nbsp;belgisi bilan o'rnatilgan tartib bekor qilinadi va qarama-qarshi yo'nalishli harakat boshlanadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.6. \"Конец&nbsp;дороги с&nbsp;односторонним&nbsp;движением\"&nbsp;</strong></li></ul><p>Этот знак указывает на то, что дорога, по которой движутся транспортные средства в одностороннем порядке, закончена. Это 5.5, начиная с того места, где установлен знак. Установленный порядок со знаком<i> <strong>\"Дорога одностороннего движения\"</strong></i> отменяется, и начинается движение в обратном направлении.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.6. \"Бир томонлама ҳаракатланиш йўлининг охири\"</strong></li></ul><p>Ушбу белги транспорт воситалари бир томонлама ҳаракатланадиган йўлнинг тугаганлигини билдиради. Бу белги ўрнатилган жойдан бошлаб, <i><strong>5.5. \"Бир томонлама ҳаракатланиш йўли\"</strong></i> белгиси билан ўрнатилган тартиб бекор қилинади ва қарама-қарши йўналишли ҳаракат бошланади.</p>"
+                        }
+                    ]
+                },
+                "order": 6
+            },
+            {
+                "id": 122,
+                "name": {
+                    "uz": "5.7.1 Bir tomonlama harakatlanish yo’liga chiqish",
+                    "ru": "5.7.1 Одностороннее движение",
+                    "kiril": "5.7.1 Бир томонлама ҳаракатланиш йўлига чиқиш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.7.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-09-25_AMQFEQYUQ2.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.7.1, 5.7.2. \"Bir tomonlama harakatlanish yo'liga chiqish\"</strong></li></ul><p>Ushbu belgilar chorraha oldida o'rnatilib, haydovchi chiqayotgan yo'lda faqat bir tomonlama harakatlanish joriy etilgani haqida axborot beradi. <i><strong>Bunda 5.7.1. belgisi harakatning chap tomonga,</strong></i> <i><strong>5.7.2. esa harakatning o'ng tomonga yo'naltirilganini ko'rsatadi.</strong></i></p><p><i>Bir tomonlama harakatlanish yo'lida transport vositasining qarama-qarshi tomonga harakat qilishi eng kam oylik ish haqining 10 baravari miqdorida jarima belgilanishiga sabab bo'ladi.</i></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.7.1,&nbsp;5.7.2.&nbsp;\"Выезд&nbsp;на&nbsp;дорогу&nbsp;с&nbsp;односторонним&nbsp;движением\"</strong></li></ul><p>Эти знаки устанавливаются перед перекрестком и информируют водителя о том, что на выезде введено только одностороннее движение. <strong>При этом знак 5.7.1. показывает на движения направо, знак 5.7.2. движение налево.&nbsp;</strong></p><p><i>Движение&nbsp;транспортного&nbsp;средства&nbsp;по&nbsp;дороге&nbsp;одностороннего&nbsp;движения&nbsp;в&nbsp;противоположную&nbsp;сторону&nbsp;влечет&nbsp;наложение&nbsp;штрафа&nbsp;в&nbsp;размере 10&nbsp;минимальных&nbsp;размеров&nbsp;оплаты&nbsp;труда.</i></p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.7.1, 5.7.2. \"Bir tomonlama harakatlanish yo'liga chiqish\"</strong></li></ul><p>Ushbu belgilar chorraha oldida o'rnatilib, haydovchi chiqayotgan yo'lda faqat bir tomonlama harakatlanish joriy etilgani haqida axborot beradi. <i><strong>Bunda 5.7.1. belgisi harakatning chap tomonga,</strong></i> <i><strong>5.7.2. esa harakatning o'ng tomonga yo'naltirilganini ko'rsatadi.</strong></i></p><p><i>Bir tomonlama harakatlanish yo'lida transport vositasining qarama-qarshi tomonga harakat qilishi eng kam oylik ish haqining 10 baravari miqdorida jarima belgilanishiga sabab bo'ladi.</i></p>"
+                        }
+                    ]
+                },
+                "order": 7
+            },
+            {
+                "id": 123,
+                "name": {
+                    "uz": "5.7.2 Bir tomonlama harakatlanish yo’liga chiqish",
+                    "ru": "5.7.2 Одностороннее движение",
+                    "kiril": "5.7.2 Бир томонлама ҳаракатланиш йўлига чиқиш",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.7.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-09-46_C9Q8Z1QCEB.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.7.1, 5.7.2. \"Bir tomonlama harakatlanish yo'liga chiqish\"</strong></li></ul><p>Ushbu belgilar chorraha oldida o'rnatilib, haydovchi chiqayotgan yo'lda faqat bir tomonlama harakatlanish joriy etilgani haqida axborot beradi. <i><strong>Bunda 5.7.1. belgisi harakatning chap tomonga,</strong></i> <i><strong>5.7.2. esa harakatning o'ng tomonga yo'naltirilganini ko'rsatadi.</strong></i></p><p><i>Bir tomonlama harakatlanish yo'lida transport vositasining qarama-qarshi tomonga harakat qilishi eng kam oylik ish haqining 10 baravari miqdorida jarima belgilanishiga sabab bo'ladi.</i></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.7.1,&nbsp;5.7.2.&nbsp;\"Выезд&nbsp;на&nbsp;дорогу&nbsp;с&nbsp;односторонним&nbsp;движением\"</strong></li></ul><p>Эти знаки устанавливаются перед перекрестком и информируют водителя о том, что на выезде введено только одностороннее движение. <strong>При этом знак 5.7.1. показывает на движения направо, знак 5.7.2. движение налево.&nbsp;</strong></p><p><i>Движение&nbsp;транспортного&nbsp;средства&nbsp;по&nbsp;дороге&nbsp;одностороннего&nbsp;движения&nbsp;в&nbsp;противоположную&nbsp;сторону&nbsp;влечет&nbsp;наложение&nbsp;штрафа&nbsp;в&nbsp;размере 10&nbsp;минимальных&nbsp;размеров&nbsp;оплаты&nbsp;труда.</i></p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.7.1, 5.7.2. \"Бир томонлама ҳаракатланиш йўлига чиқиш\"</strong></li></ul><p>Ушбу белгилар чорраҳа олдида ўрнатилиб, ҳайдовчи чиқаётган йўлда фақат бир томонлама ҳаракатланиш жорий этилгани ҳақида ахборот беради. <i><strong>Бунда 5.7.1. белгиси ҳаракатнинг чап томонга,</strong></i> <i><strong>5.7.2. эса ҳаракатнинг ўнг томонга йўналтирилганини кўрсатади.</strong></i></p><p><i>Бир томонлама ҳаракатланиш йўлида транспорт воситасининг қарама-қарши томонга ҳаракат қилиши энг кам ойлик иш ҳақининг 10 баравари миқдорида жарима белгиланишига сабаб бўлади.</i></p>"
+                        }
+                    ]
+                },
+                "order": 8
+            },
+            {
+                "id": 124,
+                "name": {
+                    "uz": "5.8.1. “Bo‘laklar bo‘yicha harakatlanish yo‘nalishi”. Bo‘laklar soni va har biri bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi.",
+                    "ru": "5.8.1. «Направление движения по рельсам». Количество секций и направление движения разрешено для каждой.",
+                    "kiril": "5.8.1. “Бўлаклар бўйича ҳаракатланиш йўналиши”. Бўлаклар сони ва ҳар бири бўйича рухсат этилган ҳаракатланиш йўналиши.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-10-27_5R2PCZ15TA.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.1. \"Tasmalar bo'yicha harakatlanish yo'nalishi\"</strong></li></ul><p>Bu belgi yo'l tasmalari soni va har bir yo'l bo'lagi bo'yicha ruxsat etilgan harakatlanish yo'nalishini ko'rsatadi. Ushbu belgi chorraha oldida o'rnatiladi va ko'p tasmali keng yo'llarda harakatlanish yo'nalishini yo'l tasmalari bo'yicha belgilaydi. Yo'lning chetki chap tasmasidan chapga burilishga ruxsat beruvchi yo'naltirgich shu tasmadan orqaga qayrilishga ham ruxsat beradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.1.&nbsp;\"Направления&nbsp;движения по полосам\"</strong></li></ul><p>Этот знак указывает на количество участков дороги и направление движения, разрешенное на каждом участке дороги. Этот знак устанавливается перед перекрестком и обозначает направление движения на дорогах с многополосной шириной вдоль участков дорог. Маршрутизатор, который позволяет вам повернуть налево с левой полосы дороги, также позволяет вам повернуть назад с этой полосы.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.1. \"Тасмалар бўйича ҳаракатланиш йўналиши\"</strong></li></ul><p>Бу белги йўл тасмалари сони ва ҳар бир йўл тасмаси бўйича рухсат этилган ҳаракатланиш йўналишини кўрсатади. Ушбу белги чорраҳа олдида ўрнатилади ва кўп тасмали кенг йўлларда ҳаракатланиш йўналишини йўл тасмалари бўйича белгилайди. Йўлнинг четки чап тасмасидан чапга бурилишга рухсат берувчи йўналтиргич шу тасмадан орқага қайрилишга ҳам рухсат беради.</p>"
+                        }
+                    ]
+                },
+                "order": 9
+            },
+            {
+                "id": 128,
+                "name": {
+                    "uz": "5.8.2. “Bo‘lak bo‘yicha harakatlanish yo‘nalishi”. Bo‘lak bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi.",
+                    "ru": "5.8.2. «Направление движения по трассе». Разрешенное направление полосы движения.",
+                    "kiril": "5.8.2. “Бўлак бўйича ҳаракатланиш йўналиши”. Бўлак бўйича рухсат этилган ҳаракатланиш йўналиши.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.2.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-10-46_BDRTRAZWN1.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.2. \"Tasma bo'yicha harakatlanish yo'nalishi\"</strong></li></ul><p>Belgida alohida tasma bo'yicha ruxsat etilgan harakatlanish yo'nalishi ko'rsatilgan. Yo'lning chetki chap tasmasidan chapga burilishga ruxsat beruvchi yo'l belgisi shu tasmadan orqaga qayrilishga ham ruxsat beradi. Chorrahadan oldin o'rnatilgan \"Tasma bo'yicha harakatlanish yo'nalishi\" yo'l belgisining ta'siri, agar shu turkumdagi boshqa belgilar o'rnatilmagan bo'lsa, butun chorraha uchun tatbiq etiladi. Belgi har bir yo'l tasmalaridagi harakatlanish yo'nalishini alohida belgi bilan ko'rsatadi. Bu belgilar keng maydon yoki ko'p tasmali yo'llarda qo'llaniladi va har bir yo'l tasmasi ustida alohida – alohida o'rnatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.2. \"Направление&nbsp;движения по полосам\"</strong></li></ul><p>На знаке указано допустимое направление движения по отдельной полосе. Дорожный знак, разрешающий поворот налево с крайней левой полосы движения, также разрешает поворот назад с этой полосы. Действие дорожного знака \"Направление движения по полосе\", установленного перед перекрестком, распространяется на весь перекресток, если не установлены другие знаки этой же категории. Знак показывает направление движения на каждой полосе движения отдельным знаком. Эти знаки применяются на дорогах с широкой полосой движения или с несколькими полосами движения и устанавливаются отдельно над каждой полосой движения.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.2. \"Тасма бўйича ҳаракатланиш йўналиши\"</strong></li></ul><p>Белгида алоҳида тасма бўйича рухсат этилган ҳаракатланиш йўналиши кўрсатилган. Йўлнинг четки чап тасмасидан чапга бурилишга рухсат берувчи йўл белгиси шу тасмадан орқага қайрилишга ҳам рухсат беради. Чорраҳадан олдин ўрнатилган \"Тасма бўйича ҳаракатланиш йўналиши\" йўл белгисининг таъсири, агар шу туркумдаги бошқа белгилар ўрнатилмаган бўлса, бутун чорраҳа учун татбиқ этилади. Белги ҳар бир йўл тасмаларидаги ҳаракатланиш йўналишини алоҳида белги билан кўрсатади. Бу белгилар кенг майдон ёки кўп тасмали йўлларда қўлланилади ва ҳар бир йўл тасма устида алоҳида – алоҳида ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 10
+            },
+            {
+                "id": 369,
+                "name": {
+                    "uz": "5.8.2. “Bo‘lak bo‘yicha harakatlanish yo‘nalishi”. Bo‘lak bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi.",
+                    "ru": "5.8.2. «Направление движения по трассе». Разрешенное направление полосы движения.",
+                    "kiril": "5.8.2. “Бўлак бўйича ҳаракатланиш йўналиши”. Бўлак бўйича рухсат этилган ҳаракатланиш йўналиши.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_12-10-51_VREU1CJ6XJ.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "5.8.2. “Bo‘lak bo‘yicha harakatlanish yo‘nalishi”. Bo‘lak bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "5.8.2. «Направление движения по трассе». Разрешенное направление полосы движения."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "5.8.2. “Бўлак бўйича ҳаракатланиш йўналиши”. Бўлак бўйича рухсат этилган ҳаракатланиш йўналиши."
+                        }
+                    ]
+                },
+                "order": 11
+            },
+            {
+                "id": 371,
+                "name": {
+                    "uz": "5.8.2. “Bo‘lak bo‘yicha harakatlanish yo‘nalishi”. Bo‘lak bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi.",
+                    "ru": "5.8.2. «Направление движения по трассе». Разрешенное направление полосы движения.",
+                    "kiril": "5.8.2. “Бўлак бўйича ҳаракатланиш йўналиши”. Бўлак бўйича рухсат этилган ҳаракатланиш йўналиши.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_12-14-53_RNGKJSVE49.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "5.8.2. “Bo‘lak bo‘yicha harakatlanish yo‘nalishi”. Bo‘lak bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "5.8.2. «Направление движения по трассе». Разрешенное направление полосы движения."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "5.8.2. “Бўлак бўйича ҳаракатланиш йўналиши”. Бўлак бўйича рухсат этилган ҳаракатланиш йўналиши."
+                        }
+                    ]
+                },
+                "order": 12
+            },
+            {
+                "id": 370,
+                "name": {
+                    "uz": "5.8.2. “Bo‘lak bo‘yicha harakatlanish yo‘nalishi”. Bo‘lak bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi.",
+                    "ru": "5.8.2. «Направление движения по трассе». Разрешенное направление полосы движения.",
+                    "kiril": "5.8.2. “Бўлак бўйича ҳаракатланиш йўналиши”. Бўлак бўйича рухсат этилган ҳаракатланиш йўналиши.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_12-13-38_4EWFP3JSF2.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "5.8.2. “Bo‘lak bo‘yicha harakatlanish yo‘nalishi”. Bo‘lak bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "5.8.2. «Направление движения по трассе». Разрешенное направление полосы движения."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "5.8.2. “Бўлак бўйича ҳаракатланиш йўналиши”. Бўлак бўйича рухсат этилган ҳаракатланиш йўналиши."
+                        }
+                    ]
+                },
+                "order": 13
+            },
+            {
+                "id": 415,
+                "name": {
+                    "uz": "5.8.2. “Bo‘lak bo‘yicha harakatlanish yo‘nalishi”. Bo‘lak bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi.",
+                    "ru": "5.8.2. «Направление движения по трассе». Разрешенное направление полосы движения.",
+                    "kiril": "5.8.2. “Бўлак бўйича ҳаракатланиш йўналиши”. Бўлак бўйича рухсат этилган ҳаракатланиш йўналиши.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-05-19_11-00-27_EEE48RXEV4.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>\"Bo'lak bo'yicha harakatlanish yo'nalishi\"</strong> Bo'lak bo'yicha ruxsat etilgan harakatlanish yo'nalishi.<br>Yo'lning chetki chap bo'lagidan chapga burilishga ruxsat beruvchi <strong>5.8.1</strong> va <strong>5.8.2</strong> belgilari shu bo'lakdan qayrilishga ham ruxsat beradi.<br>Chorrahadan oldin o'rnatilgan <strong>5.8.1</strong> va <strong>5.8.2</strong> belgilarining ta'siri, agar shu turkumdagi boshqa belgilar o'rnatilmagan bo'lsa, butun chorrahaga tadbiq etiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>\"Направление движения по полосе» Разрешенное направление движения по полосе.\" Знаки 5.8.1 и 5.8.2, разрешающие поворот налево с крайней левой полосы дороги, разрешают также поворот с этой полосы.\r\nДействие знаков 5.8.1 и 5.8.2, установленных перед перекрестком, распространяется на весь перекресток, если не установлены другие знаки того же типа.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>\"Бўлак бўйича ҳаракатланиш йўналиши\" Бўлак бўйича рухсат этилган ҳаракатланиш йўналиши.</strong><br>Йўлнинг четки чап бўлагидан чапга бурилишга рухсат берувчи 5.8.1 ва 5.8.2 белгилари шу бўлакдан қайрилишга ҳам рухсат беради.<br>Чорраҳадан олдин ўрнатилган 5.8.1 ва 5.8.2 белгиларининг таъсири, агар шу туркумдаги бошқа белгилар ўрнатилмаган бўлса, бутун чорраҳага тадбиқ этилади.</p>"
+                        }
+                    ]
+                },
+                "order": 14
+            },
+            {
+                "id": 129,
+                "name": {
+                    "uz": "5.8.3.1 Bo’lakning boshlanishi",
+                    "ru": "5.8.3.1 Начало раздела",
+                    "kiril": "5.8.3.1 Бўлакнинг бошланиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.3.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-31-56_JHXYNGBYXV.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.3. \"Tasmaning boshlanishi\"</strong></li></ul><p>Ushbu belgi yo'lning balandlikka ko'tarilish yoki sekinlashish qismidagi qo'shimcha yo'l tasmasining boshlanish joyini ko'rsatadi va shu yerga o'rnatiladi. Ushbu belgilar yo'lga qo'shimcha harakat bo'lagi kiritilganligi yoki tormozlanish tasmasi borligi haqida axborot beradi. Agar qo'shimcha tasma oldiga <strong>4.7. \"Eng kam tezlik\"</strong> belgisi o'rnatilgan bo'lsa, belgida ko'rsatilgan yoki undan kattaroq tezlikda harakatlana olmaydigan transport vositasining haydovchisi asosiy tasmadan qo'shimcha tasmaga qayta tizilishi kerak.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.3.&nbsp;\"Начало полосы\" &nbsp;</strong></li></ul><p>Начало&nbsp;дополнительной&nbsp;полосы&nbsp;на&nbsp;подъеме или&nbsp;полосы торможения. Если&nbsp;на&nbsp;знаке,&nbsp;установленном&nbsp;перед&nbsp;дополнительной&nbsp;полосой, изображен знак 4.7 \"Ограничение&nbsp;минимальной&nbsp;скорости\",&nbsp;то водитель транспортного&nbsp;средства, который&nbsp;не&nbsp;может&nbsp;продолжить движение по&nbsp;основной&nbsp;полосе&nbsp;с&nbsp;указанной или&nbsp;большей&nbsp;скоростью,&nbsp;должен&nbsp;перестроиться &nbsp;на&nbsp;дополнительную полосу.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.3. \"Tasmaning boshlanishi\"</strong></li></ul><p>Ushbu belgi yo'lning balandlikka ko'tarilish yoki sekinlashish qismidagi qo'shimcha yo'l tasmasining boshlanish joyini ko'rsatadi va shu yerga o'rnatiladi. Ushbu belgilar yo'lga qo'shimcha harakat bo'lagi kiritilganligi yoki tormozlanish tasmasi borligi haqida axborot beradi. Agar qo'shimcha tasma oldiga <strong>4.7. \"Eng kam tezlik\"</strong> belgisi o'rnatilgan bo'lsa, belgida ko'rsatilgan yoki undan kattaroq tezlikda harakatlana olmaydigan transport vositasining haydovchisi asosiy tasmadan qo'shimcha tasmaga qayta tizilishi kerak.</p>"
+                        }
+                    ]
+                },
+                "order": 16
+            },
+            {
+                "id": 130,
+                "name": {
+                    "uz": "5.8.3.2 Bo’lakning boshlanishi",
+                    "ru": "5.8.3.2 Начало раздела",
+                    "kiril": "5.8.3.2 Бўлакнинг бошланиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.3.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/5.8.3.2.gif",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.3. \"Tasmaning boshlanishi\"</strong></li></ul><p>Ushbu belgi yo'lning balandlikka ko'tarilish yoki sekinlashish qismidagi qo'shimcha yo'l tasmasining boshlanish joyini ko'rsatadi va shu yerga o'rnatiladi. Ushbu belgilar yo'lga qo'shimcha harakat bo'lagi kiritilganligi yoki tormozlanish tasmasi borligi haqida axborot beradi. Agar qo'shimcha tasma oldiga <strong>4.7. \"Eng kam tezlik\"</strong> belgisi o'rnatilgan bo'lsa, belgida ko'rsatilgan yoki undan kattaroq tezlikda harakatlana olmaydigan transport vositasining haydovchisi asosiy tasmadan qo'shimcha tasmaga qayta tizilishi kerak.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.3.&nbsp;\"Начало полосы\" &nbsp;</strong></li></ul><p>Начало&nbsp;дополнительной&nbsp;полосы&nbsp;на&nbsp;подъеме или&nbsp;полосы торможения. Если&nbsp;на&nbsp;знаке,&nbsp;установленном&nbsp;перед&nbsp;дополнительной&nbsp;полосой, изображен знак 4.7 \"Ограничение&nbsp;минимальной&nbsp;скорости\",&nbsp;то водитель транспортного&nbsp;средства, который&nbsp;не&nbsp;может&nbsp;продолжить движение по&nbsp;основной&nbsp;полосе&nbsp;с&nbsp;указанной или&nbsp;большей&nbsp;скоростью,&nbsp;должен&nbsp;перестроиться &nbsp;на&nbsp;дополнительную полосу.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.3. \"Тасманинг бошланиши\"</strong></li></ul><p>Ушбу белги йўлнинг баландликка кўтарилиш ёки секинлашиш қисмидаги қўшимча йўл тасмасининг бошланиш жойини кўрсатади ва шу ерга ўрнатилади. Ушбу белгилар йўлга қўшимча ҳаракат тасмаси киритилганлиги ёки тормозланиш бўлаги борлиги ҳақида ахборот беради. Агар қўшимча тасма олдига <strong>4.7. \"Энг кам тезлик\"</strong> белгиси ўрнатилган бўлса, белгида кўрсатилган ёки ундан каттароқ тезликда ҳаракатлана олмайдиган транспорт воситасининг ҳайдовчиси асосий тасмадан қўшимча тасмага қайта тизилиши керак.</p>"
+                        }
+                    ]
+                },
+                "order": 17
+            },
+            {
+                "id": 131,
+                "name": {
+                    "uz": "5.8.4. “Bo‘lakning boshlanishi”. Uch bo‘lakli yo‘llarda harakatlanish uchun o‘rta bo‘lakning boshlanishi.",
+                    "ru": "5.8.4. «Начало раздела». Начало средней полосы для трехполосных дорог.",
+                    "kiril": "5.8.4. “Бўлакнинг бошланиши”. Уч бўлакли йўлларда ҳаракатланиш учун ўрта бўлакнинг бошланиши.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_13-40-03_PMGZ9JH3F9.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.4. \"Tasmaning boshlanishi\"</strong></li></ul><p>Ushbu belgi uch tasmali ikki tomonlama harakat tashkil qilingan yo'llarda, o'rta tasma bo'yicha harakat yo'nalishini belgilaydi, ya'ni harakatga ma'lum bir tartib kiritadi. Belgi o'rta tasmadan foydalanishga ruxsat etiladigan qism oldida o'rnatiladi. Yo'llarning bunday qismlarida, yana <i><strong>5.8.7, 5.8.8. \"Tasmalar bo'yicha harakatlanish yo'nalishi\"&nbsp;</strong></i> yo'l belgilari qo'shimcha axborot berish uchun o'rnatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.4. \"Начало полосы\"&nbsp;</strong></li></ul><p>На дорогах, где организовано трехполосное двустороннее движение, этот знак определяет направление движения по средней полосе, то есть вносит в движение определенный порядок. Знак устанавливается перед секцией, где допускается использование средней полосы. На таких участках дорог, опять же 5.8.7, 5.8.8. Дорожные знаки \"Направление движения по полосам\" устанавливаются для предоставления дополнительной информации.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.4. \"Тасманинг бошланиши\"</strong></li></ul><p>Ушбу белги уч тасмали икки томонлама ҳаракат ташкил қилинган йўлларда, ўрта тасма бўйича ҳаракат йўналишини белгилайди, яъни ҳаракатга маълум бир тартиб киритади. Белги ўрта тасмадан фойдаланишга рухсат этиладиган қисм олдида ўрнатилади. Йўлларнинг бундай қисмларида, яна <i><strong>5.8.7, 5.8.8. \"Тасмалар бўйича ҳаракатланиш йўналиши\"</strong></i> йўл белгилари қўшимча ахборот бериш учун ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 18
+            },
+            {
+                "id": 132,
+                "name": {
+                    "uz": "5.8.5. “Bo‘lak oxiri”. Balandlikka ko‘tarilish yoki to‘xtash qismidagi qo‘shimcha bo‘lakning oxiri.",
+                    "ru": "5.8.5. «Конец раздела». Конец дополнительного участка на подъеме или остановке.",
+                    "kiril": "5.8.5. “Бўлак охири”. Баландликка кўтарилиш ёки тўхташ қисмидаги қўшимча бўлакнинг охири.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_15-11-13_K9R7KWCPJE.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.5. \"Tasma&nbsp;oxiri\"</strong></li></ul><p>Ushbu belgi yo'lning balandlikka ko'tarilish yoki tezlanish qismidagi qo'shimcha yo'l bo'lagining oxirini ko'rsatadi va shu yerga o'rnatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.5.&nbsp;\"Конец полосы\"</strong></li></ul><p>Конец&nbsp;дополнительной&nbsp;полосы&nbsp;на&nbsp;подъеме или&nbsp;полосы&nbsp;&nbsp;разгона&nbsp;(торможения).</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.5. \"Тасма охири\"</strong></li></ul><p>Ушбу белги йўлнинг баландликка кўтарилиш ёки тезланиш қисмидаги қўшимча йўл бўлагининг охирини кўрсатади ва шу ерга ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 19
+            },
+            {
+                "id": 133,
+                "name": {
+                    "uz": "5.8.6. “Bo‘lak oxiri”. Uch bo‘lakli yo‘lda harakatlanish uchun mo‘lajallangan o‘rta bo‘lakning oxiri.",
+                    "ru": "5.8.6. «Конец раздела». Конец средней полосы для трехполосных дорог.",
+                    "kiril": "5.8.6. “Бўлак охири”. Уч бўлакли йўлда ҳаракатланиш учун мўлажалланган ўрта бўлакнинг охири.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_15-11-47_ZDHKJCWYGP.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.6. \"Tasma&nbsp;oxiri\"</strong></li></ul><p>Bu belgi uch tasmali ikki tomonlama harakat tashkil qilingan yo'lning&nbsp;harakatlanishga ruxsat etilgan o'rta tasmasining tugashini bildiradi.</p><p>Ushbu belgi yo'lning balandlikka ko'tarilish qismidagi qo'shimcha yo'l tasmasiining oxirini ko'rsatadi va shu yerga o'rnatiladi. Bunday vaziyatda qo'shimcha yo'l bo'lagida harakatlanayotgan transport vositalari asosiy tasmaga qayta tizilishlari shart.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.6. «Конец полосы»</strong></li></ul><p><br>Этот знак обозначает окончание средней полосы, разрешённой для движения, на дороге с трёхполосным двусторонним движением.<br>Он устанавливается в месте окончания дополнительной полосы на подъёме дороги. В такой ситуации транспортные средства, движущиеся по дополнительной полосе, обязаны перестроиться на основную полосу.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.6. \"Тасма охири\"</strong></li></ul><p>Бу белги уч тасмали икки томонлама ҳаракат ташкил қилинган йўлнинг ҳаракатланишга рухсат этилган ўрта тасмасининг тугашини билдиради.</p><p>Ушбу белги йўлнинг баландликка кўтарилиш қисмидаги қўшимча йўл тасмасиининг охирини кўрсатади ва шу ерга ўрнатилади. Бундай вазиятда қўшимча йўл бўлагида ҳаракатланаётган транспорт воситалари асосий тасмага қайта тизилишлари шарт.</p>"
+                        }
+                    ]
+                },
+                "order": 20
+            },
+            {
+                "id": 134,
+                "name": {
+                    "uz": "5.8.7.1 Bo’laklar bo’yicha harakatlanish yo’nalishi",
+                    "ru": "5.8.7.1 Направление движения деталей",
+                    "kiril": "5.8.7.1 Бўлаклар бўйича ҳаракатланиш йўналиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.7.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_15-13-35_VR4S7BCG1V.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.7. \"Tasmalar bo'yicha harakatlanish yo'nalishi\"</strong></li></ul><p>Bu belgi uch tasmali ikki tomonlama harakat tashkil qilingan yo'llarda harakat tartibini belgilaydi. Agar bu yo'l belgisida biror transpot vositasining harakatlanishini taqiqlovchi belgi tasvirlangan bo'lsa, unda bu transport vositasining tegishli tasmada harakatlanishi taqiqlanadi.&nbsp;</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.7. \"Направление&nbsp;движения по полосам\"&nbsp;</strong></li></ul><p>Этот знак определяет порядок движения на дорогах, по которым организовано трехполосное двустороннее движение. Если на данном дорожном знаке изображен знак, запрещающий движение транспортного средства, то движение данного транспортного средства по соответствующей полосе движения запрещено.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.7. \"Тасмалар бўйича ҳаракатланиш йўналиши\"</strong></li></ul><p>Бу белги уч тасмали икки томонлама ҳаракат ташкил қилинган йўлларда ҳаракат тартибини белгилайди. Агар бу йўл белгисида бирор транспот воситасининг ҳаракатланишини тақиқловчи белги тасвирланган бўлса, унда бу транспорт воситасининг тегишли тасмада ҳаракатланиши тақиқланади.</p>"
+                        }
+                    ]
+                },
+                "order": 21
+            },
+            {
+                "id": 135,
+                "name": {
+                    "uz": "5.8.7.2 Bo’laklar bo’yicha harakatlanish yo’nalishi",
+                    "ru": "5.8.7.2 Направление движения фигур",
+                    "kiril": "5.8.7.2 Бўлаклар бўйича ҳаракатланиш йўналиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.7.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-42-10_RP64SSCESD.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.7. \"Tasmalar bo'yicha harakatlanish yo'nalishi\"</strong></li></ul><p>Bu belgi uch tasmali ikki tomonlama harakat tashkil qilingan yo'llarda harakat tartibini belgilaydi. Agar bu yo'l belgisida biror transpot vositasining harakatlanishini taqiqlovchi belgi tasvirlangan bo'lsa, unda bu transport vositasining tegishli tasmada harakatlanishi taqiqlanadi.&nbsp;</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.7. \"Направление&nbsp;движения по полосам\"&nbsp;</strong></li></ul><p>Этот знак определяет порядок движения на дорогах, по которым организовано трехполосное двустороннее движение. Если на данном дорожном знаке изображен знак, запрещающий движение транспортного средства, то движение данного транспортного средства по соответствующей полосе движения запрещено.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.7. \"Тасмалар бўйича ҳаракатланиш йўналиши\"</strong></li></ul><p>Бу белги уч тасмали икки томонлама ҳаракат ташкил қилинган йўлларда ҳаракат тартибини белгилайди. Агар бу йўл белгисида бирор транспот воситасининг ҳаракатланишини тақиқловчи белги тасвирланган бўлса, унда бу транспорт воситасининг тегишли тасмада ҳаракатланиши тақиқланади.</p>"
+                        }
+                    ]
+                },
+                "order": 22
+            },
+            {
+                "id": 136,
+                "name": {
+                    "uz": "5.8.8 Bo’laklar bo’yicha harakatlanish yo’nalishi",
+                    "ru": "5.8.8 Направление движения фигур",
+                    "kiril": "5.8.8 Бўлаклар бўйича ҳаракатланиш йўналиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.8",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-42-21_MCJ17BQE9U.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.8. \"Tasmalar bo'yicha harakatlanish yo'nalishi\"</strong></li></ul><p>Bu belgi uch tasmali ikki tomonlama harakat tashkil qilingan yo'llarda harakat tartibini belgilaydi. \"Tasmalar bo'yicha harakatlanish yo'nalishi\" yo'l belgilari yo'nalishlar soniga ko'ra to'rt va undan ortiq tasmali yo'llarga ham tatbiq etilishi mumkin. Uch tasmali ikki tomonlama harakat tashkil qilingan yo'llarda tasviri almashuvchanlik xususiyatiga ega bo'lgan 5.8.8. yo'l belgisi yordamida reversiv harakat tashkil etilishi mumkin. Agar \"Tasmalar bo'yicha harakatlanish yo'nalishi\" yo'l belgilari bo'lmasa, haydovchi o'rta tasmani ikkala tomondan quvib o'tishga mo'ljallangan tasma, deb qabul qilishi kerak.</p><p><i>Yo'l belgilari talabiga rioya qilmaslik&nbsp;bazaviy hisoblash miqdorining 0,5 baravari miqdorida jarima belgilanishiga sabab bo'ladi.</i></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.8. «Направления движения по полосам»</strong></li></ul><p><br>Этот знак регулирует порядок движения на дорогах с трёхполосным двусторонним движением. Знаки «Направления движения по полосам» могут также применяться на дорогах с четырьмя и более полосами, в зависимости от количества направлений.<br>На трёхполосных дорогах с двусторонним движением с помощью дорожного знака 5.8.8, обладающего возможностью смены отображаемой информации, может быть организовано реверсивное движение.<br>Если знак «Направления движения по полосам» отсутствует, водитель должен считать среднюю полосу предназначенной для обгона с обеих сторон.<br>Несоблюдение требований дорожных знаков влечёт наложение штрафа в размере 0,5 &nbsp;базовая расчётная величина (БРВ).</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.8.8. \"Тасмалар бўйича ҳаракатланиш йўналиши\"</strong></li></ul><p>Бу белги уч тасмали икки томонлама ҳаракат ташкил қилинган йўлларда ҳаракат тартибини белгилайди. \"Тасмалар бўйича ҳаракатланиш йўналиши\" йўл белгилари йўналишлар сонига кўра тўрт ва ундан ортиқ тасмали йўлларга ҳам татбиқ этилиши мумкин. Уч тасмали икки томонлама ҳаракат ташкил қилинган йўлларда тасвири алмашувчанлик хусусиятига эга бўлган 5.8.8. йўл белгиси ёрдамида реверсив ҳаракат ташкил этилиши мумкин. Агар \"Тасмалар бўйича ҳаракатланиш йўналиши\" йўл белгилари бўлмаса, ҳайдовчи ўрта тасмани иккала томондан қувиб ўтишга мўлжалланган тасма, деб қабул қилиши керак.</p><p>Йўл белгилари талабига риоя қилмаслик базавий ҳисоблаш миқдорининг 0,5 баравари миқдорида жарима белгиланишига сабаб бўлади.</p>"
+                        }
+                    ]
+                },
+                "order": 23
+            },
+            {
+                "id": 137,
+                "name": {
+                    "uz": "5.8.9 Bo’laklar soni",
+                    "ru": "5.8.9 Количество штук",
+                    "kiril": "5.8.9 Бўлаклар сони",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.8.9",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-49-34_TGCDR38YMB.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "5.8.9 Bo’laklar soni"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "5.8.9 Количество штук"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "5.8.9 Бўлаклар сони"
+                        }
+                    ]
+                },
+                "order": 24
+            },
+            {
+                "id": 138,
+                "name": {
+                    "uz": "5.9 Belgilangan yo’nalishli transport vositalari uchun mo’ljallangan bo’lak",
+                    "ru": "5.9 Раздел для специальных транспортных средств",
+                    "kiril": "5.9 Белгиланган йўналишли транспорт воситалари учун мўлжалланган бўлак",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.9",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-50-45_AYNY9CBZH2.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.9. \"Belgilangan yo'nalishli transport vositalari uchun mo'ljallangan tasma\"</strong></li></ul><p>Bu belgi belgilangan yo'nalishli transport vositalari uchun mo'ljallangan tasmani ko'rsatadi. Belgi qaysi yo'l bo'lagi ustida joylashgan bo'lsa, shu tasmaga tegishli bo'ladi. Yo'lning serqatnov qismlarida jamoat transportlariga qulaylik yaratish maqsadida tashkil qilingan bunday yo'l tasmalari boshqalaridan sidirg'a chiziq bilan ajratilganda, unga boshqa transport vositalarining kirishi taqiqlanadi. Haydovchilar yo'lovchi tushirish yoki olish hamda o'ngga burilish uchun ushbu yo'l tasmasining uzuq-uzuq chiziqchalar bilan chegaralangan joyidan unga kirib va chiqishlariga ruxsat etiladi.</p><p><i>Yo'nalishli transport vositalari to'xtaydigan bekatlardan yurish yoki yo'l belgisi qoidasi buzilsa, eng kam oylik ish haqining 0,5 baravari miqdorida ma'muriy javobgarlik belgilanadi.</i></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.9.&nbsp;\"Полоса&nbsp;для&nbsp;маршрутных транспортных&nbsp;средств\"</strong></li></ul><p>Знак принадлежит полосе, на которой он расположен. Когда такие участки дорог, организованные в целях обеспечения удобства движения общественного транспорта, отделены от других диагональной линией, въезд на них других транспортных средств запрещается. Водителям разрешено въезжать и выезжать с полосы, обозначенной кольцевыми линиями, чтобы забрать или высадить пассажиров и повернуть направо.</p><p>В случае нарушения правил выхода с остановок, на которых останавливаются направленные транспортные средства, или правил дорожного знака, административная ответственность определяется в размере 0,5 минимального размера месячной заработной платы.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.9. \"Белгиланган йўналишли транспорт воситалари учун мўлжалланган тасма\"</strong></li></ul><p>Бу белги белгиланган йўналишли транспорт воситалари учун мўлжалланган тасмани кўрсатади. Белги қайси йўл тасмаси устида жойлашган бўлса, шу тасмага тегишли бўлади. Йўлнинг серқатнов қисмларида жамоат транспортларига қулайлик яратиш мақсадида ташкил қилинган бундай йўл бўлаклари бошқаларидан сидирға чизиқ билан ажратилганда, унга бошқа транспорт воситаларининг кириши тақиқланади. Ҳайдовчилар йўловчи тушириш ёки олиш ҳамда ўнгга бурилиш учун ушбу йўл тасмасининг узуқ-узуқ чизиқчалар билан чегараланган жойидан унга кириб ва чиқишларига рухсат этилади.</p><p><i>Йўналишли транспорт воситалари тўхтайдиган бекатлардан юриш ёки йўл белгиси қоидаси бузилса, энг кам ойлик иш ҳақининг 0,5 баравари миқдорида маъмурий жавобгарлик белгиланади.</i></p>"
+                        }
+                    ]
+                },
+                "order": 25
+            },
+            {
+                "id": 139,
+                "name": {
+                    "uz": "5.10.1 Belgilangan yo’nalishli transport vositalari uchun bo’lagi bor yo’l",
+                    "ru": "5.10.1 Дорога с участком для автотранспорта по обозначенному маршруту",
+                    "kiril": "5.10.1 Белгиланган йўналишли транспорт воситалари учун бўлаги бор йўл",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.10.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-54-04_969558NSSK.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.1. \"Yo'nalishli transport vositalari uchun alohida tasmasi bor yo'l\"</strong></li></ul><p>Bu belgi belgilangan yo'nalishli transport vositalarining umumiy oqimga qarshi harakatlanishi uchun ajratilgan bo'lakni ko'rsatadi. Belgi o'rnatilgan yo'lning chetki chap bo'lagida belgilangan yo'nalishli transport vositalari umumiy oqimga qarshi harakatlanadi.</p><p>Bu yo'l bo'lagi boshqalaridan sidirg'a chiziq bilan ajratilib, unga boshqa transport vositalarining kirishi taqiqlanadi. Jamoat transporti harakatlanadigan qarama-qarshi bo'lakka chiqqan haydovchi eng kam ish haqining 10 baravari miqdorida ma'muriy javobgarlikka tortiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.1.&nbsp;\"Дорога&nbsp;с&nbsp;полосой&nbsp;&nbsp;для&nbsp;маршрутных транспортных средств\"</strong></li></ul><p>Этот знак указывает на полосу, предназначенную для движения транспортных средств указанного направления против общего потока. На левой боковой полосе дороги, на которой установлен знак, навстречу общему потоку движутся транспортные средства указанного направления.</p><p>Этот участок дороги отделен от других сплошной линией, на которую запрещен въезд других транспортных средств. Водитель, выехавший на встречную полосу, по которой движется общественный транспорт, несет административную ответственность в размере 10 минимальных размеров оплаты труда.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.1. \"Йўналишли транспорт воситалари учун алоҳида тасмаси бор йўл\"</strong></li></ul><p>Бу белги белгиланган йўналишли транспорт воситаларининг умумий оқимга қарши ҳаракатланиши учун ажратилган бўлакни кўрсатади. Белги ўрнатилган йўлнинг четки чап бўлагида белгиланган йўналишли транспорт воситалари умумий оқимга қарши ҳаракатланади.</p><p><i>Бу йўл бўлаги бошқаларидан сидирға чизиқ билан ажратилиб, унга бошқа транспорт воситаларининг кириши тақиқланади. Жамоат транспорти ҳаракатланадиган қарама-қарши бўлакка чиққан ҳайдовчи энг кам иш ҳақининг 10 баравари миқдорида маъмурий жавобгарликка тортилади.</i></p>"
+                        }
+                    ]
+                },
+                "order": 26
+            },
+            {
+                "id": 140,
+                "name": {
+                    "uz": "5.10.2 Belgilangan yo’nalishli transport vositalari uchun bo’lagi bor yo’l",
+                    "ru": "5.10.2 Дорога с участком для транспортных средств по обозначенному маршруту",
+                    "kiril": "5.10.2 Белгиланган йўналишли транспорт воситалари учун бўлаги бор йўл",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.10.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-54-18_9TPFTC81VY.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.2. \"Yo'nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo'lga chiqish\"</strong></li></ul><p>Ushbu belgi chorrahada belgilangan yo'nalishli transport vositalari, ya'ni avtobus, trolleybus, tramvay va yo'nalishli taksilar uchun ajratilgan yo'l tasmasi borligi haqida axborot beradi. Shuningdek, haydovchilarga kesib o'tayotgan yo'lda bir tomonlama harakat tashkil qilinganligi haqida qo'shimcha ravishda ma'lumot beradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.2&nbsp;\"Выезд&nbsp; на&nbsp;дорогу&nbsp;с&nbsp;полосой&nbsp;для&nbsp;маршрутных транспортных&nbsp;средств\"</strong></li></ul><p>Этот знак информирует о том, что на перекрестке имеется выделенная полоса для транспортных средств, имеющих обозначенное направление движения, то есть автобусов, троллейбусов, трамваев и маршрутных такси. Он также дополнительно информирует водителей о том, что на пересекаемой дороге организовано одностороннее движение.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.2. \"Йўналишли транспорт воситалари учун алоҳида ажратилган тасмаси бор йўлга чиқиш\"</strong></li></ul><p>Ушбу белги чорраҳада белгиланган йўналишли транспорт воситалари, яъни автобус, троллейбус, трамвай ва йўналишли таксилар учун ажратилган йўл тасмаси борлиги ҳақида ахборот беради. Шунингдек, ҳайдовчиларга кесиб ўтаётган йўлда бир томонлама ҳаракат ташкил қилинганлиги ҳақида қўшимча равишда маълумот беради.</p>"
+                        }
+                    ]
+                },
+                "order": 27
+            },
+            {
+                "id": 141,
+                "name": {
+                    "uz": "5.10.3 Belgilangan yo’nalishli transport vositalari uchun bo’lagi bor yo’l",
+                    "ru": "5.10.3 Дорога с участком для транспортных средств по обозначенному маршруту",
+                    "kiril": "5.10.3 Белгиланган йўналишли транспорт воситалари учун бўлаги бор йўл",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.10.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-54-38_8QAXSF9PNF.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.3. “Yo‘nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘lga chiqish”</strong></li></ul><p>Ushbu belgi chorrahada belgilangan yo'nalishli transport vositalari, ya'ni avtobus, trolleybus, tramvay va yo'nalishli taksilar uchun ajratilgan yo'l bo'lagi borligi haqida axborot beradi. Haydovchilarga kesib o'tayotgan yo'lda bir tomonlama harakat tashkil qilinganligi haqida qo'shimcha ravishda ma'lumot beradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.3&nbsp; \"Выезд на&nbsp;дорогу&nbsp;с&nbsp;полосой&nbsp;для&nbsp;маршрутных транспортных&nbsp;средств\"</strong></li></ul><p>Этот знак информирует о том, что на перекрестке имеется выделенная полоса для транспортных средств, имеющих обозначенное направление движения, то есть автобусов, троллейбусов, трамваев и маршрутных такси. Дополнительно информирует водителей о том, что на пересекаемой дороге организовано одностороннее движение.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.3. \"Йўналишли транспорт воситалари учун бўлаги бор йўлга чиқиш\"</strong></li></ul><p>Ушбу белги чорраҳада белгиланган йўналишли транспорт воситалари, яъни автобус, троллейбус, трамвай ва йўналишли таксилар учун ажратилган йўл бўлаги борлиги ҳақида ахборот беради. Ҳайдовчиларга кесиб ўтаётган йўлда бир томонлама ҳаракат ташкил қилинганлиги ҳақида қўшимча равишда маълумот беради.</p>"
+                        }
+                    ]
+                },
+                "order": 28
+            },
+            {
+                "id": 142,
+                "name": {
+                    "uz": "5.10.4 Belgilangan yo’nalishli transport vositalari uchun bo’lagi bor yo’lning oxiri",
+                    "ru": "5.10.4 Конец дороги с участком для транспортных средств по обозначенному маршруту.",
+                    "kiril": "5.10.4 Белгиланган йўналишли транспорт воситалари учун бўлаги бор йўлнинг охири",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.10.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-54-56_DNNVTWHC6X.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.4. “Yo‘nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘lning oxiri”</strong></li></ul><p>Ushbu belgi <i><strong>5.10.1. \"Belgilangan yo'nalishli transport vositalari uchun bo'lagi bor yo'l\" ning oxiri</strong></i>ni ko'rsatadi va shu yerda o'rnatiladi. O'z navbatida, belgi o'rnatilgan joydan e'tiboran, <i>\"Belgilangan yo'nalishli transport vositalari uchun tasmasi bor yo'l\" belgisining amal qilish tartibi bekor bo'lgan hisoblanadi.</i></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.4.&nbsp;\"Конец дороги с&nbsp;полосой&nbsp; для&nbsp;маршрутных транспортных средств\"</strong></li></ul><p>Этот знак 5.10.1. &nbsp;указывает конец \"Дороги с полосой движения для транспортных средств с указанными маршрутами\" и устанавливается там. В свою очередь, начиная с места установки знака, порядок действия знака \"Дорога с полосой для транспортных средств, следующих по указанному маршруту\" считается недействительным.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.10.4. \"Йўналишли транспорт воситалари учун алоҳида ажрвтилган тасмаси бор йўлнинг охири\"</strong></li></ul><p>Ушбу белги <i><strong>5.10.1. \"Белгиланган йўналишли транспорт воситалари учун бўлаги бор йўл\" нинг охири</strong></i>ни кўрсатади ва шу ерда ўрнатилади. Ўз навбатида, белги ўрнатилган жойдан эътиборан, <i>\"Йўналишли транспорт воситалари учун тасмаси бор йўл\" белгисининг амал қилиш тартиби бекор бўлган ҳисобланади.</i></p>"
+                        }
+                    ]
+                },
+                "order": 29
+            },
+            {
+                "id": 143,
+                "name": {
+                    "uz": "5.11.1. “Qayrilish joyi”. Chapga burilish taqiqlanadi.",
+                    "ru": "5.11.1. «Место поворота». Поворот налево запрещен.",
+                    "kiril": "5.11.1. “Қайрилиш жойи”. Чапга бурилиш тақиқланади.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.11.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-55-11_B1MF4SEMXD.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.11.1. \"Qayrilib olish joyi\"</strong></li></ul><p>Bu belgi ajratuvchi mintaqali yo'llarda, transport vositalarining qayrilib olish joyini ko'rsatadi. Lekin, bu joydan chapga burilish taqiqlangan. <i><strong>Qayrilib olishga qulay sharoitni kutib turgan haydovchi o'zi boshqarayotgan transport vositasini qarama-qarshi yo'l bo'lagiga chiqarmasdan to'xtatishi shart.</strong></i></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.11.1. \"Место&nbsp;для&nbsp;разворота\"</strong></li></ul><p>Этот знак указывает на поворот для транспортных средств на дорогах с разделительной полосой. Но поворот налево с этого места запрещен. Водитель, ожидающий благоприятных условий для разворота, обязан остановить управляемое им транспортное средство, не выезжая на встречную полосу движения.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.11.1. \"Қайрилиб олиш жойи\"</strong></li></ul><p>Бу белги ажратувчи минтақали йўлларда, транспорт воситаларининг қайрилиб олиш жойини кўрсатади. Лекин, бу жойдан чапга бурилиш тақиқланган. <i><strong>Қайрилиб олишга қулай шароитни кутиб турган ҳайдовчи ўзи бошқараётган транспорт воситасини қарама-қарши йўл бўлагига чиқармасдан тўхтатиши шарт.</strong></i></p>"
+                        }
+                    ]
+                },
+                "order": 30
+            },
+            {
+                "id": 144,
+                "name": {
+                    "uz": "5.11.2. “Qayrilish oralig‘i”. Qayrilish oralig‘ining uzunligi. Chapga burilish taqiqlanadi.",
+                    "ru": "5.11.2. «Интервал поворота». Длина поворота. Поворот налево запрещен.",
+                    "kiril": "5.11.2. “Қайрилиш оралиғи”. Қайрилиш оралиғининг узунлиги. Чапга бурилиш тақиқланади.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.11.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-55-27_466B51R95P.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.11.2. \"Qayrilib olish oralig'i\"</strong></li></ul><p>Bu belgi qayrilish oralig'ining uzunligini ko'rsatadi. U harakat tig'iz joylarda transport vositalarining qayrilishini tartibga solish orqali yo'llarning o'tkazuvchanlik imkoniyatini oshirishga xizmat qiladi. Lekin bu belgi bor joylarda chapga burilish mumkin emasligini unutmaslik lozim.</p><p><i>Taqiqlangan joydan burilgan transport vositasi haydovchisi eng kam oylik ish haqining 0,5 baravari miqdorida jarimaga tortiladi.</i></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.11.2.&nbsp;&nbsp; \"Зона&nbsp;&nbsp; для&nbsp;разворота\"</strong></li></ul><p>Этот знак указывает на длину интервала поворота. Он служит для повышению пропускной способности дорог путем регулирования движения транспортных средств в труднодоступных местах. Но стоит помнить, что в местах, где есть этот знак, Поворот налево запрещен.</p><p>Водитель транспортного средства, который совершил поворот с запрещенного места, будет оштрафован в размере 0,5 минимального размера оплаты труда.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.11.2. &nbsp;\"Қайрилиб олиш оралиғи\"</strong></li></ul><p>Бу белги қайрилиш оралиғининг узунлигини кўрсатади. У ҳаракат тиғиз жойларда транспорт воситаларининг қайрилишини тартибга солиш орқали йўлларнинг ўтказувчанлик имкониятини оширишга хизмат қилади. Лекин бу белги бор жойларда чапга бурилиш мумкин эмаслигини унутмаслик лозим.</p><p><i>Тақиқланган жойдан бурилган транспорт воситаси ҳайдовчиси энг кам ойлик иш ҳақининг 0,5 баравари миқдорида жаримага тортилади.</i></p>"
+                        }
+                    ]
+                },
+                "order": 31
+            },
+            {
+                "id": 145,
+                "name": {
+                    "uz": "5.12. “Avtobus va trolleybus to‘xtash joyi”.",
+                    "ru": "5.12. Автобусная и троллейбусная остановка",
+                    "kiril": "5.12. “Автобус ва троллейбус тўхташ жойи”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.12",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-58-26_9PB7TW6XUD.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.12. \"Avtobus va trolleybus to'xtash joyi\"</strong></li></ul><p>Ushbu belgi jamoat transporti bekatlarini belgilaydigan joyni ko'rsatadi va shu erga o'rnatiladi. Bu belgi qo'yilgan joyda belgilangan yo'nalishdagi taksi, avtobus va trolleybuslargina to'xtashi mumkin. Boshqa transport vositalari ushbu belgi o'rnatilgan joylarda yo'lovchilarni chiqarish, tushirish uchun, jamoat transportiga xalaqit bermaslik sharti bilangina to'xtashlari mumkin. Boshqa hollarda, to'xtash joyidan <strong>15 metrgacha bo'lgan masofada to'xtash va to'xtab turish taqiqlanadi</strong>.</p><p><i>Yo'nalishli transport vositalari to'xtaydigan bekatlardan yurish qoidasi buzilganda eng kam oylik ish haqining 0,5 baravari miqdorida ma'muriy javobgarlik belgilanadi.</i></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.12.&nbsp;\"Место остановки&nbsp;автобуса и&nbsp;(или)&nbsp;троллейбуса\"</strong></li></ul><p>&nbsp; &nbsp;Этот знак указывает место, где будут отмечаться остановки общественного транспорта, и устанавливается именно здесь. В этом обозначенном месте могут останавливаться только такси, автобусы и троллейбусы указанного маршрута. Другие транспортные средства могут останавливаться в местах, где установлен этот знак, для высадки пассажиров, только при условии, что они не создают помех общественному транспорту. В остальных случаях остановка и стоянка на расстоянии до 15 метров от места стоянки запрещена.</p><p><i>При нарушении правил проезда от остановок маршрутных транспортных средств устанавливается административная ответственность в размере 0,5 минимального размера оплаты труда.</i></p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.12. \"Автобус ва троллейбус тўхташ жойи\"</strong></li></ul><p>Ушбу белги жамоат транспорти бекатларини белгилайдиган жойни кўрсатади ва шу ерга ўрнатилади. Бу белги қўйилган жойда белгиланган йўналишдаги такси, автобус ва троллейбусларгина тўхташи мумкин. Бошқа транспорт воситалари ушбу белги ўрнатилган жойларда йўловчиларни чиқариш, тушириш учун, жамоат транспортига халақит бермаслик шарти билангина тўхташлари мумкин. Бошқа ҳолларда, тўхташ жойидан <strong>15 метргача бўлган масофада тўхташ ва тўхтаб туриш тақиқланади</strong>.</p><p><i>Йўналишли транспорт воситалари тўхтайдиган бекатлардан юриш қоидаси бузилганда энг кам ойлик иш ҳақининг 0,5 баравари миқдорида маъмурий жавобгарлик белгиланади.</i></p>"
+                        }
+                    ]
+                },
+                "order": 32
+            },
+            {
+                "id": 146,
+                "name": {
+                    "uz": "5.13. “Tramvay to‘xtash joyi”.",
+                    "ru": "5.13. Трамвайная остановка",
+                    "kiril": "5.13. “Трамвай тўхташ жойи”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.13",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-58-46_PWDPYTDUBV.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.13. \"Tramvay to'xtash joyi\"</strong></li></ul><p>Bu belgi faqat tramvaylarning to'xtash bekatlarini ko'rsatadi va shu erga o'rnatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.13&nbsp;\"Место&nbsp;остановки&nbsp;трамвая</strong></li></ul><p>Этот знак показывает только трамвайные остановки там он и установлен.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.13. \"Трамвай тўхташ жойи\"</strong></li></ul><p>Бу белги фақат трамвайларнинг тўхташ бекатларини кўрсатади ва шу ерга ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 33
+            },
+            {
+                "id": 147,
+                "name": {
+                    "uz": "5.14. “Taksi to‘xtab turish joyi”.",
+                    "ru": "5.14. «Такси остановка».",
+                    "kiril": "5.14. “Такси тўхтаб туриш жойи”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.14",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-58-59_D4YR1HSD49.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.14. \"Taksi to'xtab turish joyi\"</strong></li></ul><p>Ushbu belgi yengil taksilarning to'xtab turish joylarini ko'rsatadi va shu erga o'rnatiladi. Bu belgi bor joylarda boshqa transport vositalarining to'xtashi va to'xtab turishi taqiqlanadi.</p><p><i>Eslatib o'tamiz, to'xtash va to'xtab turish qoidalari buzilsa, haydovchi eng kam oylik ish haqining 3 baravari miqdorida ma'muriy javobgarlikka tortiladi.</i></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \"Место&nbsp;&nbsp;стоянки&nbsp;легковых такси\"</strong></li></ul><p>Этот знак указывает на остановки легких такси и установлен здесь. Запрещается останавливать и парковать другой транспорт в местах, где стоит этот знак.</p><p><i>Напомним, что в случае нарушения правил парковки и остановки водитель будет привлечен к административной ответственности в размере 3-х минимальных размеров оплаты труда.</i></p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.14. \"Такси тўхтаб туриш жойи\"</strong></li></ul><p>Ушбу белги енгил таксиларнинг тўхтаб туриш жойларини кўрсатади ва шу ерга ўрнатилади. Бу белги бор жойларда бошқа транспорт воситаларининг тўхташи ва тўхтаб туриши тақиқланади.</p><p><i>Эслатиб ўтамиз, тўхташ ва тўхтаб туриш қоидалари бузилса, ҳайдовчи энг кам ойлик иш ҳақининг 3 баравари миқдорида маъмурий жавобгарликка тортилади.</i></p>"
+                        }
+                    ]
+                },
+                "order": 34
+            },
+            {
+                "id": 148,
+                "name": {
+                    "uz": "5.15. “To‘xtab turish joyi”.",
+                    "ru": "5.15. Парковка.",
+                    "kiril": "5.15. “Тўхтаб туриш жойи”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.15",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-59-34_YP5UVXN6TE.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.15. \"To'xtab turish joyi\"</strong></li></ul><p>Bu belgi transport vositalarining to'xtab turish joyini ko'rsatadi.</p><p>Belgi o'rnatilgan joyda barcha transport vositalarining to'xtashi va to'xtab turishi mumkin.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_15-08-32_BNVZK335TM.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.15.1. «Pullik to‘xtab turish joyi».</strong></li></ul><p><strong>5.15.1 «Pullik to‘xtab turish joyi» </strong>belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida sariq fonda &nbsp;lotin yozuvidagi «R» harfi tasvirlangan.</p><p><strong>5.15.1 «Pullik to‘xtab turish joyi»</strong> belgisi maxsus ajratilgan, ochiq yoki yopiq maydonchada, transport vositalarining to‘xtab turish joyi pullik bo‘lgan joylarga o‘rnatiladi. &nbsp;</p><p>Asosan bozorlar, supermarketlar, aeroportlar, vokzallar va shunga o‘xshash transport vosilarini to‘xtab turish zarurati yuqori bo‘lgan hududlarda, davlat, xususiy yoki davlat-xususiy mulkchiligi asosida qo‘shimcha qulayliklarga ega bo‘lgan pullik to‘xtab turish joylari tashkil qilinishi mumkin. Bunday joylarda, to‘xtab turish narxini hisob-kitob qiluvchi maxsus parkomatlar (Parkomat – bu mashina to‘xtash joyida bo‘lgan vaqt uchun mablag‘larni hisoblash va olishni ta’minlaydigan avtomatik qurilma. Qurilmaning turiga qarab, avtoturargoh foydalanuvchisi to‘xtab turishning davomiyligi va to‘lov usulini mustaqil tanlash imkoniyatiga ega.) &nbsp;o‘rnatilishi yoki hisob kitob maxsus nazoratchi orqali amalga oshirilishi mumkin.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_15-08-32_U9TPDNZJCU.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<p><strong>5.15.2 Yer usti avtomobil qo‘yish joyi.</strong></p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_15-08-32_ER2HJ4NKQS.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<p><strong>5.15.3 Yer osti avtomobil qo‘yish joyi.</strong></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.15.\"Место стоянки\"</strong></li></ul><p>Этот знак указывает, где припаркованы автомобили.</p><p>Все автомобили могут останавливаться и парковаться там, где установлен знак.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_15-08-32_UZJTKABRBY.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.15.1. \"Платная парковка\".</strong></li></ul><p>Знак&nbsp;<strong>5.15.1 «Платная стоянка»</strong> имеет прямоугольную форму с черной окантовкой. В центре прямоугольника на желтом фоне изображена буква «Р» латиницей.</p><p>Знак&nbsp;<strong>5.15.1 «Платная стоянка»&nbsp;</strong>устанавливается на специально отведенной, открытой или закрытой территории, в местах платной парковки транспортных средств.</p><p>Преимущественно на рынках, в супермаркетах, аэропортах, вокзалах и подобных местах, где существует высокая потребность в стоянках транспортных средств, могут создаваться платные парковочные места с дополнительными удобствами на основе государственной, частной или государственно-частной собственности. В таких местах могут быть установлены специальные паркоматы (Паркомат – автоматическое устройство, обеспечивающее расчет и прием денежных средств за промежуток времени нахождения автомобиля на парковке. В зависимости от типа устройства пользователь стоянки имеет возможность самостоятельно выбирать продолжительность парковки и способ оплаты.), рассчитывающие стоимость парковки, либо расчет может производиться через специальный контроллер.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_15-08-32_PYT9N1WJQ9.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<p><strong>5.15.2 Наземная парковка.</strong></p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_15-08-32_VSNFTVUKHV.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<p><strong>5.15.3 Подземная парковка.</strong></p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.15. \"Тўхтаб туриш жойи\"</strong></li></ul><p>Бу белги транспорт воситаларининг тўхтаб туриш жойини кўрсатади.</p><p>Белги ўрнатилган жойда барча транспорт воситаларининг тўхташи ва тўхтаб туриши мумкин.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_15-08-32_H4UCYT7SAT.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.15.1. «Пуллик тўхтаб туриш жойи».</strong></li></ul><p><strong>5.15.1 «Пуллик тўхтаб туриш жойи»</strong>белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида сариқ фонда&nbsp; лотин ёзувидаги&nbsp;«Р» ҳарфи тасвирланган.</p><p><strong>5.15.1 «Пуллик тўхтаб туриш жойи»&nbsp;</strong>белгиси махсус ажратилган, очиқ ёки ёпиқ майдончада, транспорт воситаларининг тўхтаб туриш жойи пуллик бўлган жойларга ўрнатилади.&nbsp;</p><p>Асосан бозорлар, супермаркетлар, аэропортлар, вокзаллар ва шунга ўхшаш транспорт восиларини тўхтаб туриш зарурати юқори бўлган ҳудудларда, давлат, хусусий ёки давлат-хусусий мулкчилиги асосида қўшимча қулайликларга эга бўлган пуллик тўхтаб туриш жойлари ташкил қилиниши мумкин. Бундай жойларда, тўхтаб туриш нархини ҳисоб-китоб қилувчи махсус паркоматлар (Паркомат – бу машина тўхташ жойида бўлган вақт учун маблағларни ҳисоблаш ва олишни таъминлайдиган автоматик қурилма. Қурилманинг турига қараб, автотураргоҳ фойдаланувчиси тўхтаб туришнинг давомийлиги ва тўлов усулини мустақил танлаш имкониятига эга.)&nbsp; ўрнатилиши ёки ҳисоб китоб махсус назоратчи орқали амалга оширилиши мумкин.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_15-08-32_N3CHXH5GYN.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<p><strong>5.15.2 Ер усти автомобиль қўйиш жойи.</strong></p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-25_15-08-32_6KQXFB9HPX.png"
+                        },
+                        {
+                            "type": "1",
+                            "value": "<p><strong>5.15.3 Ер ости автомобиль қўйиш жойи.</strong></p>"
+                        }
+                    ]
+                },
+                "order": 35
+            },
+            {
+                "id": 411,
+                "name": {
+                    "uz": "5.15.1. «Pullik to‘xtab turish joyi».",
+                    "ru": "5.15.1. \"Платная парковка\".",
+                    "kiril": "5.15.1. «Пуллик тўхтаб туриш жойи».",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_10-59-53_H2KNAWZ35S.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.15.1. «Pullik to‘xtab turish joyi».</strong></li></ul><p><strong>5.15.1 «Pullik to‘xtab turish joyi» </strong>belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida sariq fonda &nbsp;lotin yozuvidagi «R» harfi tasvirlangan.</p><p><strong>5.15.1 «Pullik to‘xtab turish joyi»</strong> belgisi maxsus ajratilgan, ochiq yoki yopiq maydonchada, transport vositalarining to‘xtab turish joyi pullik bo‘lgan joylarga o‘rnatiladi. &nbsp;</p><p>Asosan bozorlar, supermarketlar, aeroportlar, vokzallar va shunga o‘xshash transport vosilarini to‘xtab turish zarurati yuqori bo‘lgan hududlarda, davlat, xususiy yoki davlat-xususiy mulkchiligi asosida qo‘shimcha qulayliklarga ega bo‘lgan pullik to‘xtab turish joylari tashkil qilinishi mumkin. Bunday joylarda, to‘xtab turish narxini hisob-kitob qiluvchi maxsus parkomatlar (Parkomat – bu mashina to‘xtash joyida bo‘lgan vaqt uchun mablag‘larni hisoblash va olishni ta’minlaydigan avtomatik qurilma. Qurilmaning turiga qarab, avtoturargoh foydalanuvchisi to‘xtab turishning davomiyligi va to‘lov usulini mustaqil tanlash imkoniyatiga ega.) &nbsp;o‘rnatilishi yoki hisob kitob maxsus nazoratchi orqali amalga oshirilishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.15.1. \"Платная парковка\".</strong></li></ul><p>Знак&nbsp;<strong>5.15.1 «Платная стоянка»</strong> имеет прямоугольную форму с черной окантовкой. В центре прямоугольника на желтом фоне изображена буква «Р» латиницей.</p><p>Знак&nbsp;<strong>5.15.1 «Платная стоянка»&nbsp;</strong>устанавливается на специально отведенной, открытой или закрытой территории, в местах платной парковки транспортных средств.</p><p>Преимущественно на рынках, в супермаркетах, аэропортах, вокзалах и подобных местах, где существует высокая потребность в стоянках транспортных средств, могут создаваться платные парковочные места с дополнительными удобствами на основе государственной, частной или государственно-частной собственности. В таких местах могут быть установлены специальные паркоматы (Паркомат – автоматическое устройство, обеспечивающее расчет и прием денежных средств за промежуток времени нахождения автомобиля на парковке. В зависимости от типа устройства пользователь стоянки имеет возможность самостоятельно выбирать продолжительность парковки и способ оплаты.), рассчитывающие стоимость парковки, либо расчет может производиться через специальный контроллер.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.15.1. «Пуллик тўхтаб туриш жойи».</strong></li></ul><p><strong>5.15.1 «Пуллик тўхтаб туриш жойи»</strong>белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида сариқ фонда&nbsp; лотин ёзувидаги&nbsp;«Р» ҳарфи тасвирланган.</p><p><strong>5.15.1 «Пуллик тўхтаб туриш жойи»&nbsp;</strong>белгиси махсус ажратилган, очиқ ёки ёпиқ майдончада, транспорт воситаларининг тўхтаб туриш жойи пуллик бўлган жойларга ўрнатилади.&nbsp;</p><p>Асосан бозорлар, супермаркетлар, аэропортлар, вокзаллар ва шунга ўхшаш транспорт восиларини тўхтаб туриш зарурати юқори бўлган ҳудудларда, давлат, хусусий ёки давлат-хусусий мулкчилиги асосида қўшимча қулайликларга эга бўлган пуллик тўхтаб туриш жойлари ташкил қилиниши мумкин. Бундай жойларда, тўхтаб туриш нархини ҳисоб-китоб қилувчи махсус паркоматлар (Паркомат – бу машина тўхташ жойида бўлган вақт учун маблағларни ҳисоблаш ва олишни таъминлайдиган автоматик қурилма. Қурилманинг турига қараб, автотураргоҳ фойдаланувчиси тўхтаб туришнинг давомийлиги ва тўлов усулини мустақил танлаш имкониятига эга.)&nbsp; ўрнатилиши ёки ҳисоб китоб махсус назоратчи орқали амалга оширилиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 36
+            },
+            {
+                "id": 149,
+                "name": {
+                    "uz": "5.16.1. va 5.16.2. \"Piyodalar o'tish joyi\"",
+                    "ru": "5.16.1. и 5.16.2. \"Пешеходный переход\"",
+                    "kiril": "5.16.1. ва 5.16.2. \"Пиёдалар ўтиш жойи\"",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.16.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_11-01-45_GFN4SVG12P.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.16.1. va 5.16.2. \"Piyodalar o'tish joyi\"</strong></li></ul><p>Bu yo'l belgisi piyodalarning o'tish joyini ko'rsatadi.&nbsp; Belgilar \"Yo'lning harakat tartibga solinmagan qismida piyodalarning o'tish joyi\", \"Piyodalarning harakatlanish yo'nalishi\" va \"Piyodalarning harakati svetofor</p><p>yordamida tartibga solingan\" yotiq chiziqlari bilan birga yoki ularsiz o'rnatilishi mumkin. Bunda <i><strong>5.16.1. belgisi yo'lning chap tarafiga qo'yilib, piyo&nbsp; dalar o'tish joyining orqa chegarasini, 5.16.2. esa yo'lning o'ng tarafiga o'rnatilib, piyodalar o'tish joyining old chegarasini bildiradi</strong></i>. Haydovchilar yo'lni kesib o'tayotgan piyodalarga yo'l berishlari kerak.</p><p>Aks holda, <i>ushbu qoidabuzarlik uchun haydovchi eng kam ish haqining 0,5 baravari miqdorida jarimaga tortiladi.</i></p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-08-11_16-16-35_WRBS7EPPHB.png"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.16.1. и 5.16.2. \"Пешеходный переход\"</strong></li></ul><p>Дорожный знак указывает на пешеходный переход. Знаки могут быть установлены с горизонтальными линиями или без них «Пешеходный переход на нерегулируемом участке дороги», «Направление движения пешеходов» и «Движение пешеходов регулируется светофорами». &nbsp;5.16.1. знак размещается с левой стороны дороги и обозначает заднюю границу пешеходного перехода, 5.16.2. и установлен на правой стороне дороги, обозначающей переднюю границу пешеходного перехода. Водители должны уступать дорогу пешеходам, переходящим дорогу.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-08-11_16-16-35_9Q1KCFEF1C.png"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.16.1. ва 5.16.2. \"Пиёдалар ўтиш жойи\"</strong></li></ul><p>Бу йўл белгиси пиёдаларнинг ўтиш жойини кўрсатади.&nbsp; Белгилар \"Йўлнинг ҳаракат тартибга солинмаган қисмида пиёдаларнинг ўтиш жойи\", \"Пиёдаларнинг ҳаракатланиш йўналиши\" ва \"Пиёдаларнинг ҳаракати светофор</p><p>ёрдамида тартибга солинган\" ётиқ чизиқлари билан бирга ёки уларсиз ўрнатилиши мумкин. Бунда <i><strong>5.16.1. белгиси йўлнинг чап тарафига қўйилиб, пиё&nbsp; далар ўтиш жойининг орқа чегарасини, 5.16.2. эса йўлнинг ўнг тарафига ўрнатилиб, пиёдалар ўтиш жойининг олд чегарасини билдиради</strong></i>. Ҳайдовчилар йўлни кесиб ўтаётган пиёдаларга йўл беришлари керак.</p><p>Акс ҳолда, <i>ушбу қоидабузарлик учун ҳайдовчи энг кам иш ҳақининг 0,5 баравари миқдорида жаримага тортилади.</i></p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-08-11_16-16-35_SUP28FK8WU.png"
+                        }
+                    ]
+                },
+                "order": 37
+            },
+            {
+                "id": 151,
+                "name": {
+                    "uz": "5.17.1 Piyodalarning yer ostidan o’tish joyi",
+                    "ru": "5.17.1 Подземный пешеходный переход",
+                    "kiril": "5.17.1 Пиёдаларнинг ер остидан ўтиш жойи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.17.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_11-02-04_E2GA8NXVB2.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>17.1, 5.17.2. \"Piyodalarning er ostidan o'tish joyi\"</strong></li></ul><p>Bu yo'l belgilari piyodalarning er ostidan o'tish joylarini ko'rsatadi. Serqatnov ko'chalarda piyodalarning xavfsizligini, shu bilan birga, yo'l – transport hodisalarining oldini olish va yo'llarning o'tkazuvchanligini oshirish maqsadida bunday er osti yo'laklari quriladi va ushbu belgilar o'rnatilgan joylarda piyodalar o'z xavfsizliklarini ta'minlash maqsadida <i><strong>er ostidan o'tishlari shart.&nbsp;</strong></i></p><p><i><strong>5.17.1 belgisi yo'lning chap tomonidan, 5.17.2 belgisi o'ng tomonidan er osti yo'lagagi tushishni</strong>&nbsp;</i>ko'rsatadi.</p><p><strong>5.17.3, 5.17.4. \"Piyodalarning er ustidan o'tish joyi\"</strong></p><p>Bu yo'l belgilari piyodalarning er ustidan o'tish joylarini ko'rsatadi. Serqatnov ko'chalarda piyodalarning xavfsizligini ta'minlash, shu bilan&nbsp;birga, yo'l – transport hodisalarining oldini olish va yo'llarning o'tkazuvchanligini oshirish maqsadida o'rnatiladi. Piyodalar belgi o'rnatilgan joylarda faqat er usti o'tish joyidan o'tishlari shart.&nbsp;</p><p>Bunda <i><strong>5.17.3. belgisi yo'lning chap tomoniga, 5.17.4. belgisi esa yo'lning o'ng tomoniga o'rnatiladi</strong></i>.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.17.1, 5.17.2. «Подземный пешеходный переход»</strong></li></ul><p>Эти дорожные знаки указывают на места подземных пешеходных переходов.<br>Подземные переходы строятся на оживлённых улицах с целью обеспечения безопасности пешеходов, предотвращения дорожно-транспортных происшествий и повышения пропускной способности дорог.<br>В местах установки данных знаков пешеходы обязаны пользоваться подземным переходом для своей безопасности.<br>Знак <strong>5.17.1</strong> указывает на спуск в подземный переход с <strong>левой стороны дороги</strong>, а знак <strong>5.17.2</strong> — с <strong>правой стороны</strong>.</p><p><strong>5.17.3, 5.17.4. «Надземный пешеходный переход»</strong><br>Эти знаки обозначают места надземных пешеходных переходов.<br>Они устанавливаются на оживлённых улицах с целью обеспечения безопасности пешеходов, предотвращения дорожно-транспортных происшествий и увеличения пропускной способности дороги.<br>Пешеходы обязаны переходить дорогу только по надземному переходу в местах, где установлены эти знаки.<br>Знак <strong>5.17.3</strong> размещается с <strong>левой стороны дороги</strong>, а знак <strong>5.17.4</strong> — с <strong>правой стороны</strong>.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>17.1, 5.17.2. \"Пиёдаларнинг эр остидан ўтиш жойи\"</strong></li></ul><p>Бу йўл белгилари пиёдаларнинг эр остидан ўтиш жойларини кўрсатади. Серқатнов кўчаларда пиёдаларнинг хавфсизлигини, шу билан бирга, йўл – транспорт ҳодисаларининг олдини олиш ва йўлларнинг ўтказувчанлигини ошириш мақсадида бундай эр ости йўлаклари қурилади ва ушбу белгилар ўрнатилган жойларда пиёдалар ўз хавфсизликларини таъминлаш мақсадида эр остидан ўтишлари шарт. &nbsp;</p><p>5.17.1 белгиси йўлнинг чап томонидан, 5.17.2 белгиси ўнг томонидан эр ости йўлагаги тушишни кўрсатади.</p><p>5.17.3, 5.17.4. \"Пиёдаларнинг эр устидан ўтиш жойи\"</p><p>Бу йўл белгилари пиёдаларнинг эр устидан ўтиш жойларини кўрсатади. Серқатнов кўчаларда пиёдаларнинг хавфсизлигини таъминлаш, шу билан бирга, йўл – транспорт ҳодисаларининг олдини олиш ва йўлларнинг ўтказувчанлигини ошириш мақсадида ўрнатилади. Пиёдалар белги ўрнатилган жойларда фақат эр усти ўтиш жойидан ўтишлари шарт. &nbsp;</p><p>Бунда 5.17.3. белгиси йўлнинг чап томонига, 5.17.4. белгиси эса йўлнинг ўнг томонига ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 38
+            },
+            {
+                "id": 152,
+                "name": {
+                    "uz": "5.17.2 Piyodalarning yer ostidan o’tish joyi",
+                    "ru": "5.17.2 Подземный пешеходный переход",
+                    "kiril": "5.17.2 Пиёдаларнинг ер остидан ўтиш жойи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.17.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/5.17.2.gif",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.17.1, 5.17.2. \"Piyodalarning er ostidan o'tish joyi\"</strong></li></ul><p>Bu yo'l belgilari piyodalarning er ostidan o'tish joylarini ko'rsatadi. Serqatnov ko'chalarda piyodalarning xavfsizligini, shu bilan birga, yo'l – transport hodisalarining oldini olish va yo'llarning o'tkazuvchanligini oshirish maqsadida bunday er osti yo'laklari quriladi va ushbu belgilar o'rnatilgan joylarda piyodalar o'z xavfsizliklarini ta'minlash maqsadida <i><strong>er ostidan o'tishlari shart.&nbsp;</strong></i></p><p><i><strong>5.17.1 belgisi yo'lning chap tomonidan, 5.17.2 belgisi o'ng tomonidan er osti yo'lagagi tushishni</strong>&nbsp;</i>ko'rsatadi.</p><p><strong>5.17.3, 5.17.4. \"Piyodalarning er ustidan o'tish joyi\"</strong></p><p>Bu yo'l belgilari piyodalarning er ustidan o'tish joylarini ko'rsatadi. Serqatnov ko'chalarda piyodalarning xavfsizligini ta'minlash, shu bilan&nbsp;birga, yo'l – transport hodisalarining oldini olish va yo'llarning o'tkazuvchanligini oshirish maqsadida o'rnatiladi. Piyodalar belgi o'rnatilgan joylarda faqat er usti o'tish joyidan o'tishlari shart.&nbsp;</p><p>Bunda <i><strong>5.17.3. belgisi yo'lning chap tomoniga, 5.17.4. belgisi esa yo'lning o'ng tomoniga o'rnatiladi</strong></i>.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.17.1, 5.17.2. «Подземный пешеходный переход»</strong></li></ul><p>Эти дорожные знаки указывают на места подземных пешеходных переходов.<br>Подземные переходы строятся на оживлённых улицах с целью обеспечения безопасности пешеходов, предотвращения дорожно-транспортных происшествий и повышения пропускной способности дорог.<br>В местах установки данных знаков пешеходы обязаны пользоваться подземным переходом для своей безопасности.<br>Знак <strong>5.17.1</strong> указывает на спуск в подземный переход с <strong>левой стороны дороги</strong>, а знак <strong>5.17.2</strong> — с <strong>правой стороны</strong>.</p><p><strong>5.17.3, 5.17.4. «Надземный пешеходный переход»</strong><br>Эти знаки обозначают места надземных пешеходных переходов.<br>Они устанавливаются на оживлённых улицах с целью обеспечения безопасности пешеходов, предотвращения дорожно-транспортных происшествий и увеличения пропускной способности дороги.<br>Пешеходы обязаны переходить дорогу только по надземному переходу в местах, где установлены эти знаки.<br>Знак <strong>5.17.3</strong> размещается с <strong>левой стороны дороги</strong>, а знак <strong>5.17.4</strong> — с <strong>правой стороны</strong>.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>17.1, 5.17.2. \"Пиёдаларнинг эр остидан ўтиш жойи\"</strong></li></ul><p>Бу йўл белгилари пиёдаларнинг эр остидан ўтиш жойларини кўрсатади. Серқатнов кўчаларда пиёдаларнинг хавфсизлигини, шу билан бирга, йўл – транспорт ҳодисаларининг олдини олиш ва йўлларнинг ўтказувчанлигини ошириш мақсадида бундай эр ости йўлаклари қурилади ва ушбу белгилар ўрнатилган жойларда пиёдалар ўз хавфсизликларини таъминлаш мақсадида эр остидан ўтишлари шарт. &nbsp;</p><p>5.17.1 белгиси йўлнинг чап томонидан, 5.17.2 белгиси ўнг томонидан эр ости йўлагаги тушишни кўрсатади.</p><p>5.17.3, 5.17.4. \"Пиёдаларнинг эр устидан ўтиш жойи\"</p><p>Бу йўл белгилари пиёдаларнинг эр устидан ўтиш жойларини кўрсатади. Серқатнов кўчаларда пиёдаларнинг хавфсизлигини таъминлаш, шу билан бирга, йўл – транспорт ҳодисаларининг олдини олиш ва йўлларнинг ўтказувчанлигини ошириш мақсадида ўрнатилади. Пиёдалар белги ўрнатилган жойларда фақат эр усти ўтиш жойидан ўтишлари шарт. &nbsp;</p><p>Бунда 5.17.3. белгиси йўлнинг чап томонига, 5.17.4. белгиси эса йўлнинг ўнг томонига ўрнатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 39
+            },
+            {
+                "id": 153,
+                "name": {
+                    "uz": "5.17.3 Piyodalarning yer ustidan o’tish joyi",
+                    "ru": "5.17.3 Пешеходный переход",
+                    "kiril": "5.17.3 Пиёдаларнинг ер устидан ўтиш жойи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.17.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/5.17.3.gif",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.17.3, 5.17.4. \"Piyodalarning er ustidan o'tish joyi\"</strong></li></ul><p>Bu yo'l belgilari piyodalarning er ustidan o'tish joylarini ko'rsatadi. Serqatnov ko'chalarda piyodalarning xavfsizligini ta'minlash, shu bilan</p><p>birga, yo'l – transport hodisalarining oldini olish va yo'llarning o'tkazuvchanligini oshirish maqsadida o'rnatiladi. Piyodalar belgi o'rnatilgan joylarda faqat er usti o'tish joyidan o'tishlari shart. Bunda <i><strong>5.17.3. belgisi yo'lning chap tomoniga, 5.17.4. esa yo'lning o'ng tomoniga o'rnatiladi</strong></i>.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.17.3, 5.17.4. \"Пешеходный переход над землей\"</strong></li></ul><p>Эти дорожные знаки указывают на пешеходные переходы над землей. Обеспечивая безопасность пешеходов на оживленных улицах, тем самым</p><p>в совокупности он будет установлен с целью предотвращения дорожно-транспортных происшествий и повышения проходимости дорог. Пешеходы обязаны пересекать только наземный переход в местах, где установлен знак. В этом знаке 5.17.3. слева от дороги, 5.17.4. esa установлен на правой стороне дороги.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.17.3, 5.17.4. \"Пиёдаларнинг ер устидан ўтиш жойи\"</strong></li></ul><p>Бу йўл белгилари пиёдаларнинг ер устидан ўтиш жойларини кўрсатади. Серқатнов кўчаларда пиёдаларнинг хавфсизлигини таъминлаш, шу билан</p><p>бирга, йўл – транспорт ҳодисаларининг олдини олиш ва йўлларнинг ўтказувчанлигини ошириш мақсадида ўрнатилади. Пиёдалар белги ўрнатилган жойларда фақат ер усти ўтиш жойидан ўтишлари шарт. Бунда <i><strong>5.17.3. белгиси йўлнинг чап томонига, 5.17.4. эса йўлнинг ўнг томонига ўрнатилади</strong></i>.</p>"
+                        }
+                    ]
+                },
+                "order": 40
+            },
+            {
+                "id": 154,
+                "name": {
+                    "uz": "5.17.4 Piyodalarning yer ustidan o’tish joyi",
+                    "ru": "5.17.4 Пешеходный переход",
+                    "kiril": "5.17.4 Пиёдаларнинг ер устидан ўтиш жойи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.17.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/5.17.4.gif",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.17.3, 5.17.4. \"Piyodalarning er ustidan o'tish joyi\"</strong></li></ul><p>Bu yo'l belgilari piyodalarning er ustidan o'tish joylarini ko'rsatadi. Serqatnov ko'chalarda piyodalarning xavfsizligini ta'minlash, shu bilan</p><p>birga, yo'l – transport hodisalarining oldini olish va yo'llarning o'tkazuvchanligini oshirish maqsadida o'rnatiladi. Piyodalar belgi o'rnatilgan joylarda faqat er usti o'tish joyidan o'tishlari shart. Bunda <i><strong>5.17.3. belgisi yo'lning chap tomoniga, 5.17.4. esa yo'lning o'ng tomoniga o'rnatiladi</strong></i>.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.17.3, 5.17.4. \"Пешеходный переход над землей\"</strong></li></ul><p>Эти дорожные знаки указывают на пешеходные переходы над землей. Обеспечивая безопасность пешеходов на оживленных улицах, тем самым</p><p>в совокупности он будет установлен с целью предотвращения дорожно-транспортных происшествий и повышения проходимости дорог. Пешеходы обязаны пересекать только наземный переход в местах, где установлен знак. В этом знаке 5.17.3. слева от дороги, 5.17.4. esa установлен на правой стороне дороги.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.17.3, 5.17.4. \"Пиёдаларнинг ер устидан ўтиш жойи\"</strong></li></ul><p>Бу йўл белгилари пиёдаларнинг ер устидан ўтиш жойларини кўрсатади. Серқатнов кўчаларда пиёдаларнинг хавфсизлигини таъминлаш, шу билан</p><p>бирга, йўл – транспорт ҳодисаларининг олдини олиш ва йўлларнинг ўтказувчанлигини ошириш мақсадида ўрнатилади. Пиёдалар белги ўрнатилган жойларда фақат ер усти ўтиш жойидан ўтишлари шарт. Бунда <i><strong>5.17.3. белгиси йўлнинг чап томонига, 5.17.4. эса йўлнинг ўнг томонига ўрнатилади</strong></i>.</p>"
+                        }
+                    ]
+                },
+                "order": 41
+            },
+            {
+                "id": 155,
+                "name": {
+                    "uz": "5.18 Tavsiya etilgan tezlik",
+                    "ru": "5.18 Рекомендуемая скорость",
+                    "kiril": "5.18 Тавсия этилган тезлик",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.18",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/5.18.gif",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.18. \"Tavsiya etilgan tezlik\"</strong></li></ul><p>Ushbu belgi yo'lning shu qismida transport vositalari uchun tavsiya etilgan harakatlanish tezligini ko'rsatadi. Belgi eng yaqin chorrahagacha amal qiladi. Agar bu yo'l belgisi birorta ogohlantiruvchi belgi bilan birgalikda qo'yilsa, uning ta'sir oralig'i yo'lning xavfli qismi uzunligi bilan chegaralanadi. Ushbu belgi yo'lning holati yoki meteorologiya sharoitlariga qarab, shu qism uchun xavfsiz bo'lgan ma'lum tezlikni tavsiya etadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.18.&nbsp;\"Рекомендуемая&nbsp;скорость\"</strong></li></ul><p>Скорость,&nbsp;с&nbsp;которой&nbsp;рекомендуется&nbsp;движение&nbsp;на&nbsp;данном&nbsp;участке&nbsp;дороги. Зона&nbsp;действия&nbsp;знака&nbsp;распространяется&nbsp;до ближайшего&nbsp;перекрестка.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; При&nbsp;применении&nbsp;знака&nbsp;5.18&nbsp;совместно&nbsp;&nbsp;с предупреждающим&nbsp;знаком,&nbsp;зона&nbsp;его&nbsp;действия&nbsp;определяется протяженностью&nbsp;опасного участка.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.18. \"Тавсия этилган тезлик\"</strong></li></ul><p>Ушбу белги йўлнинг шу қисмида транспорт воситалари учун тавсия этилган ҳаракатланиш тезлигини кўрсатади. Белги энг яқин чорраҳагача амал қилади. Агар бу йўл белгиси бирорта огоҳлантирувчи белги билан биргаликда қўйилса, унинг таъсир оралиғи йўлнинг хавфли қисми узунлиги билан чегараланади. Ушбу белги йўлнинг ҳолати ёки метеорология шароитларига қараб, шу қисм учун хавфсиз бўлган маълум тезликни тавсия этади.</p>"
+                        }
+                    ]
+                },
+                "order": 42
+            },
+            {
+                "id": 156,
+                "name": {
+                    "uz": "5.19.1 Oxiri berk yo’l, ko’cha",
+                    "ru": "5.19.1 Конец закрытой дороги, улицы",
+                    "kiril": "5.19.1 Охири берк йўл, кўча",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.19.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/5.19.1.gif",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.19.1, 5.19.2, 5.19.3. \"Oxiri berk yo'l, ko'cha\"</strong></li></ul><p>Ushbu guruhga oid belgilar yo'lning davomi yo'q, oxiri berk ekanligini ko'rsatadi. Lekin bu belgilar transport vositalariga harakatlanishni, ya'ni ko'chaga kirishni taqiqlamaydi.</p><p>Ular faqat haydovchilarni&nbsp;yo'lning davomi yo'qligi haqida ogohlantiradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.19.1, 5.19.2, 5.19.3. «Тупиковая дорога»</strong></li></ul><p>Эти дорожные знаки относятся к группе, обозначающей, что дорога не имеет продолжения — она заканчивается тупиком. Однако данные знаки <strong>не запрещают въезд</strong> транспортных средств на такую улицу.<br>Они лишь предупреждают водителей о том, что дальнейшее движение вперёд невозможно.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.19.1, 5.19.2, 5.19.3. \"Охири берк йўл, кўча\"</strong></li></ul><p>Ушбу гуруҳга оид белгилар йўлнинг давоми йўқ, охири берк эканлигини кўрсатади. Лекин бу белгилар транспорт воситаларига ҳаракатланишни, яъни кўчага киришни тақиқламайди.</p><p>Улар фақат ҳайдовчиларни йўлнинг давоми йўқлиги ҳақида огоҳлантиради.</p>"
+                        }
+                    ]
+                },
+                "order": 43
+            },
+            {
+                "id": 157,
+                "name": {
+                    "uz": "5.19.2 Oxiri berk yo’l, ko’cha",
+                    "ru": "5.19.2 Конец закрытой дороги, улицы",
+                    "kiril": "5.19.2 Охири берк йўл, кўча",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.19.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/5.19.2.gif",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.19.1, 5.19.2, 5.19.3. \"Oxiri berk yo'l, ko'cha\"</strong></li></ul><p>Ushbu guruhga oid belgilar yo'lning davomi yo'q, oxiri berk ekanligini ko'rsatadi. Lekin bu belgilar transport vositalariga harakatlanishni, ya'ni ko'chaga kirishni taqiqlamaydi.</p><p>Ular faqat haydovchilarni&nbsp;yo'lning davomi yo'qligi haqida ogohlantiradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.19.1, 5.19.2, 5.19.3. «Тупиковая дорога»</strong></li></ul><p>Эти дорожные знаки относятся к группе, обозначающей, что дорога не имеет продолжения — она заканчивается тупиком. Однако данные знаки <strong>не запрещают въезд</strong> транспортных средств на такую улицу.<br>Они лишь предупреждают водителей о том, что дальнейшее движение вперёд невозможно.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.19.1, 5.19.2, 5.19.3. \"Охири берк йўл, кўча\"</strong></li></ul><p>Ушбу гуруҳга оид белгилар йўлнинг давоми йўқ, охири берк эканлигини кўрсатади. Лекин бу белгилар транспорт воситаларига ҳаракатланишни, яъни кўчага киришни тақиқламайди.</p><p>Улар фақат ҳайдовчиларни йўлнинг давоми йўқлиги ҳақида огоҳлантиради.</p>"
+                        }
+                    ]
+                },
+                "order": 44
+            },
+            {
+                "id": 158,
+                "name": {
+                    "uz": "5.19.3 Oxiri berk yo’l, ko’cha",
+                    "ru": "5.19.3 Конец закрытой дороги, улицы",
+                    "kiril": "5.19.3 Охири берк йўл, кўча",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.19.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/5.19.3.gif",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.19.1, 5.19.2, 5.19.3. \"Oxiri berk yo'l, ko'cha\"</strong></li></ul><p>Ushbu guruhga oid belgilar yo'lning davomi yo'q, oxiri berk ekanligini ko'rsatadi. Lekin bu belgilar transport vositalariga harakatlanishni, ya'ni ko'chaga kirishni taqiqlamaydi.</p><p>Ular faqat haydovchilarni&nbsp;yo'lning davomi yo'qligi haqida ogohlantiradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.19.1, 5.19.2, 5.19.3. «Тупиковая дорога»</strong></li></ul><p>Эти дорожные знаки относятся к группе, обозначающей, что дорога не имеет продолжения — она заканчивается тупиком. Однако данные знаки <strong>не запрещают въезд</strong> транспортных средств на такую улицу.<br>Они лишь предупреждают водителей о том, что дальнейшее движение вперёд невозможно.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.19.1, 5.19.2, 5.19.3. \"Охири берк йўл, кўча\"</strong></li></ul><p>Ушбу гуруҳга оид белгилар йўлнинг давоми йўқ, охири берк эканлигини кўрсатади. Лекин бу белгилар транспорт воситаларига ҳаракатланишни, яъни кўчага киришни тақиқламайди.</p><p>Улар фақат ҳайдовчиларни йўлнинг давоми йўқлиги ҳақида огоҳлантиради.</p>"
+                        }
+                    ]
+                },
+                "order": 45
+            },
+            {
+                "id": 159,
+                "name": {
+                    "uz": "5.20.1.1 Yo’nalishlarning dastlabki ko’rsatkichi",
+                    "ru": "5.20.1.1 Первоначальное указание направлений",
+                    "kiril": "5.20.1.1 Йўналишларнинг дастлабки кўрсаткичи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.20.1.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_12-26-56_SZGPEBJV6T.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.20.1. \"Yo'nalishlarning dastlabki ko'rsatkichi\"</strong></li></ul><p>Belgida aholi yashaydigan joy va boshqa manzillarga harakatlanish yo'nalishlari ko'rsatilgan. Unda <i><strong>5.29.1. \"Yo'l raqami\" belgisi hamda avtomagistral, aeroport, sport&nbsp;obyektlari va boshqa ramziy tasvirlar tushirilgan bo'lishi mumkin</strong></i>. Agar belgidagi biron- bir yo'nalishda taqiqlovchi yo'l belgisining tasviri tushirilgan bo'lsa, ushbu talabga javob bermaydigan transport vositalari yo'lning shu qismini aylanib o'tishlari kerak bo'ladi. Belgining quyi qismida chorraha yoki tormozlanish bo'lagigacha bo'lgan masofa ko'rsatiladi. Ushbu belgilar axborot xarakteriga ega bo'lgani uchun, <i><strong>aholi yashaydigan punktlarda oq, avtomagistrallarda yashil, aholi yashash joylaridan tashqarida ko'k rangda bo'ladi</strong></i>.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.20.1. «Предварительный указатель направлений»</strong></li></ul><p><br>На знаке указаны направления движения к населённым пунктам и другим объектам.<br>Может содержать знак 5.29.1 «Номер дороги», а также символы автомагистрали, аэропорта, спортивных объектов и другие.<br>Если на каком-либо направлении изображён запрещающий знак, транспортные средства, не соответствующие требованиям, должны объехать этот участок.<br>В нижней части знака указывается расстояние до перекрёстка или зоны торможения.<br>Цвет знака: белый — в населённых пунктах, зелёный — на автомагистралях, синий — вне населённых пунктов.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.20.1. \"Йўналишларнинг дастлабки кўрсаткичи\"</strong></li></ul><p>Белгида аҳоли яшайдиган жой ва бошқа манзилларга ҳаракатланиш йўналишлари кўрсатилган. Унда 5.29.1. \"Йўл рақами\" белгиси ҳамда автомагистрал, аэропорт, спорт объектлари ва бошқа рамзий тасвирлар туширилган бўлиши мумкин. Агар белгидаги бирон- бир йўналишда тақиқловчи йўл белгисининг тасвири туширилган бўлса, ушбу талабга жавоб бермайдиган транспорт воситалари йўлнинг шу қисмини айланиб ўтишлари керак бўлади. Белгининг қуйи қисмида чорраҳа ёки тормозланиш бўлагигача бўлган масофа кўрсатилади. Ушбу белгилар ахборот характерига эга бўлгани учун, аҳоли яшайдиган пунктларда оқ, автомагистралларда яшил, аҳоли яшаш жойларидан ташқарида кўк рангда бўлади.</p>"
+                        }
+                    ]
+                },
+                "order": 46
+            },
+            {
+                "id": 160,
+                "name": {
+                    "uz": "5.20.1.2 Yo’nalishlarning dastlabki ko’rsatkichi",
+                    "ru": "5.20.1.2 Первоначальное указание направлений",
+                    "kiril": "5.20.1.2 Йўналишларнинг дастлабки кўрсаткичи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.20.1.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_12-34-10_4DH3TCX72W.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>5.20.1.2 Yo’nalishlarning dastlabki ko’rsatkichi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>5.20.1.2 Первоначальное указание направлений</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>5.20.1.2 Йўналишларнинг дастлабки кўрсаткичи</p>"
+                        }
+                    ]
+                },
+                "order": 47
+            },
+            {
+                "id": 373,
+                "name": {
+                    "uz": "5.20.1.3 Yo’nalishlarning dastlabki ko’rsatkichi",
+                    "ru": "5.20.1.3 Первоначальное указание направлений",
+                    "kiril": "5.20.1.3 Йўналишларнинг дастлабки кўрсаткичи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_12-52-48_9TTWWA7FCD.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "5.20.1.3 Yo’nalishlarning dastlabki ko’rsatkichi"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "5.20.1.3 Первоначальное указание направлений"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "5.20.1.3 Йўналишларнинг дастлабки кўрсаткичи"
+                        }
+                    ]
+                },
+                "order": 48
+            },
+            {
+                "id": 161,
+                "name": {
+                    "uz": "5.20.1.3 Yo’nalishlarning dastlabki ko’rsatkichi",
+                    "ru": "5.20.1.3 Первоначальное указание направлений",
+                    "kiril": "5.20.1.3 Йўналишларнинг дастлабки кўрсаткичи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.20.1.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_12-35-54_32KFXRXE2A.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "5.20.1.3 Yo’nalishlarning dastlabki ko’rsatkichi"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "5.20.1.3 Первоначальное указание направлений"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "5.20.1.3 Йўналишларнинг дастлабки кўрсаткичи"
+                        }
+                    ]
+                },
+                "order": 49
+            },
+            {
+                "id": 162,
+                "name": {
+                    "uz": "5.20.2 Yo’nalishlarning dastlabki ko’rsatkichi",
+                    "ru": "5.20.2 Первоначальное указание направлений",
+                    "kiril": "5.20.2 Йўналишларнинг дастлабки кўрсаткичи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.20.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-19_12-55-36_AXNHB6SWZ2.png",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.20.2. \"Yo'nalishlarning dastlabki ko'rsatkichi\"</strong></li></ul><p>Bu turdagi belgilarda transport vositalari haydovchilariga qulaylik yaratish maqsadida, aholi yashaydigan joy va boshqa manzillarga harakatlanish yo'nalishi ko'rsatiladi. Belgida <strong>5.29.1. \"Yo'l raqami\"</strong> belgisi hamda <strong>avtomagistral</strong>, <strong>aeroport</strong> <strong>va boshqa ramziy tasvirlar</strong>, ya'ni sport piktogrammalari tushirilgan bo'lishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.20.2 \"Предварительный указатель направления\"&nbsp;</strong></li></ul><p>Направления движения к&nbsp;обозначенным&nbsp; на&nbsp;знаке&nbsp; населенным&nbsp;пунктами&nbsp;другим&nbsp;объектам. На&nbsp;знаках&nbsp;могут быть&nbsp;нанесены&nbsp;изображения знака 5.29.1,&nbsp;знаки автомагистрали,&nbsp;аэропорта&nbsp;и&nbsp;иные&nbsp;пиктограммы.&nbsp;Знак&nbsp;5.20.1&nbsp;применяется&nbsp;также&nbsp;для&nbsp;указания объезда&nbsp;участков дорог,&nbsp;на&nbsp;которых установлен&nbsp;один&nbsp;из&nbsp;запрещающих&nbsp;знаков 3.11-3.15.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.20.2. \"Йўналишларнинг дастлабки кўрсаткичи\"</strong></li></ul><p>Бу турдаги белгиларда транспорт воситалари ҳайдовчиларига қулайлик яратиш мақсадида, аҳоли яшайдиган жой ва бошқа манзилларга ҳаракатланиш йўналиши кўрсатилади. Белгида <strong>5.29.1. \"Йўл рақами\"</strong> белгиси ҳамда <strong>автомагистрал</strong>, <strong>аэропорт</strong> <strong>ва бошқа рамзий тасвирлар</strong>, яъни спорт пиктограммалари туширилган бўлиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 50
+            },
+            {
+                "id": 163,
+                "name": {
+                    "uz": "5.20.3 Harakatlanish tasviri",
+                    "ru": "5.20.3 Кинофильм",
+                    "kiril": "5.20.3 Ҳаракатланиш тасвири",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "5.20.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/5.20.3.gif",
+                "road_sign_type_id": 5,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.20.3. \"Harakatlanish tasviri\"</strong></li></ul><p>Ushbu belgilar murakkab, serqatnov chorrahalar oldida o'rnatiladi. Ayrim yo'nalishlar bo'yicha taqiqlovchi belgilar mavjud yo'llarda transport vositalari haydovchilariga harakatlanish yo'nalishini ko'rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.20.3\"Схема движения\"&nbsp;</strong></li></ul><p>Маршрут движения&nbsp;при&nbsp;запрещении &nbsp;на&nbsp;перекрестке&nbsp;отдельных&nbsp;маневров&nbsp; или&nbsp;разрешенные направления движения на&nbsp;перекрестке синтенсивным движением.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>5.20.3. \"Ҳаракатланиш тасвири\"</strong></li></ul><p>Ушбу белгилар мураккаб, серқатнов чорраҳалар олдида ўрнатилади. Айрим йўналишлар бўйича тақиқловчи белгилар мавжуд йўлларда транспорт воситалари ҳайдовчиларига ҳаракатланиш йўналишини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 51
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}

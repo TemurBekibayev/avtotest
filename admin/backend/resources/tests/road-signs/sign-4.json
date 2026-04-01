@@ -1,0 +1,938 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 1,
+        "total_pages": 1,
+        "total_items": 25,
+        "show_count": "50",
+        "data": [
+            {
+                "id": 91,
+                "name": {
+                    "uz": "4.1.1. “Harakatlanish to‘g‘riga”.",
+                    "ru": "4.1.1. \"В движении.\"",
+                    "kiril": "4.1.1. “Ҳаракатланиш тўғрига”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.1.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-27-06_AZ7JE5T8VQ.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.1. \"Harakatlanish to'g'riga\"</strong></li></ul><p>Bu belgi yo'l kesishmasi oldida o'rnatiladi va transport vositalariga shu kesishmada faqat to'g'riga harakatlanishni buyuradi. Chapga yoki o'ngga burilish, shuningdek qayrilishga ruxsat etilmaydi. Lekin belgilangan yo'nalishli transport vositalariga, ya'ni avtobus, trolleybus, tramvay va yo'nalishli taksilarga bu belgining ta'siri yo'q. Belgi shuningdek yo'lning boshida ham o'rnatiladi. Bu holda uning buyrug'i keyingi chorrahagacha amal qiladi. Bunda yo'lning o'ng tomonida joylashgan hovli yoki yo'lga yondosh boshqa hududlarga kirishga ruxsat etiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.1.&nbsp;\"Движение&nbsp;прямо\"</strong></li></ul><p>Этот знак устанавливается перед перекрестком и предписывает транспортным средствам двигаться только по прямой на этом перекрестке. Не допускается поворот налево или направо, а также разворот. Но на маршрутные транспортные средства, то есть автобусы, троллейбусы, трамваи и маршрутные такси, этот знак не влияет. Знак также устанавливается в начале пути. В этом случае его команда будет действовать до следующего перекрестка. При этом допускается въезд во двор или другие прилегающие к дороге территории, расположенные с правой стороны дороги. За нарушение правил дорожного движения водителю грозит штраф в размере 0,5 минимального размера оплаты труда.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.1. \"Ҳаракатланиш тўғрига\"</strong></li></ul><p>Бу белги йўл кесишмаси олдида ўрнатилади ва транспорт воситаларига шу кесишмада фақат тўғрига ҳаракатланишни буюради. Чапга ёки ўнгга бурилиш, шунингдек қайрилишга рухсат этилмайди. Лекин белгиланган йўналишли транспорт воситаларига, яъни автобус, троллейбус, трамвай ва йўналишли таксиларга бу белгининг таъсири йўқ. Белги шунингдек йўлнинг бошида ҳам ўрнатилади. Бу ҳолда унинг буйруғи кейинги чорраҳагача амал қилади. Бунда йўлнинг ўнг томонида жойлашган ҳовли ёки йўлга ёндош бошқа ҳудудларга киришга рухсат этилади.</p>"
+                        }
+                    ]
+                },
+                "order": 1
+            },
+            {
+                "id": 92,
+                "name": {
+                    "uz": "4.1.2. “Harakatlanish o‘ngga”.",
+                    "ru": "4.1.2. «Двигайтесь вправо».",
+                    "kiril": "4.1.2. “Ҳаракатланиш ўнгга”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.1.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-48-09_NRNAHYTHGG.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.2. \"Oʻngga harakatlanish\"</strong></li></ul><p>Ushbu belgi chorrahadan oldin oʻrnatiladi va transport vositalariga faqat <strong>oʻngga burilish</strong>ni buyuradi. Ya’ni, bu yerda toʻgʻriga yurish, chapga burilish yoki orqaga qayrilish <strong>taqiqlanadi</strong>.</p><p>Ushbu belgining talablariga rioya qilmaslik yo‘l harakati qoidalarini buzishga va avariya holatining yuzaga kelishiga olib kelishi mumkin. Qoidani buzgan haydovchiga <strong>eng kam oylik ish haqining 0,5 qismi</strong> miqdorida jarima solinadi.</p><p><strong>Yo‘nalishli jamoat transport vositalari</strong> — avtobus, trolleybus, tramvay va marshrutkalar bu belgi ko‘rsatmasiga amal qilmasligi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.2. \"Движение&nbsp;направо\"</strong></li></ul><p>Этот знак устанавливается перед перекрестком и предписывает транспортным средствам двигаться только направо на этом перекрестке. Естественно, в этом месте запрещено идти прямо, поворачивать&nbsp;налево или разворот. Несоблюдение порядка этого знака может привести к нарушению правил дорожного движения и возникновению аварийной ситуации. За нарушение правил дорожного движения водителю грозит штраф в размере 0,5 минимального размера оплаты труда. Маршрутные транспортные средства, то есть автобусы, троллейбусы, трамваи и маршрутные такси, имеют право не следовать указателю.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.2. \"Ўнгга ҳаракатланиш\"</strong></li></ul><p>Ушбу белги чорраҳадан олдин ўрнатилади ва транспорт воситаларига фақат **ўнгга бурилиш**ни буюради. Яъни, бу ерда тўғрига юриш, чапга бурилиш ёки орқага қайрилиш тақиқланади.</p><p>Ушбу белгининг талабларига риоя қилмаслик йўл ҳаракати қоидаларини бузишга ва авария ҳолатининг юзага келишига олиб келиши мумкин. Қоидани бузган ҳайдовчига энг кам ойлик иш ҳақининг 0,5 қисми миқдорида жарима солинади.</p><p>Йўналишли жамоат транспорт воситалари — автобус, троллейбус, трамвай ва маршруткалар бу белги кўрсатмасига амал қилмаслиги мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 2
+            },
+            {
+                "id": 93,
+                "name": {
+                    "uz": "4.1.3. “Harakatlanish chapga”.",
+                    "ru": "4.1.3. \"Движение влево.\"",
+                    "kiril": "4.1.3. “Ҳаракатланиш чапга”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.1.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-48-17_MS58EGHFSY.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.3. \"Harakatlanish chapga\"</strong></li></ul><p>Ushbu belgi chorraha oldida o‘rnatiladi va transport vositalarining birinchi kesishmada faqat chap tomonga harakatlanishini buyuradi. Chapga burilishni ko‘rsatuvchi belgi orqaga qayrilishga ruxsat beradi, lekin o‘ngga yoki to‘g‘riga harakatlanish qat’iyan taqiqlanadi. Yo‘nalishli transport vositalariga, ya’ni avtobus, trolleybus, tramvay va marshrut taksilariga belgi ta’sir qilmaydi. &nbsp;</p><p>Yo‘l belgilari talablarini buzgan haydovchi 0,5 bazaviy hisoblash miqdori (BHM) miqdorida ma’muriy javobgarlikka tortiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.3.&nbsp;\"Движение&nbsp;налево\"</strong></li></ul><p>Этот знак устанавливается перед перекрестком и предписывает транспортным средствам двигаться только налево на первом пересечении. Знак, предписывающий поворот налево, разрешает разворот, но движение направо или прямо категорически запрещено. Маршрутным &nbsp;транспортным средствам, то есть автобусам, троллейбусам, трамваям и маршрутным такси, действие знака не распространяется. &nbsp;</p><p>Водитель, нарушивший правило дорожного знака, привлекается к административной ответственности в размере 0,5 базовая расчётная величина (БРВ).</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.3. \"Ҳаракатланиш чапга\"</strong></li></ul><p>Ушбу белги чорраҳа олдида ўрнатилади ва транспорт воситаларининг биринчи кесишмада фақат чап томонга ҳаракатланишини буюради. Чапга бурилишни кўрсатувчи белги орқага қайрилишга рухсат беради, лекин ўнгга ёки тўғрига ҳаракатланиш қатъиян тақиқланади. Йўналишли транспорт воситаларига, яъни автобус, троллейбус, трамвай ва маршрут таксиларига белги таъсир қилмайди. &nbsp;</p><p>Йўл белгилари талабларини бузган ҳайдовчи 0,5 базавий ҳисоблаш миқдори (БҲМ) миқдорида маъмурий жавобгарликка тортилади.</p>"
+                        }
+                    ]
+                },
+                "order": 3
+            },
+            {
+                "id": 94,
+                "name": {
+                    "uz": "4.1.4. “Harakatlanish to‘g‘riga yoki o‘ngga”.",
+                    "ru": "4.1.4. «Двигайтесь вправо или влево».",
+                    "kiril": "4.1.4. “Ҳаракатланиш тўғрига ёки ўнгга”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.1.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-48-45_34XTJVU7V6.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.4. \"Harakatlanish to‘g‘riga yoki o‘ngga\"</strong></li></ul><p>Ushbu belgi chorraha oldida o‘rnatiladi va transport vositalarining birinchi kesishmada faqat to‘g‘riga yoki o‘ng tomonga harakatlanishini buyuradi. Chapga burilish yoki orqaga qayrilish taqiqlanadi. Ushbu belgi talablariga rioya qilinmasligi yo‘l harakati qoidalarining buzilishiga va yo‘l-transport hodisasi yuzaga kelishiga sabab bo‘lishi mumkin. Yo‘nalishli transport vositalarga, ya’ni avtobus, trolleybus, tramvay va marshrut taksilariga ushbu belgi ta’sir qilmaydi. Yo‘l belgisi talablarini buzgan haydovchi 0,5 bazaviy hisoblash miqdori (BHM) miqdorida ma’muriy javobgarlikka tortiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>4.1.4.&nbsp;\"Движение&nbsp;прямо&nbsp;или&nbsp;направо\"</p><p>&nbsp;</p><p>Этот знак устанавливается перед перекрестком и предписывает транспортным средствам двигаться только прямо или направо на первом пересечении. Поворот налево или разворот запрещается. Несоблюдение порядка этого знака может привести к нарушению правил дорожного движения и возникновению аварийной ситуации. &nbsp;Маршрутным &nbsp;транспортным средствам, то есть автобусам, троллейбусам, трамваям и маршрутным такси, действие знака не распространяется. Водитель, нарушивший правило дорожного знака, привлекается к административной ответственности в размере 0,5 базовая расчётная величина (БРВ).</p><p>&nbsp;</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.4. \"Ҳаракатланиш тўғрига ёки ўнгга\"</strong></li></ul><p>Ушбу белги чорраҳа олдида ўрнатилади ва транспорт воситаларининг биринчи кесишмада фақат тўғрига ёки ўнг томонга ҳаракатланишини буюради. Чапга бурилиш ёки орқага қайрилиш тақиқланади. Ушбу белги талабларига риоя қилинмаслиги йўл ҳаракати қоидаларининг бузилишига ва йўл-транспорт ҳодисаси юзага келишига сабаб бўлиши мумкин. Йўналишли транспорт воситаларга, яъни автобус, троллейбус, трамвай ва маршрут таксиларига ушбу белги таъсир қилмайди. Йўл белгиси талабларини бузган ҳайдовчи 0,5 базавий ҳисоблаш миқдори (БҲМ) миқдорида маъмурий жавобгарликка тортилади.</p>"
+                        }
+                    ]
+                },
+                "order": 4
+            },
+            {
+                "id": 95,
+                "name": {
+                    "uz": "4.1.5. “Harakatlanish to‘g‘riga yoki chapga”.",
+                    "ru": "4.1.5. «Двигайся вправо или влево».",
+                    "kiril": "4.1.5. “Ҳаракатланиш тўғрига ёки чапга”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.1.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-49-00_AXD64CZTAW.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.5. \"Harakatlanish to‘g‘riga yoki chapga\"</strong></li></ul><p>Ushbu belgi chorraha oldida o‘rnatiladi va transport vositalarining birinchi kesishmada faqat to‘g‘riga yoki chap tomonga harakatlanishini buyuradi. Belgi o‘ngga burilishni qat’iyan taqiqlaydi, biroq chorrahada orqaga qayrilishga ruxsat beradi. Ammo bu yo‘l belgisi yo‘nalishli transport vositalarga taalluqli emas. Yo‘l belgisi qoidasini buzgan haydovchi 0,5 bazaviy hisoblash miqdori (BHM) miqdorida ma’muriy javobgarlikka tortiladi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.5.&nbsp;\"Движение&nbsp;прямо&nbsp;или&nbsp;налево\"</strong></li></ul><p>Этот знак устанавливается перед перекрестком и предписывает транспортным средствам двигаться только прямо или налево на первом пересечении. Знак строго запрещает поворачивать направо, позволяя повернуть назад на перекрестке. Однако этот дорожный знак не действует на маршрутные транспортные средства. Водитель, нарушивший правила дорожного знака, будет привлечен к административной ответственности в размере 0,5 базовая расчётная величина (БРВ).</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.5. \"Ҳаракатланиш тўғрига ёки чапга\"</strong></li></ul><p>Ушбу белги чорраҳа олдида ўрнатилади ва транспорт воситаларининг биринчи кесишмада фақат тўғрига ёки чап томонга ҳаракатланишини буюради. Белги ўнгга бурилишни қатъиян тақиқлайди, бироқ чорраҳада орқага қайрилишга рухсат беради. Аммо бу йўл белгиси йўналишли транспорт воситаларга тааллуқли эмас. Йўл белгиси қоидасини бузган ҳайдовчи 0,5 базавий ҳисоблаш миқдори (БҲМ) миқдорида маъмурий жавобгарликка тортилади</p>"
+                        }
+                    ]
+                },
+                "order": 5
+            },
+            {
+                "id": 96,
+                "name": {
+                    "uz": "4.1.6. “Harakatlanish o‘ngga yoki chapga”.",
+                    "ru": "4.1.6. «Двигайся влево или вправо».",
+                    "kiril": "4.1.6. “Ҳаракатланиш ўнгга ёки чапга”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.1.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-49-31_HP5PB7YBE1.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.6. «Harakatlanish o‘ngga yoki chapga»</strong></li></ul><p>4.1.6 belgisi haydvchilardan faqat belgida ko‘rsatilgan yo‘nalishda, ya’ni o‘ng va chapga&nbsp;harakatlanishni talab qiladi. Bunday hollarda o‘ngga burilish qatnov qismining iloji boricha eng chetki o‘ng holatidan amalga oshirilishi kerak, chapga burilish esa qatnov qismining iloji boricha eng chetki chap holatidan amalga oshirilishi kerak. Shuningdek, chapga burilishga ruxsat etuvchi ushbu belgi qayrilishga ham ruhsat etadi. 4.1.6. «Harakatlanish o‘ngga yoki chapga» belgisi qatnov qismlarining qaysi kesishmasidan oldin o‘rnatilsa, belgining ta’siri shu kesishmaga joriy qilinadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.6. «Ҳаракатланиш ўнгга ёки чапга»</strong></li></ul><p><strong>4.1.6</strong> белгиси ҳайдвчилардан фақат белгида кўрсатилган йўналишда, яъни ўнг ва чапга&nbsp;ҳаракатланишни талаб қилади. Бундай ҳолларда ўнгга бурилиш қатнов қисмининг иложи борича энг четки ўнг ҳолатидан амалга оширилиши керак, чапга бурилиш эса қатнов қисмининг иложи борича энг четки чап ҳолатидан амалга оширилиши керак. Шунингдек, чапга бурилишга рухсат этувчи ушбу белги қайрилишга ҳам руҳсат этади. <strong>4.1.6. «Ҳаракатланиш ўнгга ёки чапга»</strong> белгиси қатнов қисмларининг қайси кесишмасидан олдин ўрнатилса, белгининг таъсири шу кесишмага жорий қилинади.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.1.6. «Ҳаракатланиш ўнгга ёки чапга»</strong></li></ul><p>4.1.6 белгиси ҳайдвчилардан фақат белгида кўрсатилган йўналишда, яъни ўнг ва чапга&nbsp;ҳаракатланишни талаб қилади. Бундай ҳолларда ўнгга бурилиш қатнов қисмининг иложи борича енг четки ўнг ҳолатидан амалга оширилиши керак, чапга бурилиш еса қатнов қисмининг иложи борича енг четки чап ҳолатидан амалга оширилиши керак. Шунингдек, чапга бурилишга рухсат етувчи ушбу белги қайрилишга ҳам руҳсат етади. 4.1.6. «Ҳаракатланиш ўнгга ёки чапга» белгиси қатнов қисмларининг қайси кесишмасидан олдин ўрнатилса, белгининг таъсири шу кесишмага жорий қилинади.</p>"
+                        }
+                    ]
+                },
+                "order": 6
+            },
+            {
+                "id": 97,
+                "name": {
+                    "uz": "4.2.1. “To‘siqni o‘ngdan chetlab o‘tish”.",
+                    "ru": "4.2.1. «Переход через шлагбаум справа».",
+                    "kiril": "4.2.1. “Тўсиқни ўнгдан четлаб ўтиш”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.2.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-51-21_7UZMBT27HD.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.2.1. “To‘siqni o‘ngdan aylanib o‘tish”</strong></li></ul><p>&nbsp;Belgisi bevosita xavfsizlik orolchalarini yoki turli xildagi to‘siqlardan oldin &nbsp;o‘rnatiladi. Xavfsizlik orolchalarini va turli xildagi to‘siqlarni faqat ko‘rsatkich(yo‘naltirgich) ko‘rsatgan tomondan aylanib o‘tishga ruxsat etiladi.Ushbu belgi talablariga amal qilmagan haydovchi, belgi talabiga zid ravishda xavfsizlik orolchasini yoki turli xildagi to‘siqni o‘ng tomondan emas chap tomondan aylanib o‘tayotganda yo‘l-transport hodisasini keltirib chiqarishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.2.1. «Объезд препятствия справа»&nbsp;</strong></li></ul><p>Устанавливается непосредственно перед островками безопасности или препятствиями различного рода. Объезжать островки безопасности и различного рода препятствия разрешается только со стороны, указанной стрелкой. Водитель, не соблюдающий требования данного знака, может стать виновником дорожно-транспортного происшествия на перекрестке, разворот на котором создаст угрозу движению других транспортных средств.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.2.1. “Тўсиқни ўнгдан айланиб ўтиш” &nbsp;&nbsp;</strong></li></ul><p>Белгиси бевосита хавфсизлик оролчаларини ёки турли хилдаги тўсиқлардан олдин&nbsp; ўрнатилади. Хавфсизлик оролчаларини ва турли хилдаги тўсиқларни фақат кўрсаткич(йўналтиргич) кўрсатган томондан айланиб ўтишга рухсат этилади.Ушбу белги талабларига амал қилмаган ҳайдовчи, белги талабига зид равишда хавфсизлик оролчасини ёки турли хилдаги тўсиқни ўнг томондан эмас чап томондан айланиб ўтаётганда йўл-транспорт ҳодисасини келтириб чиқариши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 7
+            },
+            {
+                "id": 98,
+                "name": {
+                    "uz": "4.2.2. “To‘siqni chapdan chetlab o‘tish”. To‘siqni ko‘rsatilgan yo‘nalish bo‘yicha chetlab o‘tishga ruxsat etiladi.",
+                    "ru": "4.2.2. «Переход через барьер слева». Допускается объезд препятствия в указанном направлении.",
+                    "kiril": "4.2.2. “Тўсиқни чапдан четлаб ўтиш”. Тўсиқни кўрсатилган йўналиш бўйича четлаб ўтишга рухсат этилади.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.2.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-51-34_DJS5ETNBQP.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.2.2. \"To'siqni chapdan chetlab o'tish\"</strong></li></ul><p>Transport vositasining harakatlanayotgan yo'lida ushbu belgi bo'lsa, haydovchi to'siqni chap tomondan chetlab o'tishi kerak. To'siqni o'ngdan chetlab o'tish taqiqlanadi.&nbsp;</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.2.2 \"Объезд препятствия слева\"&nbsp;</strong></li></ul><p>При наличии данного знака на дороге, по которой двигается транспортное средство, водитель должен обойти препятствие с левой стороны. Обход препятствия справа запрещен.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.2.2. \"Тўсиқни чапдан четлаб ўтиш\"</strong></li></ul><p>Транспорт воситасининг ҳаракатланаётган йўлида ушбу белги бўлса, ҳайдовчи тўсиқни чап томондан четлаб ўтиши керак. Тўсиқни ўнгдан четлаб ўтиш тақиқланади.&nbsp;</p>"
+                        }
+                    ]
+                },
+                "order": 8
+            },
+            {
+                "id": 99,
+                "name": {
+                    "uz": "4.2.3. “To‘siqni o‘ngdan yoki chapdan chetlab o‘tish”. To‘siqni har tomondan chetlab o‘tishga ruxsat etiladi.",
+                    "ru": "4.2.3. «Пересеките барьер направо или налево». Разрешается обход шлагбаума со всех сторон.",
+                    "kiril": "4.2.3. “Тўсиқни ўнгдан ёки чапдан четлаб ўтиш”. Тўсиқни ҳар томондан четлаб ўтишга рухсат этилади.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.2.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-52-45_3XTND9Q6E6.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.2.3. «To‘siqni o‘ngdan yoki chapdan chetlab o‘tish»</strong></li></ul><p><strong>4.2.1</strong> va <strong>4.2.2 </strong>belgilaridan farqli ravishda <strong>4.2.3. «To‘siqni o‘ngdan yoki chapdan chetlab o‘tish»</strong> belgisi, to‘siqni chetlab o‘tishning qat’iy yo‘nalishini ko‘rsatmasdan uni o‘ng yoki chapdan chetlab o‘tishga ruxsat beradi va bunda to‘siqni qaysi yo‘nalishdan chetlab o‘tish haydavchi xoxishiga bog‘liq.<br>Ko‘pincha ushbu belgi yo‘ldagi ta’mirlash ishlari qatnov qismi o‘rtasida amalga oshirilayotgan holatlarda ishlatiladi. Shuningdek belgi, temir-beton va temir to‘siqlarni, ko‘priklar va yo‘l o‘tkazgichlar ustunlarini chetlab o‘tish yo‘nalishini ko‘rsatish maqsadida o‘rnatilishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.2.3 «Объезд препятствия справа или слева»</strong></li></ul><p>В отличие от знаков <strong>4.2.1</strong> и <strong>4.2.2</strong>, знак <strong>4.2.3. «Объезд препятствия справа или слева»</strong> позволяет объезжать ограждение справа или слева без указания фиксированного направления объезда, и при этом, это зависит от того, в каком направлении водитель объезжает ограждение.</p><p>Знак часто используется в тех случаях, когда проводятся ремонтные работы на дороге между проезжей частью. Знак также может быть установлен с целью указания направления, в котором следует обходить железобетонные и железные ограждения, мосты и опоры дорожного полотна.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.2.3. «Тўсиқни ўнгдан ёки чапдан четлаб ўтиш»</strong></li></ul><p><strong>4.2.1</strong> ва <strong>4.2.2</strong> белгиларидан фарқли равишда <strong>4.2.3.</strong> <strong>«Тўсиқни ўнгдан ёки чапдан четлаб ўтиш»</strong> белгиси, тўсиқни четлаб ўтишнинг қатъий йўналишини кўрсатмасдан уни ўнг ёки чапдан четлаб ўтишга рухсат беради ва бунда тўсиқни қайси йўналишдан четлаб ўтиш ҳайдавчи хохишига боғлиқ.<br>Кўпинча ушбу белги йўлдаги таъмирлаш ишлари қатнов қисми ўртасида амалга оширилаётган ҳолатларда ишлатилади. Шунингдек белги, темир-бетон ва темир тўсиқларни, кўприклар ва йўл ўтказгичлар устунларини четлаб ўтиш йўналишини кўрсатиш мақсадида ўрнатилиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 9
+            },
+            {
+                "id": 100,
+                "name": {
+                    "uz": "4.3. “Aylanma harakatlanish”. Yo‘naltirgichlarda ko‘rsatilgan yo‘nalishlarda harakatlanishga ruxsat etiladi.",
+                    "ru": "4.3. \"Круговое движение\". Вам разрешено двигаться в направлениях, указанных на маршрутизаторах.",
+                    "kiril": "4.3. “Айланма ҳаракатланиш”. Йўналтиргичларда кўрсатилган йўналишларда ҳаракатланишга рухсат этилади.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-52-59_W43YXFW8EQ.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.3. “Aylanma harakatlanish”</strong></li></ul><p>Yo‘l belgisi aylanma harakatli chorrahaga (maydonga) kirishda o‘rnatiladi. Bu belgi chorrahada transport vositalarining aylanma harakatini tashkil qilishda harakatni faqat yo‘naltirgichlarda ko‘rsatilgan yo‘nalishlarda harakatlanishga ruxsat etilishini bildiradi.</p><p>Bunda aylanma harakatlanish chorrahasida harakatlanayotgan transport vositalari aylanma harakatlanish chorrahasiga kirib kelayotgan transport vositalariga nisbatan ustunlikka (imtiyozga) ega hisoblanadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.3. Дорожный знак&nbsp;“Круговое движение”</strong></li></ul><p>Устанавливается при въезде на перекресток (площадь) с круговым движением. Этот знак указывает на то, что при организации кругового движения транспортных средств на перекрестке разрешено только по направлениям, указанным в указателях При этом транспортные средства, движущиеся на перекрестке с круговым движением, имеют преимущество (привилегию) чем&nbsp; транспортные средства, въезжающие на перекресток с круговым движением.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.3. “Айланма ҳаракатланиш”</strong></li></ul><p>Йўл белгиси айланма ҳаракатли чорраҳага (майдонга) киришда ўрнатилади. Бу белги чорраҳада транспорт воситаларининг айланма ҳаракатини ташкил қилишда ҳаракатни фақат йўналтиргичларда кўрсатилган йўналишларда ҳаракатланишга рухсат этилишини билдиради.</p><p>Бунда айланма ҳаракатланиш чорраҳасида ҳаракатланаётган транспорт воситалари айланма ҳаракатланиш чорраҳасига кириб келаётган транспорт воситаларига нисбатан устунликка (имтиёзга) эга ҳисобланади.</p>"
+                        }
+                    ]
+                },
+                "order": 10
+            },
+            {
+                "id": 101,
+                "name": {
+                    "uz": "4.4. “Engil avtomobillar harakatlanadi”. Engil transport vositalari, avtobus, mototsikllar, to‘la vazni 3,5 tonnadan oshmaydigan yuk tashuvchi transport vositlarining harakatlanishiga ruxsat etiladi.",
+                    "ru": "4.4. «Машины едут». Допускаются легковые автомобили, автобусы, мотоциклы и грузовики полной массой не более 3,5 тонн.",
+                    "kiril": "4.4. “Енгил автомобиллар ҳаракатланади”. Энгил транспорт воситалари, автобус, мотоцикллар, тўла вазни 3,5 тоннадан ошмайдиган юк ташувчи транспорт воситларининг ҳаракатланишига рухсат этилади.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-55-02_J1WR9TD7QM.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.4. \"Yengil avtomobillar harakatlanishi\"</strong></li></ul><p>Bu belgi ta'sir doirasida yengil avtomobillar, avtobuslar, motosikllar va to'la vazni <strong>3,5 tonnagacha</strong> bo'lgan yuk avtomobillarning harakatlanishiga ruxsat etiladi. Belgi aholi zich, harakat tig'iz bo'lgan madaniy – maishiy markazlarda, ortiqcha transport vositalarining harakatini cheklash maqsadida o'rnatiladi.</p><p>Yo'l belgisi qoidasini buzgan haydovchi eng kam oylik ish haqining 0,5 baravari miqdorida ma'muriy javobgarlikka tortiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.4. \"Движение легковых автомобилей\"</strong></li></ul><p>Знак разрешает движение легковых автомобилей, автобусов, мотоциклов и грузовых автомобилей, разрешенная максимальная &nbsp;масса которых <strong>не превышает 3,5 т. </strong>Знак устанавливается в культурно-бытовых центрах с высокой плотностью населения и интенсивным движением, с целью ограничения движения избыточного количества транспортных средств.</p><p>Водитель, нарушивший правило дорожного знака, привлекается к административной&nbsp;ответственности в размере 0,5 минимального размера оплаты труда.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.4. \"Енгил автомобиллар ҳаракатланиши\"</strong></li></ul><p>Бу белги таъсир доирасида енгил автомобиллар, автобуслар, мотоцикллар ва тўла вазни <strong>3,5 тоннагача</strong> бўлган юк автомобилларнинг ҳаракатланишига рухсат этилади. Белги аҳоли зич, ҳаракат тиғиз бўлган маданий – маиший марказларда, ортиқча транспорт воситаларининг ҳаракатини чеклаш мақсадида ўрнатилади.</p><p>Йўл белгиси қоидасини бузган ҳайдовчи энг кам ойлик иш ҳақининг 0,5 баравари миқдорида маъмурий жавобгарликка тортилади.</p>"
+                        }
+                    ]
+                },
+                "order": 11
+            },
+            {
+                "id": 102,
+                "name": {
+                    "uz": "4.5. “Velosiped yo‘lkasi”. Faqat velosiped va mopedlarlar harakatlanishga ruxsat etiladi. Velosiped yo‘lkasidan piyodalar ham yurishlari mumkin.",
+                    "ru": "4.5. Велосипедная дорожка. Движение разрешено только велосипедам и мопедам. Пешеходы также могут ходить по велосипедной дорожке.",
+                    "kiril": "4.5. “Велосипед йўлкаси”. Фақат велосипед ва мопедларлар ҳаракатланишга рухсат этилади. Велосипед йўлкасидан пиёдалар ҳам юришлари мумкин.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-55-18_8HAFY2H1RT.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.5. \"Velosiped yo'lkasi\"</strong></li></ul><p>Belgi o'rnatilgan yo'lda yoki yo'lakda faqat velosiped va mopedlar harakatlanishiga ruxsat etiladi. Bu belgi velosiped va mopedlar harakatlanishidan tashqari, trotuar bo'lmagan taqdirda, xalaqit bermaslik sharti bilan piyodalarning harakatlanishiga ham ruxsat etadi. Biroq bunday yo'llarda boshqa transport vositalarining harakati taqiqlanadi.</p><p>Ushbu yo'l belgisi qoidasini buzgan haydovchi eng kam oylik ish haqining 0,5 baravari miqdorida ma'muriy javobgarlikka tortiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.5. \"Велосипедная&nbsp;дорожка\"</strong></li></ul><p>На обозначенной дороге или тротуаре разрешено движение только велосипедам и мопедам. Помимо движения велосипедов и мопедов, этот знак разрешает также движение пешеходов при условии отсутствия тротуара. Однако движение других транспортных средств по таким дорогам запрещено.</p><p>Водитель, нарушивший правило данного дорожного знака, привлекается к административной ответственности в размере 0,5 минимального размера оплаты труда</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.5. \"Велосипед йўлкаси\"</strong></li></ul><p>Белги ўрнатилган йўлда ёки йўлакда фақат велосипед ва мопедлар ҳаракатланишига рухсат этилади. Бу белги велосипед ва мопедлар ҳаракатланишидан ташқари, тротуар бўлмаган тақдирда, халақит бермаслик шарти билан пиёдаларнинг ҳаракатланишига ҳам рухсат этади. Бироқ бундай йўлларда бошқа транспорт воситаларининг ҳаракати тақиқланади.</p><p>Ушбу йўл белгиси қоидасини бузган ҳайдовчи энг кам ойлик иш ҳақининг 0,5 баравари миқдорида маъмурий жавобгарликка тортилади.</p>"
+                        }
+                    ]
+                },
+                "order": 12
+            },
+            {
+                "id": 103,
+                "name": {
+                    "uz": "4.6 Piyodalar yo’lkasi",
+                    "ru": "4.6 Пешеходный тротуар",
+                    "kiril": "4.6 Пиёдалар йўлкаси",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-55-25_SPFDSQPP2S.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.6. \"Piyodalar yo'lkasi\"</strong></li></ul><p>Bu belgi o'rnatilgan yo'lda, faqat piyodalarning yurishiga ruxsat etiladi. Belgi yo'l, maydon, saylgoh, yo'lka va alohida ko'chada, butun yo'l kengligi bo'yicha harakatlanish faqat piyodalarga ruxsat etilganligini bildiradi.Transport vositalarining piyodalar uchun mo'ljallangan yo'ldan yurishi taqiqlanadi.</p><p>Yo'l belgisi qoidasini buzgan haydovchi eng kam oylik ish haqining 0,5 baravari miqdorida ma'muriy javobgarlikka tortiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.6.&nbsp;\"Пешеходная&nbsp;дорожка\"</strong></li></ul><p>На дороге, где установлен этот знак, разрешается движение только пешеходам. Знак указывает, что движение по дороге, площадке, проезжей части, и отдельной улице, по всей ширине проезжей части разрешено только пешеходам.Движение транспортных средств по дороге, предназначенной для пешеходов, запрещено.</p><p>Водитель, нарушивший правило дорожного знака, привлекается к административной ответственности в размере 0,5 минимального размера оплаты труда.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.6. \"Пиёдалар йўлкаси\"</strong></li></ul><p>Бу белги ўрнатилган йўлда, фақат пиёдаларнинг юришига рухсат этилади. Белги йўл, майдон, сайлгоҳ, йўлка ва алоҳида кўчада, бутун йўл кенглиги бўйича ҳаракатланиш фақат пиёдаларга рухсат этилганлигини билдиради.Транспорт воситаларининг пиёдалар учун мўлжалланган йўлдан юриши тақиқланади.</p><p>Йўл белгиси қоидасини бузган ҳайдовчи энг кам ойлик иш ҳақининг 0,5 баравари миқдорида маъмурий жавобгарликка тортилади.</p>"
+                        }
+                    ]
+                },
+                "order": 13
+            },
+            {
+                "id": 104,
+                "name": {
+                    "uz": "4.6.1 Piyoda va velosipedlar birgalikda harakatlanish yo'li",
+                    "ru": "4.6.1 Совместное движение пешеходов и велосипедистов",
+                    "kiril": "4.6.1 Пиёда ва велосипедлар биргаликда ҳаракатланиш йўли",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.6.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-55-36_XVCYZADR6Z.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "4.6.1 Piyoda va velosipedlar birgalikda harakatlanish yo'li"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "4.6.1 Совместное движение пешеходов и велосипедистов"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "4.6.1 Пиёда ва велосипедлар биргаликда ҳаракатланиш йўли"
+                        }
+                    ]
+                },
+                "order": 14
+            },
+            {
+                "id": 105,
+                "name": {
+                    "uz": "4.6.2 Piyoda va velosipedlar birgalikda harakatlanish yo'li oxiri",
+                    "ru": "4.6.2 Конец дороги, по которой пешеходы и велосипеды движутся вместе.",
+                    "kiril": "4.6.2 Пиёда ва велосипедлар биргаликда ҳаракатланиш йўли охири",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.6.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-55-49_VV62VFPRWC.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "4.6.2 Piyoda va velosipedlar birgalikda harakatlanish yo'li oxiri"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "4.6.2 Конец дороги, по которой пешеходы и велосипеды движутся вместе."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "4.6.2 Пиёда ва велосипедлар биргаликда ҳаракатланиш йўли охири"
+                        }
+                    ]
+                },
+                "order": 15
+            },
+            {
+                "id": 106,
+                "name": {
+                    "uz": "4.6.3 Ajratilgan piyoda va velosiped harakatlanish yo'li",
+                    "ru": "4.6.3 Отдельные пешеходные и велосипедные полосы",
+                    "kiril": "4.6.3 Ажратилган пиёда ва велосипед ҳаракатланиш йўли",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.6.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-56-01_73CPQCYP9W.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.6.3 «Piyodalar va velosipedchilarning harakati alohida tashkil etilgan yo‘lak»</strong></li></ul><p>belgisi dumaloq shaklga ega va oq hoshiyali ko‘k fonga ega bo‘lib, unda velosiped va piyodaning ramzi oq rangda tasvirlangan bo‘lib, bo‘ylama chiziq bilan ajratilgan. Belgi yo‘ldan bir vaqtning o‘zida ham piyodalar, ham velosipedchilar tomonidan foydalanishi mumkinligini ko‘rsatadi. Ammo 4.6.1 belgisidan farqli o‘laroq, piyodalar va velosipedchilar uchun ikkita alohida yo‘lak ajratilgan bo‘lib, ular 1.1, 1.25 va 1.26 yotiq chiziqlari yoki qoplama turi bilan bir-biridan ajratilgan. Ushbu belgining ta’sir oralig‘i uning o‘rnatilgan joyidan 4.6.4 belgisigacha yoki eng yaqin chorrahagacha davom etadi. Agar piyodalar yo‘lkasi uzoqroqqa cho‘zilgan bo‘lsa, u holda «Piyodalar va velosipedchilarning harakati alohida tashkil etilgan yo‘lak» belgisini qayta o‘rnatish kerak.</p><p>Ushbu belgi ta’sir oralig‘ida transport vositalari harakatlana olmaydi yoki turolmaydi. Ammo bu qoidadan istisnolar mavjud. Piyodalar yo‘lkasida joylashgan obyektlarga turli xil tovarlarni yetkazib beradigan transport vositalari, masalan, oziq-ovqat do‘koniga tovarlarni yetkazib beradigan transport vositalari ushbu belgi ta’sir oralig‘iga kirishlari mumkin. Bundan tashqari, velosiped va piyodalar yo‘lkasi hududiga kirishga komunal xizmat yoki yo‘l xizmatlarining transport vositalariga, agar ular o‘z vazifalarini bajaradigan joy ushbu hududda joylashgan bo‘lsa ruxsat etiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>Знак 4.6.3 «Пешеходная и велосипедная дорожка с разделением движения»</strong></li></ul><p>имеет круглую форму и синий фон с белой окантовкой,&nbsp; на котором&nbsp; белым цветом изображены символ велосипеда и пешехода, разделённые белой вертикальной линией.</p><p>Знак указывает на то, что данную дорожку для движения могут одновременно использовать и пешеходы, и велосипедисты.&nbsp;Но в отличие от знака 4.6.1 для пешеходов и велосипедистов выделены две отдельные полосы, которые отделяются друг от друга при помощи горизонтальной дорожной разметки 1.1, 1.25 и 1.26 или типом дорожного покрытия.&nbsp;</p><p>Зона действия данного знака распространяется с места его установки до знака 4.6.4 или же до ближайшего пересечения дорог. Если же пешеходная зона распространяется и дальше, то знак <strong>«Пешеходная и велосипедная дорожка с разделением&nbsp; движения»</strong> должна&nbsp; быть установлена повторно.</p><p>В зоне, действие данного знака, не могут двигаться или пребывать транспортные средства. Но в этом правиле имеются исключения.&nbsp; В зоне, действие данного знака, могут заезжать автомобили, подвозящие различные грузы к тем объектам, которые расположены в зоне пешеходной дорожки, к примеру, машины, подвозящие товары в продовольственный магазин. Кроме того, въезд в велопешеходные зоны разрешён автомобилям коммунальных или дорожно-эксплуатационных служб, если место выполнения их задачи находится именно в этой зоне.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.6.3 «Пиёдалар ва велосипедчиларнинг ҳаракати алоҳида ташкил этилган йўлак»</strong></li></ul><p>белгиси думалоқ шаклга эга ва оқ ҳошияли кўк фонга эга бўлиб, унда велосипед ва пиёданинг рамзи оқ рангда тасвирланган бўлиб, бўйлама чизиқ билан ажратилган. Белги йўлдан бир вақтнинг ўзида ҳам пиёдалар, ҳам велосипедчилар томонидан фойдаланиши мумкинлигини кўрсатади. Аммо 4.6.1 белгисидан фарқли ўлароқ, пиёдалар ва велосипедчилар учун иккита алоҳида йўлак ажратилган бўлиб, улар 1.1, 1.25 ва 1.26 ётиқ чизиқлари ёки қоплама тури билан бир-биридан ажратилган.</p><p>Ушбу белгининг таъсир оралиғи унинг ўрнатилган жойидан 4.6.4 белгисигача ёки энг яқин чорраҳагача давом этади. Агар пиёдалар йўлкаси узоқроққа чўзилган бўлса, у ҳолда <strong>«Пиёдалар ва велосипедчиларнинг ҳаракати алоҳида ташкил этилган йўлак»</strong> белгисини қайта ўрнатиш керак.</p><p>Ушбу белги таъсир оралиғида транспорт воситалари ҳаракатлана олмайди ёки туролмайди. Аммо бу қоидадан истиснолар мавжуд. Пиёдалар йўлкасида жойлашган объектларга турли хил товарларни етказиб берадиган транспорт воситалари, масалан, озиқ-овқат дўконига товарларни етказиб берадиган транспорт воситалари ушбу белги таъсир оралиғига киришлари мумкин. Бундан ташқари, велосипед ва пиёдалар йўлкаси ҳудудига киришга комунал хизмат ёки йўл хизматларининг транспорт воситаларига, агар улар ўз вазифаларини бажарадиган жой ушбу ҳудудда жойлашган бўлса рухсат этилади.</p>"
+                        }
+                    ]
+                },
+                "order": 16
+            },
+            {
+                "id": 107,
+                "name": {
+                    "uz": "4.6.4 Ajratilgan piyoda va velosiped harakatlanish yo'li oxiri",
+                    "ru": "4.6.4 Отдельный конец пешеходной и велосипедной полосы",
+                    "kiril": "4.6.4 Ажратилган пиёда ва велосипед ҳаракатланиш йўли охири",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.6.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-04-18_17-27-20_TA3DSC8XPP.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.6.4. «Piyodalar va velosipedchilarning harakati alohida tashkil etilgan yo‘lakning oxiri»&nbsp;</strong></li></ul><p>belgisi dumaloq shaklga ega va oq hoshiyali ko‘k fonga ega bo‘lib, unda velosiped va piyodaning ramzi oq rangda tasvirlangan bo‘lib, bo‘ylama chiziq bilan ajratilgan va diaganal bo‘yicha qizil chiziq tortilgan.</p><p>Buyuruvchi belgilar odatda harakat yo‘nalishidagi chorrahagacha yoki qatnov qismi kesishmasigacha ta’sir qiladi. Biroq, shunday vaziyatlar bo‘lishi mumkinki, belgining ta’sirini oldinroq tugatish kerak. Agar gap piyodalar va velosipedchilarning harakati alohida tashkil etilgan yo‘lak to‘g‘risida ketsa, unda ularning ta’sir oxiri 4.6.4 «Piyodalar va velosipedchilarning harakati alohida tashkil etilgan yo‘lakning oxiri» yo‘l belgisi bilan ko‘rsatilishi mumkin.</p><p><strong>4.6.4</strong> belgisi tegishli hududlarning oxirida piyodalar va velosipedchilarni boshqa harakat tartibi va xavflilik darajasi yuqori bo‘lgan boshqa hududga kirib borayotganligi haqida xabardor qilish uchun o‘rnatiladi. Velosipedchilar endi yo‘lda boshqa haydovchilar bilan bir yo‘nalishda harakat qilishlari kerak, shuning uchun ular e’tiborini oshirishlari va yo‘nalish va trayektoriyani ehtiyotkorlik bilan tanlashlari kerak.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>Знак 4.6.4 « Конец пешеходной и велосипедной дорожки с разделением движения»</strong></li></ul><p>имеет круглую форму и синий фон с белой окантовкой,&nbsp; на котором&nbsp; белым цветом изображены символ велосипеда и пешехода, разделённые белой вертикальной линией и перечёркнутые красной диагональной чертой.</p><p>Действие предписывающих знаков обычно распространяется до следующего по ходу движения перекрёстка или пересечения проезжих частей. Однако бывают случаи, когда указание знака нужно прервать несколько ранее.&nbsp; Если речь идёт о велопешеходных дорожках с раздельным движением велосипедистов и пешеходов, то их окончание может быть обозначено дорожным знакам <strong>4.6.4 «Конец пешеходной и велосипедной дорожки с разделением движения»</strong>.</p><p>Знак <strong>4.6.4</strong> устанавливается в месте окончания соответствующих зон для того, чтобы проинформировать пешеходов и велосипедистов о том, что они въезжают в другую зону с другим режимом движения и с более высоким уровнем опасности. Велосипедистам теперь придётся двигаться по дороге наравне и рядом с другими водителями, следовательно, нужно повысить внимательность и более тщательно выбирать маршрут и траекторию движения.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.6.4. «Пиёдалар ва велосипедчиларнинг ҳаракати алоҳида ташкил этилган йўлакнинг охири»</strong></li></ul><p>белгиси думалоқ шаклга эга ва оқ ҳошияли кўк фонга эга бўлиб, унда велосипед ва пиёданинг рамзи оқ рангда тасвирланган бўлиб, бўйлама чизиқ билан ажратилган ва диаганал бўйича қизил чизиқ тортилган.</p><p>Буюрувчи белгилар одатда ҳаракат йўналишидаги чорраҳагача ёки қатнов қисми кесишмасигача таъсир қилади. Бироқ, шундай вазиятлар бўлиши мумкинки, белгининг таъсирини олдинроқ тугатиш керак. Агар гап пиёдалар ва велосипедчиларнинг ҳаракати алоҳида ташкил этилган йўлак тўғрисида кетса, унда уларнинг таъсир охири <strong>4.6.4 «Пиёдалар ва велосипедчиларнинг ҳаракати алоҳида ташкил этилган йўлакнинг охири»</strong> йўл белгиси билан кўрсатилиши мумкин.</p><p>4.6.4 белгиси тегишли ҳудудларнинг охирида пиёдалар ва велосипедчиларни бошқа ҳаракат тартиби ва хавфлилик даражаси юқори бўлган бошқа ҳудудга кириб бораётганлиги ҳақида хабардор қилиш учун ўрнатилади. Велосипедчилар энди йўлда бошқа ҳайдовчилар билан бир йўналишда ҳаракат қилишлари керак, шунинг учун улар эътиборини оширишлари ва йўналиш ва траекторияни эҳтиёткорлик билан танлашлари керак.</p>"
+                        }
+                    ]
+                },
+                "order": 17
+            },
+            {
+                "id": 108,
+                "name": {
+                    "uz": "4.6.5 Ajratilgan piyoda va velosiped harakatlanish yo'li",
+                    "ru": "4.6.5 Отдельные пешеходные и велосипедные полосы",
+                    "kiril": "4.6.5 Ажратилган пиёда ва велосипед ҳаракатланиш йўли",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.6.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-56-33_4YMT7BDASE.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.6.5. “Piyodalar va velosipedchilarning harakati alohida tashkil etilgan yo‘lak”.&nbsp;</strong></li></ul><p>1.1, 1.25 va 1.26 yotiq yo‘l chizig‘i yordamida, konstruktiv tarzda yoxud boshqa usulda piyodalar va velosipedchilarning harakati ajratilgan piyodalar va velosipedchilar yo‘lagi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.6.5. \"Дорожка в котором движение пешеходов и велосипедистов организовано отдельно\"</strong></li></ul><p>Пешеходные и велосипедные дорожки, где движение пешеходов и велосипедистов конструктивно или иным образом разделено горизонтальными полосами 1.1, 1.25 и 1.26.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.6.5. “Пиёдалар ва велосипедчиларнинг ҳаракати алоҳида ташкил этилган йўлак”.</strong></li></ul><p>1.1, 1.25 ва 1.26 ётиқ йўл чизиғи ёрдамида, конструктив тарзда ёхуд бошқа усулда пиёдалар ва велосипедчиларнинг ҳаракати ажратилган пиёдалар ва велосипедчилар йўлаги.</p>"
+                        }
+                    ]
+                },
+                "order": 18
+            },
+            {
+                "id": 109,
+                "name": {
+                    "uz": "4.6.6 Ajratilgan piyoda va velosiped harakatlanish yo'li oxiri",
+                    "ru": "4.6.6 Отдельный конец пешеходной и велосипедной полосы",
+                    "kiril": "4.6.6 Ажратилган пиёда ва велосипед ҳаракатланиш йўли охири",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.6.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-56-48_4RHSC5CHBB.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "4.6.6 Ajratilgan piyoda va velosiped harakatlanish yo'li oxiri"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "4.6.6 Отдельный конец пешеходной и велосипедной полосы"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "4.6.6 Ажратилган пиёда ва велосипед ҳаракатланиш йўли охири"
+                        }
+                    ]
+                },
+                "order": 19
+            },
+            {
+                "id": 110,
+                "name": {
+                    "uz": "4.7. “Eng kam tezlik”. Faqat belgida ko‘rsatilgan yoki undan yuqori tezlikda (km/soat) harakatlanishga ruxsat etiladi.",
+                    "ru": "4.7. «Минимальная скорость». Разрешена только скорость, указанная в знаке или выше (км / ч).",
+                    "kiril": "4.7. “Енг кам тезлик”. Фақат белгида кўрсатилган ёки ундан юқори тезликда (км/соат) ҳаракатланишга рухсат этилади.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-57-16_B8BYWXZ26P.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.7. \"Eng kam tezlik\"</strong></li></ul><p><strong>4.7 «Eng kam tezlik»</strong> belgisi dumaloq shaklga va oq hoshiyali ko‘k fonga ega bo‘lib, belgi markazida oq rangli &nbsp;raqamlar joylashtirilgan.</p><p><strong>«Eng kam tezlik»</strong> belgisi yo‘lda yoki qatnov qismining alohida harakatlanish tasmasida, faqat belgida ko‘rsatilgan yoki undan yuqori tezlikda (km/s) harakatlanishga ruxsat etilgan holatlarda qo‘llaniladi.</p><p><strong>4.7 «Eng kam tezlik»</strong> belgisining ta’sir oralig‘i belgi o‘rnatilgan joydan boshlanib, keyingi chorrahagacha yoki aholi punkti oxirigacha davom etadi yoki 4.8 «Eng kam tezlik belgilangan yo‘lning oxiri» belgisi o‘rnatilgan joyda yakunlanadi.</p><p>4.7 belgisi ko‘pincha boshqa belgilar bilan birga, masalan, belgi aynan shu harakatlanish tasmasiga tegishliligini ko‘rsatuvchi &nbsp;7.14 «Harakatlanish tasmasi» yoki belgi aynan qaysi turdagi transport vositalariga tegishliligini ko‘rsatuvchi 7.4.1—<strong>7.4.10 &nbsp;«Transport vositasining turi»</strong> qo‘shimcha axborot belgilari bilan birga qo‘llanilishi mumkin. &nbsp; &nbsp;</p><p><strong>«Eng kam tezlik» </strong>belgisini butun yo‘l bo‘ylab yakka holda o‘rnatish faqat qo‘shimcha yo‘l mavjud bo‘lgan hollarda mumkin, chunki bu tartibda o‘rnatilgan belgi, sekin harakat qiluvchi transport vositalari (traktorlar, qishloq xo‘jaligi texnikalari, mopedlar, skuterlar va boshqa sekin harakat qiluvchi transport vositalari) harakatini cheklab qo‘yishi mumkin. &nbsp;</p><p><strong>4.7 «Eng kam tezlik»</strong> belgisi shuningdek, <strong>5.8.3 «Tasmaning boshlanishi»</strong> belgisida ko‘rsatilishi mumkin, bunday holatda belgi yo‘lning sekinlashish bo‘lagi yoki balandlikka ko‘tarilishdagi qo‘shimcha tasmaning boshlanish qismlarida, asosiy harakatlanish tasmasidagi belgilangan eng kam tezlikni ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.7 \"Минимальная скорость\"&nbsp;</strong></li></ul><p>Знак&nbsp;<strong>4.7 «Ограничение минимальной скорости»</strong> имеет круглую форму и синий фон с белой окантовкой, в центре знака расположены цифры белого цвета.&nbsp;</p><p>Знак <strong>«Ограничение минимальной скорости»</strong> применяется для указания, что на дороге или отдельной полосе проезжей части, движение разрешается только с указанной&nbsp; или большей скоростью (км/ч).</p><p>Зона действия знака <strong>4.7 «Ограничение минимальной скорости»</strong> начинается непосредственно с места установки знака и заканчивается либо на следующем пересечении дорог, либо до границы населённого пункта, либо до места установки знака <strong>4.8 «Конец зоны ограничения минимальной скорости»</strong>.</p><p>Знак <strong>4.7</strong> часто используется вместе с другими знаками, например, со знаками дополнительной информации <strong>7.14 «Полоса движения»</strong>, указывающей, что знак относится именно к данной полосе движения, или <strong>7.4.1—7.4.10 «Вид транспортного средства»</strong>, которые показывают, к какому именно виду транспортных средств относится знак.</p><p>Знак <strong>«Ограничение минимальной скорости»</strong> может быть установлен отдельно на всей дороге только в случаях, когда имеется дополнительная дорога, так как установленный таким образом знак может ограничивать движению тихоходных транспортных средств (тракторов, сельскохозяйственной техники, мопедов, скутеров и других тихоходных транспортных средств).</p><p>Знак &nbsp;<strong>4.7 «Ограничение минимальной скорости» </strong>также может быть указан на знаке &nbsp;<strong>5.8.3 «Начало полосы». </strong>В таком случае знак указывает минимальную скорость, установленную на основной полосе движения, на участках начала полосы замедления или дополнительной полосы для подъёма на возвышенность.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.7. \"Энг кам тезлик\"</strong></li></ul><p><strong>4.7 «Энг кам тезлик»</strong> белгиси думалоқ шаклга ва оқ ҳошияли кўк фонга эга бўлиб, белги марказида оқ рангли&nbsp; рақамлар жойлаштирилган.</p><p><strong>«Энг кам тезлик»&nbsp;</strong>белгиси йўлда ёки қатнов қисмининг алоҳида ҳаракатланиш тасмасида, фақат белгида кўрсатилган ёки ундан юқори тезликда (км/с) ҳаракатланишга рухсат этилган ҳолатларда қўлланилади.</p><p><strong>4.7 «Энг кам тезлик»</strong> белгисининг таъсир оралиғи белги ўрнатилган жойдан бошланиб, кейинги чорраҳагача ёки аҳоли пункти охиригача давом этади ёки <strong>4.8 «Энг кам тезлик белгиланган йўлнинг охири»</strong> белгиси ўрнатилган жойда якунланади.</p><p><strong>4.7</strong> белгиси кўпинча бошқа белгилар билан бирга, масалан, белги айнан шу ҳаракатланиш тасмасига тегишлилигини кўрсатувчи &nbsp;<strong>7.14 «Ҳаракатланиш тасмаси»&nbsp;</strong>ёки белги айнан қайси турдаги транспорт воситаларига тегишлилигини кўрсатувчи <strong>7.4.1—7.4.10 &nbsp;«Транспорт воситасининг тури»&nbsp;</strong>қўшимча ахборот белгилари билан бирга қўлланилиши мумкин.<strong>&nbsp;&nbsp;</strong></p><p><strong>«Энг кам тезлик»</strong> белгисини бутун йўл бўйлаб якка ҳолда ўрнатиш фақат қўшимча йўл мавжуд бўлган ҳолларда мумкин, чунки бу тартибда ўрнатилган белги, секин ҳаракат қилувчи транспорт воситалари (тракторлар, қишлоқ хўжалиги техникалари, мопедлар, скутерлар ва бошқа секин ҳаракат қилувчи транспорт воситалари) ҳаракатини чеклаб қўйиши мумкин.&nbsp;</p><p><strong>4.7 «Энг кам тезлик»&nbsp; </strong>белгиси шунингдек, <strong>5.8.3 «Тасманинг бошланиши»&nbsp; </strong>белгисида кўрсатилиши мумкин, бундай ҳолатда белги йўлнинг секинлашиш бўлаги ёки баландликка кўтарилишдаги қўшимча тасманинг бошланиш қисмларида, асосий ҳаракатланиш тасмасидаги белгиланган энг кам тезликни кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 20
+            },
+            {
+                "id": 111,
+                "name": {
+                    "uz": "4.8. “Eng kam tezlik belgilangan yo‘lning oxiri”.",
+                    "ru": "4.8. «Конец дороги с минимальной скоростью».",
+                    "kiril": "4.8. “Енг кам тезлик белгиланган йўлнинг охири”.",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.8",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-57-25_VVJQTFBZUY.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.8. \"Eng kam tezlik belgilangan yo'lning oxiri\"</strong></li></ul><p>Bu belgi <strong>4.7. raqamli \"Eng kam tezlik\" yo'l belgisining ta'sir oralig'ini bekor qiladi</strong>. Bu yo'lda harakatlanayotgan transport vositalari yo'l qoidalariga amal qilgan holda, istagan tezliklarida harakatlanishlari mumkin.Haydovchilarning buyuruvchi belgilar talabiga amal qilishlariTransport vositasi haydovchilari taqiqlovchi belgilar kabi barcha buyuruvchi belgilarning talablariga amal qilishlari shart. Chunki ushbu buyuruvchi belgilar yo'l harakati qatnashchilariga qaysi yo'nalishda harakat qilishlari kerakligini buyurib, ularning harakatini aniq tartibga soladi. Masalan, \"Harakatlanish to'g'riga\", \"Harakatlanish o'ngga\", \"Harakatlanish chapga\", \"To'siqni o'ngdan chetlab o'tish\", \"To'siqni chapdan chetlab o'tish\", \"To'siqni o'ngdan yoki chapdan chetlab o'tish\" kabi yo'l belgilariga, umuman, buyuruvchi belgilarga amal qilmaslik yo'l – transport hodisalarining kelib chiqishiga sababchi bo'ladi.</p><ul><li><strong>Istisno holatlari</strong></li></ul><p>Ushbu 4.1.1. \"Harakatlanish to'g'riga\", 4.1.2. \"Harakatlanish o'ngga\", 4.1.3. \"Harakatlanish chapga\", 4.1.4. \"Harakatlanish to'g'riga yoki o'ngga\", 4.1.5. \"Harakatlanish to'g'riga yoki chapga\", 4.1.6. \"Harakatlanish o'ngga yoki chapga\" yo'l belgilarining belgilangan yo'nalishli transport vositalariga, ya'ni avtobus, trolleybus, tramvay va yo'nalishli taksilarga ta'siri yo'q. Chapga burilishni buyuruvchi belgi orqaga qayrilib olishga ham ruxsat beradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.8. \"Конец&nbsp;зоны&nbsp;ограничения минимальной&nbsp;скорости\"</strong></li></ul><p>Знак<strong> 4.7.отменяет диапазон действия дорожного знака \"Минимальная скорость\"</strong>. Транспортные средства, движущиеся по этой дороге, могут двигаться с любой скоростью, которую они хотят, соблюдая правила дорожного движения.Соблюдение водителями требований предписывающих знаковВодители транспортных средств обязаны соблюдать требования всех предписывающих знаков, таких как запрещающие знаки. Потому что эти предписывающие знаки предписывают участникам дорожного движения, в каком направлении они должны двигаться, и четко регламентируют их движение. Например, несоблюдение таких дорожных знаков, как\" Движение направо<strong>\", \"&nbsp;</strong>Движение направо\", \" Движение налево\", \"Обгон препятствия справа\", \"Обгон препятствия слева\", \"Обгон препятствия справа или налево\", вообще предписывающих знаков, является причиной возникновения дорожно – транспортных происшествий.</p><ul><li><strong>Исключительные случаи</strong></li></ul><p>Эти знаки 4.1.1. \"Движение прямо\", 4.1.2. \"Движение направо\", 4.1.3. \"Движение налево\", 4.1.4. \"Движение направо или налево\", 4.1.5. \"Движение направо или налево\", 4.1.6. \"Движение направо или налево\" не оказывают влияния на маршрутные транспортные средства, то есть на автобусы, троллейбусы, трамваи и маршрутные такси. Знак, который говорит повернуть налево, также позволяет разворот.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.8. \"Энг кам тезлик белгиланган йўлнинг охири\"</strong></li></ul><p>Бу белги <strong>4.7. рақамли \"Энг кам тезлик\" йўл белгисининг таъсир оралиғини бекор қилади</strong>. Бу йўлда ҳаракатланаётган транспорт воситалари йўл қоидаларига амал қилган ҳолда, истаган тезликларида ҳаракатланишлари мумкин.Ҳайдовчиларнинг буюрувчи белгилар талабига амал қилишлариТранспорт воситаси ҳайдовчилари тақиқловчи белгилар каби барча буюрувчи белгиларнинг талабларига амал қилишлари шарт. Чунки ушбу буюрувчи белгилар йўл ҳаракати қатнашчиларига қайси йўналишда ҳаракат қилишлари кераклигини буюриб, уларнинг ҳаракатини аниқ тартибга солади. Масалан, \"Ҳаракатланиш тўғрига\", \"Ҳаракатланиш ўнгга\", \"Ҳаракатланиш чапга\", \"Тўсиқни ўнгдан четлаб ўтиш\", \"Тўсиқни чапдан четлаб ўтиш\", \"Тўсиқни ўнгдан ёки чапдан четлаб ўтиш\" каби йўл белгиларига, умуман, буюрувчи белгиларга амал қилмаслик йўл – транспорт ҳодисаларининг келиб чиқишига сабабчи бўлади.</p><ul><li><strong>Истисно ҳолатлари</strong></li></ul><p>Ушбу 4.1.1. \"Ҳаракатланиш тўғрига\", 4.1.2. \"Ҳаракатланиш ўнгга\", 4.1.3. \"Ҳаракатланиш чапга\", 4.1.4. \"Ҳаракатланиш тўғрига ёки ўнгга\", 4.1.5. \"Ҳаракатланиш тўғрига ёки чапга\", 4.1.6. \"Ҳаракатланиш ўнгга ёки чапга\" йўл белгиларининг белгиланган йўналишли транспорт воситаларига, яъни автобус, троллейбус, трамвай ва йўналишли таксиларга таъсири йўқ. Чапга бурилишни буюрувчи белги орқага қайрилиб олишга ҳам рухсат беради.</p>"
+                        }
+                    ]
+                },
+                "order": 21
+            },
+            {
+                "id": 112,
+                "name": {
+                    "uz": "4.9.1 Transport vositalarining xavfli yuklar bilan harakatlanish yo'nalishi",
+                    "ru": "4.9.1 Направление движения транспортных средств с опасными грузами",
+                    "kiril": "4.9.1 Транспорт воситаларининг хавфли юклар билан ҳаракатланиш йўналиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.9.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-57-35_41G2V7EFGP.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.9.1, 4.9.2 va&nbsp;4.9.3 \"Xavfli yuk&nbsp;tashiyotgan transport vositalarining harakat yo‘nalishi\"</strong></li></ul><p>\"Xavli yuk\" tashish belgisi bilan jihozlangan transport vositalarining harakatiga yo‘l belgisida ko‘rsatilgan yo‘nalishlarda ruxsat beriladi: 4.9.1&nbsp;— to‘g‘riga, 4.9.2&nbsp;— chapga, 4.9.3&nbsp;— o‘ngga.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.9.1, 4.9.2 и 4.9.3 \"Направление движения транспортных средств, перевозящих опасные грузы\"</strong></li></ul><p>Движение транспортных средств, оборудованных знаком \"Опасный груз\", разрешается в направлениях, указанных на дорожном знаке: 4.9.1 — направо, 4.9.2 — налево, 4.9.3 — направо.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.9.1, 4.9.2 ва 4.9.3 \"Хавфли юк ташиётган транспорт воситаларининг ҳаракат йўналиши\"</strong></li></ul><p>\"Хавфли юк\" ташиш белгиси билан жиҳозланган транспорт воситаларининг ҳаракатига йўл белгисида кўрсатилган йўналишларда рухсат берилади: 4.9.1 — тўғрига, 4.9.2 — чапга, 4.9.3 — ўнгга.</p>"
+                        }
+                    ]
+                },
+                "order": 22
+            },
+            {
+                "id": 113,
+                "name": {
+                    "uz": "4.9.2 Transport vositalarining xavfli yuklar bilan harakatlanish yo'nalishi",
+                    "ru": "4.9.2 Направление движения транспортных средств с опасными грузами",
+                    "kiril": "4.9.2 Транспорт воситаларининг хавфли юклар билан ҳаракатланиш йўналиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.9.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-57-43_VWQ43KCD7X.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.9.1, 4.9.2 va&nbsp;4.9.3 \"Xavfli yuk&nbsp;tashiyotgan transport vositalarining harakat yo‘nalishi\"</strong></li></ul><p>\"Xavli yuk\" tashish belgisi bilan jihozlangan transport vositalarining harakatiga yo‘l belgisida ko‘rsatilgan yo‘nalishlarda ruxsat beriladi: 4.9.1&nbsp;— to‘g‘riga, 4.9.2&nbsp;— chapga, 4.9.3&nbsp;— o‘ngga.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.9.1, 4.9.2 и 4.9.3 \"Направление движения транспортных средств, перевозящих опасные грузы\"</strong></li></ul><p>Движение транспортных средств, оборудованных знаком \"Опасный груз\", разрешается в направлениях, указанных на дорожном знаке: 4.9.1 — направо, 4.9.2 — налево, 4.9.3 — направо.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.9.1, 4.9.2 ва 4.9.3 \"Хавфли юк ташиётган транспорт воситаларининг ҳаракат йўналиши\"</strong></li></ul><p>\"Хавфли юк\" ташиш белгиси билан жиҳозланган транспорт воситаларининг ҳаракатига йўл белгисида кўрсатилган йўналишларда рухсат берилади: 4.9.1 — тўғрига, 4.9.2 — чапга, 4.9.3 — ўнгга.</p>"
+                        }
+                    ]
+                },
+                "order": 23
+            },
+            {
+                "id": 114,
+                "name": {
+                    "uz": "4.9.3 Transport vositalarining xavfli yuklar bilan harakatlanish yo'nalishi",
+                    "ru": "4.9.3 Направление движения транспортных средств с опасными грузами",
+                    "kiril": "4.9.3 Транспорт воситаларининг хавфли юклар билан ҳаракатланиш йўналиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.9.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-58-09_81S2WNW5A1.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.9.1, 4.9.2 va&nbsp;4.9.3 \"Xavfli yuk&nbsp;tashiyotgan transport vositalarining harakat yo‘nalishi\"</strong></li></ul><p>\"Xavli yuk\" tashish belgisi bilan jihozlangan transport vositalarining harakatiga yo‘l belgisida ko‘rsatilgan yo‘nalishlarda ruxsat beriladi: 4.9.1&nbsp;— to‘g‘riga, 4.9.2&nbsp;— chapga, 4.9.3&nbsp;— o‘ngga.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.9.1, 4.9.2 и 4.9.3 \"Направление движения транспортных средств, перевозящих опасные грузы\"</strong></li></ul><p>Движение транспортных средств, оборудованных знаком \"Опасный груз\", разрешается в направлениях, указанных на дорожном знаке: 4.9.1 — направо, 4.9.2 — налево, 4.9.3 — направо.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>4.9.1, 4.9.2 ва 4.9.3 \"Хавфли юк ташиётган транспорт воситаларининг ҳаракат йўналиши\"</strong></li></ul><p>\"Хавфли юк\" ташиш белгиси билан жиҳозланган транспорт воситаларининг ҳаракатига йўл белгисида кўрсатилган йўналишларда рухсат берилади: 4.9.1 — тўғрига, 4.9.2 — чапга, 4.9.3 — ўнгга.</p>"
+                        }
+                    ]
+                },
+                "order": 24
+            },
+            {
+                "id": 115,
+                "name": {
+                    "uz": "4.10 Otda yurish yo'li",
+                    "ru": "4.10 Верховая езда",
+                    "kiril": "4.10 Отда юриш йўли",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "4.10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_15-31-21_9NUEFRDWYY.png",
+                "road_sign_type_id": 4,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>4.10 Otda yurish yo'li</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>4.10 Верховая езда</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>4.10 Отда юриш йўли</p>"
+                        }
+                    ]
+                },
+                "order": 25
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}

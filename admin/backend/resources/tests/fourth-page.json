@@ -1,0 +1,615 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 4,
+        "total_pages": 48,
+        "total_items": 475,
+        "show_count": "10",
+        "data": [
+            {
+                "id": 11993,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Sariq avtomobil haydovchisiga avtoturargohga kirishga ruxsat etiladimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11993.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185994,
+                        "newtest_question_id": 11993,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185995,
+                        "newtest_question_id": 11993,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 5.11.1 bandiga asosan: 5.11.1. «Qayrilib olish joyi». Chapga burilish taqiqlanadi.",
+                "answer_video": "/storage/tests/videos changed/11993.mp4"
+            },
+            {
+                "id": 11990,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu yo‘l belgisi qanday nomlanadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11990.png"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185986,
+                        "newtest_question_id": 11990,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Shanba, yakshanba va bayram kunlari"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185987,
+                        "newtest_question_id": 11990,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Hafta kunlari"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185988,
+                        "newtest_question_id": 11990,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ish kunlari"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 7.5.1 bandiga asosan: 7.5.1. «Shanba, yakshanba va bayram kunlari».",
+                "answer_video": null
+            },
+            {
+                "id": 11987,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ko‘k avtomobil haydovchisi qaysi yo‘nalishlarda harakatlanishga ruxsat etilmaydi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11987.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 1,
+                "answers": [
+                    {
+                        "id": 186679,
+                        "newtest_question_id": 11987,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 1"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 186680,
+                        "newtest_question_id": 11987,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 2"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 186681,
+                        "newtest_question_id": 11987,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 1, 3, 4 yo‘nalishlarda"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 186682,
+                        "newtest_question_id": 11987,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha yo‘nalishlarda"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 3.18.1 bandi va 3.Taqiqlovchi belgilarning 47-xatboshiga asosan: 3.18.1. “Oʻngga burilish taqiqlangan”. 3.18.1 va 3.18.2 belgilari qatnov qismlarining qaysi kesishmasi oldiga o‘rnatilsa, shu kesishmaga tatbiq etiladi.",
+                "answer_video": "/storage/tests/videos changed/11987.mp4"
+            },
+            {
+                "id": 11984,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu vaziyatda oxirgi bo‘lib kim o‘tadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11984.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185963,
+                        "newtest_question_id": 11984,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Qizil avtomobil"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185964,
+                        "newtest_question_id": 11984,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘k avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185965,
+                        "newtest_question_id": 11984,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "O‘zaro kelishib o‘tadilar"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185966,
+                        "newtest_question_id": 11984,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Sariq avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQning 16-bob. 104-band 1-xatboshi va YHQga 1-ILOVA 2.7 bandiga asosan: 104. Teng ahamiyatga ega bo‘lmagan yo‘llar kesishgan chorrahada ikkinchi darajali yo‘ldan harakatlanayotgan transport vositasining haydovchisi asosiy yo‘ldan yaqinlashayotgan transport vositalariga ularning keyingi harakatlanish yo‘nalishidan qat’iy nazar, yo‘l berishi kerak. \r\n2.7. «Ro‘paradagi harakatlanishga nisbatan imtiyoz». Yo‘lning tor qismida harakatlanishda haydovchi ro‘paradan kelayotgan transport vositasiga nisbatan imtiyozga egaligini bildiradi.\"",
+                "answer_video": "/storage/tests/videos changed/11984.mp4"
+            },
+            {
+                "id": 11981,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi yo‘nalish bo‘yicha harakatlanishga ruxsat berilgan?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11981.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185951,
+                        "newtest_question_id": 11981,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat \"A\""
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185952,
+                        "newtest_question_id": 11981,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat \"B\""
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185953,
+                        "newtest_question_id": 11981,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki yo‘nalishda mumkin"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185954,
+                        "newtest_question_id": 11981,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki yo‘nalishda taqiqlanadi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 4.1.1 bandi va 4.Buyuruvchi belgilarning 10-xatboshiga asosan: 4.1.1. «Harakatlanish to‘g‘riga». 4.1.1 — 4.1.6 yo‘l belgilari qatnov qismlarining qaysi kesishmasidan oldin o‘rnatilsa, belgining ta’siri shu kesishmaga joriy qilinadi.",
+                "answer_video": "/storage/tests/videos changed/11981.mp4"
+            },
+            {
+                "id": 11976,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Aholi punktlaridan tashqarida quvib o‘tishda qanday ogohlantirish ishoralaridan foydalanish mumkin?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185941,
+                        "newtest_question_id": 11976,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faralarning uzoqni yorituvchi chiroqlaridan"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185942,
+                        "newtest_question_id": 11976,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Tovushli ishoralardan"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185943,
+                        "newtest_question_id": 11976,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1 va 2"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "\"YHQning 8-bob. 48-band 2 va 3-xatboshi va 49-bandiga asosan: 48. Tovushli ishoralar faqat quyidagi hollarda qo‘llanilishi mumkin:\r\naholi punktlaridan tashqarida boshqa haydovchilarni quvib o‘tish haqida ogohlantirish uchun; Yuqorida ko‘rsatilgan hollardan tashqari tovushli ishoralardan foydalanish taqiqlanadi. \r\n49. Quvib o‘tish haqida tovushli ishora o‘rniga yoki u bilan birga fara chiroqlarini yoqib-o‘chirib, ogohlantirish ishorasini ham berish mumkin.\"",
+                "answer_video": null
+            },
+            {
+                "id": 11975,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Aholi punktlarida quvib o‘tishda qanday ogohlantirish ishoralaridan foydalanish mumkin?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185932,
+                        "newtest_question_id": 11975,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faralarning uzoqni yorituvchi chiroqlaridan"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185933,
+                        "newtest_question_id": 11975,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Tovushli ishoralardan"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185934,
+                        "newtest_question_id": 11975,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1 va 2"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQning 8-bob. 48-band 2 va 3-xatboshi va 49-bandiga asosan: 48. Tovushli ishoralar faqat quyidagi hollarda qo‘llanilishi mumkin:\r\naholi punktlaridan tashqarida boshqa haydovchilarni quvib o‘tish haqida ogohlantirish uchun; Yuqorida ko‘rsatilgan hollardan tashqari tovushli ishoralardan foydalanish taqiqlanadi. \r\n49. Quvib o‘tish haqida tovushli ishora o‘rniga yoki u bilan birga fara chiroqlarini yoqib-o‘chirib, ogohlantirish ishorasini ham berish mumkin.\"",
+                "answer_video": null
+            },
+            {
+                "id": 11972,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Belgilangan yo‘nalishlarda harakatlanishga ruxsat etiladimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11972.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 189299,
+                        "newtest_question_id": 11972,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat o‘ngga ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 189300,
+                        "newtest_question_id": 11972,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat chapga ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 189301,
+                        "newtest_question_id": 11972,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkisiga ruxsat etiladi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "\"YHQning 9-bob. 57-bandiga asosan: 57. Burilishni shunday amalga oshirish kerakki, bunda qatnov qismlarining kesishmasidan chiqayotgan transport vositasi qarama-qarshi yo‘nalishdagi harakatlanish tomoniga o‘tib ketmasligi kerak.\r\nO‘ngga burilishda transport vositasi iloji boricha qatnov qismining o‘ng chetiga yaqinroqda harakatlanishi kerak.\"",
+                "answer_video": "/storage/tests/videos changed/11972.mp4"
+            },
+            {
+                "id": 11969,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Harakatlanish tartibini ko‘rsating:"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11969.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188564,
+                        "newtest_question_id": 11969,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1-tramvay sariq avtomobil bilan bir vaqtda, 2-tramvay qora avtomobil bilan bir vaqtda"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188565,
+                        "newtest_question_id": 11969,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1-tramvay sariq avtomobil bilan bir vaqtda, qora avtomobil, 2-tramvay"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188566,
+                        "newtest_question_id": 11969,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1-tramvay, 2-tramvay, sariq avtomobil, qora avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "\"YHQning 16-bob. 105-bandiga asosan: 105. Teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorrahada relssiz transport vositasining haydovchisi o‘ngdan yaqinlashayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak.\r\nBunday chorrahalarda keyingi harakat yo‘nalishidan qat’iy nazar, tramvay relssiz transport vositalariga nisbatan oldin o‘tish huquqiga ega bo‘ladi.\"",
+                "answer_video": "/storage/tests/videos changed/11969.mp4"
+            },
+            {
+                "id": 11966,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi javobda yo‘l belgilari guruhlarining ketma-ketligi to‘g‘ri ko‘rsatilgan?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 185903,
+                        "newtest_question_id": 11966,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlovchi, Imtiyoz, Buyuruvchi, Axborot-ko‘rsatkich, Ogohlantiruvchi, Servis, Qo‘shimcha axborot"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185904,
+                        "newtest_question_id": 11966,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ogohlantiruvchi, Imtiyoz, Taqiqlovchi, Buyuruvchi, Axborot-ko‘rsatkich, Servis, Qo‘shimcha axborot"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 185905,
+                        "newtest_question_id": 11966,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ogohlantiruvchi, Imtiyoz, Buyuruvchi, Taqiqlovchi, Axborot-ko‘rsatkich, Servis, Qo‘shimcha axborot"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 185906,
+                        "newtest_question_id": 11966,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yuqoridagi barcha javoblar to‘g‘ri"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 1-ILOVAsiga asosan: Yo‘l belgilari 7 guruhga bo‘linadi. Ular quyidagilar: 1. Ogohlantiruvchi belgilar; 2. Imtiyoz belgilari; 3. Taqiqlovchi belgilar; 4. Buyuruvchi belgilar; 5. Axborot-ko‘rsatgich belgilari; 6. Servis belgilari; 7. Qo‘shimcha axborot belgilari.",
+                "answer_video": null
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}
+

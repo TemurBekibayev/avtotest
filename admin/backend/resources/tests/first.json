@@ -1,0 +1,649 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 1,
+        "total_pages": 48,
+        "total_items": 475,
+        "show_count": "10",
+        "data": [
+            {
+                "id": 12086,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu holatda siz qanday yo‘l tutishingiz kerak?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12086.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191562,
+                        "newtest_question_id": 12086,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ovozli ishora berib, tezlikni oshiring"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191563,
+                        "newtest_question_id": 12086,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Zarur bo‘lganda darhol toʻxtash imkoniyatini beradigan darajada tezlikni kamaytiring"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191564,
+                        "newtest_question_id": 12086,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Chapga burilib, to‘siqni aylanib o‘ting"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191565,
+                        "newtest_question_id": 12086,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "To‘xtovsiz harakatni davom ettiring"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 6-bob. 27-bandiga asosan: 27. Tezkor va maxsus xizmatlarning ko‘k yoki qizil yoxud ko‘k va qizil rangli yalt-yalt etuvchi mayoqchasini yoqib to‘xtab turgan transport vositasiga yaqinlashayotgan haydovchilar zarur bo‘lgan hollarda harakatlanish tezligini darhol to‘xtash imkoniyatini beradigan darajada kamaytirishlari shart.",
+                "answer_video": "/storage/tests/videos changed/12086.mp4"
+            },
+            {
+                "id": 12083,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Piyodalarga qatnov qismini kesib o‘tishga ruxsat etiladimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12083.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191598,
+                        "newtest_question_id": 12083,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191599,
+                        "newtest_question_id": 12083,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191600,
+                        "newtest_question_id": 12083,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha holatda ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 4-bob. 19-band 1-xatboshiga asosan: 19. Tartibga solinmaydigan piyodalar o‘tish joylarida, piyodalar yaqinlashayotgan transport vositalarigacha bo‘lgan masofani va ularning tezligini chamalab ko‘rib, o‘tish o‘zlari uchun xavfsiz ekanligiga ishonch hosil qilganlaridan so‘ng qatnov qismi (tramvay bekati)ga chiqishlari ruxsat etiladi.",
+                "answer_video": "/storage/tests/videos changed/12083.mp4"
+            },
+            {
+                "id": 12080,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Transport vositasi haydovchisi tomonidan chiqarilgan havodagi etanol bugʻlari kontsentratsiyasi qancha miqdorni koʻrsatgan hollarda DYHXX xodimi haydovchiga nisbatan alkogolli ichimlik isteʼmol qilganligi fakti yuzasidan maʼmuriy bayonnoma rasmiylashtiradi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12080.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191501,
+                        "newtest_question_id": 12080,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Puflangan havoning bir litrida 0,105 milligramm va undan yuqori boʻlgan hallorda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191502,
+                        "newtest_question_id": 12080,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Puflangan havoning bir litrida 0,135 milligramm va undan yuqori boʻlgan hallorda"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191503,
+                        "newtest_question_id": 12080,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Puflangan havoning bir litrida 0,255 milligramm va undan yuqori boʻlgan hallorda"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "O‘z. R. SSV, O‘z. R. IIV, O‘z. R. Oliy sudi, O‘z. R. Bosh prokuraturasining 2018 yil 20 noyabrdagi 52, 74, 11-192-18, 68-qq-son qo‘shma qarori bilan tasdiqlangan,  “Transport vositalari haydovchilarining mast holatda ekanligini aniqlash tartibi to‘g‘risida”gi NIZOMning 10 - bandiga asosan: 10. Transport vositasi haydovchisi tomonidan chiqarilgan havodagi etanol bug‘lari kontsentratsiyasi ko‘rsatkichi 0,135 milligramm va undan yuqori bo‘lgan hollarda DYHXX xodimi haydovchiga nisbatan alkogolli ichimlik iste’mol qilganligi fakti yuzasidan O‘zbekiston Respublikasi Ma’muriy javobgarlik to‘g‘risidagi kodeksining 131-moddasiga muvofiq ma’muriy bayonnoma rasmiylashtiradi.",
+                "answer_video": null
+            },
+            {
+                "id": 12077,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu belgi o‘rnatilgan hududda qaysi toifalarga ega avtotransport vositalari harakatlanishi mumkin?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12077.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191559,
+                        "newtest_question_id": 12077,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Toza"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191560,
+                        "newtest_question_id": 12077,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "O‘rta"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191561,
+                        "newtest_question_id": 12077,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Zararli"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 3.35 bandiga asosan: 3.35. Ekologik zona hududida «o‘rta» va «zararli» ekologik toifalarga ega avtotransport vositalari harakatlanishi taqiqlangan. \r\n3.35 belgisi ekologik zona hududiga kirishdan 150 — 300 metr oldin o‘rnatiladi.",
+                "answer_video": null
+            },
+            {
+                "id": 12074,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu xavflilik belgisi qaysi turdagi moddalarni bildiradi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12074.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191580,
+                        "newtest_question_id": 12074,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Toksik moddalar"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191581,
+                        "newtest_question_id": 12074,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Organik peroksidlar"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191582,
+                        "newtest_question_id": 12074,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Oksidlovchi moddalar"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQga 4-ILOVA 5.1 bandiga asosan: 5.1 Oksidlovchi moddalar.",
+                "answer_video": null
+            },
+            {
+                "id": 12071,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu qora transport vositasining haydovchisining yo‘nalishni o‘zgartirishi qanday nomlanadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12071.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191601,
+                        "newtest_question_id": 12071,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Manyovr qilish"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191602,
+                        "newtest_question_id": 12071,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Tasmani o‘zgartirish"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191603,
+                        "newtest_question_id": 12071,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Xavfli harakatlanish"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191604,
+                        "newtest_question_id": 12071,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Avariya holatini yuzaga keltirish"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191605,
+                        "newtest_question_id": 12071,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha javoblar to‘g‘ri"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 1-bob. 6-band 2-xatboshiga asosan: avariya holatini yuzaga keltirish — yo‘l harakatining boshqa ishtirokchilarini harakat yo‘nalishi yoki tezligini keskin o‘zgartirishga, shuningdek, o‘z xavfsizligini yoxud boshqa fuqarolar xavfsizligini ta’minlash uchun o‘zga choralarni ko‘rishga majbur qilish.",
+                "answer_video": "/storage/tests/videos changed/12071.mp4"
+            },
+            {
+                "id": 12068,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ko‘rsatilgan yo‘l belgilarining qaysi birida eng kam tezlikda harakatlanish kerak?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12068.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191622,
+                        "newtest_question_id": 12068,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Chapdagi belgida"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191623,
+                        "newtest_question_id": 12068,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "O‘ngdagi belgida"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191624,
+                        "newtest_question_id": 12068,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkisida"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 4.7 bandiga asosan: 4.7. «Eng kam tezlik». Faqat belgida ko‘rsatilgan yoki undan yuqori tezlikda (km/soat) harakatlanishga ruxsat etilishini bildiradi.",
+                "answer_video": null
+            },
+            {
+                "id": 12065,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Yoʻl-patrul xizmati xodimlari “Yoʻl-patrul xizmati xodimlarining yoʻl harakati qatnashchilari bilan oʻzaro munosabatlari hamda maxsus moslamalardan foydalanishi tartibi toʻgʻrisida”gi nizomga ko‘ra qanday huquqlarga ega?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12065.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191625,
+                        "newtest_question_id": 12065,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yo‘l transport hodisasining oldini olish va harakat xavfsizligini ta’minlash"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191626,
+                        "newtest_question_id": 12065,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Maxsus tadbirlar o‘tkazish"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191627,
+                        "newtest_question_id": 12065,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ta’qib qilish"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191628,
+                        "newtest_question_id": 12065,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Kuzatish"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191629,
+                        "newtest_question_id": 12065,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘rsatilgan barcha javoblar"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "O‘zbekiston Respublikasi Vazirlar Mahkamasining 2018 yil 1 dekabrdagi 975-son qarori bilan tasdiqlangan, “Yo‘l-patrul xizmati xodimlarining yo‘l harakati qatnashchilari bilan o‘zaro munosabatlari hamda maxsus moslamalardan foydalanishi tartibi to‘g‘risida”gi NIZOMga asosan: YPX xodimi o‘z xizmat vazifalarini bajarishda quyidagi huquq va majburiyatlarga ega: maxsus tadbirlar o‘tkazish, transport vositasini ta’qib qilish yoki kuzatish, yo‘l-transport hodisasining oldini olish va harakat xavfsizligini ta’minlash.",
+                "answer_video": null
+            },
+            {
+                "id": 12062,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Mexanik transport vositasi egasining yonida haydovchilik guvohnomasi bo‘lmaganida qanday hujjat bilan boshqarishga ruxsat etiladi?"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191652,
+                        "newtest_question_id": 12062,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "ID karta"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191653,
+                        "newtest_question_id": 12062,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Biometrik passport"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191654,
+                        "newtest_question_id": 12062,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Egalik huquqi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191655,
+                        "newtest_question_id": 12062,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Biometrik passport va ID karta bilan"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 2-bob. 7-band 17-xatboshiga asosan: Mexanik transport vositasi haydovchisining yonida O‘zbekiston Respublikasi ichki ishlar organlari yoxud konsullik muassasalari tomonidan berilgan biometrik pasporti yoki identifikatsiyalovchi ID-kartasi mavjud bo‘lgan taqdirda, uning transport vositasini boshqarish huquqini beruvchi hujjati, transport vositasi ro‘yxatdan o‘tkazilganligi to‘g‘risidagi, shuningdek transport vositasiga egalik qilish, egasi yo‘qligida undan foydalanish yoki uni tasarruf etish huquqini tasdiqlovchi hujjatlar (yuridik shaxs tomonidan berilgan transport vositasini boshqarish huquqini beruvchi ishonchnoma yoki yo‘l varaqasi, tashilayotgan yukning hujjatlar bundan mustasno), transport vositalari egalarining fuqarolik javobgarligini majburiy sug‘urta qilish bo‘yicha sug‘urta polisi haydovchidan talab etilmaydi.",
+                "answer_video": null
+            },
+            {
+                "id": 12059,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu ko‘rsatilgan joyda to‘xtashga ruxsat etiladimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/12059.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 191668,
+                        "newtest_question_id": 12059,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191669,
+                        "newtest_question_id": 12059,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat etiladi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 13-bob. 91-band 8-xatboshiga asosan: 91. Quyidagilarda to‘xtash taqiqlanadi: to‘xtagan transport vositasi bilan bo‘ylama sidirg‘a chiziq (qatnov qismining chetini belgilovchi chiziqdan tashqari), ajratuvchi mintaqa yoki qatnov qismining qarama-qarshi cheti orasidagi masofa 3 metrdan kam bo‘lgan joylarda.",
+                "answer_video": "/storage/tests/videos changed/12059.mp4"
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}
+

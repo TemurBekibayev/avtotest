@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avtomaktab test tizimi - Texnik topshiriq</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background: #fff;
+            color: #333;
+            line-height: 1.5;
+            padding: 40px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            font-size: 28px;
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 5px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #3498db;
+        }
+        h2 {
+            font-size: 22px;
+            color: #2c3e50;
+            margin: 25px 0 15px 0;
+            padding-left: 10px;
+            border-left: 5px solid #3498db;
+        }
+        h3 {
+            font-size: 18px;
+            color: #34495e;
+            margin: 20px 0 10px 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            font-size: 14px;
+        }
+        th {
+            background: #3498db;
+            color: white;
+            font-weight: bold;
+            padding: 12px 8px;
+            text-align: center;
+            border: 1px solid #2980b9;
+        }
+        td {
+            padding: 10px 8px;
+            border: 1px solid #ddd;
+            vertical-align: top;
+        }
+        tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+        .total-row {
+            background: #d4edda;
+            font-weight: bold;
+        }
+        .highlight {
+            background: #fff3cd;
+            font-weight: bold;
+        }
+        .note {
+            background: #e7f3ff;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+            border-left: 4px solid #3498db;
+        }
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 12px;
+            color: #7f8c8d;
+            border-top: 1px dashed #ccc;
+            padding-top: 20px;
+        }
+        .price-box {
+            background: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .badge {
+            background: #27ae60;
+            color: white;
+            padding: 3px 8px;
+            border-radius: 3px;
+            font-size: 12px;
+            font-weight: normal;
+        }
+        ul, ol {
+            margin: 10px 0 10px 25px;
+        }
+        li {
+            margin: 5px 0;
+        }
+        .team-box {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+            gap: 15px;
+        }
+        .team-card {
+            flex: 1;
+            background: #f8f9fa;
+            border-radius: 5px;
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .team-card h4 {
+            color: #3498db;
+            margin-bottom: 10px;
+        }
+        .tech-stack {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: monospace;
+        }
+        @media print {
+            body {
+                padding: 20px;
+            }
+            .no-print {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="no-print" style="text-align: right; margin-bottom: 20px;">
+    <button onclick="window.print()" style="background: #3498db; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">📥 PDF sifatida saqlash (Print → Save as PDF)</button>
+</div>
+
+<h1>AVTOMAKTAB O'QUVCHILARI UCHUN TEST TIZIMI</h1>
+<h2 style="text-align: center; border-left: none; border-bottom: 1px solid #3498db; padding-bottom: 10px;">Texnik topshiriq (TOR) va byudjet taklifi</h2>
+
+<!-- Loyiha ma'lumotlari -->
+<div style="display: flex; justify-content: space-between; margin: 20px 0; background: #f8f9fa; padding: 15px; border-radius: 5px;">
+    <div><strong>Loyiha nomi:</strong> Avtomaktab test tizimi</div>
+    <div><strong>Sana:</strong> 2026-yil</div>
+    <div><strong>Versiya:</strong> 1.0</div>
+</div>
+
+<!-- 1. Loyiha maqsadi -->
+<h2>1. LOYIHANING MAQSADI</h2>
+<p>Avtomaktab o'quvchilari uchun yo'l harakati qoidalari va imtihon testlariga tayyorgarlik ko'rish jarayonini raqamlashtirish va avtomatlashtirish. Tizim mobil va veb ilovalar orqali foydalanuvchilarga test topshirish, natijalarni tahlil qilish va obuna asosida kirish imkoniyatini beradi.</p>
+
+<!-- 2. Tizim arxitekturasi -->
+<h2>2. TIZIM ARXITEKTURASI</h2>
+<pre style="background: #2c3e50; color: #ecf0f1; padding: 20px; border-radius: 5px; font-size: 14px;">
+┌─────────────────────────────────────────────────────────────┐
+│                    FOYDALANUVCHI INTERFEYSLARI              │
+├───────────────────┬───────────────────┬─────────────────────┤
+│  Mobil ilova      │   Veb ilova       │    Admin panel      │
+│  (Android)        │  (foydalanuvchi)  │    (boshqaruv)      │
+└─────────┬─────────┴─────────┬─────────┴──────────┬──────────┘
+          │                   │                    │
+          └───────────────────┼────────────────────┘
+                              ▼
+              ┌─────────────────────────────┐
+              │        BACKEND (API)        │
+              │       PHP/Laravel            │
+              │     REST API + JWT           │
+              └──────────────┬──────────────┘
+                             ▼
+              ┌─────────────────────────────┐
+              │     MA'LUMOTLAR BAZASI      │
+              │        MySQL/PostgreSQL      │
+              └─────────────────────────────┘
+</pre>
+
+<!-- 3. Guruh tuzilmasi -->
+<h2>3. GURUH TUZILMASI</h2>
+<div class="team-box">
+    <div class="team-card">
+        <h4>📱 Dasturchi 1</h4>
+        <p><strong>Mobil ilova (Android)</strong></p>
+        <p>Flutter, Retrofit, Room</p>
+        <p><span class="badge">35 kun</span></p>
+    </div>
+    <div class="team-card">
+        <h4>⚙️ Dasturchi 2</h4>
+        <p><strong>Backend + Admin API</strong></p>
+        <p>PHP/Laravel, MySQL, JWT</p>
+        <p><span class="badge">45 kun</span></p>
+    </div>
+    <div class="team-card">
+        <h4>🎨 Dasturchi 3</h4>
+        <p><strong>Frontend (Veb + Admin UI)</strong></p>
+        <p>React.js/Vue.js, Bootstrap</p>
+        <p><span class="badge">54 kun*</span></p>
+    </div>
+</div>
+<p style="font-size: 13px; text-align: right;">*Parallel bajarilish hisobiga umumiy muddat: <strong>60 kun</strong></p>
+
+<!-- 4. Funksional talablar -->
+<h2>4. FUNKSIONAL TALABLAR</h2>
+
+<h3>4.1. Mobil ilova (Android) – Dasturchi 1</h3>
+<table>
+    <thead>
+        <tr><th>Modul</th><th>Vazifalar</th><th>Muddat (kun)</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Autentifikatsiya</td><td>Ro‘yxatdan o‘tish, login, profil, JWT tokenni saqlash</td><td>5</td></tr>
+        <tr><td>Testlar</td><td>Testlar ro‘yxati, kategoriyalar, testni boshlash</td><td>7</td></tr>
+        <tr><td>Test jarayoni</td><td>Vaqt bilan ishlash, savollar, variantlar</td><td>7</td></tr>
+        <tr><td>Natijalar</td><td>Avtomatik hisoblash, to‘g‘ri/noto‘g‘ri javoblar, izohlar</td><td>5</td></tr>
+        <tr><td>Statistika</td><td>Shaxsiy statistika, testlar tarixi</td><td>4</td></tr>
+        <tr><td>Obuna tizimi</td><td>Obuna muddatini tekshirish, bloklash</td><td>4</td></tr>
+        <tr><td>Push-bildirishnomalar</td><td>Obuna tugashi haqida xabarlar</td><td>3</td></tr>
+        <tr class="total-row"><td colspan="2"><strong>JAMI</strong></td><td><strong>35 kun</strong></td></tr>
+    </tbody>
+</table>
+
+<h3>4.2. Backend (PHP/Laravel) – Dasturchi 2</h3>
+<table>
+    <thead><tr><th>Modul</th><th>Vazifalar</th><th>Muddat (kun)</th></tr></thead>
+    <tbody>
+        <tr><td>Ma'lumotlar bazasi</td><td>Database strukturasi (users, tests, questions, results, subscriptions)</td><td>5</td></tr>
+        <tr><td>Autentifikatsiya API</td><td>Register, login, logout, profile, JWT, rollar (admin/user)</td><td>5</td></tr>
+        <tr><td>Testlar API</td><td>Testlarni olish, savollar, javoblarni saqlash</td><td>7</td></tr>
+        <tr><td>Natijalar API</td><td>Natijalarni hisoblash, saqlash, statistikani qaytarish</td><td>5</td></tr>
+        <tr><td>Obuna tizimi</td><td>Obuna muddatini tekshirish, cron job, avtomatik bloklash</td><td>7</td></tr>
+        <tr><td>Admin panel API</td><td>Foydalanuvchilar, testlar, natijalar uchun CRUD</td><td>8</td></tr>
+        <tr><td>Excel/CSV import</td><td>Testlarni fayl orqali yuklash</td><td>4</td></tr>
+        <tr><td>Hisobotlar</td><td>Statistik ma'lumotlarni API orqali berish</td><td>4</td></tr>
+        <tr class="total-row"><td colspan="2"><strong>JAMI</strong></td><td><strong>45 kun</strong></td></tr>
+    </tbody>
+</table>
+
+<h3>4.3. Admin panel (Frontend) – Dasturchi 3</h3>
+<table>
+    <thead><tr><th>Modul</th><th>Vazifalar</th><th>Muddat (kun)</th></tr></thead>
+    <tbody>
+        <tr><td>Layout va dizayn</td><td>Admin panel interfeysi, sidebar, header</td><td>4</td></tr>
+        <tr><td>Dashboard</td><td>Statistika kartochkalari, grafiklar</td><td>5</td></tr>
+        <tr><td>Foydalanuvchilar</td><td>Ro'yxat, qo'shish, tahrirlash, bloklash, qidirish</td><td>6</td></tr>
+        <tr><td>Testlar</td><td>Testlar ro'yxati, qo'shish, tahrirlash, o'chirish</td><td>6</td></tr>
+        <tr><td>Excel/CSV yuklash</td><td>Testlarni fayl orqali yuklash interfeysi</td><td>4</td></tr>
+        <tr><td>Natijalar</td><td>Foydalanuvchilar natijalari, filtrlash, eksport</td><td>5</td></tr>
+        <tr><td>Obuna boshqaruvi</td><td>Obuna muddatlarini o'zgartirish</td><td>4</td></tr>
+        <tr><td>Sozlamalar</td><td>Tizim sozlamalari</td><td>3</td></tr>
+        <tr class="total-row"><td colspan="2"><strong>JAMI</strong></td><td><strong>37 kun</strong></td></tr>
+    </tbody>
+</table>
+
+<h3>4.4. Veb ilova (foydalanuvchi) – Dasturchi 3</h3>
+<table>
+    <thead><tr><th>Modul</th><th>Vazifalar</th><th>Muddat (kun)</th></tr></thead>
+    <tbody>
+        <tr><td>Autentifikatsiya</td><td>Register, login, profil</td><td>4</td></tr>
+        <tr><td>Testlar interfeysi</td><td>Testlar ro'yxati, testni ishlash</td><td>6</td></tr>
+        <tr><td>Natijalar</td><td>Natijalarni ko'rish, statistika</td><td>4</td></tr>
+        <tr><td>Obuna</td><td>Obuna holatini ko'rish</td><td>3</td></tr>
+        <tr class="total-row"><td colspan="2"><strong>JAMI</strong></td><td><strong>17 kun</strong></td></tr>
+    </tbody>
+</table>
+
+<!-- 5. Parallel bajarilish grafigi -->
+<h2>5. PARALLEL BAJARILISH GRAFIGI</h2>
+<table>
+    <thead><tr><th>Bosqich</th><th>1-10 kun</th><th>11-20 kun</th><th>21-30 kun</th><th>31-40 kun</th><th>41-50 kun</th><th>51-60 kun</th></tr></thead>
+    <tbody>
+        <tr><td><strong>Dasturchi 1 (Mobile)</strong></td><td>Autentifikatsiya</td><td>Testlar interfeysi</td><td>Test jarayoni</td><td>Natijalar</td><td>Statistika</td><td>Push + test</td></tr>
+        <tr><td><strong>Dasturchi 2 (Backend)</strong></td><td>DB + Auth API</td><td>Testlar API</td><td>Natijalar API</td><td>Obuna tizimi</td><td>Admin API</td><td>Excel + hisobot</td></tr>
+        <tr><td><strong>Dasturchi 3 (Frontend)</strong></td><td>Admin layout</td><td>Admin foydalanuvchilar</td><td>Admin testlar</td><td>Admin panel</td><td>Veb ilova</td><td>Veb ilova + test</td></tr>
+    </tbody>
+</table>
+<p><strong>Umumiy muddat: 60 kun</strong></p>
+
+<!-- 6. Byudjet jadvali -->
+<h2>6. BYUDJET JADVALI</h2>
+
+<h3>6.1. Ishlab chiqish xarajatlari</h3>
+<table>
+    <thead><tr><th>Dasturchi</th><th>Vazifa</th><th>Kun</th><th>Kunlik stavka ($)</th><th>Jami ($)</th></tr></thead>
+    <tbody>
+        <tr><td>Dasturchi 1</td><td>Mobil ilova (Android)</td><td>35</td><td>30</td><td>1050</td></tr>
+        <tr><td>Dasturchi 2</td><td>Backend + Admin API (PHP/Laravel)</td><td>45</td><td>35</td><td>1575</td></tr>
+        <tr><td>Dasturchi 3</td><td>Frontend (Veb ilova + Admin UI)</td><td>54*</td><td>30</td><td>1620</td></tr>
+        <tr class="total-row"><td colspan="4"><strong>JAMI</strong></td><td><strong>$4245</strong></td></tr>
+    </tbody>
+</table>
+<p style="font-size: 13px;">*Dasturchi 3 parallel ishlaydi: 37 kun admin panel + 17 kun veb ilova = 54 kun</p>
+
+<h3>6.2. Qo‘shimcha xarajatlar</h3>
+<table>
+    <thead><tr><th>Xizmat</th><th>Narxi ($)</th></tr></thead>
+    <tbody>
+        <tr><td>Server sozlash va deploy</td><td>150</td></tr>
+        <tr><td>Domen va SSL sertifikat</td><td>50</td></tr>
+        <tr><td>Testlash va sifat nazorati</td><td>200</td></tr>
+        <tr><td>Hujjatlashtirish (API docs, foydalanuvchi qo'llanmasi)</td><td>150</td></tr>
+        <tr class="total-row"><td><strong>JAMI QO‘SHIMCHA</strong></td><td><strong>$550</strong></td></tr>
+    </tbody>
+</table>
+
+<div class="price-box">
+    UMUMIY BYUDJET: $4795 (taxminan $4800)
+</div>
+
+<!-- 7. To‘lov shakli -->
+<h2>7. TO‘LOV SHAKLI</h2>
+<table>
+    <thead><tr><th>Bosqich</th><th>Foiz</th><th>Summa ($)</th><th>Shart</th></tr></thead>
+    <tbody>
+        <tr><td>1-bosqich</td><td>30%</td><td>1440</td><td>Shartnoma imzolanganda</td></tr>
+        <tr><td>2-bosqich</td><td>30%</td><td>1440</td><td>30-kun tugaganda (backend + mobil asosiy qismi)</td></tr>
+        <tr><td>3-bosqich</td><td>30%</td><td>1440</td><td>50-kun tugaganda (admin panel + testlash)</td></tr>
+        <tr><td>4-bosqich</td><td>10%</td><td>480</td><td>Loyiha topshirilganda (60-kun)</td></tr>
+        <tr class="total-row"><td><strong>JAMI</strong></td><td><strong>100%</strong></td><td><strong>$4800</strong></td><td></td></tr>
+    </tbody>
+</table>
+
+<!-- 8. Oylik xizmatlar -->
+<h2>8. OYLIK XIZMATLAR (QO‘LLAB-QUVVATLASH)</h2>
+<table>
+    <thead><tr><th>Xizmat</th><th>Narxi ($/oy)</th></tr></thead>
+    <tbody>
+        <tr><td>Texnik qo‘llab-quvvatlash (server monitoring, xatolarni tuzatish)</td><td>50</td></tr>
+        <tr><td>Server hosting (VPS)</td><td>20-40</td></tr>
+        <tr><td>Ma'lumotlar bazasi zaxiralash</td><td>10</td></tr>
+        <tr class="total-row"><td><strong>JAMI (oyiga)</strong></td><td><strong>~$100</strong></td></tr>
+    </tbody>
+</table>
+
+<!-- 9. Texnologiyalar -->
+<h2>9. TEXNOLOGIYALAR RO‘YXATI</h2>
+<div class="tech-stack">
+    <p><strong>Mobil ilova:</strong> Android (Kotlin/Java), Retrofit, Room Database</p>
+    <p><strong>Backend:</strong> PHP 8.x, Laravel 10.x, MySQL, JWT, Laravel Sanctum</p>
+    <p><strong>Frontend (Veb ilova):</strong> React.js / Vue.js, Axios, Bootstrap/Tailwind</p>
+    <p><strong>Admin panel:</strong> React.js / Vue.js, Chart.js, DataTables</p>
+    <p><strong>Server:</strong> Linux (Ubuntu), Nginx, Git, Composer</p>
+    <p><strong>API:</strong> REST API, JSON, Postman</p>
+    <p><strong>Versiya nazorati:</strong> Git (GitHub / GitLab)</p>
+</div>
+
+<!-- 10. Yetkazib beriladigan natijalar -->
+<h2>10. YETKAZIB BERILADIGAN NATIJALAR</h2>
+<ol style="columns: 2;">
+    <li>Android mobil ilova (APK + kod)</li>
+    <li>Veb ilova (foydalanuvchi uchun)</li>
+    <li>Admin panel (boshqaruv uchun)</li>
+    <li>Backend API (to‘liq hujjatlashtirilgan)</li>
+    <li>Ma'lumotlar bazasi (struktura + dump)</li>
+    <li>Server sozlamalari (deploy qo‘llanmasi)</li>
+    <li>Foydalanuvchi qo‘llanmasi</li>
+    <li>Texnik hujjatlar (API docs, kod struktura)</li>
+</ol>
+
+<!-- 11. Kafolatlar -->
+<h2>11. KAFOLATLAR</h2>
+<ul>
+    <li>3 oy bepul texnik qo‘llab-quvvatlash</li>
+    <li>1 oy bepul server monitoring</li>
+    <li>Kod to‘liq mijozga topshiriladi (mulk huquqi mijozga o‘tadi)</li>
+</ul>
+
+<div class="note">
+    <p><strong>Eslatma:</strong> Muddatlar parallel bajarilish hisobiga umumiy 60 kun. Loyiha murakkablashgan sari narx va vaqt oshishi mumkin.</p>
+</div>
+
+<div class="footer">
+    <p>© 2026 IT Markaz Amudaryo | Avtomaktab test tizimi | Texnik topshiriq va byudjet taklifi</p>
+    <p>Ushbu hujjat 11 bo'limdan iborat</p>
+</div>
+
+<div class="no-print" style="text-align: center; margin-top: 30px;">
+    <button onclick="window.print()" style="background: #27ae60; color: white; border: none; padding: 12px 30px; border-radius: 5px; cursor: pointer; font-size: 16px;">📥 PDF ni yuklab olish (Print → Save as PDF)</button>
+</div>
+
+</body>
+</html>

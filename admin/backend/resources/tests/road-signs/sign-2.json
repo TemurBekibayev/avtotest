@@ -1,0 +1,358 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 1,
+        "total_pages": 1,
+        "total_items": 9,
+        "show_count": "50",
+        "data": [
+            {
+                "id": 47,
+                "name": {
+                    "uz": "2.1. Asosiy yo’l",
+                    "ru": "2.1. Главная дорога",
+                    "kiril": "2.1. Асосий йўл",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "2.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_17-46-11_XQT4JDKMTX.png",
+                "road_sign_type_id": 2,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "2.1. “Asosiy yo‘l”\r\nHarakat tartibga solinmagan chorrahalarda oldin o‘tish huquqini beradi. Belgi yo‘lning boshlanishida o‘rnatilib, har bir chorraha oldida takrorlanadi. Asosiy yo‘l bilan kesishadigan yo‘llarda, chorraha oldida 2.4.«Yo‘l bering» yoki 2.5.«To‘xtamasdan harakatlanish taqiqlangan» belgilari o‘rnatiladi. Agar chorrahada asosiy yo‘l o‘z yo‘nalishini o‘zgartirsa, u holda ushbu belgi ostiga qo‘shimcha"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-08-11_17-46-11_8WWGU854MP.png"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "2.1. «Главная дорога»  \r\nЭтот знак предоставляет право преимущественного проезда на нерегулируемых перекрёстках. Он устанавливается в начале главной дороги и повторяется перед каждым перекрёстком.  \r\n\r\nНа дорогах, пересекающих главную, перед перекрёстком устанавливаются знаки 2.4 «Уступите дорогу» или 2.5 «Движение без остановки запрещено».  \r\n\r\nЕсли на перекрёстке главная дорога меняет своё направление, под знаком 2.1 дополнительно размещается табличка со схемой направления главной дороги."
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-08-11_17-46-11_MCWFWMCXUX.png"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "2.1. “Aсосий йўл”\r\nҲаракат тартибга солинмаган чорраҳаларда олдин ўтиш ҳуқуқини беради. Белги йўлнинг бошланишида ўрнатилиб, ҳар бир чорраҳа олдида такрорланади. Aсосий йўл билан кесишадиган йўлларда, чорраҳа олдида 2.4.«Йўл беринг» ёки 2.5.«Тўхтамасдан ҳаракатланиш тақиқланган» белгилари ўрнатилади. Aгар чорраҳада асосий йўл ўз йўналишини ўзгартирса, у ҳолда ушбу белги остига қўшимча"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-08-11_17-46-11_DW5RBQ3TCF.png"
+                        }
+                    ]
+                },
+                "order": 1
+            },
+            {
+                "id": 48,
+                "name": {
+                    "uz": "2.2. Asosiy yo’lning oxiri",
+                    "ru": "2.2. Конец главной дороги",
+                    "kiril": "2.2. Асосий йўлнинг охири",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "2.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_17-48-06_WYT55TWQNM.png",
+                "road_sign_type_id": 2,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "2.2. \"Asosiy yo'lning oxiri\"\r\n\"Asosiy yo'lning oxiri\" imtiyoz belgisi asosiy yo'l tugaganligini va o'z navbatida shu yo'ldagi harakat qatnashchilarining chorrahadan birinchi o'tish huquqi bekor bo'lganini bildiradi. Haydovchi ushbu belgi o'rnatilgan joydan boshlab,  yo'lning qiymati o'zgarishi haqida axborotga ega bo'lib transport vositasining tezligini kamaytirishi, shuningdek, barcha ehtiyot choralarini ko'rishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "2.2. «Конец главной дороги»  \r\nЭтот знак означает, что главная дорога заканчивается, и, соответственно, участники движения, находящиеся на этой дороге, теряют преимущество при проезде перекрёстков.\r\n\r\nС момента установки данного знака водителю следует учитывать изменение приоритетов на дороге: снизить скорость, быть особенно внимательным и соблюдать все меры предосторожности."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "2.2. \"Aсосий йўлнинг охири\"\r\n\"Aсосий йўлнинг охири\" имтиёз белгиси асосий йўл тугаганлигини ва ўз навбатида шу йўлдаги ҳаракат қатнашчиларининг чорраҳадан биринчи ўтиш ҳуқуқи бекор бўлганини билдиради. Ҳайдовчи ушбу белги ўрнатилган жойдан бошлаб, йўлнинг қиймати ўзгариши ҳақида ахборотга ега бўлиб транспорт воситасининг тезлигини камайтириши, шунингдек, барча еҳтиёт чораларини кўриши керак."
+                        }
+                    ]
+                },
+                "order": 2
+            },
+            {
+                "id": 49,
+                "name": {
+                    "uz": "2.3.1. Ikkinchi darajali yo’l bilan kesishuv",
+                    "ru": "2.3.1. Пересечение второстепенной дорогой",
+                    "kiril": "2.3.1. Иккинчи даражали йўл билан кесишув",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "2.3.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-11_18-15-48_4NGXCJ92MY.png",
+                "road_sign_type_id": 2,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "2.3.1. \"Ikkinchi darajali yo'l bilan kesishuv\"\r\nHarakatlanish tartibga solinmagan chorrahada haydovchiga imtiyoz beruvchi bu belgi asosiy yo‘l bo‘ylab, aholi  punktlarida chorrahadan 50 -100 metr aholi punktlaridan tashqarida esa, 150 -300 metr oldin o‘rnatiladi. Belgi haydovchining asosiy yo‘ldan ketayotganini tasdiqlagani holda, ikkinchi darajali yo‘l bilan kesishuv yaqinlashayotgani va undagi kutilmagan xavf-xatardan ogohlantiradi. Shu bois, haydovchilar ushbu kesishuv yo‘llaridan o‘tishda ehtiyot choralarini ko‘rishlari shart."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "2.3.1. «Пересечение со второстепенной дорогой»  \r\nЭтот знак, устанавливаемый на главной дороге, предоставляет водителю преимущество на нерегулируемом перекрёстке.  \r\n\r\nОн размещается:  \r\n— в населённых пунктах — за 50–100 метров до перекрёстка,  \r\n— вне населённых пунктов — за 150–300 метров.  \r\n\r\nЗнак подтверждает, что водитель движется по главной дороге и предупреждает о приближении к пересечению со второстепенной дорогой, где возможны неожиданные ситуации.  \r\n\r\nПри проезде таких перекрёстков водителю следует соблюдать осторожность и быть готовым к действиям других участников движения."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "2.3.1. \"Иккинчи даражали йўл билан кесишув\"\r\nҲаракатланиш тартибга солинмаган чорраҳада ҳайдовчига имтиёз берувчи бу белги асосий йўл бўйлаб, аҳоли пунктларида чорраҳадан 50 -100 метр аҳоли пунктларидан ташқарида еса, 150 -300 метр олдин ўрнатилади. Белги ҳайдовчининг асосий йўлдан кетаётганини тасдиқлагани ҳолда, иккинчи даражали йўл билан кесишув яқинлашаётгани ва ундаги кутилмаган хавф-хатардан огоҳлантиради. Шу боис, ҳайдовчилар ушбу кесишув йўлларидан ўтишда еҳтиёт чораларини кўришлари шарт."
+                        }
+                    ]
+                },
+                "order": 3
+            },
+            {
+                "id": 50,
+                "name": {
+                    "uz": "2.3.2. tutashuv o’ngdan",
+                    "ru": "2.3.2. соединение справа",
+                    "kiril": "2.3.2. туташув ўнгдан",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "2.3.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-24-11_Q8KDKA8KSB.png",
+                "road_sign_type_id": 2,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "2.3.2, 2.3.3. “Ikkinchi darajali yo‘l bilan tutashuv”\r\n\r\n2.3.1 — 2.3.3 yo‘l belgilari aholi punktlarida kesishmagacha 50 — 100 metr masofada, aholi punktlaridan tashqarida esa 150 — 300 metr masofada o‘rnatiladi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "2.3.2, 2.3.3. «Примыкание второстепенной дороги»\r\n\r\nДорожные знаки 2.3.1 — 2.3.3 устанавливаются на расстоянии 50–100 метров до пересечения в населённых пунктах и на расстоянии 150–300 метров — вне населённых пунктов."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "2.3.2, 2.3.3. “Иккинчи даражали йўл билан туташув”\r\n\r\n2.3.1 — 2.3.3 йўл белгилари аҳоли пунктларида кесишмагача 50 — 100 метр масофада, аҳоли пунктларидан ташқарида еса 150 — 300 метр масофада ўрнатилади."
+                        }
+                    ]
+                },
+                "order": 4
+            },
+            {
+                "id": 51,
+                "name": {
+                    "uz": "2.3.3. tutashuv chapdan",
+                    "ru": "2.3.3. соединение осталось",
+                    "kiril": "2.3.3. туташув чапдан",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "2.3.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-24-27_EEF431GT2W.png",
+                "road_sign_type_id": 2,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "2.3.2, 2.3.3. “Ikkinchi darajali yo‘l bilan tutashuv”\r\n\r\n2.3.1 — 2.3.3 yo‘l belgilari aholi punktlarida kesishmagacha 50 — 100 metr masofada, aholi punktlaridan tashqarida esa 150 — 300 metr masofada o‘rnatiladi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "2.3.2, 2.3.3. «Примыкание второстепенной дороги»\r\n\r\nДорожные знаки 2.3.1 — 2.3.3 устанавливаются на расстоянии 50–100 метров до пересечения в населённых пунктах и на расстоянии 150–300 метров — вне населённых пунктов."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "2.3.2, 2.3.3. “Иккинчи даражали йўл билан туташув”\r\n\r\n2.3.1 — 2.3.3 йўл белгилари аҳоли пунктларида кесишмагача 50 — 100 метр масофада, аҳоли пунктларидан ташқарида еса 150 — 300 метр масофада ўрнатилади."
+                        }
+                    ]
+                },
+                "order": 5
+            },
+            {
+                "id": 52,
+                "name": {
+                    "uz": "2.4. Yo’l bering",
+                    "ru": "2.4. Уступи дорогу",
+                    "kiril": "2.4. Йўл беринг",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "2.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-24-42_SSVBXEVCDE.png",
+                "road_sign_type_id": 2,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "2.4. “Yo‘l bering!”.\r\n\r\n Haydovchi kesib o‘tilayotgan yo‘ldan, 7.13 qo‘shimcha-axborot belgisi bo‘lganda esa asosiy yo‘ldan harakatlanayotgan transport vositasiga yo‘l berishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "2.4. «Уступите дорогу!»  \r\n\r\nВодитель обязан уступить дорогу транспортным средствам, движущимся по пересекаемой дороге,  \r\nа при наличии дополнительной информационной таблички 7.13 — транспортным средствам, движущимся по главной дороге."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "2.4. “Йўл беринг!”.\r\n\r\n Ҳайдовчи кесиб ўтилаётган йўлдан, 7.13 қўшимча-ахборот белгиси бўлганда еса асосий йўлдан ҳаракатланаётган транспорт воситасига йўл бериши керак."
+                        }
+                    ]
+                },
+                "order": 6
+            },
+            {
+                "id": 53,
+                "name": {
+                    "uz": "2.5. To’xtamasdan harakatlanish taqiqlangan",
+                    "ru": "2.5. Запрещено ездить без остановки",
+                    "kiril": "2.5. Тўхтамасдан ҳаракатланиш тақиқланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "2.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-25-04_KABFKN9WSE.png",
+                "road_sign_type_id": 2,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "2.5. “To‘xtamasdan harakatlanish taqiqlangan”. \r\n\r\nTo‘xtash chizig‘i oldida, agar u bo‘lmasa, kesib o‘tiladigan qatnov qismining chetida to‘xtamasdan harakatlanish taqiqlanadi. Haydovchi kesib o‘tilayotgan yo‘ldan, 7.13 qo‘shimcha-axborot belgisi bo‘lganda esa asosiy yo‘ldan harakatlanayotgan transport vositalariga yo‘l berishi kerak.\r\n\r\nBu belgi temir yo‘l kesishmasi yoki karantin maskanidan oldin o‘rnatilishi mumkin. Bunday hollarda haydovchi to‘xtash chizig‘i oldida, u bo‘lmasa, belgi oldida to‘xtashi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "2.5. «Движение без остановки запрещено»  \r\n\r\nЗапрещается проезжать без остановки перед стоп-линией, а при её отсутствии — у края пересекаемой проезжей части.  \r\nВодитель обязан уступить дорогу транспортным средствам, движущимся по пересекаемой дороге,  \r\nа при наличии дополнительной информационной таблички 7.13 — транспортным средствам, движущимся по главной дороге.\r\n\r\nЭтот знак может устанавливаться перед железнодорожным переездом или зоной карантина. В таких случаях водитель должен остановиться перед стоп-линией, а если она отсутствует — непосредственно перед знаком."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "2.5. “Тўхтамасдан ҳаракатланиш тақиқланган”. \r\n\r\nТўхташ чизиғи олдида, агар у бўлмаса, кесиб ўтиладиган қатнов қисмининг четида тўхтамасдан ҳаракатланиш тақиқланади. Ҳайдовчи кесиб ўтилаётган йўлдан, 7.13 қўшимча-ахборот белгиси бўлганда еса асосий йўлдан ҳаракатланаётган транспорт воситаларига йўл бериши керак.\r\n\r\nБу белги темир йўл кесишмаси ёки карантин масканидан олдин ўрнатилиши мумкин. Бундай ҳолларда ҳайдовчи тўхташ чизиғи олдида, у бўлмаса, белги олдида тўхташи керак."
+                        }
+                    ]
+                },
+                "order": 7
+            },
+            {
+                "id": 54,
+                "name": {
+                    "uz": "2.6. Ro’para harakatlanishning ustunligi",
+                    "ru": "2.6. Преимущество движения лицом к лицу",
+                    "kiril": "2.6. Рўпара ҳаракатланишнинг устунлиги",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "2.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-25-12_GM1CSPSNS3.png",
+                "road_sign_type_id": 2,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "2.6. “Ro‘para harakatlanishning ustunligi”.\r\n\r\n Qarama-qarshi harakatlanishni qiyinlashtiradigan hollarda yo‘lning tor qismiga kirish taqiqlanadi. Haydovchi yo‘lning tor qismida bo‘lgan yoki ro‘paradan unga yaqin bo‘lgan transport vositasiga yo‘l berishi kerak."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "2.6. «Преимущество встречного движения»  \r\n\r\nВ случае затруднённого разъезда на узком участке дороги въезд на этот участок запрещается.  \r\nВодитель обязан уступить дорогу транспортному средству, находящемуся на этом участке или приближающемуся к нему со встречного направления."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "2.6. “Рўпара ҳаракатланишнинг устунлиги”.\r\n\r\n Қарама-қарши ҳаракатланишни қийинлаштирадиган ҳолларда йўлнинг тор қисмига кириш тақиқланади. Ҳайдовчи йўлнинг тор қисмида бўлган ёки рўпарадан унга яқин бўлган транспорт воситасига йўл бериши керак."
+                        }
+                    ]
+                },
+                "order": 8
+            },
+            {
+                "id": 55,
+                "name": {
+                    "uz": "2.7. Ro’paradagi harakatlanishga nisbatan imtiyoz",
+                    "ru": "2.7. Привилегия по встречному движению",
+                    "kiril": "2.7. Рўпарадаги ҳаракатланишга нисбатан имтиёз",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "2.7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-12_12-25-20_XDNHXXVVVM.png",
+                "road_sign_type_id": 2,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "2.7. “Ro‘paradagi harakatlanishga nisbatan imtiyoz”. \r\n\r\nYo‘lning tor qismida harakatlanishda haydovchi ro‘paradan kelayotgan transport vositasiga nisbatan imtiyozga egaligini bildiradi."
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "2.7. «Преимущество перед встречным движением»  \r\n\r\nЭтот знак указывает, что при движении по узкому участку дороги водитель имеет преимущество перед транспортными средствами, движущимися во встречном направлении."
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "2.7. “Рўпарадаги ҳаракатланишга нисбатан имтиёз”. \r\n\r\nЙўлнинг тор қисмида ҳаракатланишда ҳайдовчи рўпарадан келаётган транспорт воситасига нисбатан имтиёзга егалигини билдиради."
+                        }
+                    ]
+                },
+                "order": 9
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}

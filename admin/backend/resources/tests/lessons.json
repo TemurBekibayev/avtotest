@@ -1,0 +1,164 @@
+{
+    "status": 1,
+    "data": [
+        {
+            "id": 71,
+            "lesson": {
+                "id": 13,
+                "name": {
+                    "uz": "Yo'l harakati sohasidagi qonunchilik asoslari",
+                    "ru": "Законодательство в сфере дорожного движения",
+                    "kiril": "Йўл ҳаракати соҳасидаги қонунчилик асослари"
+                },
+                "short_name": "QA"
+            }
+        },
+        {
+            "id": 23,
+            "lesson": {
+                "id": 25,
+                "name": {
+                    "uz": "Haydovchi faoliyatining psixofiziologik asoslari",
+                    "ru": "Психофизиологические основы деятельности водителей",
+                    "kiril": "Ҳайдовчи фаолиятининг психофизиологик асослари"
+                },
+                "short_name": "HFPA"
+            }
+        },
+        {
+            "id": 45,
+            "lesson": {
+                "id": 15,
+                "name": {
+                    "uz": "Haydovchi madaniyati",
+                    "ru": "Этика и культура водителя 2",
+                    "kiril": "Ҳайдовчининг маданияти ва этикаси"
+                },
+                "short_name": "HM va E"
+            }
+        },
+        {
+            "id": 80,
+            "lesson": {
+                "id": 26,
+                "name": {
+                    "uz": "Yo'l –transport hodisasida birinchi yordam",
+                    "ru": "Оказание первой медицинской помощи при ДТП",
+                    "kiril": "Йўл –транспорт ҳодисасида биринчи ёрдам"
+                },
+                "short_name": "YHBYK"
+            }
+        },
+        {
+            "id": 150,
+            "lesson": {
+                "id": 1000,
+                "name": {
+                    "uz": "Sinov",
+                    "ru": "Sinov",
+                    "kiril": "Sivon"
+                },
+                "short_name": "Sinov"
+            }
+        },
+        {
+            "id": 21,
+            "lesson": {
+                "id": 55,
+                "name": {
+                    "uz": "Avtotransport vositalarining tuzilishi va ularga texnik xizmat ko'rsatish",
+                    "ru": "Устройство и техническое обслуживание автопоездов",
+                    "kiril": "Автотранспорт воситаларининг тузилиши ва уларга техник хизмат кўрсатиш"
+                },
+                "short_name": "AT vaTXK"
+            }
+        },
+        {
+            "id": 19,
+            "lesson": {
+                "id": 19,
+                "name": {
+                    "uz": "Avtotransport vositalarini xavfsiz boshqarish va harakat xavfsizligi asoslari",
+                    "ru": "Основы безопасности движения и безопасного управления",
+                    "kiril": "Автотранспорт воситаларини хавфсиз бошқариш ва ҳаракат хавфсизлиги асослари"
+                },
+                "short_name": "AXB va HXA"
+            }
+        },
+        {
+            "id": 58,
+            "lesson": {
+                "id": 54,
+                "name": {
+                    "uz": "Tashishlarni tashkil etish asoslari",
+                    "ru": "Организация перевозок",
+                    "kiril": "Ташишларни ташкил этиш асослари"
+                },
+                "short_name": "TTE"
+            }
+        },
+        {
+            "id": 32,
+            "lesson": {
+                "id": 14,
+                "name": {
+                    "uz": "Haydovchining huquqiy javobgarligi",
+                    "ru": "Правовая ответственность водителей",
+                    "kiril": "Ҳайдовчининг ҳуқуқий жавобгарлиги"
+                },
+                "short_name": "HHJ"
+            }
+        },
+        {
+            "id": 151,
+            "lesson": {
+                "id": 1000,
+                "name": {
+                    "uz": "Sinov",
+                    "ru": "Sinov",
+                    "kiril": "Sivon"
+                },
+                "short_name": "Sinov"
+            }
+        },
+        {
+            "id": 62,
+            "lesson": {
+                "id": 17,
+                "name": {
+                    "uz": "Yo'l harakati qoidalari",
+                    "ru": "Правила дорожного движения",
+                    "kiril": "Йўл ҳаракати қоидалари"
+                },
+                "short_name": "YHQ"
+            }
+        },
+        {
+            "id": 136,
+            "lesson": {
+                "id": 144,
+                "name": {
+                    "uz": "Yakuniy",
+                    "ru": "Yakuniy",
+                    "kiril": "Yakuniy"
+                },
+                "short_name": "Y"
+            }
+        },
+        {
+            "id": 152,
+            "lesson": {
+                "id": 1001,
+                "name": {
+                    "uz": "Amaliy boshqaruv",
+                    "ru": "Amaliy boshqaruv",
+                    "kiril": "Amaliy boshqaruv"
+                },
+                "short_name": "Amaliy boshqaruv"
+            }
+        }
+    ],
+    "message": "Success",
+    "response_code": 200
+}
+

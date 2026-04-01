@@ -1,0 +1,606 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 13,
+        "total_pages": 48,
+        "total_items": 475,
+        "show_count": "10",
+        "data": [
+            {
+                "id": 11721,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu chorrahada chapga burilishga ruxsat etiladimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11721.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188366,
+                        "newtest_question_id": 11721,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat etiladi"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188367,
+                        "newtest_question_id": 11721,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQ 1-ilovasi 4-bo‘limining birinchi va sakkizinchi xatboshlariga asosan: 4.1.1. “Harakatlanish to‘g‘riga”. 4.1.1 yo‘l belgisi qatnov qismining qaysi kesishmasi oldiga o‘rnatilsa, shu kesishmaga joriy qilinadi. Yo‘lning qismi boshlanishida o‘rnatilgan 4.1.1 belgisining ta’siri yaqin chorrahagacha joriy qilinadi. Belgi o‘ng tomonda joylashgan hovlilarga va yo‘lga yondosh boshqa hududlarga burilishni taqiqlamaydi.",
+                "answer_video": "/storage/tests/videos changed/11721.mp4"
+            },
+            {
+                "id": 11718,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qizil avtomobil haydovchisi qaysi yo‘nalishlarda harakatlanishiga ruxsat berilgan?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11718.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188396,
+                        "newtest_question_id": 11718,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat chapga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188397,
+                        "newtest_question_id": 11718,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Chapga va qayrilib olishga"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188398,
+                        "newtest_question_id": 11718,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "To‘g‘riga va chapga"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQ 2 ilova: Yo‘l belgilarining, shu jumladan, vaqtincha yo‘l belgilarining va yotiq yo‘l chiziqlarining ma’nolari bir-biriga zid kelgan hollarda yoki yo‘l chiziqlarini yetarlicha farqlab bo‘lmasa, haydovchilar yo‘l belgilariga amal qilishlari kerak. YHQ 1 ilova: 5.8.1. “Tasmalar bo‘yicha harakat yo‘nalishi”. Tasmalar soni va har biri bo‘yicha ruxsat etilgan harakatlanish yo‘nalishlari. Boshqa yo‘nalishlar bo‘yicha harakatlanish taqiqlanadi. Yo‘lning chetki chap bo‘lagidan chapga burilishga ruxsat beruvchi 5.8.1 va 5.8.2 belgilari shu tasmadan qayrilishga ham ruxsat beradi.",
+                "answer_video": "/storage/tests/videos changed/11718.mp4"
+            },
+            {
+                "id": 11715,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi transport vositalariga yo‘lovchilarni tushirishga ruxsat etiladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11715.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188392,
+                        "newtest_question_id": 11715,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "“A”"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188393,
+                        "newtest_question_id": 11715,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "“B”"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188394,
+                        "newtest_question_id": 11715,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "“C”"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188395,
+                        "newtest_question_id": 11715,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Hech qaysi biriga"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQ 13-bobi 88-bandi: Aholi punktlarida o‘rtada tramvay yo‘li bo‘lmagan, har yo‘nalishda bittadan tasmasi bo‘lgan, Shuningdek, bir tomonlama harakat tashkil etilgan yo‘llarda yo‘lning chap tomonida to‘xtash va to‘xtab turishga ruxsat etiladi. YHQ 17.1-bobi 115.1-bandi: Yo‘nalishli transport vositalari uchun alohida ajratilgan tasmasi bor yo‘ldan yo‘nalishli jamoat transporti vositalari harakatlanishi mumkin. Boshqa transport vositalari ushbu yo‘lakda harakatlanishi taqiqlanadi, bundan tezkor va maxsus xizmatlarning transport vositalari mustasno.",
+                "answer_video": "/storage/tests/videos changed/11715.mp4"
+            },
+            {
+                "id": 11712,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi transport vositasining haydovchisi aholi punktlarida to‘xtash qoidasini buzmoqda?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11712.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188383,
+                        "newtest_question_id": 11712,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Sariq avtomobil haydovchisi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188384,
+                        "newtest_question_id": 11712,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘k avtomobil haydovchisi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188385,
+                        "newtest_question_id": 11712,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkisi buzmadi"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188386,
+                        "newtest_question_id": 11712,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkisi buzdi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQ 13-bobi 88-bandi: Aholi punktlarida o‘rtada tramvay yo‘li bo‘lmagan, har yo‘nalishda bittadan tasmasi bo‘lgan, Shuningdek, bir tomonlama harakat tashkil etilgan yo‘llarda yo‘lning chap tomonida to‘xtash va to‘xtab turishga ruxsat etiladi. YHQ 1 ilova: 7.18. “Nogironlar mustasno”. Belgilarning ta’siri ushbu Qoidalarning 175-bandiga muvofiq “Nogiron” taniqlik belgisi o‘rnatilgan transport vositalariga joriy etilmaydi.",
+                "answer_video": "/storage/tests/videos changed/11712.mp4"
+            },
+            {
+                "id": 11709,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi rasmda haydovchi belgi talabini buzmay to‘xtadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11709.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 1,
+                "answers": [
+                    {
+                        "id": 188376,
+                        "newtest_question_id": 11709,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 1-rasmda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188377,
+                        "newtest_question_id": 11709,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 2-rasmda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188378,
+                        "newtest_question_id": 11709,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkala rasmda"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQ 1 ilova: 2.5. “To‘xtamasdan harakatlanish taqiqlangan”. To‘xtash chizig‘i oldida, agar u bo‘lmasa, kesib o‘tiladigan qatnov qismining chetida to‘xtamasdan harakatlanish taqiqlanadi. Haydovchi kesib o‘tilayotgan yo‘ldan, 7.13 qo‘shimcha-axborot belgisi bo‘lganda esa asosiy yo‘ldan harakatlanayotgan transport vositalariga yo‘l berishi kerak. Bu belgi temir yo‘l kesishmasi yoki karantin maskanidan oldin o‘rnatilishi mumkin. Bunday hollarda haydovchi to‘xtash chizig‘i oldida, u bo‘lmasa, belgi oldida to‘xtashi kerak.",
+                "answer_video": "/storage/tests/videos changed/11709.mp4"
+            },
+            {
+                "id": 11706,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Haydovchi poyezdni o‘tkazib yuborishi uchun to‘g‘ri to‘xtaganmi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11706.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188374,
+                        "newtest_question_id": 11706,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ha"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188375,
+                        "newtest_question_id": 11706,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Yo‘q"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQ 18-bobi 119-bandi: Kesishma orqali harakatlanish taqiqlangan hollarda haydovchi to‘xtash chizig‘i, 2.5 yo‘l belgisi yoki svetofor oldida to‘xtashi kerak. Agar ular bo‘lmasa, shlagbaumga kamida 5 metr, Shlagbaum bo‘lmaganda esa birinchi temir yo‘l iziga kamida 10 metr qolganda to‘xtashi kerak.",
+                "answer_video": "/storage/tests/videos changed/11706.mp4"
+            },
+            {
+                "id": 11703,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Harakatlanish vaqtida velosipedchi bilan avtomobil yo‘llari kesishganda kim yo‘l berishi kerak?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11703.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188368,
+                        "newtest_question_id": 11703,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Avtomobil"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188369,
+                        "newtest_question_id": 11703,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Velosipedchilar"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188370,
+                        "newtest_question_id": 11703,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "O‘zaro kelishib o‘tishadi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQ 28-bobi 169-bandi: Chorrahadan tashqaridagi tartibga solinmagan velosiped yo‘lkasi bilan yo‘l kesishmasida velosiped va individual harakatlanish vositalari yo‘lda harakatlanayotgan boshqa transport vositalariga yo‘l berishlari kerak. Velosiped yo‘lkasi va piyodalar yo‘lkasi (trotuar) o‘zaro kesishgan holatlarda velosiped va individual harakatlanish vositasi piyodaga yo‘l berishi kerak.",
+                "answer_video": "/storage/tests/videos changed/11703.mp4"
+            },
+            {
+                "id": 11700,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu transport vositasi qaysi yo‘nalishda harakatlanishiga ruxsat etiladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11700.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188349,
+                        "newtest_question_id": 11700,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat chapga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188350,
+                        "newtest_question_id": 11700,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "To‘g‘riga va chapga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188351,
+                        "newtest_question_id": 11700,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat chapga va qayrilib olishga"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188352,
+                        "newtest_question_id": 11700,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Barcha yo‘nalishlarga"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQ 2 ilova: Yo‘l belgilarining, shu jumladan, vaqtincha yo‘l belgilarining va yotiq yo‘l chiziqlarining ma’nolari bir-biriga zid kelgan hollarda yoki yo‘l chiziqlarini yetarlicha farqlab bo‘lmasa, haydovchilar yo‘l belgilariga amal qilishlari kerak. YHQ 1 ilova: 5.8.1. “Tasmalar bo‘yicha harakat yo‘nalishi” Tasmalar soni va har biri bo‘yicha ruxsat etilgan harakatlanish yo‘nalishlari. Boshqa yo‘nalishlar bo‘yicha harakatlanish taqiqlanadi. Yo‘lning chetki chap bo‘lagidan chapga burilishga ruxsat beruvchi 5.8.1 va 5.8.2 belgilar shu tasmadan qayrilishga ham ruxsat beradi.",
+                "answer_video": "/storage/tests/videos changed/11700.mp4"
+            },
+            {
+                "id": 11697,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi yo‘nalish bo‘yicha burilish mumkin?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11697.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188346,
+                        "newtest_question_id": 11697,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat “A”"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 188347,
+                        "newtest_question_id": 11697,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat “B”"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188348,
+                        "newtest_question_id": 11697,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkala sanab o‘tilgan hollarda"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQ 1 ilova: 5.37. “Reversiv harakatlanish yo‘liga chiqish”. YHQ 2 ilova: 1.9 — reversiv harakat tashkil etilgan bo‘laklarning chegarasini belgilaydi; reversiv harakatlanish amalga oshirilgan yo‘llarda (reversiv svetofori o‘chirigan holatda) qarama-qarshi yo‘nalishdagi transport oqimini ajratadi.тYHQ 10-bobi 71-bandi: Reversiv harakatlanishli yo‘lga burilishda haydovchi transport vositasini shunday boshqarishi kerakki, bunda transport vositasi qatnov qismlari kesishmasidan chiqishda chetki o‘ng qatorni egallashi kerak. Shu yo‘nalishdagi boshqa tasmalardan ham harakatlanish ruxsat etilganiga ishonch hosil qilingandan keyingina haydovchiga qayta tizilishga ruxsat etiladi.",
+                "answer_video": "/storage/tests/videos changed/11697.mp4"
+            },
+            {
+                "id": 11694,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu joyda quvib o‘tishga ruxsat beriladimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/storage/tests/images changed/tests/11694.jpg"
+                    }
+                ],
+                "comment": null,
+                "static_order_answers": 0,
+                "answers": [
+                    {
+                        "id": 188343,
+                        "newtest_question_id": 11694,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat beriladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188344,
+                        "newtest_question_id": 11694,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Oldindagi transport vositasi tezligi 40 km/s dan kam bo‘lsa"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 188345,
+                        "newtest_question_id": 11694,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQ 2 ilova: 1.1 — qarama-qarshi yo‘nalishlarda harakatlanayotgan transport oqimlarini ajratadi, yo‘lning xavfli joylaridagi harakatlanish bo‘lagi chegarasini va velosipedchilar uchun bo‘lagining chegarasini bildiradi; yo‘lning kirish taqiqlangan qismi chegarasini belgilaydi; transport vositalarining to‘xtab turish joyi chegarasini hamda avtomagistral qatoriga kiritilmagan yo‘lning qatnov qismi chegarasini bildiradi. YHQ 12-bobi 86-bandi: Quvib o‘tish quyidagi hollarda taqiqlanadi: tartibga solingan chorrahalarda; tartibga solinmaydigan chorrahalarda asosiy hisoblanmaydigan yo‘llarda harakatlanishda; ko‘priklarda, yo‘l o‘tkazgichlarda, estakadalarda va ularning ostida; piyodalar o‘tish joylarida; temir yo‘l kesishmalarida va ulargacha 100 metrdan kam masofa qolganda; quvib yoki aylanib o‘tayotgan transport vositalarini; tepalikning oxirida va yo‘lning ko‘rinishi cheklangan joylarida; 3.20 va 3.22 yo‘l belgilari ta’sir oralig‘ida.",
+                "answer_video": "/storage/tests/videos changed/11694.mp4"
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}
+

@@ -1,0 +1,1887 @@
+{
+    "status": 1,
+    "data": {
+        "current_page": 1,
+        "total_pages": 2,
+        "total_items": 57,
+        "show_count": "50",
+        "data": [
+            {
+                "id": 215,
+                "name": {
+                    "uz": "7.1.1 Manzilgacha bo’lgan masofa",
+                    "ru": "7.1.1 Расстояние до пункта назначения",
+                    "kiril": "7.1.1 Манзилгача бўлган масофа",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.1.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-13_16-30-00_XG6GFK6R14.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.1 «Obyektgacha bo‘lgan masofa» &nbsp;</strong></li></ul><p>belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida obyektgacha bo‘lgan masofani ko‘rsatuvchi raqam yozilgan.<strong> 7.1.1 «Obyektgacha bo‘lgan masofa»</strong> belgisi belgidan yo‘lning xavfli joyi, yo‘l harakatiga tegishli cheklovlar kiritiladigan joyi yoki harakat yo‘nalishi bo‘yicha oldindagi muayyan joygacha bo‘lgan masofani ko‘rsatadi. 7.1.1 belgisi juda kam, lekin ba’zan ogohlantiruvchi belgilar bilan belgi o‘rnatilgan joydan yo‘lning xavfli qismining boshigacha bo‘lgan masofani kamaytirish yoki oshirish maqsadida qo‘llaniladi. Shu sababli, shuni ta’kidlash kerakki, <strong>«Obyektgacha bo‘lgan masofa»</strong> belgisidan foydalanish orqali, ogohlantiruvchi belgilarini o‘rnatishning umumiy qoidalari bekor qilinadi. Darhaqiqat, aholi punktlarida uchburchak shakldagi ogohlantiruvchi belgilar yo‘lning xavfli qismidan <strong>50–100 m</strong> oldin, aholi punktlaridan tashqarida esa 150–300 m masofada o‘rnatiladi.<strong> 7.1.1 </strong>belgisi uchburchak shakldagi ogohlantiruvchi belgilar bilan qo‘llanilganda, u yo‘lning xavfli qismigacha bo‘lgan alohida masofani ko‘rsatadi. Bu yo‘l harakati xavfsizligini ta’minlash, haydovchini yo‘lning xavfli qismiga yaqinlashish to‘g‘risida o‘z vaqtida ogohlantirish uchun amalga oshiriladi.</p><p><strong>7.1.1 «Obyektgacha bo‘lgan masofa»</strong> belgisi boshqa guruhlardagi belgilar bilan ham qo‘llanlishi mumkin. Masalan, taqiqlovchi belgilar bilan, bu holatda cheklov taqiqlovchi belgi o‘rnatilgan joydan emas, balki biroz keyinroq, belgida ko‘rsatilgan masofadan keyin kuchga kirishini bildiradi. Xuddi shunday, bu belgi axborot ko‘rsatkich belgilari bilan ham ishlatilishi mumkin.</p><p><strong>7.1.1</strong> belgisining ma’nosini tushunishni osonlashtirish uchun uning mazmunini <strong>«...dan»</strong> kelishigi bilan bog‘lash mumkin, masalan: belgida ko‘rsatilgan ma’lum masofa dan keyin qandaydir tartib (asosiy belgi bilan belgilanadi) joriy etilishini bildiradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.1.&nbsp;\"Расстояние&nbsp;до&nbsp;объекта\"</strong></li></ul><p>знак имеет прямоугольную форму с черной каймой. В центре прямоугольника написано число, обозначающее расстояние до объекта.</p><p>Знак <strong>7.1.1 «Расстояние до объекта»</strong> указывает расстояние от знака до начала опасного участка, места введения соответствующего ограничения или определенного объекта (места), находящегося впереди по ходу движения.</p><p>Знак <strong>7.1.1</strong> очень редко, но все же применяется с предупреждающими знаками — для уменьшения или увеличения расстояния от места установки знака до начала опасного участка дороги. В связи с этим необходимо обратить внимание, что при таком использовании знака <strong>«Расстояние до объекта»&nbsp;</strong>отменяет общие правила установки предупреждающих знаков. Ведь в населенном пункте предупреждающие знаки треугольной формы устанавливаются за 50–100 м до опасного участка дороги, а вне населенного пункта дистанция будет 150–300 м. При комбинации знака <strong>7.1.1</strong> с треугольным предупреждающим знаком она укажет иное, свое, расстояние до опасного участка. Делается это с целью обеспечения безопасности дорожного движения, чтобы водитель был своевременно предупрежден о приближении к опасному участку дороги.</p><p>Знак <strong>7.1.1 «Расстояние до объекта»</strong> может использоваться и со знаками других групп. Например, с запрещающими знаками, указывая, что запрет будет введен не с места установки запрещающего знака, а немного позже, через указанное на знаке расстояние. Аналогичным способом данный знак применяется и с информационно-указательными знаками.</p><p>Для простоты понимания значения знака <strong>7.1.1 </strong>ее информацию следует соотносить с предлогом &nbsp;<strong>«через»</strong>, например: <strong>через</strong> определенное расстояние, указанное на знаке, на дороге будет вводиться какой-то режим регулирования (установленный основным знаком).</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.1 «Объектгача бўлган масофа»</strong></li></ul><p>белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида объектгача бўлган масофани кўрсатувчи рақам ёзилган. <strong>7.1.1 «Объектгача бўлган масофа»</strong> белгиси белгидан йўлнинг хавфли жойи, йўл ҳаракатига тегишли чекловлар киритиладиган жойи ёки ҳаракат йўналиши бўйича олдиндаги муайян жойгача бўлган масофани кўрсатади. <strong>7.1.1</strong> белгиси жуда кам, лекин баъзан огоҳлантирувчи белгилар билан белги ўрнатилган жойдан йўлнинг хавфли қисмининг бошигача бўлган масофани камайтириш ёки ошириш мақсадида қўлланилади. Шу сабабли, шуни таъкидлаш керакки, <strong>«Объектгача бўлган масофа»</strong> белгисидан фойдаланиш орқали, огоҳлантирувчи белгиларини ўрнатишнинг умумий қоидалари бекор қилинади. Дарҳақиқат, аҳоли пунктларида учбурчак шаклдаги огоҳлантирувчи белгилар йўлнинг хавфли қисмидан 50–100 м олдин, аҳоли пунктларидан ташқарида эса 150–300 м масофада ўрнатилади. <strong>7.1.1</strong> белгиси учбурчак шаклдаги огоҳлантирувчи белгилар билан қўлланилганда, у йўлнинг хавфли қисмигача бўлган алоҳида масофани кўрсатади. Бу йўл ҳаракати хавфсизлигини таъминлаш, ҳайдовчини йўлнинг хавфли қисмига яқинлашиш тўғрисида ўз вақтида огоҳлантириш учун амалга оширилади.</p><p><strong>7.1.1 «Объектгача бўлган масофа»</strong> белгиси бошқа гуруҳлардаги белгилар билан ҳам қўлланлиши мумкин. Масалан, тақиқловчи белгилар билан, бу ҳолатда чеклов тақиқловчи белги ўрнатилган жойдан эмас, балки бироз кейинроқ, белгида кўрсатилган масофадан кейин кучга киришини билдиради. Худди шундай, бу белги ахборот кўрсаткич белгилари билан ҳам ишлатилиши мумкин.</p><p><strong>7.1.1</strong> белгисининг маъносини тушунишни осонлаштириш учун унинг мазмунини <strong>«...дан»</strong> келишиги билан боғлаш мумкин, масалан: белгида кўрсатилган маълум масофа <strong>дан </strong>кейин қандайдир тартиб (асосий белги билан белгиланади) жорий этилишини билдиради.</p>"
+                        }
+                    ]
+                },
+                "order": 1
+            },
+            {
+                "id": 216,
+                "name": {
+                    "uz": "7.1.2 Manzilgacha bo’lgan masofa",
+                    "ru": "7.1.2 Расстояние до пункта назначения",
+                    "kiril": "7.1.2 Манзилгача бўлган масофа",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.1.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-47-37_AMS19M3Z7D.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.2.“Obyektgacha bo‘lgan masofa”</strong></li></ul><p>Agar chorraha yoki kesishma oldida 2.5. \"To'xtamasdan o'tish taqiqlanadi\" yo'l belgisi o'rnatilgan bo'lsa, ushbu qo'shimcha axborot belgisi 2.4. \"Yo'l bering\" belgisi bilan birga o'rnatilib, to'xtab o'tish shart bo'lgan chorrahagacha bo'lgan aniq masofani ko'rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.2 &nbsp;Расстояние до объекта</strong></li></ul><p>2,5 перед перекрестком &nbsp;Это дополнительный информационный знак, если установлен дорожный знак «Переход запрещен».</p><p>2.4. Устанавливается вместе со знаком «Разрешить», указывает точное расстояние до перекрестка, на котором требуется остановка.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.2. “Объектгача бўлган масофа”</strong></li></ul><p>Агар чорраҳа ёки кесишма олдида 2.5. \"Тўхтамасдан ўтиш тақиқланади\" йўл белгиси ўрнатилган бўлса, ушбу қўшимча ахборот белгиси 2.4. \"Йўл беринг\" белгиси билан бирга ўрнатилиб, тўхтаб ўтиш шарт бўлган чорраҳагача бўлган аниқ масофани кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 2
+            },
+            {
+                "id": 217,
+                "name": {
+                    "uz": "7.1.3 Manzilgacha bo’lgan masofa",
+                    "ru": "7.1.3 Расстояние до пункта назначения",
+                    "kiril": "7.1.3 Манзилгача бўлган масофа",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.1.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-47-57_WFDBTSJEEN.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.3, 7.1.4. «Obyektgacha bo‘lgan masofa»</strong></li></ul><p>7.1.3, 7.1.4. «Obyektgacha bo‘lgan masofa» belgilari ogohlantiruvchi belgilar bilan yo‘lning xavfli qismiga burilish oldidan qo‘llaniladi, <strong>5.1, 5.3</strong>, <strong>5.15</strong> belgilari bilan ko‘rsatilayotgan obyektlarga burilish oldidan va <strong>5.16, 5.17</strong> belgilari bilan yaqin oradagi piyodalar o‘tish joyigacha bo‘lgan masofani ko‘rsatish uchun qo‘llaniladi. &nbsp;<strong>7.1.3, 7.1.4</strong>. <strong>«Obyektgacha bo‘lgan masofa»</strong> belgilarida qatnov qismining burilish joyidan yo‘ldan chetda joylashgan manzilgacha bo‘lgan masofalar ko‘rsatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.3, 7.1.4. «Расстояние до объекта»</strong></li></ul><p>Знаки <strong>7.1.3</strong> и <strong>7.1.4</strong> «Расстояние до объекта» применяются с предупреждающими знаками в местах поворота в сторону опасных участков дороги, со знаками<strong> 5.1, 5.3, 5.15</strong> в местах поворота к указываемым объектам и <strong>5.16, 5.17</strong> в местах, где целесообразно указать расстояние до ближайшего пешеходного перехода. &nbsp;Знаки&nbsp;<strong>7.1.3</strong> и <strong>7.1.4</strong> <strong>\"Расстояние до объекта\"</strong> указывают расстояние от края проезжей части, с которой осуществляется поворот, до объекта, расположенного у дороги.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.3, 7.1.4. «Объектгача бўлган масофа»</strong></li></ul><p><strong>7.1.3, 7.1.4. </strong>«Объектгача бўлган масофа» белгилари огоҳлантирувчи белгилар билан йўлнинг хавфли қисмига бурилиш олдидан қўлланилади, <strong>5.1</strong>, <strong>5.3</strong>, <strong>5.15</strong> белгилари билан кўрсатилаётган объектларга бурилиш олдидан ва <strong>5.16</strong>,<strong> 5.17</strong> белгилари билан яқин орадаги пиёдалар ўтиш жойигача бўлган масофани кўрсатиш учун қўлланилади. &nbsp;<strong>7.1.3, 7.1.4</strong>.<strong> «Объектгача бўлган масофа»</strong> белгиларида қатнов қисмининг бурилиш жойидан йўлдан четда жойлашган манзилгача бўлган масофалар кўрсатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 3
+            },
+            {
+                "id": 218,
+                "name": {
+                    "uz": "7.1.4 Manzilgacha bo’lgan masofa",
+                    "ru": "7.1.4 Расстояние до пункта назначения",
+                    "kiril": "7.1.4 Манзилгача бўлган масофа",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.1.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-48-14_JS5P7WPPRQ.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.3, 7.1.4. «Obyektgacha bo‘lgan masofa»</strong></li></ul><p>7.1.3, 7.1.4. «Obyektgacha bo‘lgan masofa» belgilari ogohlantiruvchi belgilar bilan yo‘lning xavfli qismiga burilish oldidan qo‘llaniladi, <strong>5.1, 5.3</strong>, <strong>5.15</strong> belgilari bilan ko‘rsatilayotgan obyektlarga burilish oldidan va <strong>5.16, 5.17</strong> belgilari bilan yaqin oradagi piyodalar o‘tish joyigacha bo‘lgan masofani ko‘rsatish uchun qo‘llaniladi. &nbsp;<strong>7.1.3, 7.1.4</strong>. <strong>«Obyektgacha bo‘lgan masofa»</strong> belgilarida qatnov qismining burilish joyidan yo‘ldan chetda joylashgan manzilgacha bo‘lgan masofalar ko‘rsatiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.3, 7.1.4. «Расстояние до объекта»</strong></li></ul><p>Знаки <strong>7.1.3</strong> и <strong>7.1.4</strong> «Расстояние до объекта» применяются с предупреждающими знаками в местах поворота в сторону опасных участков дороги, со знаками<strong> 5.1, 5.3, 5.15</strong> в местах поворота к указываемым объектам и <strong>5.16, 5.17</strong> в местах, где целесообразно указать расстояние до ближайшего пешеходного перехода. &nbsp;Знаки&nbsp;<strong>7.1.3</strong> и <strong>7.1.4</strong> <strong>\"Расстояние до объекта\"</strong> указывают расстояние от края проезжей части, с которой осуществляется поворот, до объекта, расположенного у дороги.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.1.3, 7.1.4. «Объектгача бўлган масофа»</strong></li></ul><p><strong>7.1.3, 7.1.4. </strong>«Объектгача бўлган масофа» белгилари огоҳлантирувчи белгилар билан йўлнинг хавфли қисмига бурилиш олдидан қўлланилади, <strong>5.1</strong>, <strong>5.3</strong>, <strong>5.15</strong> белгилари билан кўрсатилаётган объектларга бурилиш олдидан ва <strong>5.16</strong>,<strong> 5.17</strong> белгилари билан яқин орадаги пиёдалар ўтиш жойигача бўлган масофани кўрсатиш учун қўлланилади. &nbsp;<strong>7.1.3, 7.1.4</strong>.<strong> «Объектгача бўлган масофа»</strong> белгиларида қатнов қисмининг бурилиш жойидан йўлдан четда жойлашган манзилгача бўлган масофалар кўрсатилади.</p>"
+                        }
+                    ]
+                },
+                "order": 4
+            },
+            {
+                "id": 219,
+                "name": {
+                    "uz": "7.2.1 Ta’sir oralig’i",
+                    "ru": "7.2.1 Дальность удара",
+                    "kiril": "7.2.1 Таъсир оралиғи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.2.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-48-44_MWK9SM9TU7.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.2.1. \"Ta'sir oralig'i\"</strong></li></ul><p>Ushbu qo'shimcha axborot belgisi ogohlantiruvchi, taqiqlovchi, buyuruvchi, xborot – ishora belgilari bilan birgalikda qo'llanilgan holda, o'rnatilgan belgilarning ta'sir oralig'i&nbsp; masofasini ko'rsatadi.</p><p>&nbsp;</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.2.1. «Зона действия»</strong></li></ul><p>Этот дополнительный информационный знак при использовании совместно с предупредительными, запрещающими, предписывающими, информационно-знаковыми знаками указывает на дальность действия установленных знаков.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.2.1. \"Таъсир оралиғи\"</strong></li></ul><p>Ушбу қўшимча ахборот белгиси огоҳлантирувчи, тақиқловчи, буюрувчи, хборот – ишора белгилари билан биргаликда қўлланилган ҳолда, ўрнатилган белгиларнинг таъсир оралиғи&nbsp; масофасини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 5
+            },
+            {
+                "id": 220,
+                "name": {
+                    "uz": "7.2.2 Ta’sir oralig’i",
+                    "ru": "7.2.2 Дальность удара",
+                    "kiril": "7.2.2 Таъсир оралиғи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.2.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-49-07_3FUGUQJDAZ.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.2. \"Ta'sir oralig'i\"</strong></p><p>Ushbu qo'shimcha axborot belgisi faqat taqiqlovchi, jumladan <i><strong>3.27. \"To'xtash taqiqlangan\", 3.28. \"To'xtab turish taqiqlangan\", 3.29. \"Oyning toq kunlarida to'xtab turish taqiqlanadi\" va 3.30. \"Oyning juft kunlarida to'xtab turish taqiqlanadi\"</strong></i> yo'l belgilari bilan birga qo'yilib, ularga amal qilish kerak bo'lgan oraliq masofani ko'rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.2. «Зона действия»</strong></p><p>Данный дополнительный информационный знак является только запрещающим, в том числе и 3.27. \"Остановка запрещена\", 3.28. \"Стоянка запрещена\", 3.29. \"Стоянка запрещена в нечетные дни месяца\" и 3.30. \"Стоянка запрещена по четным числам месяца\", сопровождаемая дорожными знаками, запрещающими область действия знаков указывает на точку окончания</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.2. \"Таъсир оралиғи\"</strong></p><p>Ушбу қўшимча ахборот белгиси фақат тақиқловчи, жумладан <i><strong>3.27. \"Тўхташ тақиқланган\", 3.28. \"Тўхтаб туриш тақиқланган\", 3.29. \"Ойнинг тоқ кунларида тўхтаб туриш тақиқланади\" ва 3.30. \"Ойнинг жуфт кунларида тўхтаб туриш тақиқланади\"</strong></i> йўл белгилари билан бирга қўйилиб, уларга амал қилиш керак бўлган оралиқ масофани кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 6
+            },
+            {
+                "id": 221,
+                "name": {
+                    "uz": "7.2.3 Ta’sir oralig’i",
+                    "ru": "7.2.3 Дальность удара",
+                    "kiril": "7.2.3 Таъсир оралиғи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.2.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-49-18_7SX3N5C2AS.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.3. \"Ta'sir oralig'i\"</strong></p><p>Ushbu qo'shimcha axborot belgisi faqat taqiqlovchi, jumladan <i><strong>3.27. \"To'xtash taqiqlangan\", 3.28. \"To'xtab turish taqiqlangan\", 3.29. \"Oyning toq kunlarida to'xtab turish taqiqlanadi\" va 3.30. \"Oyning juft kunlarida to'xtab turish taqiqlanadi\"</strong></i> yo'l belgilari bilan birga qo'yilib, ushbu taqiqlovchi</p><p>belgilarning ta'sir doirasi tugagan nuqtani ko'rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.3. «Зона действия»</strong></p><p>Данный дополнительный информационный знак является только запрещающим, в том числе и 3.27. \"Остановка запрещена\", 3.28. \"Стоянка запрещена\", 3.29. \"Стоянка запрещена в нечетные дни месяца\" и 3.30. \"Стоянка запрещена по четным числам месяца\", сопровождаемая дорожными знаками, запрещающими область действия знаков указывает на точку окончания</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.3. \"Таъсир оралиғи\"</strong></p><p>Ушбу қўшимча ахборот белгиси фақат тақиқловчи, жумладан <i><strong>3.27. \"Тўхташ тақиқланган\", 3.28. \"Тўхтаб туриш тақиқланган\", 3.29. \"Ойнинг тоқ кунларида тўхтаб туриш тақиқланади\" ва 3.30. \"Ойнинг жуфт кунларида тўхтаб туриш тақиқланади\"</strong></i> йўл белгилари билан бирга қўйилиб, ушбу тақиқловчи</p><p>белгиларнинг таъсир доираси тугаган нуқтани кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 7
+            },
+            {
+                "id": 222,
+                "name": {
+                    "uz": "7.2.4 Ta’sir oralig’i",
+                    "ru": "7.2.4 Дальность удара",
+                    "kiril": "7.2.4 Таъсир оралиғи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.2.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-49-29_ZSVUBJGGZW.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.4. \"Ta'sir oralig'i\"</strong></p><p>Ushbu qo'shimcha axborot belgisi faqat taqiqlovchi, xususan <i><strong>3.27. \"To'xtash taqiqlangan\", 3.28. \"To'xtab turish taqiqlangan\", 3.29. \"Oyning toq kunlarida to'xtab turish taqiqlanadi\" va 3.30. \"Oyning juft kunlarida to'xtab turish taqiqlanadi\"</strong></i> yo'l belgilari bilan birga qo'yilib, transport vositalari haydovchilariga ushbu belgi ta'sirida ekanliklari haqida ma'lumot beradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.4. «Зона действия»</strong></p><p>Этот дополнительный информационный знак носит только запрещающий характер, в частности 3.27. «Остановка запрещена», 3.28. «Остановка запрещена», 3.29. «Без остановок по нечетным дням месяца» и 3.30. «Стоянка запрещена в двойные дни месяца» размещена рядом с дорожными знаками, чтобы информировать водителей о том, что они находятся под действием этого знака.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.4. \"Таъсир оралиғи\"</strong></p><p>Ушбу қўшимча ахборот белгиси фақат тақиқловчи, хусусан <i><strong>3.27. \"Тўхташ тақиқланган\", 3.28. \"Тўхтаб туриш тақиқланган\", 3.29. \"Ойнинг тоқ кунларида тўхтаб туриш тақиқланади\" ва 3.30. \"Ойнинг жуфт кунларида тўхтаб туриш тақиқланади\"</strong></i> йўл белгилари билан бирга қўйилиб, транспорт воситалари ҳайдовчиларига ушбу белги таъсирида эканликлари ҳақида маълумот беради.</p>"
+                        }
+                    ]
+                },
+                "order": 8
+            },
+            {
+                "id": 223,
+                "name": {
+                    "uz": "7.2.5 Ta’sir oralig’i",
+                    "ru": "7.2.5 Дальность удара",
+                    "kiril": "7.2.5 Таъсир оралиғи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.2.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-49-43_JG6MM6C7F4.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.5, 7.2.6. \"Ta'sir oralig'i\"</strong></p><p>Ushbu qo'shimcha axborot belgilari faqat taqiqlovchi ya'ni <i><strong>3.27. \"To'xtash taqiqlangan\", 3.28. \"To'xtab turish taqiqlangan\", 3.29. \"Oyning toq kunlarida to'xtab turish taqiqlanadi\" hamda 3.30. \"Oyning juft kunlarida to'xtab turish taqiqlanadi\" va 5.15. \"To'xtab&nbsp; turish joyi\"</strong></i> yo'l belgilari bilan birga qo'yiladi. Maydon, binolarning oldi va kengligi bo'ylab hamda shunga o'xshash joylar chetida to'xtash, to'xtab turish taqiqlangan bo'lsa, ushbu qo'shimcha belgilar taqiqning ta'sir oraliq masofasi va yo'nalishini ko'rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.5, 7.2.6. «Зона действия»</strong></p><p>Эти дополнительные информационные знаки носят запрещающий характер. 3.27. «Остановка запрещена» 3.28. «Стоянка запрещена» 3.29. «Остановка в нечетные дни месяца запрещена» и 3.30. «Остановка в два дня месяца запрещена» и 5.15. «Парковка» будет размещена вместе с дорожными знаками. Если парковка запрещена вдоль площади, перед зданиями и напротив них, а также по краям подобных участков, эти дополнительные знаки указывают расстояние и направление действия запрета.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.5, 7.2.6. \"Таъсир оралиғи\"</strong></p><p>Ушбу қўшимча ахборот белгилари фақат тақиқловчи яъни <i><strong>3.27. \"Тўхташ тақиқланган\", 3.28. \"Тўхтаб туриш тақиқланган\", 3.29. \"Ойнинг тоқ кунларида тўхтаб туриш тақиқланади\" ҳамда 3.30. \"Ойнинг жуфт кунларида тўхтаб туриш тақиқланади\" ва 5.15. \"Тўхтаб&nbsp; туриш жойи\"</strong></i> йўл белгилари билан бирга қўйилади. Майдон, биноларнинг олди ва кенглиги бўйлаб ҳамда шунга ўхшаш жойлар четида тўхташ, тўхтаб туриш тақиқланган бўлса, ушбу қўшимча белгилар тақиқнинг таъсир оралиқ масофаси ва йўналишини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 9
+            },
+            {
+                "id": 224,
+                "name": {
+                    "uz": "7.2.6 Ta’sir oralig’i",
+                    "ru": "7.2.6 Дальность удара",
+                    "kiril": "7.2.6 Таъсир оралиғи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.2.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-49-52_A7U6BTAPWS.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.5, 7.2.6. \"Ta'sir oralig'i\"</strong></p><p>Ushbu qo'shimcha axborot belgilari faqat taqiqlovchi ya'ni <i><strong>3.27. \"To'xtash taqiqlangan\", 3.28. \"To'xtab turish taqiqlangan\", 3.29. \"Oyning toq kunlarida to'xtab turish taqiqlanadi\" hamda 3.30. \"Oyning juft kunlarida to'xtab turish taqiqlanadi\" va 5.15. \"To'xtab&nbsp; turish joyi\"</strong></i> yo'l belgilari bilan birga qo'yiladi. Maydon, binolarning oldi va kengligi bo'ylab hamda shunga o'xshash joylar chetida to'xtash, to'xtab turish taqiqlangan bo'lsa, ushbu qo'shimcha belgilar taqiqning ta'sir oraliq masofasi va yo'nalishini ko'rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.5, 7.2.6. «Зона действия»</strong></p><p>Эти дополнительные информационные знаки носят запрещающий характер. 3.27. «Остановка запрещена» 3.28. «Стоянка запрещена» 3.29. «Остановка в нечетные дни месяца запрещена» и 3.30. «Остановка в два дня месяца запрещена» и 5.15. «Парковка» будет размещена вместе с дорожными знаками. Если парковка запрещена вдоль площади, перед зданиями и напротив них, а также по краям подобных участков, эти дополнительные знаки указывают расстояние и направление действия запрета.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.2.5, 7.2.6. \"Таъсир оралиғи\"</strong></p><p>Ушбу қўшимча ахборот белгилари фақат тақиқловчи яъни <i><strong>3.27. \"Тўхташ тақиқланган\", 3.28. \"Тўхтаб туриш тақиқланган\", 3.29. \"Ойнинг тоқ кунларида тўхтаб туриш тақиқланади\" ҳамда 3.30. \"Ойнинг жуфт кунларида тўхтаб туриш тақиқланади\" ва 5.15. \"Тўхтаб&nbsp; туриш жойи\"</strong></i> йўл белгилари билан бирга қўйилади. Майдон, биноларнинг олди ва кенглиги бўйлаб ҳамда шунга ўхшаш жойлар четида тўхташ, тўхтаб туриш тақиқланган бўлса, ушбу қўшимча белгилар тақиқнинг таъсир оралиқ масофаси ва йўналишини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 10
+            },
+            {
+                "id": 225,
+                "name": {
+                    "uz": "7.3.1 Ta’sir yo’nalishlari",
+                    "ru": "7.3.1 Зоны воздействия",
+                    "kiril": "7.3.1 Таъсир йўналишлари",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.3.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-50-07_X45YW2M32U.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.3.1, 7.3.2, 7.3.3 «Ta’sir yo‘nalishlari» &nbsp;</strong></li></ul><p>belgilari qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida belgilarning ta’sir yo‘nalishini ko‘rsatuvchi qora strelkalar tasvirlangan. <strong>7.3.1, 7.3.2, 7.3.3 «Ta’sir yo‘nalishlari»</strong> belgilari chorraha oldida o‘rnatilgan belgilarning ta’sir yo‘nalishini yoki bevosita yo‘l yaqinida joylashgan manzillarga harakatlanish yo‘nalishini ko‘rsatadi.</p><p>Belgilar bir biridan faqat strelka yo‘nalishi bilan farq qiladi. Boshqalari, ya’ni o‘rnatilish tartibi va haydovchilar uchun talablar bir hil.</p><p><strong>«Ta’sir yo‘nalishlari»</strong> belgilari asosan taqiqlovchi, buyuruvchi, axborot-ko‘rsatkich belgilari bilan birga qo‘llanilishi mumkin, lekin ba’zan ogohlantiruvchi belgilar bilan birga ham ishlatilishi mumkin. <strong>7.3.1, 7.3.2, 7.3.3</strong>&nbsp;belgilari taqiqlovchi belgilar bilan qo‘llanilganda, cheklov aynan qaysi yo‘nalishga ta’sir qilishini, buyuruvchi va axborot-ko‘rsatkich belgilari bilan kelganda, o‘rnatilgan tartib aynan qaysi yo‘nalishga tegishliligini bildiradi. <strong>«Ta’sir yo‘nalishlari»</strong> belgilari boshqa asosiy belgilar bilan birgalikda chorrahalar (kesishmalar) oldiga o‘rnatiladi va asosiy belgilarning yo‘nalishini ko‘rsatadi. Boshqacha qilib aytganda, asosiy belgilarning ta’siri ushbu belgilar bilan ko‘rsatilgan yo‘nalishlarga amal qiladi.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-26_10-36-00_5QE45RC91P.png"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-26_10-36-00_QD93PSFT7S.png"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.3.1, 7.3.2, 7.3.3 «Направление действия»</strong></li></ul><p>Знаки имеют прямоугольную форму с черной каймой. В центре прямоугольника расположены черные стрелки, показывающие направление действия знака.</p><p>Знаки&nbsp;<strong>7.3.1, 7.3.2, 7.3.3 «Направление действия»&nbsp;</strong>указывают направления действия знаков, установленных перед перекрестком или направления движения к обозначенным объектам, находящимся непосредственно у дороги. Знаки отличаются друг от друга только направлением стрелки. В остальном, правила их установки и предъявляемые к водителям требования, идентичны. Знаки&nbsp;<strong>«Направление действия»</strong> могут применяться совместно с запрещающими, предписывающими, информационно-указательными знаками, но иногда могут использоваться совместно с предупреждающими знаками. При использовании знаков <strong>7.3.1, 7.3.2, 7.3.3</strong> с запрещающими знаками указывается, на какое именно направление действует ограничение, когда речь идет о предписывающих и информационно-указательных знаках, означает к какому направлению относится установленный порядок.</p><p>Знаки<strong> «Направление действия»</strong>, совместно со знаками, устанавливаются перед перекрёстками (пересечениями) и указывают на направление действия знаков. Другими словами, знаки будут распространять своё действие в направлениях, указанных этими знаками.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-26_10-36-00_73SP7Y4BKJ.png"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-26_10-36-00_NZFDVK1V1D.png"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.3.1, 7.3.2, 7.3.3 «Таъсир йўналишлари»</strong></li></ul><p>белгилари қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида белгиларнинг таъсир йўналишини кўрсатувчи қора стрелкалар тасвирланган. <strong>7.3.1, 7.3.2, 7.3.3 «Таъсир йўналишлари»</strong> белгилари чорраҳа олдида ўрнатилган белгиларнинг таъсир йўналишини ёки бевосита йўл яқинида жойлашган манзилларга ҳаракатланиш йўналишини кўрсатади.</p><p>Белгилар бир биридан фақат стрелка йўналиши билан фарқ қилади. Бошқалари, яъни ўрнатилиш тартиби ва ҳайдовчилар учун талаблар бир ҳил.</p><p><strong>«Таъсир йўналишлари»</strong> белгилари асосан тақиқловчи, буюрувчи, ахборот-кўрсаткич белгилари билан бирга қўлланилиши мумкин, лекин баъзан огоҳлантирувчи белгилар билан бирга ҳам ишлатилиши мумкин. <strong>7.3.1, 7.3.2, 7.3.3&nbsp;</strong>белгилари тақиқловчи белгилар билан қўлланилганда, чеклов айнан қайси йўналишга таъсир қилишини, буюрувчи ва ахборот-кўрсаткич белгилари билан келганда, ўрнатилган тартиб айнан қайси йўналишга тегишлилигини билдиради. <strong>«Таъсир йўналишлари» </strong>белгилари бошқа асосий белгилар билан биргаликда чорраҳалар (кесишмалар) олдига ўрнатилади ва асосий белгиларнинг йўналишини кўрсатади. Бошқача қилиб айтганда, асосий белгиларнинг таъсири ушбу белгилар билан кўрсатилган йўналишларга амал қилади.</p>"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-26_10-36-00_GWHGKPGHY2.png"
+                        },
+                        {
+                            "type": "3",
+                            "value": "/storage/tests/images changed/tests/content/2025-04-26_10-36-00_98S6EMX8EA.png"
+                        }
+                    ]
+                },
+                "order": 11
+            },
+            {
+                "id": 418,
+                "name": {
+                    "uz": "7.3.2 Ta’sir yo’nalishlari",
+                    "ru": "7.3.2 Области влияния",
+                    "kiril": "7.3.2 Таъсир йўналишлари",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-51-41_J4Q4KKVFNC.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<figure class=\"table\"><table><tbody><tr><td colspan=\"4\" rowspan=\"2\"><strong>\"Ta'sir yo'nalishlari\"</strong>Chorraha oldida o'rnatilgan belgilarning ta'sir yo'nalishini ko'rsatadi.</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td></tr></tbody></table></figure>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>«Направления влияния» указывают направление влияния знаков, установленных на перекрестке.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>\"Таъсир йўналишлари\"Чорраҳа олдида ўрнатилган белгиларнинг таъсир йўналишини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 12
+            },
+            {
+                "id": 419,
+                "name": {
+                    "uz": "7.3.3 Ta’sir yo’nalishlari",
+                    "ru": "7.3.3 Сферы влияния",
+                    "kiril": "7.3.3 Таъсир йўналишлари",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-51-53_HJQWYS2GN4.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>«Ta’sir yo‘nalishlari»</strong>. Chorraha oldida o‘rnatilgan belgilarning ta’sir yo‘nalishini yoki bevosita yo‘l yaqinida joylashgan manzillarga harakatlanish yo‘nalishini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>«Направления влияния». </strong>Знаки, установленные на перекрестках, указывают направление движения или направление движения к пунктам назначения, расположенным непосредственно вблизи дороги.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>«Таъсир йўналишлари»</strong>. Чорраҳа олдида ўрнатилган белгиларнинг таъсир йўналишини ёки бевосита йўл яқинида жойлашган манзилларга ҳаракатланиш йўналишини кўрсатади.<br>&nbsp;</p>"
+                        }
+                    ]
+                },
+                "order": 13
+            },
+            {
+                "id": 228,
+                "name": {
+                    "uz": "7.4.1 Transport vositasining turi",
+                    "ru": "7.4.1 Тип транспортного средства",
+                    "kiril": "7.4.1 Транспорт воситасининг тури",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.4.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-52-22_RN6S8R982E.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.1 Transport vositasining turi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.1 Тип транспортного средства</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.1 Транспорт воситасининг тури</p>"
+                        }
+                    ]
+                },
+                "order": 14
+            },
+            {
+                "id": 229,
+                "name": {
+                    "uz": "7.4.2 Transport vositasining turi",
+                    "ru": "7.4.2 Тип транспортного средства",
+                    "kiril": "7.4.2 Транспорт воситасининг тури",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.4.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-52-49_FSA4RP8XFK.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.2 Transport vositasining turi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.2 Тип транспортного средства</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.2 Транспорт воситасининг тури</p>"
+                        }
+                    ]
+                },
+                "order": 15
+            },
+            {
+                "id": 230,
+                "name": {
+                    "uz": "7.4.3 Transport vositasining turi",
+                    "ru": "7.4.3 Тип транспортного средства",
+                    "kiril": "7.4.3 Транспорт воситасининг тури",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.4.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-53-09_GHSYWM3DHH.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.3 Transport vositasining turi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.3 Тип транспортного средства</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.3 Транспорт воситасининг тури</p>"
+                        }
+                    ]
+                },
+                "order": 16
+            },
+            {
+                "id": 231,
+                "name": {
+                    "uz": "7.4.4 Transport vositasining turi",
+                    "ru": "7.4.4 Тип транспортного средства",
+                    "kiril": "7.4.4 Транспорт воситасининг тури",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.4.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-53-35_TH7H325RZW.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.4 Transport vositasining turi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.4 Тип транспортного средства</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.4 Транспорт воситасининг тури</p>"
+                        }
+                    ]
+                },
+                "order": 17
+            },
+            {
+                "id": 232,
+                "name": {
+                    "uz": "7.4.5 Transport vositasining turi",
+                    "ru": "7.4.5 Тип транспортного средства",
+                    "kiril": "7.4.5 Транспорт воситасининг тури",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.4.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-54-02_K9RPG1MQEN.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.5 Transport vositasining turi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.5 Тип транспортного средства</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.5 Транспорт воситасининг тури</p>"
+                        }
+                    ]
+                },
+                "order": 18
+            },
+            {
+                "id": 233,
+                "name": {
+                    "uz": "7.4.6 Transport vositasining turi",
+                    "ru": "7.4.6 Тип транспортного средства",
+                    "kiril": "7.4.6 Транспорт воситасининг тури",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.4.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-54-27_AC32HE2R57.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.6 Transport vositasining turi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.6 Тип транспортного средства</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.6 Транспорт воситасининг тури</p>"
+                        }
+                    ]
+                },
+                "order": 19
+            },
+            {
+                "id": 234,
+                "name": {
+                    "uz": "7.4.7 Transport vositasining turi",
+                    "ru": "7.4.7 Тип транспортного средства",
+                    "kiril": "7.4.7 Транспорт воситасининг тури",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.4.7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-54-55_2ZHUMU7NHT.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.7 Transport vositasining turi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.7 Тип транспортного средства</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.7 Транспорт воситасининг тури</p>"
+                        }
+                    ]
+                },
+                "order": 20
+            },
+            {
+                "id": 235,
+                "name": {
+                    "uz": "7.4.8 Transport vositasining turi",
+                    "ru": "7.4.8 Тип транспортного средства",
+                    "kiril": "7.4.8 Транспорт воситасининг тури",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.4.8",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-56-26_UXV453QQ7R.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.8 Transport vositasining turi</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.8 Тип транспортного средства</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.4.8 Транспорт воситасининг тури</p>"
+                        }
+                    ]
+                },
+                "order": 21
+            },
+            {
+                "id": 236,
+                "name": {
+                    "uz": "7.5.1 Shanba, yakshanba va bayram kunlari",
+                    "ru": "7.5.1 Суббота, воскресенье и праздничные дни",
+                    "kiril": "7.5.1 Шанба, якшанба ва байрам кунлари",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.5.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-57-19_3HS9ART1HF.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.1. \"Shanba, yakshanba va bayram kunlari\"</strong></li></ul><p><strong>7.5.1 «Shanba, yakshanba va bayram kunlari»</strong> belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida ramziy qor parchasi shaklidagi qizil yulduzcha tasvirlangan.</p><p><strong>7.5.1 «Shanba, yakshanba va bayram kunlari»</strong> belgisi u bilan birga o‘rnatilgan yo‘l belgisining ta’siri faqat shanba, yakshanba va bayram kunlari amal qilishini ko‘rsatadi. Boshqa kunlari ushbu belgilar amal qilmaydi.</p><p><strong>«Shanba, yakshanba va bayram kunlari»</strong> belgisi haftaning shanba va yakshanba kunlari, shuningdek, qonunchilikda belgilangan bayram kunlarida, harakatlanishga ma’lum tartib qoida kiritish, harakatni cheklash yoki taqiqlash maqsadida buyuruvchi, taqiqlovchi va axborot ko‘rsatkich belgilari bilan birga qo‘llanilishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.1. «Суббота, воскресенье и праздничные дни»</strong></li></ul><p>Знак <strong>7.5.1 «Субботние, воскресные и праздничные дни»</strong> имеет прямоугольную форму с черной каймой. В центре прямоугольника красная звезда в форме символической снежинки.</p><p>Знак <strong>7.5.1 «Субботние, воскресные и праздничные дни»</strong> установленный с каким-либо знаком, указывает на то, что действие этих знаков действует только по субботам, воскресеньям и праздничным дням. Эти знаки не действительны в другие дни.</p><p>Знак <strong>«Субботние, воскресные и праздничные дни»</strong> может использоваться по субботам и воскресеньям недели, а также в праздничные дни, установленные законом, вместе с предписывающими, запрещающими и информационно-указательными знаками в целях установления определенного порядка движения, ограничения или запрета.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.1. \"Шанба, якшанба ва байрам кунлари\"</strong></li></ul><p><strong>7.5.1 «Шанба, якшанба ва байрам кунлари»</strong> белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида рамзий қор парчаси шаклидаги қизил юлдузча тасвирланган.</p><p><strong>7.5.1 «Шанба, якшанба ва байрам кунлари»</strong> белгиси у билан бирга ўрнатилган йўл белгисининг таъсири фақат шанба, якшанба ва байрам кунлари амал қилишини кўрсатади. Бошқа кунлари ушбу белгилар амал қилмайди.</p><p><strong>«Шанба, якшанба ва байрам кунлари»</strong> белгиси ҳафтанинг шанба ва якшанба кунлари, шунингдек, қонунчиликда белгиланган байрам кунларида, ҳаракатланишга маълум тартиб қоида киритиш, ҳаракатни чеклаш ёки тақиқлаш мақсадида буюрувчи, тақиқловчи ва ахборот кўрсаткич белгилари билан бирга қўлланилиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 22
+            },
+            {
+                "id": 237,
+                "name": {
+                    "uz": "7.5.2 Ish kunlari",
+                    "ru": "7.5.2 Рабочие дни",
+                    "kiril": "7.5.2 Иш кунлари",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.5.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-57-42_2FS9KC1EKH.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.2. \"Ish kunlari\"</strong></li></ul><p><strong>7.5.2 «Ish kunlari»</strong> belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida qora rangli ikkita bolg‘acha «x» shaklida tasvirlangan.</p><p><strong>7.5.2 «Ish kunlari»</strong> belgisi ma’lum bir belgilar bilan o‘rnatiladi va bu belgi faqat ish kuni deb hisoblangan kunlarda, ya’ni dushanbadan jumagacha (bayram kunlaridan tashqari) amal qilishini bildiradi. Ya’ni, dam olish va bayram kunlari haydovchilar ushbu belgi bilan o‘rnatilgan belgilar talablariga rioya qilishlari shart emas.</p><p><strong>«Ish kunlari»</strong> belgisi haftaning ish kunlarida, harakatlanishga ma’lum tartib qoida kiritish, harakatni cheklash yoki taqiqlash maqsadida buyuruvchi, taqiqlovchi va axborot ko‘rsatkich belgilari bilan birga qo‘llanilishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.2. \"Рабочие дни\"</strong></li></ul><p>Знак <strong>7.5.2 «Рабочие дни»</strong> имеет прямоугольную форму с черной каймой. В центре прямоугольника находятся два черных молотка в форме буквы «х».</p><p><strong>7.5.2 «Рабочие дни»</strong> отмечены определенным знаком, и этот знак означает, что он действителен только в дни, считающиеся рабочими, то есть с понедельника по пятницу (исключая праздничные дни). То есть в выходные и праздничные дни водителям можно не придерживаться требований знака, установленного с данным знаком.</p><p>Знак <strong>«Рабочие дни»</strong> может использоваться совместно с предписывающими, запрещающими и информационно-указательными знаками в рабочие дни недели с целью введения определенного порядка движения, ограничения или запрета движения.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.2. \"Иш кунлари\"</strong></li></ul><p><strong>7.5.2 «Иш кунлари»</strong> белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида қора рангли иккита болғача&nbsp;«х» шаклида тасвирланган.</p><p><strong>7.5.2 «Иш кунлари»</strong> белгиси маълум бир белгилар билан ўрнатилади ва бу белги фақат иш куни деб ҳисобланган кунларда, яъни душанбадан жумагача (байрам кунларидан ташқари) амал қилишини билдиради. Яъни, дам олиш ва байрам кунлари ҳайдовчилар ушбу белги билан ўрнатилган белгилар талабларига риоя қилишлари шарт эмас.</p><p><strong>«Иш кунлари»</strong> белгиси ҳафтанинг иш кунларида, ҳаракатланишга маълум тартиб қоида киритиш, ҳаракатни чеклаш ёки тақиқлаш мақсадида буюрувчи, тақиқловчи ва ахборот кўрсаткич белгилари билан бирга қўлланилиши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 23
+            },
+            {
+                "id": 238,
+                "name": {
+                    "uz": "7.5.3 Hafta kunlari",
+                    "ru": "7.5.3 Дни недели",
+                    "kiril": "7.5.3 Ҳафта кунлари",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.5.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-58-20_8A23PB1H8Y.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.3. \"Hafta kunlari\"</strong></li></ul><p>Ushbu qo'shimcha axborot belgisi taqiqlovchi, buyuruvchi va axborot – ishora belgilari bilan birgalikda qo'yiladi. U transport vositasi haydovchilariga asosiy belgi haftaning qaysi kuniga tegishli ekanligini va qaysi kunlarda unga amal qilish kerakligini ko'rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.3. \"Дни недели\"</strong></li></ul><p>Этот дополнительный информационный знак размещается совместно с запрещающими, предписывающими и информационно-знаковыми знаками. Он показывает водителям, к какому дню недели относится главный знак и в какие дни его следует соблюдать.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.3. \"Ҳафта кунлари\"</strong></li></ul><p>Ушбу қўшимча ахборот белгиси тақиқловчи, буюрувчи ва ахборот – ишора белгилари билан биргаликда қўйилади. У транспорт воситаси ҳайдовчиларига асосий белги ҳафтанинг қайси кунига тегишли эканлигини ва қайси кунларда унга амал қилиш кераклигини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 24
+            },
+            {
+                "id": 239,
+                "name": {
+                    "uz": "7.5.4 Amal qilish vaqti",
+                    "ru": "7.5.4 Срок действия",
+                    "kiril": "7.5.4 Амал қилиш вақти",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.5.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-59-22_E7R82EFECV.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.4-7.5.7. \"Amal qilish vaqti\"</strong></li></ul><p><strong>7.5.4, 7.5.5, 7.5.6, 7.5.7 &nbsp;«Amal qilish vaqti»</strong> belgilari qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida mos ravishda, belgilarning amal qilish vaqti ko‘rsatilgan. <strong>7.5.4, 7.5.5, 7.5.6, 7.5.7 &nbsp;«Amal qilish vaqti»</strong>&nbsp;belgilari, ular bilan birga o‘rnatilgan belgilarga mos ravishda, kunning qaysi vaqtida va&nbsp;haftaning qaysi kuni va qaysi soatlarida amal qilishni ko‘rsatadi. «Amal qilish vaqti» belgilari ma’lum bir vaqtni ko‘rsatadi: haftaning kunlari yoki ma’lum bir vaqt oralig‘i. Va bu belgilardan biri bilan o‘rnatilgan belgi faqat ko‘rsatilgan vaqt davomida amal qiladi. <strong>7.5.4</strong> belgisi, u bilan o‘rnatilgan belgi haftaning har kuni, lekin belgida ko‘rsatilgan vaqtda (mahalliy vaqt bilan) harakatni tartibga solishini anglatadi. <strong>7.5.5</strong> belgisi haydovchiga u bilan qo‘llanilgan belgi faqat shanba, yakshanba yoki bayram kunlarida belgida ko‘rsatilgan vaqtda qo‘llanilishini ma’lum qiladi. 7.5.6 belgisi u bilan o‘rnatilgan belgi faqat ish kunida va faqat belgida ko‘rsatilgan vaqtda amal qilishi haqida xabar beradi.</p><p><strong>7.5.7</strong> belgisi u bilan o‘rnatilgan belgining ta’siri unda ko‘rsatilgan kun va vaqtda amal qilishini ko‘rsatadi. <strong>«Amal qilish vaqti»</strong> belgilari turli ko‘rinishlarda bo‘lishi mumkin. Haydovchi faqat belgilarning ishlash tartibini eslab qolishi kerak, ya’ni belgi u bilan birga o‘rnatilgan belgilarning aniq amal qilish vaqtini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.4-7.5.7.«Время применения»</strong></li></ul><p>Знаки&nbsp;<strong>7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Время действия»</strong> имеет прямоугольную форму с черной каймой. В центре прямоугольника соответственно указано время действия знаков. Знаки<strong> 7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Время действия»</strong> указывают соответственно, в какое время суток, в какой день недели и в какие часы действуют установленные ими знаки.</p><p>Знаки<strong> «Время действия»</strong>, обозначающие определенный период времени: либо дни недели, либо какой-то временной промежуток. И знак, установленный с одной из этих знаков, будет действовать только в указанный промежуток времени. <strong>Знак 7.5.4</strong> означает, что установленный с ней знак будет регулировать движение каждый день недели, но в указанное на табличке время (по местному времени). <strong>Знак</strong> <strong>7.5.5</strong> информирует водителя о том, что используемый с ней знак будет распространять свое действие только в субботний, воскресный или праздничный день в указанное на табличке время. <strong>Знак</strong> <strong>7.5.6</strong> информирует, что установленный с ней знак будет действовать только в рабочий день и только в указанное на табличке время. <strong>Знак</strong> <strong>7.5.7</strong> распространяет действие установленного с ней знака на указанный день и указанное на ней время. Вариаций с табличками &nbsp;<strong>«Время действия» </strong>может быть очень много. Водителю стоит помнить принцип работы таблички: она указывает на конкретный промежуток времени, в течение которого и будет действовать установленный с ней знак.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.4-7.5.7.\"Амал қилиш вақти\"</strong></li></ul><p><strong>7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Амал қилиш вақти»</strong> белгилари қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида мос равишда, белгиларнинг амал қилиш вақти кўрсатилган.</p><p><strong>7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Амал қилиш вақти»&nbsp;</strong>белгилари, улар билан бирга ўрнатилган белгиларга мос равишда, куннинг қайси вақтида ва&nbsp;ҳафтанинг қайси куни ва қайси соатларида амал қилишни кўрсатади. <strong>«Амал қилиш вақти»</strong> белгилари маълум бир вақтни кўрсатади: ҳафтанинг кунлари ёки маълум бир вақт оралиғи. Ва бу белгилардан бири билан ўрнатилган белги фақат кўрсатилган вақт давомида амал қилади. <strong>7.5.4 белгиси</strong>, у билан ўрнатилган белги ҳафтанинг ҳар куни, лекин белгида кўрсатилган вақтда (маҳаллий вақт билан) ҳаракатни тартибга солишини англатади. <strong>7.5.5 белгиси</strong> ҳайдовчига у билан қўлланилган белги фақат шанба, якшанба ёки байрам кунларида белгида кўрсатилган вақтда қўлланилишини маълум қилади. <strong>7.5.6 белгиси</strong> у билан ўрнатилган белги фақат иш кунида ва фақат белгида кўрсатилган вақтда амал қилиши ҳақида хабар беради.</p><p><strong>7.5.7 белгиси</strong> у билан ўрнатилган белгининг таъсири унда кўрсатилган кун ва вақтда амал қилишини кўрсатади. <strong>«Амал қилиш вақти»</strong> белгилари турли кўринишларда бўлиши мумкин. Ҳайдовчи фақат белгиларнинг ишлаш тартибини эслаб қолиши керак, яъни белги у билан бирга ўрнатилган белгиларнинг аниқ амал қилиш вақтини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 25
+            },
+            {
+                "id": 240,
+                "name": {
+                    "uz": "7.5.5 Amal qilish vaqti",
+                    "ru": "7.5.5 Срок действия",
+                    "kiril": "7.5.5 Амал қилиш вақти",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.5.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_17-59-38_R95R9AW6E9.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.4-7.5.7. \"Amal qilish vaqti\"</strong></li></ul><p><strong>7.5.4, 7.5.5, 7.5.6, 7.5.7 &nbsp;«Amal qilish vaqti»</strong> belgilari qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida mos ravishda, belgilarning amal qilish vaqti ko‘rsatilgan. <strong>7.5.4, 7.5.5, 7.5.6, 7.5.7 &nbsp;«Amal qilish vaqti»</strong>&nbsp;belgilari, ular bilan birga o‘rnatilgan belgilarga mos ravishda, kunning qaysi vaqtida va&nbsp;haftaning qaysi kuni va qaysi soatlarida amal qilishni ko‘rsatadi. «Amal qilish vaqti» belgilari ma’lum bir vaqtni ko‘rsatadi: haftaning kunlari yoki ma’lum bir vaqt oralig‘i. Va bu belgilardan biri bilan o‘rnatilgan belgi faqat ko‘rsatilgan vaqt davomida amal qiladi. <strong>7.5.4</strong> belgisi, u bilan o‘rnatilgan belgi haftaning har kuni, lekin belgida ko‘rsatilgan vaqtda (mahalliy vaqt bilan) harakatni tartibga solishini anglatadi. <strong>7.5.5</strong> belgisi haydovchiga u bilan qo‘llanilgan belgi faqat shanba, yakshanba yoki bayram kunlarida belgida ko‘rsatilgan vaqtda qo‘llanilishini ma’lum qiladi. 7.5.6 belgisi u bilan o‘rnatilgan belgi faqat ish kunida va faqat belgida ko‘rsatilgan vaqtda amal qilishi haqida xabar beradi.</p><p><strong>7.5.7</strong> belgisi u bilan o‘rnatilgan belgining ta’siri unda ko‘rsatilgan kun va vaqtda amal qilishini ko‘rsatadi. <strong>«Amal qilish vaqti»</strong> belgilari turli ko‘rinishlarda bo‘lishi mumkin. Haydovchi faqat belgilarning ishlash tartibini eslab qolishi kerak, ya’ni belgi u bilan birga o‘rnatilgan belgilarning aniq amal qilish vaqtini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.4-7.5.7.«Время применения»</strong></li></ul><p>Знаки&nbsp;<strong>7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Время действия»</strong> имеет прямоугольную форму с черной каймой. В центре прямоугольника соответственно указано время действия знаков. Знаки<strong> 7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Время действия»</strong> указывают соответственно, в какое время суток, в какой день недели и в какие часы действуют установленные ими знаки.</p><p>Знаки<strong> «Время действия»</strong>, обозначающие определенный период времени: либо дни недели, либо какой-то временной промежуток. И знак, установленный с одной из этих знаков, будет действовать только в указанный промежуток времени. <strong>Знак 7.5.4</strong> означает, что установленный с ней знак будет регулировать движение каждый день недели, но в указанное на табличке время (по местному времени). <strong>Знак</strong> <strong>7.5.5</strong> информирует водителя о том, что используемый с ней знак будет распространять свое действие только в субботний, воскресный или праздничный день в указанное на табличке время. <strong>Знак</strong> <strong>7.5.6</strong> информирует, что установленный с ней знак будет действовать только в рабочий день и только в указанное на табличке время. <strong>Знак</strong> <strong>7.5.7</strong> распространяет действие установленного с ней знака на указанный день и указанное на ней время. Вариаций с табличками &nbsp;<strong>«Время действия» </strong>может быть очень много. Водителю стоит помнить принцип работы таблички: она указывает на конкретный промежуток времени, в течение которого и будет действовать установленный с ней знак.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.4-7.5.7.\"Амал қилиш вақти\"</strong></li></ul><p><strong>7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Амал қилиш вақти»</strong> белгилари қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида мос равишда, белгиларнинг амал қилиш вақти кўрсатилган.</p><p><strong>7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Амал қилиш вақти»&nbsp;</strong>белгилари, улар билан бирга ўрнатилган белгиларга мос равишда, куннинг қайси вақтида ва&nbsp;ҳафтанинг қайси куни ва қайси соатларида амал қилишни кўрсатади. <strong>«Амал қилиш вақти»</strong> белгилари маълум бир вақтни кўрсатади: ҳафтанинг кунлари ёки маълум бир вақт оралиғи. Ва бу белгилардан бири билан ўрнатилган белги фақат кўрсатилган вақт давомида амал қилади. <strong>7.5.4 белгиси</strong>, у билан ўрнатилган белги ҳафтанинг ҳар куни, лекин белгида кўрсатилган вақтда (маҳаллий вақт билан) ҳаракатни тартибга солишини англатади. <strong>7.5.5 белгиси</strong> ҳайдовчига у билан қўлланилган белги фақат шанба, якшанба ёки байрам кунларида белгида кўрсатилган вақтда қўлланилишини маълум қилади. <strong>7.5.6 белгиси</strong> у билан ўрнатилган белги фақат иш кунида ва фақат белгида кўрсатилган вақтда амал қилиши ҳақида хабар беради.</p><p><strong>7.5.7 белгиси</strong> у билан ўрнатилган белгининг таъсири унда кўрсатилган кун ва вақтда амал қилишини кўрсатади. <strong>«Амал қилиш вақти»</strong> белгилари турли кўринишларда бўлиши мумкин. Ҳайдовчи фақат белгиларнинг ишлаш тартибини эслаб қолиши керак, яъни белги у билан бирга ўрнатилган белгиларнинг аниқ амал қилиш вақтини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 26
+            },
+            {
+                "id": 241,
+                "name": {
+                    "uz": "7.5.6 Amal qilish vaqti",
+                    "ru": "7.5.6 Срок действия",
+                    "kiril": "7.5.6 Амал қилиш вақти",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.5.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-00-10_A32FTZZKYV.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.5.6 Amal qilish vaqti</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.5.6 Срок действия</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p>7.5.6 Амал қилиш вақти</p>"
+                        }
+                    ]
+                },
+                "order": 27
+            },
+            {
+                "id": 242,
+                "name": {
+                    "uz": "7.5.7 Amal qilish vaqti",
+                    "ru": "7.5.7 Срок действия",
+                    "kiril": "7.5.7 Амал қилиш вақти",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.5.7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-00-29_GKDHYY91KV.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.4-7.5.7. \"Amal qilish vaqti\"</strong></li></ul><p><strong>7.5.4, 7.5.5, 7.5.6, 7.5.7 &nbsp;«Amal qilish vaqti»</strong> belgilari qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida mos ravishda, belgilarning amal qilish vaqti ko‘rsatilgan. <strong>7.5.4, 7.5.5, 7.5.6, 7.5.7 &nbsp;«Amal qilish vaqti»</strong>&nbsp;belgilari, ular bilan birga o‘rnatilgan belgilarga mos ravishda, kunning qaysi vaqtida va&nbsp;haftaning qaysi kuni va qaysi soatlarida amal qilishni ko‘rsatadi. «Amal qilish vaqti» belgilari ma’lum bir vaqtni ko‘rsatadi: haftaning kunlari yoki ma’lum bir vaqt oralig‘i. Va bu belgilardan biri bilan o‘rnatilgan belgi faqat ko‘rsatilgan vaqt davomida amal qiladi. <strong>7.5.4</strong> belgisi, u bilan o‘rnatilgan belgi haftaning har kuni, lekin belgida ko‘rsatilgan vaqtda (mahalliy vaqt bilan) harakatni tartibga solishini anglatadi. <strong>7.5.5</strong> belgisi haydovchiga u bilan qo‘llanilgan belgi faqat shanba, yakshanba yoki bayram kunlarida belgida ko‘rsatilgan vaqtda qo‘llanilishini ma’lum qiladi. 7.5.6 belgisi u bilan o‘rnatilgan belgi faqat ish kunida va faqat belgida ko‘rsatilgan vaqtda amal qilishi haqida xabar beradi.</p><p><strong>7.5.7</strong> belgisi u bilan o‘rnatilgan belgining ta’siri unda ko‘rsatilgan kun va vaqtda amal qilishini ko‘rsatadi. <strong>«Amal qilish vaqti»</strong> belgilari turli ko‘rinishlarda bo‘lishi mumkin. Haydovchi faqat belgilarning ishlash tartibini eslab qolishi kerak, ya’ni belgi u bilan birga o‘rnatilgan belgilarning aniq amal qilish vaqtini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.4-7.5.7.«Время применения»</strong></li></ul><p>Знаки&nbsp;<strong>7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Время действия»</strong> имеет прямоугольную форму с черной каймой. В центре прямоугольника соответственно указано время действия знаков. Знаки<strong> 7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Время действия»</strong> указывают соответственно, в какое время суток, в какой день недели и в какие часы действуют установленные ими знаки.</p><p>Знаки<strong> «Время действия»</strong>, обозначающие определенный период времени: либо дни недели, либо какой-то временной промежуток. И знак, установленный с одной из этих знаков, будет действовать только в указанный промежуток времени. <strong>Знак 7.5.4</strong> означает, что установленный с ней знак будет регулировать движение каждый день недели, но в указанное на табличке время (по местному времени). <strong>Знак</strong> <strong>7.5.5</strong> информирует водителя о том, что используемый с ней знак будет распространять свое действие только в субботний, воскресный или праздничный день в указанное на табличке время. <strong>Знак</strong> <strong>7.5.6</strong> информирует, что установленный с ней знак будет действовать только в рабочий день и только в указанное на табличке время. <strong>Знак</strong> <strong>7.5.7</strong> распространяет действие установленного с ней знака на указанный день и указанное на ней время. Вариаций с табличками &nbsp;<strong>«Время действия» </strong>может быть очень много. Водителю стоит помнить принцип работы таблички: она указывает на конкретный промежуток времени, в течение которого и будет действовать установленный с ней знак.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.5.4-7.5.7.\"Амал қилиш вақти\"</strong></li></ul><p><strong>7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Амал қилиш вақти»</strong> белгилари қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида мос равишда, белгиларнинг амал қилиш вақти кўрсатилган.</p><p><strong>7.5.4, 7.5.5, 7.5.6, 7.5.7&nbsp; «Амал қилиш вақти»&nbsp;</strong>белгилари, улар билан бирга ўрнатилган белгиларга мос равишда, куннинг қайси вақтида ва&nbsp;ҳафтанинг қайси куни ва қайси соатларида амал қилишни кўрсатади. <strong>«Амал қилиш вақти»</strong> белгилари маълум бир вақтни кўрсатади: ҳафтанинг кунлари ёки маълум бир вақт оралиғи. Ва бу белгилардан бири билан ўрнатилган белги фақат кўрсатилган вақт давомида амал қилади. <strong>7.5.4 белгиси</strong>, у билан ўрнатилган белги ҳафтанинг ҳар куни, лекин белгида кўрсатилган вақтда (маҳаллий вақт билан) ҳаракатни тартибга солишини англатади. <strong>7.5.5 белгиси</strong> ҳайдовчига у билан қўлланилган белги фақат шанба, якшанба ёки байрам кунларида белгида кўрсатилган вақтда қўлланилишини маълум қилади. <strong>7.5.6 белгиси</strong> у билан ўрнатилган белги фақат иш кунида ва фақат белгида кўрсатилган вақтда амал қилиши ҳақида хабар беради.</p><p><strong>7.5.7 белгиси</strong> у билан ўрнатилган белгининг таъсири унда кўрсатилган кун ва вақтда амал қилишини кўрсатади. <strong>«Амал қилиш вақти»</strong> белгилари турли кўринишларда бўлиши мумкин. Ҳайдовчи фақат белгиларнинг ишлаш тартибини эслаб қолиши керак, яъни белги у билан бирга ўрнатилган белгиларнинг аниқ амал қилиш вақтини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 28
+            },
+            {
+                "id": 243,
+                "name": {
+                    "uz": "7.6.1 Transport vositasini to’xtab turish joyiga qo’yish usuli",
+                    "ru": "7.6.1 Как припарковать автомобиль",
+                    "kiril": "7.6.1 Транспорт воситасини тўхтаб туриш жойига қўйиш усули",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.6.1",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-00-41_B6V49E8VY2.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1 — 7.6.9. «Transport vositasini to‘xtab turish joyiga qo‘yish usuli»</strong></li></ul><p>Ushbu belgilar <strong>5.15 «To‘xtab turish joyi»</strong> belgisi bilan birga transport vositalarining trotuar yaqinidagi to‘xtab turish joyiga qo‘yish usulini ko‘rsatish uchun qo‘llaniladi. <strong>7.6.1</strong> barcha turdagi transport vositalarini to‘xtab turishi uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini ko‘rsatadi. <strong>7.6.2 — 7.6.9</strong> trotuar yonidagi to‘xtab turish joyiga yengil avtomobillar va mototsikllarni qo‘yish usulini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1-7.6.9 “Способ&nbsp;парковки транспортного средства на стоянку”</strong></li></ul><p>Эти знаки применяются со знаком <strong>5.15&nbsp;«Место стоянки»</strong>&nbsp;для указания способа&nbsp;парковки&nbsp;транспортных средств на околотротуарной стоянке. Знак <strong>7.6.1</strong> указывает, способ парковки всех видов транспортных средств на проезжей части, рядом с тротуаром. Знаки <strong>7.6.2—7.6.9</strong> указывают способ парковки легковых автомобилей и мотоциклов.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1 — 7.6.9. «Транспорт воситасини тўхтаб туриш жойига қўйиш усули»</strong></li></ul><p>Ушбу белгилар <strong>5.15 «Тўхтаб туриш жойи»</strong> белгиси билан бирга транспорт воситаларининг тротуар яқинидаги тўхтаб туриш жойига қўйиш усулини кўрсатиш учун қўлланилади. <strong>7.6.1 </strong>барча турдаги транспорт воситаларини тўхтаб туриши учун йўлнинг қатнов қисмида, тротуар ёнига қўйиш усулини кўрсатади. <strong>7.6.2 — 7.6.9</strong> тротуар ёнидаги тўхтаб туриш жойига енгил автомобиллар ва мотоциклларни қўйиш усулини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 29
+            },
+            {
+                "id": 244,
+                "name": {
+                    "uz": "7.6.2 Transport vositasini to’xtab turish joyiga qo’yish usuli",
+                    "ru": "7.6.2 Как припарковать автомобиль",
+                    "kiril": "7.6.2 Транспорт воситасини тўхтаб туриш жойига қўйиш усули",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.6.2",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-00-49_R1JVJRDM4R.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1 — 7.6.9. «Transport vositasini to‘xtab turish joyiga qo‘yish usuli»</strong></li></ul><p>Ushbu belgilar <strong>5.15 «To‘xtab turish joyi»</strong> belgisi bilan birga transport vositalarining trotuar yaqinidagi to‘xtab turish joyiga qo‘yish usulini ko‘rsatish uchun qo‘llaniladi. <strong>7.6.1</strong> barcha turdagi transport vositalarini to‘xtab turishi uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini ko‘rsatadi. <strong>7.6.2 — 7.6.9</strong> trotuar yonidagi to‘xtab turish joyiga yengil avtomobillar va mototsikllarni qo‘yish usulini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1-7.6.9 “Способ&nbsp;парковки транспортного средства на стоянку”</strong></li></ul><p>Эти знаки применяются со знаком <strong>5.15&nbsp;«Место стоянки»</strong>&nbsp;для указания способа&nbsp;парковки&nbsp;транспортных средств на околотротуарной стоянке. Знак <strong>7.6.1</strong> указывает, способ парковки всех видов транспортных средств на проезжей части, рядом с тротуаром. Знаки <strong>7.6.2—7.6.9</strong> указывают способ парковки легковых автомобилей и мотоциклов.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>&nbsp;7.6.1 — 7.6.9. «Транспорт воситасини тўхтаб туриш жойига қўйиш усули»</strong></li></ul><p>Ушбу белгилар <strong>5.15 «Тўхтаб туриш жойи»</strong> белгиси билан бирга транспорт воситаларининг тротуар яқинидаги тўхтаб туриш жойига қўйиш усулини кўрсатиш учун қўлланилади. <strong>7.6.1 </strong>барча турдаги транспорт воситаларини тўхтаб туриши учун йўлнинг қатнов қисмида, тротуар ёнига қўйиш усулини кўрсатади. <strong>7.6.2 — 7.6.9</strong> тротуар ёнидаги тўхтаб туриш жойига енгил автомобиллар ва мотоциклларни қўйиш усулини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 30
+            },
+            {
+                "id": 245,
+                "name": {
+                    "uz": "7.6.3 Transport vositasini to’xtab turish joyiga qo’yish usuli",
+                    "ru": "7.6.3 Как припарковать автомобиль",
+                    "kiril": "7.6.3 Транспорт воситасини тўхтаб туриш жойига қўйиш усули",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.6.3",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-30-29_UVK1QZ25AR.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1 — 7.6.9. «Transport vositasini to‘xtab turish joyiga qo‘yish usuli»</strong></li></ul><p>Ushbu belgilar <strong>5.15 «To‘xtab turish joyi»</strong> belgisi bilan birga transport vositalarining trotuar yaqinidagi to‘xtab turish joyiga qo‘yish usulini ko‘rsatish uchun qo‘llaniladi. <strong>7.6.1</strong> barcha turdagi transport vositalarini to‘xtab turishi uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini ko‘rsatadi. <strong>7.6.2 — 7.6.9</strong> trotuar yonidagi to‘xtab turish joyiga yengil avtomobillar va mototsikllarni qo‘yish usulini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1-7.6.9 “Способ&nbsp;парковки транспортного средства на стоянку”</strong></li></ul><p>Эти знаки применяются со знаком <strong>5.15&nbsp;«Место стоянки»</strong>&nbsp;для указания способа&nbsp;парковки&nbsp;транспортных средств на околотротуарной стоянке. Знак <strong>7.6.1</strong> указывает, способ парковки всех видов транспортных средств на проезжей части, рядом с тротуаром. Знаки <strong>7.6.2—7.6.9</strong> указывают способ парковки легковых автомобилей и мотоциклов.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1 — 7.6.9. «Транспорт воситасини тўхтаб туриш жойига қўйиш усули»</strong></li></ul><p>Ушбу белгилар <strong>5.15 «Тўхтаб туриш жойи»</strong> белгиси билан бирга транспорт воситаларининг тротуар яқинидаги тўхтаб туриш жойига қўйиш усулини кўрсатиш учун қўлланилади. <strong>7.6.1 </strong>барча турдаги транспорт воситаларини тўхтаб туриши учун йўлнинг қатнов қисмида, тротуар ёнига қўйиш усулини кўрсатади. <strong>7.6.2 — 7.6.9</strong> тротуар ёнидаги тўхтаб туриш жойига енгил автомобиллар ва мотоциклларни қўйиш усулини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 31
+            },
+            {
+                "id": 246,
+                "name": {
+                    "uz": "7.6.4 Transport vositasini to’xtab turish joyiga qo’yish usuli",
+                    "ru": "7.6.4 Как припарковать автомобиль",
+                    "kiril": "7.6.4 Транспорт воситасини тўхтаб туриш жойига қўйиш усули",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.6.4",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-30-39_TPRF4QVD93.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1 — 7.6.9. «Transport vositasini to‘xtab turish joyiga qo‘yish usuli»</strong></li></ul><p>Ushbu belgilar <strong>5.15 «To‘xtab turish joyi»</strong> belgisi bilan birga transport vositalarining trotuar yaqinidagi to‘xtab turish joyiga qo‘yish usulini ko‘rsatish uchun qo‘llaniladi. <strong>7.6.1</strong> barcha turdagi transport vositalarini to‘xtab turishi uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini ko‘rsatadi. <strong>7.6.2 — 7.6.9</strong> trotuar yonidagi to‘xtab turish joyiga yengil avtomobillar va mototsikllarni qo‘yish usulini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1-7.6.9 “Способ&nbsp;парковки транспортного средства на стоянку”</strong></li></ul><p>Эти знаки применяются со знаком <strong>5.15&nbsp;«Место стоянки»</strong>&nbsp;для указания способа&nbsp;парковки&nbsp;транспортных средств на околотротуарной стоянке. Знак <strong>7.6.1</strong> указывает, способ парковки всех видов транспортных средств на проезжей части, рядом с тротуаром. Знаки <strong>7.6.2—7.6.9</strong> указывают способ парковки легковых автомобилей и мотоциклов.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>&nbsp;7.6.1 — 7.6.9. «Транспорт воситасини тўхтаб туриш жойига қўйиш усули»</strong></li></ul><p>Ушбу белгилар <strong>5.15 «Тўхтаб туриш жойи»</strong> белгиси билан бирга транспорт воситаларининг тротуар яқинидаги тўхтаб туриш жойига қўйиш усулини кўрсатиш учун қўлланилади. <strong>7.6.1 </strong>барча турдаги транспорт воситаларини тўхтаб туриши учун йўлнинг қатнов қисмида, тротуар ёнига қўйиш усулини кўрсатади. <strong>7.6.2 — 7.6.9</strong> тротуар ёнидаги тўхтаб туриш жойига енгил автомобиллар ва мотоциклларни қўйиш усулини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 32
+            },
+            {
+                "id": 247,
+                "name": {
+                    "uz": "7.6.5 Transport vositasini to’xtab turish joyiga qo’yish usuli",
+                    "ru": "7.6.5 Как припарковать автомобиль",
+                    "kiril": "7.6.5 Транспорт воситасини тўхтаб туриш жойига қўйиш усули",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.6.5",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-30-59_MFKMW4D8UJ.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1 — 7.6.9. «Transport vositasini to‘xtab turish joyiga qo‘yish usuli»</strong></li></ul><p>Ushbu belgilar <strong>5.15 «To‘xtab turish joyi»</strong> belgisi bilan birga transport vositalarining trotuar yaqinidagi to‘xtab turish joyiga qo‘yish usulini ko‘rsatish uchun qo‘llaniladi. <strong>7.6.1</strong> barcha turdagi transport vositalarini to‘xtab turishi uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini ko‘rsatadi. <strong>7.6.2 — 7.6.9</strong> trotuar yonidagi to‘xtab turish joyiga yengil avtomobillar va mototsikllarni qo‘yish usulini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1-7.6.9 “Способ&nbsp;парковки транспортного средства на стоянку”</strong></li></ul><p>Эти знаки применяются со знаком <strong>5.15&nbsp;«Место стоянки»</strong>&nbsp;для указания способа&nbsp;парковки&nbsp;транспортных средств на околотротуарной стоянке. Знак <strong>7.6.1</strong> указывает, способ парковки всех видов транспортных средств на проезжей части, рядом с тротуаром. Знаки <strong>7.6.2—7.6.9</strong> указывают способ парковки легковых автомобилей и мотоциклов.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>&nbsp;7.6.1 — 7.6.9. «Транспорт воситасини тўхтаб туриш жойига қўйиш усули»</strong></li></ul><p>Ушбу белгилар <strong>5.15 «Тўхтаб туриш жойи»</strong> белгиси билан бирга транспорт воситаларининг тротуар яқинидаги тўхтаб туриш жойига қўйиш усулини кўрсатиш учун қўлланилади. <strong>7.6.1 </strong>барча турдаги транспорт воситаларини тўхтаб туриши учун йўлнинг қатнов қисмида, тротуар ёнига қўйиш усулини кўрсатади. <strong>7.6.2 — 7.6.9</strong> тротуар ёнидаги тўхтаб туриш жойига енгил автомобиллар ва мотоциклларни қўйиш усулини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 33
+            },
+            {
+                "id": 248,
+                "name": {
+                    "uz": "7.6.6 Transport vositasini to’xtab turish joyiga qo’yish usuli",
+                    "ru": "7.6.6 Как припарковать автомобиль",
+                    "kiril": "7.6.6 Транспорт воситасини тўхтаб туриш жойига қўйиш усули",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.6.6",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-31-14_HUSWE541JG.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1 — 7.6.9. «Transport vositasini to‘xtab turish joyiga qo‘yish usuli»</strong></li></ul><p>Ushbu belgilar <strong>5.15 «To‘xtab turish joyi»</strong> belgisi bilan birga transport vositalarining trotuar yaqinidagi to‘xtab turish joyiga qo‘yish usulini ko‘rsatish uchun qo‘llaniladi. <strong>7.6.1</strong> barcha turdagi transport vositalarini to‘xtab turishi uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini ko‘rsatadi. <strong>7.6.2 — 7.6.9</strong> trotuar yonidagi to‘xtab turish joyiga yengil avtomobillar va mototsikllarni qo‘yish usulini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1-7.6.9 “Способ&nbsp;парковки транспортного средства на стоянку”</strong></li></ul><p>Эти знаки применяются со знаком <strong>5.15&nbsp;«Место стоянки»</strong>&nbsp;для указания способа&nbsp;парковки&nbsp;транспортных средств на околотротуарной стоянке. Знак <strong>7.6.1</strong> указывает, способ парковки всех видов транспортных средств на проезжей части, рядом с тротуаром. Знаки <strong>7.6.2—7.6.9</strong> указывают способ парковки легковых автомобилей и мотоциклов.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>&nbsp;7.6.1 — 7.6.9. «Транспорт воситасини тўхтаб туриш жойига қўйиш усули»</strong></li></ul><p>Ушбу белгилар <strong>5.15 «Тўхтаб туриш жойи»</strong> белгиси билан бирга транспорт воситаларининг тротуар яқинидаги тўхтаб туриш жойига қўйиш усулини кўрсатиш учун қўлланилади. <strong>7.6.1 </strong>барча турдаги транспорт воситаларини тўхтаб туриши учун йўлнинг қатнов қисмида, тротуар ёнига қўйиш усулини кўрсатади. <strong>7.6.2 — 7.6.9</strong> тротуар ёнидаги тўхтаб туриш жойига енгил автомобиллар ва мотоциклларни қўйиш усулини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 34
+            },
+            {
+                "id": 249,
+                "name": {
+                    "uz": "7.6.7 Transport vositasini to’xtab turish joyiga qo’yish usuli",
+                    "ru": "7.6.7 Как припарковать автомобиль",
+                    "kiril": "7.6.7 Транспорт воситасини тўхтаб туриш жойига қўйиш усули",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.6.7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-31-35_2PZFRSXNEB.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1 — 7.6.9. «Transport vositasini to‘xtab turish joyiga qo‘yish usuli»</strong></li></ul><p>Ushbu belgilar <strong>5.15 «To‘xtab turish joyi»</strong> belgisi bilan birga transport vositalarining trotuar yaqinidagi to‘xtab turish joyiga qo‘yish usulini ko‘rsatish uchun qo‘llaniladi. <strong>7.6.1</strong> barcha turdagi transport vositalarini to‘xtab turishi uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini ko‘rsatadi. <strong>7.6.2 — 7.6.9</strong> trotuar yonidagi to‘xtab turish joyiga yengil avtomobillar va mototsikllarni qo‘yish usulini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1-7.6.9 “Способ&nbsp;парковки транспортного средства на стоянку”</strong></li></ul><p>Эти знаки применяются со знаком <strong>5.15&nbsp;«Место стоянки»</strong>&nbsp;для указания способа&nbsp;парковки&nbsp;транспортных средств на околотротуарной стоянке. Знак <strong>7.6.1</strong> указывает, способ парковки всех видов транспортных средств на проезжей части, рядом с тротуаром. Знаки <strong>7.6.2—7.6.9</strong> указывают способ парковки легковых автомобилей и мотоциклов.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>&nbsp;7.6.1 — 7.6.9. «Транспорт воситасини тўхтаб туриш жойига қўйиш усули»</strong></li></ul><p>Ушбу белгилар <strong>5.15 «Тўхтаб туриш жойи»</strong> белгиси билан бирга транспорт воситаларининг тротуар яқинидаги тўхтаб туриш жойига қўйиш усулини кўрсатиш учун қўлланилади. <strong>7.6.1 </strong>барча турдаги транспорт воситаларини тўхтаб туриши учун йўлнинг қатнов қисмида, тротуар ёнига қўйиш усулини кўрсатади. <strong>7.6.2 — 7.6.9</strong> тротуар ёнидаги тўхтаб туриш жойига енгил автомобиллар ва мотоциклларни қўйиш усулини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 35
+            },
+            {
+                "id": 250,
+                "name": {
+                    "uz": "7.6.8 Transport vositasini to’xtab turish joyiga qo’yish usuli",
+                    "ru": "7.6.8 Как припарковать автомобиль",
+                    "kiril": "7.6.8 Транспорт воситасини тўхтаб туриш жойига қўйиш усули",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.6.8",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-31-47_EHKUC4BTM3.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1 — 7.6.9. «Transport vositasini to‘xtab turish joyiga qo‘yish usuli»</strong></li></ul><p>Ushbu belgilar <strong>5.15 «To‘xtab turish joyi»</strong> belgisi bilan birga transport vositalarining trotuar yaqinidagi to‘xtab turish joyiga qo‘yish usulini ko‘rsatish uchun qo‘llaniladi. <strong>7.6.1</strong> barcha turdagi transport vositalarini to‘xtab turishi uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini ko‘rsatadi. <strong>7.6.2 — 7.6.9</strong> trotuar yonidagi to‘xtab turish joyiga yengil avtomobillar va mototsikllarni qo‘yish usulini ko‘rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.6.1-7.6.9 “Способ&nbsp;парковки транспортного средства на стоянку”</strong></li></ul><p>Эти знаки применяются со знаком <strong>5.15&nbsp;«Место стоянки»</strong>&nbsp;для указания способа&nbsp;парковки&nbsp;транспортных средств на околотротуарной стоянке. Знак <strong>7.6.1</strong> указывает, способ парковки всех видов транспортных средств на проезжей части, рядом с тротуаром. Знаки <strong>7.6.2—7.6.9</strong> указывают способ парковки легковых автомобилей и мотоциклов.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>&nbsp;7.6.1 — 7.6.9. «Транспорт воситасини тўхтаб туриш жойига қўйиш усули»</strong></li></ul><p>Ушбу белгилар <strong>5.15 «Тўхтаб туриш жойи»</strong> белгиси билан бирга транспорт воситаларининг тротуар яқинидаги тўхтаб туриш жойига қўйиш усулини кўрсатиш учун қўлланилади. <strong>7.6.1 </strong>барча турдаги транспорт воситаларини тўхтаб туриши учун йўлнинг қатнов қисмида, тротуар ёнига қўйиш усулини кўрсатади. <strong>7.6.2 — 7.6.9</strong> тротуар ёнидаги тўхтаб туриш жойига енгил автомобиллар ва мотоциклларни қўйиш усулини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 36
+            },
+            {
+                "id": 251,
+                "name": {
+                    "uz": "7.7 Yurgizgichni ishlatmasdan to’xtab turish joyi",
+                    "ru": "7.7 Парковка без участия водителя",
+                    "kiril": "7.7 Юргизгични ишлатмасдан тўхтаб туриш жойи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.7",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-32-04_X7UAH7RZ1D.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.7. \"Dvigatelni ishlatmasdan to'xtab turish joyi\"</strong></li></ul><p>Ushbu qo'shimcha axborot belgisi <i><strong>5.15. \"To'xtab turish joyi\"</strong></i> yo'l belgisi bilan birgalikda qo'yiladi. Belgi ekologik muhitning tozaligini saqlash maqsadida, ushbu to'xtab turish joyida transport vositalariga dvigateli o'chirilgan holda to'xtab turishga ruxsat etilganligini ko'rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.7&nbsp;\"Стоянка&nbsp; с&nbsp;неработающим двигателем\"</strong></li></ul><p>Этот дополнительный информационный знак&nbsp;</p><p><strong>5.15. \"Место стоянки\"&nbsp;</strong></p><p>ставится вместе с дорожным знаком. Знак указывает на то, что в целях сохранения чистоты окружающей среды на данной стоянке разрешается парковка транспортных средств с выключенным двигателем.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.7. \"Двигателни ишлатмасдан тўхтаб туриш жойи\"</strong></li></ul><p>Ушбу қўшимча ахборот белгиси <i><strong>5.15. \"Тўхтаб туриш жойи\"</strong></i> йўл белгиси билан биргаликда қўйилади. Белги экологик муҳитнинг тозалигини сақлаш мақсадида, ушбу тўхтаб туриш жойида транспорт воситаларига двигатели ўчирилган ҳолда тўхтаб туришга рухсат этилганлигини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 37
+            },
+            {
+                "id": 252,
+                "name": {
+                    "uz": "7.8 Pullik xizmat ko’rsatish joyi",
+                    "ru": "7.8 Место платной услуги",
+                    "kiril": "7.8 Пуллик хизмат кўрсатиш жойи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.8",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-32-30_TTQVQBTH7B.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.8. \"Pullik xizmat ko'rsatish joyi\"</strong></li></ul><p>Ushbu qo'shimcha axborot belgisi <i><strong>5.15. \"To'xtab turish joyi\"</strong></i> yo'l belgisi bilan birga qo'yiladi va to'xtab turish joyi pullik ekanligini ko'rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.8.&nbsp;\"Платные услуги\"&nbsp;</strong></li></ul><p>Этот дополнительный информационный знак 5.15. \"Место стоянки\" ставится вместе с дорожным знаком и указывает на то, что парковка платная.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.8. \"Пуллик хизмат кўрсатиш жойи\"</strong></li></ul><p>Ушбу қўшимча ахборот белгиси <i><strong>5.15. \"Тўхтаб туриш жойи\"</strong></i> йўл белгиси билан бирга қўйилади ва тўхтаб туриш жойи пуллик эканлигини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 38
+            },
+            {
+                "id": 253,
+                "name": {
+                    "uz": "7.9 To’xtab turish muddati cheklangan",
+                    "ru": "7.9 Время остановки ограничено",
+                    "kiril": "7.9 Тўхтаб туриш муддати чекланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.9",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-32-40_K1E5F5UQ3T.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.9. \"To'xtab turish muddati cheklangan\"</strong></li></ul><p>belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida vaqt chegarasini ko‘rsatuvchi son va lotin alifbosida <strong>“daq”</strong> yozuvi ko‘rsatilgan.</p><p><strong>7.9 «To‘xtab turish muddati cheklangan»</strong> belgisi <strong>5.15 «To‘xtab turish joyi»</strong> belgisi bilan birga avtomobilning qisqa muddatli ommaviy tashrif buyuradigan obyektlardagi to‘xtash joyida maksimal to‘xtab turish muddatini ko‘rsatish uchun ishlatiladi.</p><p>Jamoat obyektlari atrofidagi hududlarga, birinchi navbatda, avtomobil bilan tashrif buyuruvchilar tomonidan talab katta bo‘ladi.</p><p>Sport inshootlari, kinoteatrlar, savdo majmualari va boshqa obyektlar atrofi ba’zan nafaqat tashrif buyuruvchilar oqimi sababli, balki ular boshqarib kelgan transport vositalari sababli ham tirband bo‘ladi.</p><p>To‘xtash joylaridan optimal foydalanish va ulardagi transport vositalari sonini tartibga solish uchun <strong>«To‘xtab turish joyi» </strong>belgisi va <strong>«To‘xtab turish muddati cheklangan»</strong> belgilari birgalikda qo‘llaniladi.</p><p>Belgilar haydovchiga transport vositalarini belgilangan joylarda to‘xtashning maksimal muddatini ko‘rsatadi. Boshqacha aytganda, haydovchiga belgilar bilan belgilangan va to‘xtash uchun ajratilgan vaqtdan oshib ketishi qat’iyan man etiladi.</p><p>Ushbu cheklov jamoat obyektlari yaqinidagi avtoturargohlarning optimal ishlashini ta’minlaydi..</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.9.&nbsp;\"Ограничение&nbsp;продолжительности стоянки\"</strong></li></ul><p>представляет собой прямоугольную форму с черной окантовкой.&nbsp;В центре прямоугольника находится число, обозначающее лимит времени, и надпись «daq» латинским алфавитом.</p><p>Знак&nbsp;<strong>7.9 «Ограничение продолжительности стоянки»</strong> применяют со знаком <strong>5.15 «Место стоянки»</strong> для указания максимальной продолжительности пребывания транспортного средства на стоянке у объектов массового кратковременного посещения.</p><p>Территории вокруг общественных объектов будут пользоваться повышенным спросом, в первую очередь у посетителей на автомобиле.</p><p>Окрестности спортивных сооружений, кинотеатров, торговых комплексов и других объектов порой перегружены не только из-за потока посетителей, но и из-за транспортных средств, которыми они управляют.</p><p>В целях оптимального использования парковочных мест и регулирования количества находящихся в них транспортных средств знаки <strong>«Место стоянки»</strong> и&nbsp;<strong>«Ограничение продолжительности стоянки»</strong> используются совместно.</p><p>Знаки указывают водителю максимальный срок стоянки транспортных средств в отведенных для этого места. Иными словами, водителю категорически запрещено превышать время, отведенное на остановку.</p><p>Данное ограничение обеспечивает оптимальную работу парковок вблизи объектов общественного назначения.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.9. \"Тўхтаб туриш муддати чекланган\"</strong></li></ul><p>белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида вақт чегарасини кўрсатувчи сон ва лотин алифбосида “daq” ёзуви кўрсатилган.</p><p><strong>7.9 «Тўхтаб туриш муддати чекланган»</strong> белгиси <strong>5.15 «Тўхтаб туриш жойи»</strong> белгиси билан бирга автомобилнинг қисқа муддатли оммавий ташриф буюрадиган объектлардаги тўхташ жойида максимал тўхтаб туриш муддатини кўрсатиш учун ишлатилади.</p><p>Жамоат объектлари атрофидаги ҳудудларга, биринчи навбатда, автомобил билан ташриф буюрувчилар томонидан талаб катта бўлади.</p><p>Спорт иншоотлари, кинотеатрлар, савдо мажмуалари ва бошқа объектлар атрофи баъзан нафақат ташриф буюрувчилар оқими сабабли, балки улар бошқариб келган транспорт воситалари сабабли ҳам тирбанд бўлади.</p><p>Тўхташ жойларидан оптимал фойдаланиш ва улардаги транспорт воситалари сонини тартибга солиш учун <strong>«Тўхтаб туриш жойи»</strong> белгиси ва <strong>«Тўхтаб туриш муддати чекланган»</strong> белгилари биргаликда қўлланилади.</p><p>Белгилар ҳайдовчига транспорт воситаларини белгиланган жойларда тўхташнинг максимал муддатини кўрсатади. Бошқача айтганда, ҳайдовчига белгилар билан белгиланган ва тўхташ учун ажратилган вақтдан ошиб кетиши қатъиян ман этилади.</p><p>Ушбу чеклов жамоат объектлари яқинидаги автотураргоҳларнинг оптимал ишлашини таъминлайди.</p>"
+                        }
+                    ]
+                },
+                "order": 39
+            },
+            {
+                "id": 254,
+                "name": {
+                    "uz": "7.10 Avtomobillarni ko’rikdan o’tkazish joyi",
+                    "ru": "7.10 Место осмотра автомобиля",
+                    "kiril": "7.10 Автомобилларни кўрикдан ўтказиш жойи",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.10",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-32-56_CXKGVQUYQV.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.10. \"Avtomobillarni ko'rikdan o'tkazish joyi\"</strong></li></ul><p><strong>7.10 «Avtomobillarni ko‘rikdan o‘tkazish joyi»</strong> belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida estakada ustida turgan qora rangli yengil avtomobil tasvirlangan.</p><p><strong>7.10 «Avtomobillarni ko‘rikdan o‘tkazish joyi»</strong> belgisi <strong>5.15 «To‘xtab turish joyi»</strong> yoki <strong>6.11 «Dam olish joyi»</strong> belgisi bilan ko‘rsatilgan maydonlarda estakada yoki ko‘zdan kechirish chuqurchalari borligini bildiradi.</p><p>Yuqori tezlikda harakatlanish uchun &nbsp;mo‘ljallangan yo‘llarda yoki uzoq masofalarga sayohat qilganda, haydovchi o‘z transport vositasining nosozliklari bilan bog‘liq muammolarga tayyor bo‘lishi kerak.</p><p>Bundan tashqari, xuddi shu nosozliklar jiddiy yoki unchalik jiddiy bo‘lmasligi mumkin.</p><p>Agar dvigatel ishlamay qolsa yoki osmalar ishdan chiqsa, bunday holatda tezkor ta’mirlash yordam bermaydi. Ko‘pincha, ushbu holatda avtomobillarga texnik xizmat ko‘rsatish bo‘yicha mutaxassislarning xizmatlariga murojaat qilish kerak bo‘ladi. &nbsp;</p><p>Lekin, shunday vaziyatlar ham bo‘lishi mumkinki, nosozliklar kichik va ahamiyatsiz bo‘ladi, ularni ko‘zdan kechirish chuqurchalariga borish orqali mustaqil ravishda bartaraf qilish mumkin. Aynan shunday holatlarda <strong>7.10</strong> belgisi, u bilan birga o‘rnatilgan belgilar bilan birgalikda, yo‘lda ko‘zdan kechirish chuqurchalari mavjudligi haqida axborot beradi.</p><p>Shuningdek, xaydovchilar bunday joylarda, nafaqat qandaydir nosozliklarni ta’mirlash, balki bo‘lishi mumkin bo‘lgan nosozliklarning oldini olish uchun ham, avtomobillarini ko‘zdan kechirishlari mumkin.</p><p>Yana shuni ham hisobga olish kerakki, ushbu belgilarning <strong>6.4</strong> belgisidan farqi, <strong>«Avtomobillarni ko‘rikdan o‘tkazish joyi»</strong> belgisi, o‘zi bilan o‘rnatilgan belgilar bilan birgalikda, faqat avtomobillarni ko‘zdan kechirish chuqurchalari mavjudligi haqida axborot beradi va bunda ta’mirlash ishlari bilan haydovchining o‘zi shug‘ullanishi kerak. <strong>6.4 «Avtomobillarga texnik xizmat ko‘rsatish joyi»</strong> belgisi bilan belgilangan joylarda esa, ta’mirlash ishlari bilan shug‘ullanuvchi maxsus mutaxassislar va maxsus ajratilgan joylar bo‘ladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.10.&nbsp;\"Место&nbsp;для&nbsp;осмотра&nbsp;автомобилей\"</strong></li></ul><p>Знак <strong>7.10 «Место для осмотра автомобилей»</strong> имеет прямоугольную форму с черной каймой. В центре прямоугольника изображен черный легковой автомобиль, стоящий на эстакаде.</p><p>Знак <strong>7.10 «Место для осмотра автомобилей»</strong> указывает на наличие эстакад или осмотровая канава в зонах, указанных знаком <strong>5.15 «Место стоянки»</strong> или <strong>6.11 «Место отдыха»</strong>.</p><p>Двигаясь по скоростным дорогам или перемещаясь на приличные расстояния, водитель должен быть готов к неприятностям, связанным с неисправностями своего транспортного средства.</p><p>Причем эти самые неисправности могут быть серьезные и не очень.</p><p>Если отказал в работе двигатель или вышла из строя подвеска, то беглый ремонт в данном случае не поможет. Чаще всего придется обратиться к услугам специалистов автосервиса.&nbsp;</p><p>Но бывают случаи, когда неисправность бывает мелкой и несущественной, которую можно ликвидировать самостоятельно, заехав на осмотровую канаву. Именно в таких случаях знак <strong>7.10</strong> вместе с установленными вместе с ним знаками дает информацию о наличии осмотровых канав на дороге.&nbsp;</p><p>Также в таких местах водители могут осмотреть свои автомобили не только для устранения некоторых неисправностей, но и для предотвращения возможных неисправностей.</p><p>Следует также учитывать, что отличие этих знаков от знака <strong>6.4</strong>, знак <strong>«Место для осмотра автомобилей»</strong> вместе с установленными вместе с ним знаками дает информацию лишь о наличии осмотровых канав автомобиля, в этом случае ремонтными работами должен &nbsp;заняться сам водитель. В местах, обозначенных знаком <strong>6.4 «Техническое обслуживание автомобилей»</strong>, располагаются специальные специалисты и специально отведенные места, занимающиеся ремонтными работами.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.10. \"Автомобилларни кўрикдан ўтказиш жойи\"</strong></li></ul><p><strong>7.10 «Автомобилларни кўрикдан ўтказиш жойи»</strong> белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида эстакада устида турган қора рангли енгил автомобил тасвирланган.</p><p><strong>7.10 «Автомобилларни кўрикдан ўтказиш жойи»&nbsp;</strong>белгиси<strong> 5.15 «Тўхтаб туриш жойи»</strong> ёки <strong>6.11 «Дам олиш жойи»</strong> белгиси билан кўрсатилган майдонларда эстакада ёки кўздан кечириш чуқурчалари борлигини билдиради.</p><p>Юқори тезликда ҳаракатланиш учун &nbsp;мўлжалланган йўлларда ёки узоқ масофаларга саёҳат қилганда, ҳайдовчи ўз транспорт воситасининг носозликлари билан боғлиқ муаммоларга тайёр бўлиши керак.</p><p>Бундан ташқари, худди шу носозликлар жиддий ёки унчалик жиддий бўлмаслиги мумкин.</p><p>Агар двигател ишламай қолса ёки осмалар ишдан чиқса, бундай ҳолатда тезкор таъмирлаш ёрдам бермайди. Кўпинча, ушбу ҳолатда автомобилларга техник хизмат кўрсатиш бўйича мутахассисларнинг хизматларига мурожаат қилиш керак бўлади.&nbsp;</p><p>Лекин, шундай вазиятлар ҳам бўлиши мумкинки, носозликлар кичик ва аҳамиятсиз бўлади, уларни кўздан кечириш чуқурчаларига бориш орқали мустақил равишда бартараф қилиш мумкин. Айнан шундай ҳолатларда <strong>7.10</strong> белгиси, у билан бирга ўрнатилган белгилар билан биргаликда, йўлда кўздан кечириш чуқурчалари мавжудлиги ҳақида ахборот беради.</p><p>Шунингдек, хайдовчилар бундай жойларда, нафақат қандайдир носозликларни таъмирлаш, балки бўлиши мумкин бўлган носозликларнинг олдини олиш учун ҳам, автомобилларини&nbsp;кўздан кечиришлари мумкин.</p><p>Яна шуни ҳам ҳисобга олиш керакки, ушбу белгиларнинг <strong>6.4</strong> белгисидан фарқи, <strong>«Автомобилларни кўрикдан ўтказиш жойи»&nbsp;</strong>белгиси, ўзи билан ўрнатилган белгилар билан биргаликда, фақат автомобилларни кўздан кечириш чуқурчалари мавжудлиги ҳақида ахборот беради ва бунда таъмирлаш ишлари билан ҳайдовчининг ўзи шуғулланиши керак. <strong>6.4 «Автомобилларга техник хизмат кўрсатиш жойи»&nbsp;</strong>белгиси билан белгиланган жойларда эса, таъмирлаш ишлари билан шуғулланувчи махсус мутахассислар ва махсус ажратилган жойлар бўлади.&nbsp;</p>"
+                        }
+                    ]
+                },
+                "order": 40
+            },
+            {
+                "id": 255,
+                "name": {
+                    "uz": "7.11 To’la vazni cheklangan",
+                    "ru": "7.11 Ограничение полной массы",
+                    "kiril": "7.11 Тўла вазни чекланган",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.11",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-34-01_WMQCYM5AZS.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.11. </strong>. <strong>\"Ruxsat etilgan to'la vazni cheklangan\".</strong></li></ul><p>&nbsp;Belgining ta'siri ruxsat etilgan to'la vazni qo'shimcha-axborot yo'l belgisida ko'rsatilgan miqdordan ortiq bo'lgan transport vositalariga taalluqli ekanligini ko'rsatadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.11.&nbsp;«Ограничение разрешенной максимальной массы».</strong></li></ul><p>&nbsp;Указывает, что действие знака распространяется только на транспортные средства с разрешенной максимальной массой, превышающей указанную на знаке дополнительной информации.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.11.</strong>. <strong>«Рухсат этилган тўла вазни чекланган».&nbsp;</strong></li></ul><p>Белгининг таъсири рухсат этилган тўла вазни қўшимча-ахборот йўл белгисида кўрсатилган миқдордан ортиқ бўлган транспорт воситаларига тааллуқли эканлигини кўрсатади.</p>"
+                        }
+                    ]
+                },
+                "order": 41
+            },
+            {
+                "id": 256,
+                "name": {
+                    "uz": "7.12 Xavfli yo’l yoqasi",
+                    "ru": "7.12 Опасная обочина",
+                    "kiril": "7.12 Хавфли йўл ёқаси",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.12",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-34-10_2Z82UCTD9H.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.12. \"Xavfli yo'l yoqasi\"</strong></li></ul><p>Qo‘shimcha axborot belgisi yo‘l ishlari bajarilayotgani sababli yoki yo‘l yoqasidan qurilish materiallarini tushirish va qurilish mashinalarini qo‘yish uchun foydalaniladigan bo‘lsa, yo‘l yoqasiga chiqish xavfli ekanligi haqida ogohlantirish maqsadida foydalaniladi hamda <strong>1.23. «Ta’mirlash ishlari»</strong> belgisi bilan qo‘llaniladi.</p><p>Ushbu belgilar talablariga amal qilmay yo‘l yoqasida to‘xtagan yoki to‘xtab turish uchun qo‘ygan haydovchining avtomobili ta’mirlash ishlariga halaqit berishi, yo‘l &nbsp;yoqasiga tushirilayotgan qurilish materiallari avtomobiliga tegib ketib shikastlanishi, bu yerda ish bajarayotgan qurilish mashinalarining&nbsp;harakatlanishi oqibatida yo‘l-transport hodisasini keltirib chiqarishi mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.12. \"Опасная обочина\"</strong></li></ul><p>Применяется для предупреждения об опасности выезда на обочину из-за проведения дорожных работ или в случае использования обочины для разгрузки строительных материалов и парковки строительной техники. Используется с знаком <strong>1.23. «Дорожные работы».</strong> Вне населенных пунктов&nbsp; знак <strong>7.12. «Опасная обочина»</strong> повторяются. так как используется с знаком <strong>1.23. «Дорожные работы»</strong>.</p><p>Водитель, остановившегося или припарковавшегося на обочине дороги без соблюдения требований настоящих знаков, может причинить ущерб ремонтным работам, повредить автомобиль из-за выгрузки строительных материалов на обочине дороги, а также может стать причиной дорожно-транспортного происшествия из-за движения строительной техники, выполняющей там работы.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.12. \"Хавфли йўл ёқаси\"</strong></li></ul><p>Қўшимча ахборот белгиси йўл ишлари бажарилаётгани сабабли ёки йўл ёқасидан қурилиш материалларини тушириш ва қурилиш машиналарини қўйиш учун фойдаланиладиган бўлса, йўл ёқасига чиқиш хавфли эканлиги ҳақида огоҳлантириш мақсадида фойдаланилади ҳамда <strong>1.23. «Таъмирлаш ишлари»</strong> белгиси билан қўлланилади.</p><p>Ушбу белгилар талабларига амал қилмай йўл ёқасида тўхтаган ёки тўхтаб туриш учун қўйган ҳайдовчининг автомобили таъмирлаш ишларига ҳалақит бериши, йўл&nbsp; ёқасига туширилаётган қурилиш материаллари автомобилига тегиб кетиб шикастланиши, бу ерда иш бажараётган қурилиш машиналарининг&nbsp;ҳаракатланиши оқибатида йўл-транспорт ҳодисасини келтириб чиқариши мумкин.</p>"
+                        }
+                    ]
+                },
+                "order": 42
+            },
+            {
+                "id": 257,
+                "name": {
+                    "uz": "7.13 Asosiy yo’lning yo’nalishi",
+                    "ru": "7.13 Направление главной дороги",
+                    "kiril": "7.13 Асосий йўлнинг йўналиши",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.13",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-34-23_RHRAB7V4G6.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.13. \"Asosiy yo'lning yo'nalishi\"</strong></li></ul><p>belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida asosiy yo‘lning yo‘nalishini ko‘rsatuvchi qalin va ikkinchi darajali yo‘lni ko‘rsatuvchi ingichka chiziqlar tasvirlangan.</p><p>Haydovchiga chorrahada asosiy yo‘l yo‘nalishini o‘zgartirayotgani haqida xabar berish uchun <strong>7.13 «Asosiy yo‘lning yo‘nalishi» </strong>belgisi qo‘llaniladi. U faqat uchta imtiyoz belgilar bilan ishlatilishi mumkin:<strong> 2.1 «Asosiy yo‘l», 2.4 «Yo‘l bering!»</strong> va <strong>2.5</strong> <strong>«To‘xtamasdan harakatlanish taqiqlangan».</strong></p><p>Ushbu belgining ma’nosi oddiy: chorrahada asosiy yo‘l va uning yo‘nalishi qalin chiziq bilan ko‘rsatilgan, mos ravishda ikkinchi darajali yo‘l ingichka chiziqlarbilan berilgan. Yo‘l harakati qoidalari ushbu belgidagi chorraha ko‘rinishi imkon qadar haqiqiysiga yaqin bo‘lishini talab qiladi. Ushbu talabning amalga oshirilishi haydovchilarning harakatlanishini sezilarli darajada osonlashtiradi.</p><p>Agar <strong>2.1 «Asosiy yo‘l»</strong> belgisi boshqa belgilar bilan qo‘llanilmagan bo‘lsa, bu asosiy yo‘l to‘g‘ri ketayotganini anglatadi. Agar asosiy yo‘l burilsa, belgining yonida <strong>7.13 </strong>belgisi o‘rnatiladi, unda qalin qora chiziq asosiy yo‘lning trayektoriyasini aniq ko‘rsatadi. Haydovchilar ushbu belgilar talablariga faqat tartibga solinmagan chorrahalarda yoki agar tartibga solingan chorrahada svetofor ishlamay qoladigan yoki doimiy miltillovchi sariq ishoraga o‘tadigan vaziyat yuzaga kelsa, amal qilishlari kerak. Ya’ni, svetofor ishlayotgan paytda biz unga va faqat unga bo‘ysunamiz. Svetofor o‘chgan zahoti <strong>2.1</strong>&nbsp;va <strong>7.13</strong> belgilari kuchga kiradi. Asosiy yo‘lning yo‘nalishi chorrahada o‘zgarganda, asosiy yo‘lda harakatlanayotgan haydovchilar o‘zaro teng ahamiyatli yo‘llar chorrahasidan o‘tish qoidasiga amal qilishlari kerak. Ya’ni, teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorrahada relssiz transport vositasining haydovchisi o‘ngdan yaqinlashayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak. Ikkinchi darajali yo‘llarda harakatlanayotgan haydovchilar ham o‘zaro shu qoidaga amal qilishlari kerak. Bunday chorrahalarda keyingi harakat yo‘nalishidan qat’iy nazar, tramvay relssiz transport vositalariga nisbatan oldin o‘tish huquqiga ega bo‘ladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.13.\"Направление&nbsp;главной дороги\"&nbsp;</strong></li></ul><p>Знак&nbsp;<strong>7.13 «Направление главной дороги»</strong> представляет собой прямоугольную форму с узкой чёрной окантовкой. В центре прямоугольника толстые линии указывают направление главной дороги, а тонкие линии — второстепенную. Чтобы проинформировать водителя, что главная дорога на перекрестке меняет направление, используется табличка <strong>7.13 «Направление главной дороги»</strong>. Она может применяться только с тремя знаками приоритета: <strong>2.1 «Главная дорога»</strong>,&nbsp; <strong>2.4 «Уступить дорогу»</strong> и <strong>2.5 «Проезд без остановки запрещен»</strong>.</p><p>Смысл данного знака прост: главная дорога на перекрестке и ее направление обозначены толстой линией, соответственно, второстепенная дорога — это тонкая линия. ПДД требуют, чтобы на данном знаке схема перекрестка была максимально приближена к действительности. Реализация данного требования существенно облегчает движение водителям. Если знак <strong>2.1 «Главная дорога»</strong> не дополнена никакими другими знаками, это означает, что главная дорога идёт прямо. Если же главная дорога заворачивает, рядом со знаком устанавливается знак <strong>7.13</strong>, на которой жирная чёрная линия чётко указывает траекторию главной дороги. Водители обязаны соблюдать требования этих знаков только на нерегулируемых перекрестках или в случае возникновения ситуации, когда светофор на регулируемом перекрестке не работает или переключается на постоянный мигающий желтый сигнал. То есть, пока работает светофор, слушаемся его и только его. Как только светофор отключается, в силу вступает Знаки <strong>2.1</strong> и <strong>7.13</strong>. Если главная дорога на перекрестке меняет направление, водители, движущиеся по главной дороге, должны руководствоваться между собой правилами проезда перекрестков равнозначных дорог. То есть, на перекрестке равнозначных дорог водитель безрельсового транспортного средства обязан уступить дорогу транспортным средствам, приближающимся справа. Этим же правилом должны руководствоваться между собой водители трамваев. Этим же правилом должны руководствоваться между собой и водители, движущиеся по второстепенным дорогам. На таких перекрестках трамвай имеет право на приоритет движения перед безрельсовыми транспортными средствами, независимо от направления его движения.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.13. \"Асосий йўлнинг йўналиши\"</strong></li></ul><p>белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида асосий йўлнинг йўналишини кўрсатувчи қалин ва иккинчи даражали йўлни кўрсатувчи ингичка чизиқлар тасвирланган.</p><p>Ҳайдовчига чорраҳада асосий йўл йўналишини ўзгартираётгани ҳақида хабар бериш учун <strong>7.13 «Асосий йўлнинг йўналиши»</strong> белгиси қўлланилади. У фақат учта имтиёз белгилар билан ишлатилиши мумкин: <strong>2.1 «Асосий йўл»</strong>, <strong>2.4 «Йўл беринг!»</strong> ва <strong>2.5 «Тўхтамасдан ҳаракатланиш тақиқланган»</strong>.</p><p>Ушбу белгининг маъноси оддий: чорраҳада асосий йўл ва унинг йўналиши қалин чизиқ билан кўрсатилган, мос равишда иккинчи даражали йўл ингичка чизиқларбилан берилган. Йўл ҳаракати қоидалари ушбу белгидаги чорраҳа кўриниши имкон қадар ҳақиқийсига яқин бўлишини талаб қилади. Ушбу талабнинг амалга оширилиши ҳайдовчиларнинг ҳаракатланишини сезиларли даражада осонлаштиради.</p><p>Агар <strong>2.1 «Асосий йўл»</strong> белгиси бошқа белгилар билан қўлланилмаган бўлса, бу асосий йўл тўғри кетаётганини англатади. Агар асосий йўл бурилса, белгининг ёнида <strong>7.13</strong> белгиси ўрнатилади, унда қалин қора чизиқ асосий йўлнинг траекториясини аниқ кўрсатади. Ҳайдовчилар ушбу белгилар талабларига фақат тартибга солинмаган чорраҳаларда ёки агар тартибга солинган чорраҳада светофор ишламай қоладиган ёки доимий милтилловчи сариқ ишорага ўтадиган вазият юзага келса, амал қилишлари керак. Яъни, светофор ишлаётган пайтда биз унга ва фақат унга бўйсунамиз. Светофор ўчган заҳоти <strong>2.1&nbsp;</strong>ва<strong> 7.13</strong> белгилари кучга киради. Асосий йўлнинг йўналиши чорраҳада ўзгарганда, асосий йўлда ҳаракатланаётган ҳайдовчилар ўзаро тенг аҳамиятли йўллар чорраҳасидан ўтиш қоидасига амал қилишлари керак. Яъни, тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак. Иккинчи даражали йўлларда ҳаракатланаётган ҳайдовчилар ҳам ўзаро шу қоидага амал қилишлари керак. Бундай чорраҳаларда кейинги ҳаракат йўналишидан қатъий назар, трамвай рельссиз транспорт воситаларига нисбатан олдин ўтиш ҳуқуқига эга бўлади.</p>"
+                        }
+                    ]
+                },
+                "order": 43
+            },
+            {
+                "id": 258,
+                "name": {
+                    "uz": "7.14 Harakatlanish bo’lagi",
+                    "ru": "7.14 Раздел \"Трафик\"",
+                    "kiril": "7.14 Ҳаракатланиш бўлаги",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.14",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-34-35_XSJ1XCMCXG.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.14. \"Harakatlanish bo'lagi\"</strong></p><p>Mazkur qo'shimcha axborot belgisi harakatlanish bo'lagi ustida o'rnatilgan asosiy yo'l belgilari yoki svetofor bilan birga qo'yiladi. U asosiy belgining ta'siri alohida harakatlanish bo'lagiga tegishli ekanligini bildiradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.14. \"Полоса движения\"&nbsp;</strong></p><p>Указывает&nbsp;полосу&nbsp;движения,&nbsp;&nbsp; на&nbsp;&nbsp;которую&nbsp;распространяется&nbsp;действие&nbsp;знака или светофора.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.14. \"Ҳаракатланиш бўлаги\"</strong></p><p>Мазкур қўшимча ахборот белгиси ҳаракатланиш бўлаги устида ўрнатилган асосий йўл белгилари ёки светофор билан бирга қўйилади. У асосий белгининг таъсири алоҳида ҳаракатланиш бўлагига тегишли эканлигини билдиради.</p>"
+                        }
+                    ]
+                },
+                "order": 44
+            },
+            {
+                "id": 259,
+                "name": {
+                    "uz": "7.15 Ko’zi ojiz piyodalar",
+                    "ru": "7.15 Слепые пешеходы",
+                    "kiril": "7.15 Кўзи ожиз пиёдалар",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.15",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-34-47_JHG9NEETUD.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.15. \"Ko‘zi ojiz piyodalar\"</strong></li></ul><p>belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida qora rangli ko‘zoynak tasvirlangan.</p><p><strong>7.15 «Ko‘zi ojiz piyodalar» </strong>belgisi svetofor va <strong>1.20, 5.16.1, 5.16.2 «Piyodalar o‘tish joyi»</strong>&nbsp;belgilari bilan birgalikda ko‘zi ojiz piyodalar chiqib qolishi mumkin bo‘lgan obyektlarga yaqin joylarda joylashgan piyodalar o‘tish joylari oldida qo‘llaniladi.</p><p><strong>7.15</strong> belgisi va <strong>1.20 «Piyodalar o‘tish joyi»</strong> ogohlantiruvchi belgisi birgalikda transport vositasi haydovchisiga ma’lum masofadan keyin (aholi punktlarida - <strong>50-100</strong> metrdan keyin va aholi punktlaridan tashqarida - <strong>150-300 </strong>metrdan keyin) u ko‘zi ojiz yoki ko‘rish qobiliyati zaif piyodalar tez-tez paydo bo‘lishi mumkin bo‘lgan piyodalar o‘tish joyiga yaqinlashayotganligini ko‘rsatadi.</p><p>Agar <strong>7.15</strong> belgisi <strong>5.16.1</strong> va <strong>5.16.2 «Piyodalar o‘tish joyi»</strong> belgilari bilan birgalikda haydovchiga aynan shu piyodalar o‘tish joyining chegarasi ekanligini ko‘rsatadi. Yo‘lning bunday qismlarida haydovchi imkoniyati cheklangan piyodalarga imkon qadar e’tiborli va ehtiyotkor bo‘lishi kerak. Gap shundaki, ko‘zi ojiz yoki ko‘rish qobiliyati zaif piyodalar piyodalar majburiyatlariga to‘liq rioya qila olmasliklari mumkin.</p><p>Ba’zi insonlarning, afsuski, imkoniyatlari cheklangan bo‘ladi.&nbsp;Masalan, ko‘zi ojiz yoki ko‘rish qobiliyati zaif odamlar. Bunday odamlar yo‘lga chiqishda ko‘rish qobiliyati yaxshi piyodalarga qaraganda ko‘proq xavf ostida bo‘lishadi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li>Знак <strong>7.15 «Слепые пешеходы»</strong></li></ul><p>имеет прямоугольную форму с черной каймой. В центре прямоугольника изображены черные очки. Знак <strong>7.15 «Слепые пешеходы»</strong> применяется совместно со светофором и со знаками <strong>1.20</strong>, <strong>5.16.1</strong>, <strong>5.16.2 «Пешеходный переход»</strong> перед пешеходными переходами, расположенными в непосредственной близости от объектов, которые посещают слепые и слабовидящие.</p><p>Комбинация знака <strong>7.15</strong> и предупреждающего знака <strong>1.20 «Пешеходный переход»</strong> укажет водителю транспортного средства о том, что через определенное расстояние (в населенном пункте – через 50-100 метров, а вне населенного пункта – через 150-300 метров) он подъедет к пешеходному переходу, на котором возможно частое появление слепых или слабовидящих пешеходов.</p><p>А вот комбинация знака 7.15 со знаками 5.16.1 и 5.16.2 «Пешеходный переход» укажет водителю границу этого самого перехода. Водитель на таких участках дороги должен быть максимально внимательным и предупредительным к пешеходам с ограниченными возможностями. Дело в том, что слепые и слабовидящие пешеходы не имеют возможности в полном объеме реализовать обязанности пешеходов.</p><p>Некоторые люди, к сожалению, бывают ограниченными в своих возможностях. Например, слепые или слабовидящие. Такие люди, выходя на дорогу, подвергаются большей опасности, чем пешеходы с хорошим зрением. Дело в том, что слепые или слабовидящие участники дорожного движения лишены возможности мгновенно среагировать на возникновения какой-либо неожиданной&nbsp;ситуации.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.15. \"Кўзи ожиз пиёдалар\"</strong></li></ul><p>белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида қора рангли кўзойнак тасвирланган.</p><p><strong>7.15 «Кўзи ожиз пиёдалар»</strong> белгиси светофор ва <strong>1.20</strong>, <strong>5.16.1</strong>, <strong>5.16.2 «Пиёдалар ўтиш жойи»&nbsp;</strong>белгилари билан биргаликда кўзи ожиз пиёдалар чиқиб қолиши мумкин бўлган объектларга яқин жойларда жойлашган пиёдалар ўтиш жойлари олдида қўлланилади.</p><p><strong>7.15</strong> белгиси ва <strong>1.20 «Пиёдалар ўтиш жойи»</strong> огоҳлантирувчи белгиси биргаликда транспорт воситаси ҳайдовчисига маълум масофадан кейин (аҳоли пунктларида - 50-100 метрдан кейин ва аҳоли пунктларидан ташқарида - 150-300 метрдан кейин) у кўзи ожиз ёки кўриш қобилияти заиф пиёдалар тез-тез пайдо бўлиши мумкин бўлган пиёдалар ўтиш жойига яқинлашаётганлигини кўрсатади.</p><p>Агар <strong>7.15</strong> белгиси <strong>5.16.1</strong> ва <strong>5.16.2</strong> <strong>«Пиёдалар ўтиш жойи»</strong> белгилари билан биргаликда ҳайдовчига айнан шу пиёдалар ўтиш жойининг чегараси эканлигини кўрсатади.</p><p>Йўлнинг бундай қисмларида ҳайдовчи имконияти чекланган пиёдаларга имкон қадар эътиборли ва эҳтиёткор бўлиши керак. Гап шундаки, кўзи ожиз ёки кўриш қобилияти заиф пиёдалар пиёдалар мажбуриятларига тўлиқ риоя қила олмасликлари мумкин.</p><p>Баъзи инсонларнинг, афсуски, имкониятлари чекланган бўлади.&nbsp;Масалан, кўзи ожиз ёки кўриш қобилияти заиф одамлар. Бундай одамлар йўлга чиқишда кўриш қобилияти яхши пиёдаларга қараганда кўпроқ хавф остида бўлишади.</p>"
+                        }
+                    ]
+                },
+                "order": 45
+            },
+            {
+                "id": 260,
+                "name": {
+                    "uz": "7.16 Nam qoplama",
+                    "ru": "7.16 Мокрое покрытие",
+                    "kiril": "7.16 Нам қоплама",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.16",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-35-12_RHJEBJ94P9.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.16. \"Nam qoplama\"</strong></li></ul><p><strong>7.16 «Nam qoplama»</strong> belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida yomg‘ir yog‘ayotgan bulutning ramziy shakli tasvirlangan.</p><p><strong>7.16 «Nam qoplama»</strong> tegishli belgilar bilan birga o‘rnatilganda, belgi ta’siri faqat yo‘l qoplamasi nam bo‘lgan holatlarda amal qilishini ko‘rsatadi. Bunday vaziyatda transport vositalari haydovchilari tezlikni kamaytirib, ehtiyot choralarini ko‘rgan holda harakatlanishlari kerak.</p><p>Yo‘lda suv qatlamining mavjudligi, haydovchidan quruq yo‘lga qaraganda ancha ehtiyotkor bo‘lib harakatlanishni talab qiladi. Qaysidir belgilarning <strong>7.16</strong> belgisi bilan birga qo‘llanilishi, o‘sha belgi faqat yo‘l qoplamasi nam bo‘lgan holatlarda amal qilishini bildiradi. Taqiqlovchi belgi va bu belgining birgalikda qo‘lanilishi haydovchining tezlikni tanlashini, quvib o‘tish istagini cheklaydi yoki ho‘l yoki nam yo‘llarda muayyan turdagi transport vositalarining harakatini butunlay taqiqlaydi. Ba’zi ogohlantiruvchi belgilari bilan birgalikda, ko‘pincha <strong>1.15 «Sirpanchiq yo‘l»</strong> belgisi bilan, bu belgi haydovchilarni tegishli yo‘l qoplamasi haqida xabardor qiladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.16.&nbsp; \"Влажное&nbsp;покрытие\"</strong></li></ul><p>Знак <strong>7.16 «Влажное покрытие»</strong> представляет собой прямоугольную форму с черной окантовкой. В центре прямоугольника находится символическая форма дождевого облака.</p><p><strong>7.16 «Влажное покрытие»</strong> при размещении вместе с соответствующими знаками указывает на то, что действие знака действует только при мокром покрытии дороги.&nbsp;В такой ситуации водителям транспортных средств следует снизить скорость и двигаться осторожно.</p><p>Наличие слоя воды на дороге требует от водителя большей осторожности, чем на сухой дороге. Сочетание какого-либо знака со знаком &nbsp;<strong>7.16 </strong>означает, что он распространяет свое действие только на тот период времени, когда проезжая часть мокрая или влажная. Комбинация запрещающего знака и данного знака ограничивает водителя в выборе скорости, желании совершить обгон или же полностью запрещает движение определенному виду транспортных средств при мокрой или влажной дороге. В комбинации с некоторыми предупреждающими знаками, зачастую со знаком &nbsp;<strong>1.15 «Скользкая дорога»</strong>, данная табличка информирует водителей о соответствующем дорожном покрытии.&nbsp;</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.16. \"Нам қоплама\"</strong></li></ul><p><strong>7.16 «Нам қоплама»</strong> белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида ёмғир ёғаётган булутнинг рамзий шакли тасвирланган.</p><p><strong>7.16 «Нам қоплама»</strong> тегишли белгилар билан бирга ўрнатилганда, белги таъсири фақат йўл қопламаси нам бўлган ҳолатларда амал қилишини кўрсатади.Бундай вазиятда транспорт воситалари ҳайдовчилари тезликни камайтириб, эҳтиёт чораларини кўрган ҳолда ҳаракатланишлари керак.</p><p>Йўлда сув қатламининг мавжудлиги, ҳайдовчидан қуруқ йўлга қараганда анча эҳтиёткор бўлиб ҳаракатланишни талаб қилади. Қайсидир белгиларнинг <strong>7.16</strong> белгиси билан бирга қўлланилиши, ўша белги фақат йўл қопламаси нам бўлган ҳолатларда амал қилишини билдиради.&nbsp;Тақиқловчи белги ва бу белгининг биргаликда қўланилиши ҳайдовчининг тезликни танлашини, қувиб ўтиш истагини чеклайди ёки ҳўл ёки нам йўлларда муайян турдаги транспорт воситаларининг ҳаракатини бутунлай тақиқлайди. Баъзи огоҳлантирувчи белгилари билан биргаликда, кўпинча&nbsp;<strong>1.15 «Сирпанчиқ йўл»</strong> белгиси билан, бу белги ҳайдовчиларни тегишли йўл қопламаси ҳақида хабардор қилади.</p>"
+                        }
+                    ]
+                },
+                "order": 46
+            },
+            {
+                "id": 261,
+                "name": {
+                    "uz": "7.17 Nogironlar",
+                    "ru": "7.17 Отключено",
+                    "kiril": "7.17 Ногиронлар",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.17",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-35-25_RT3XZ2A9FS.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.17. \"Nogironlar\"</strong></li></ul><p><strong>7.17 «Nogironlar»</strong> belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida<strong> «Nogironligi bo‘lgan shaxs»</strong> taniqlik belgisidagi kabi, aravachada o‘tirgan nogironligi bo‘lgan shaxsning ramziy shakli tasvirlangan.</p><p><strong>7.17 «Nogironlar» </strong>belgisi <strong>5.15 «To‘xtab turish joyi»</strong> belgisi bilan qo‘llaniladi. To‘xtab turish joyi (yoki uning bir qismi) Yo‘l harakati qoidalarning 176-bandiga muvofiq <strong>«Nogiron» </strong>taniqlik belgisi o‘rnatilgan transport vositalari uchun ajratilganligini ko‘rsatadi.</p><p>Qoidalarga asosan 5.15 va 7.17 belgilari birgalikda o‘rnatilgan to‘xtab turish joylarida, &nbsp;birinchi yoki ikkinchi guruh nogironligi bo‘lgan shaxs boshqarayotgan, shuningdek, nogironligi bo‘lgan shaxslarni yoki nogironligi bo‘lgan bolalarni tashiyotgan transport vositalariga to‘xtab turishga ruxsat etiladi.</p><p>Nogironligi bo‘lgan shaxslar uchun to‘xtash qoidasi nafaqat avtomobillarga, balki mototsikl va aravachalarga ham tegishli. Ushbu shaxslarda tegishli imtiyozlardan foydalanish uchun, doimo nogironlikni tasdiqlovchi hujjat bo‘lishi kerak.</p><p>Shuningdek, to‘xtab turish joylarining nogironligi bo‘lgan shaxslarning avtotransport vositalari uchun ajratilgan qismida, nogironligi bo‘lgan shaxslarning avtotransport vositalari uchun to‘xtab turish joyini ko‘rsatuvchi 1.24 yotiq chizig‘idan ham foydalanish mumkin.</p><p>To‘xtab turish joylarida, tegishli belgilar yoki chiziqlar bilan alohida tartib o‘rnatilmagan bo‘lsa, nogironligi bo‘lgan shaxslarning to‘xtab turish joyidan foydalanishi, umumiy tartibda amalga oshiriladi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.17.&nbsp;\"Инвалиды\"&nbsp;</strong></li></ul><p>Знак <strong>7.17 «Инвалиды»</strong> представляет собой прямоугольную форму с черной окантовкой. В центре прямоугольника находится символическая форма дождевого облака.</p><p><strong>7.16 «Влажное покрытие»</strong> при размещении вместе с соответствующими знаками указывает на то, что действие знака действует только при мокром покрытии дороги.&nbsp;В такой ситуации водителям транспортных средств следует снизить скорость и двигаться осторожно.</p><p>Наличие слоя воды на дороге требует от водителя большей осторожности, чем на сухой дороге. Сочетание какого-либо знака со знаком &nbsp;<strong>7.16</strong> означает, что он распространяет свое действие только на тот период времени, когда проезжая часть мокрая или влажная. Комбинация запрещающего знака и данного знака ограничивает водителя в выборе скорости, желании совершить обгон или же полностью запрещает движение определенному виду транспортных средств при мокрой или влажной дороге. В комбинации с некоторыми предупреждающими знаками, зачастую со знаком <strong>1.15 «Скользкая дорога»</strong>, данная табличка информирует водителей о соответствующем дорожном покрытии.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.17. \"Ногиронлар\"</strong></li></ul><p><strong>7.17 «Ногиронлар»</strong> белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида «Ногиронлиги бўлган шахс» таниқлик белгисидаги каби, аравачада ўтирган ногиронлиги бўлган шахснинг рамзий шакли тасвирланган.</p><p><strong>7.17 «Ногиронлар»</strong> белгиси<strong> 5.15 «Тўхтаб туриш жойи»</strong> белгиси билан қўлланилади. Тўхтаб туриш жойи (ёки унинг бир қисми) Йўл ҳаракати қоидаларнинг <strong>176</strong>-бандига мувофиқ «Ногирон» таниқлик белгиси ўрнатилган транспорт воситалари учун ажратилганлигини кўрсатади.</p><p>Қоидаларга асосан <strong>5.15</strong> ва <strong>7.17</strong> белгилари биргаликда ўрнатилган тўхтаб туриш жойларида,&nbsp;биринчи ёки иккинчи гуруҳ ногиронлиги бўлган шахс бошқараётган, шунингдек, ногиронлиги бўлган шахсларни ёки ногиронлиги бўлган болаларни ташиётган транспорт воситаларига тўхтаб туришга рухсат этилади.</p><p>Ногиронлиги бўлган шахслар учун тўхташ қоидаси нафақат автомобилларга, балки мотоцикл ва аравачаларга ҳам тегишли. Ушбу шахсларда тегишли имтиёзлардан фойдаланиш учун, доимо ногиронликни тасдиқловчи ҳужжат бўлиши керак.</p><p>Шунингдек, тўхтаб туриш жойларининг ногиронлиги бўлган шахсларнинг автотранспорт воситалари учун ажратилган қисмида, ногиронлиги бўлган шахсларнинг автотранспорт воситалари учун тўхтаб туриш жойини кўрсатувчи <strong>1.24</strong> ётиқ чизиғидан ҳам фойдаланиш мумкин.</p><p>Тўхтаб туриш жойларида, тегишли белгилар ёки чизиқлар билан алоҳида тартиб ўрнатилмаган бўлса, ногиронлиги бўлган шахсларнинг тўхтаб туриш жойидан фойдаланиши, умумий тартибда амалга оширилади.</p>"
+                        }
+                    ]
+                },
+                "order": 47
+            },
+            {
+                "id": 262,
+                "name": {
+                    "uz": "7.18 Nogironlar mustasno",
+                    "ru": "7.18 За исключением инвалидов",
+                    "kiril": "7.18 Ногиронлар мустасно",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 3,
+                "code": "7.18",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-35-38_2NYD4NUU9K.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.18. \"Nogironlar mustasno\"</strong></p><p>Ushbu qo'shimcha axborot belgisi to'xtash va to'xtab turishni taqiqlovchi belgilar bilan birga qo'yiladi. Bu esa mazkur taqiqlovchi belgilarning \"Nogiron\" taniqlik belgisi o'rnatilgan transport vositalari va motokajavalarga amal qilmasligini anglatadi. Demak, bunday joylarda \"Nogiron\" taniqlik belgisi bor haydovchilar to'xtashlari yoki to'xtab turishlari mumkin bo'ladi.</p><p><i><strong>Yo'l belgilari ma'nosi jihatdan o'zaro bir – biriga zid kelgan hollarda, haydovchilar vaqtinchalik o'rnatilgan belgilarga amal qilishlari kerak.</strong></i></p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.18. \"Кроме инвалидов\"</strong></p><p>&nbsp;Указывает,&nbsp;что&nbsp;действие знаков&nbsp;&nbsp; не распространяется&nbsp;&nbsp;на&nbsp;транспортные&nbsp;средства и&nbsp;мотоколяски, на которых&nbsp;установлены опознавательные&nbsp;знаки&nbsp;\"Инвалид\" в соответствии&nbsp;с пунктом 28.3 настоящих&nbsp;Правил.</p><p><i><strong>В случаях, когда дорожные знаки по смыслу взаимно противоречат друг другу, водители должны руководствоваться временно установленными знаками.</strong></i></p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<p><strong>7.18. \"Ногиронлар мустасно\"</strong></p><p>Ушбу қўшимча ахборот белгиси тўхташ ва тўхтаб туришни тақиқловчи белгилар билан бирга қўйилади. Бу эса мазкур тақиқловчи белгиларнинг \"Ногирон\" таниқлик белгиси ўрнатилган транспорт воситалари ва мотокажаваларга амал қилмаслигини англатади. Демак, бундай жойларда \"Ногирон\" таниқлик белгиси бор ҳайдовчилар тўхташлари ёки тўхтаб туришлари мумкин бўлади.</p><p><i><strong>Йўл белгилари маъноси жиҳатдан ўзаро бир – бирига зид келган ҳолларда, ҳайдовчилар вақтинчалик ўрнатилган белгиларга амал қилишлари керак.</strong></i></p>"
+                        }
+                    ]
+                },
+                "order": 48
+            },
+            {
+                "id": 263,
+                "name": {
+                    "uz": "7.19 Chorrahadagi kamera",
+                    "ru": "7.19 Камера на перекрестке",
+                    "kiril": "7.19 Чорраҳадаги камера",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.19",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-35-47_73AUMU4VVS.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.19. «Foto va video qayd etish». &nbsp;</strong></li></ul><p><strong>7.19 «Foto va video qayd etish»</strong> belgilari qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida qora rangli fotoapparat tasvirlangan.</p><p><strong>7.19 «Foto va video qayd etish»</strong> belgisi yo‘l harakati qatnashchilarining harakatlari maxsus avtomatlashtirilgan foto va video qayd etish texnika vositalari orqali qayd etilayotganligini bildiradi. Ogohlantiruvchi, imtiyoz, taqiqlovchi, buyuruvchi va axborot ishora belgilari bilan birgalikda qo‘llaniladi.</p><p>Foto va video qayd etish tizimi - bu yo‘l harakati qoidalarining buzilishini avtomatik ravishda suratga oladigan avtotransport vositalarini boshqarish uchun mo‘ljallangan texnik jihozlarning avtomatlashtirilgan majmuasi. Bu ma’lumotlarni qayta ishlash markaziy serveriga ma’lumotlarni uzatish imkoniyatini beradi.</p><p>Foto va video qayd etish tizimlari qoidabuzarlarning ma’lumotlar bazasini yaratish, avtotransport vositalarining davlat ro‘yxatidan o‘tgan raqamlarini avtomatik ravishda tanib olish, ularni turli ma’lumotlar bazalari bo‘yicha tekshirish imkonini beradi.</p><p>Foto va video qayd etish tizimlari yo‘l harakati qoidalariga rioya etilishini ta’minlash hamda qoidabuzarliklar uchun jazo muqarrarligi tamoyilini kafolatlash uchun mo‘ljallangan.</p><p>Foto va video qayd etish tizimlari shahar transport oqimining tezligini nazorat qilish, transport vositasining svetoforning taqiqlovchi shorasida o‘tishini va to‘xtash chizig‘ini kesib o‘tishini nazorat qilish, temir yo‘l kesishmalaridan o‘tish qoidalariga rioya etilishini nazorat qilish, qarama-qarshi tasmada harakatlanishni qayd etish, jamoat transporti uchun ajratilgan tasma va yo‘l yoqasida harakatlanish, piyodalar o‘tish joylarida piyodalarga yo‘l berilishini nazorat qilish imkonini beradi.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.19. «Фото- и видеосъемка».</strong></li></ul><p>Знак <strong>7.19</strong>&nbsp;<strong>«Фото и видео фиксация»</strong> имеет прямоугольную форму с черной каймой. В центре прямоугольника изображена черная камера.</p><p>Знак <strong>7.19 «Фото и видео фиксация»</strong> означает, что действия участников дорожного движения фиксируются автоматизированными специальными техническими средствами фото- и видеофиксации. Применяется вместе с предупреждающими, приоритетными, запрещающими, предписывающими и информационно-указательными знаками.</p><p>Система фотовидеофиксации представляет собой автоматизированный комплекс технических средств, предназначенный для контроля транспортных средств с автоматической фотофиксацией нарушений ПДД. Обеспечивается возможность передачи информации на сервер Центра обработки данных. Комплексы фотовидеофиксации позволяют формировать базу данных нарушителей, автоматически распознавать государственные регистрационные знаки транспортных средств, проверять их по различным базам.</p><p>Системы фотовидеофиксации призваны помочь в обеспечении соблюдения правил дорожного движения и гарантировать принцип неотвратимости наказания за нарушения.</p><p>Системы фотовидеофиксации обеспечивают контроль скоростного режима городского транспортного потока, контроль проезда транспортного средства на запрещающий знак светофора и пересечение стоп-линии, контроль соблюдения правил проезда железнодорожных переездов, фиксация движения по встречной полосе, выделенной полосе для общественного транспорта и обочине, контроль предоставления преимущества пешеходам на пешеходных переходах.</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.19. «Фото ва видео қайд этиш».&nbsp;</strong></li></ul><p><strong>7.19 «Фото ва видео қайд этиш»</strong> белгилари қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида қора рангли фотоаппарат тасвирланган.</p><p><strong>7.19 «Фото ва видео қайд этиш»&nbsp;</strong>белгиси<strong>&nbsp;</strong>йўл ҳаракати қатнашчиларининг ҳаракатлари махсус автоматлаштирилган фото ва видео қайд этиш техника воситалари орқали қайд этилаётганлигини билдиради. Огоҳлантирувчи, имтиёз, тақиқловчи, буюрувчи ва ахборот ишора белгилари билан биргаликда қўлланилади.</p><p>Фото ва видео қайд этиш тизими - бу йўл ҳаракати қоидаларининг бузилишини автоматик равишда суратга оладиган автотранспорт воситаларини бошқариш учун мўлжалланган техник жиҳозларнинг автоматлаштирилган мажмуаси. Бу маълумотларни қайта ишлаш марказий серверига маълумотларни узатиш имкониятини беради.</p><p>Фото ва видео қайд этиш тизимлари қоидабузарларнинг маълумотлар базасини яратиш, автотранспорт воситаларининг давлат рўйхатидан ўтган рақамларини автоматик равишда таниб олиш, уларни турли маълумотлар базалари бўйича текшириш имконини беради.</p><p>Фото ва видео қайд этиш тизимлари йўл ҳаракати қоидаларига риоя этилишини таъминлаш ҳамда қоидабузарликлар учун жазо муқаррарлиги тамойилини кафолатлаш учун мўлжалланган.</p><p>Фото ва видео қайд этиш тизимлари шаҳар транспорт оқимининг тезлигини назорат қилиш, транспорт воситасининг светофорнинг тақиқловчи шорасида ўтишини ва тўхташ чизиғини кесиб ўтишини назорат қилиш, темир йўл кесишмаларидан ўтиш қоидаларига риоя этилишини назорат қилиш, қарама-қарши тасмада ҳаракатланишни қайд этиш, жамоат транспорти учун ажратилган тасма ва йўл ёқасида ҳаракатланиш, пиёдалар ўтиш жойларида пиёдаларга йўл берилишини назорат қилиш имконини беради.</p>"
+                        }
+                    ]
+                },
+                "order": 49
+            },
+            {
+                "id": 264,
+                "name": {
+                    "uz": "7.20 Xavfli yuk",
+                    "ru": "7.20 Опасные грузы",
+                    "kiril": "7.20 Хавфли юк",
+                    "en": null,
+                    "qq": null
+                },
+                "format": 1,
+                "code": "7.20",
+                "status": 1,
+                "image": "/storage/tests/images changed/road_signs/2025-08-14_18-36-08_83D9UWGNCQ.png",
+                "road_sign_type_id": 7,
+                "description": null,
+                "content": {
+                    "uz": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.20 Xavfli yuk</strong></li></ul><p><strong>7.20 «Xavfli yuk toifasi»</strong> belgisi qora hoshiyali to‘g‘ri to‘rtburchak shaklda. To‘rtburchak markazida qizil fonda, lotin alifbosida <strong>«XAVFLI YUK sinfi»</strong> yozuvi va belgi qaysi sinfdagi xavfli yukka tegishliligini anglatuvchi raqamlar ko‘rsatilgan.</p><p><strong>7.20 «Xavfli yuk toifasi»</strong> belgisi <strong>3.32 «Xavfli yuk tashiyotgan transport vositasining harakati taqiqlangan»</strong>, <strong>3.33 «Portlovchi va tez alangalanuvchi yukni tashiyotgan transport vositasining harakati taqiqlangan»</strong>, <strong>4.9.1, 4.9.2 va 4.9.3 «Xavfli yuk tashiyotgan transport vositalarining harakat yo‘nalishi»</strong> belgilari bilan qo‘llanilib, ushbu belgilar ta’siri 7.20 belgisida ko‘rsatilgan sinfdagi xafli yuk tashiyotgan transport vositalariga tegishliligini bildiradi. Qoidalarga asosan, xavfli yuklarni tashish, <strong>«Xavfli yuk»</strong> taniqlik belgisi o‘rnatilgan transport vositalarida amalga oshiriladi.</p><p>Yo‘lning ma’lum bir qismida istisnosiz barcha xavfli yuklarni tashishni taqiqlash har doim ham maqsadga muvofiq bo‘lmasligi mumkin. Shunday holatlarda <strong>7.20 «Xavfli yuk toifasi»</strong> belgisi u bilan o‘rnatilgan belgilarning ta’sirini cheklashga yordam beradi. Belgilar faqat 7.20 belgisida ko‘rsatilgan sinflarga tegishli xavfli yuklarni tashuvchi transport vositalariga nisbatan qo‘llaniladi. Boshqa barcha transport vositalarining haydovchilari ushbu belgining talablariga e’tibor bermasliklari mumkin.</p>"
+                        }
+                    ],
+                    "ru": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.20 Опасный груз</strong></li></ul><p>Знак <strong>7.20 «Класс опасного груза»</strong> имеет прямоугольную форму с черной каймой. В центре прямоугольника на красном фоне изображена надпись «XAVFLI YUK sinfi» латинским алфавитом и цифры, обозначающие класс опасного груза.</p><p>Знак <strong>7.20 «Класс опасного груза»</strong> применяется со знаками <strong>3.32 «Движение транспортных средств с опасными грузами запрещено»</strong>, <strong>3.33 «Движение транспортных средств со взрывчатыми и легковоспламеняющимися грузами запрещено»</strong>, <strong>4.9.1, 4.9.2 и 4.9.3&nbsp;«Направление движения транспортных средств с опасными грузами»&nbsp;</strong>и указывает на то, что действие этих знаков относятся к транспортным средствам перевозящим опасные грузы указанного класса в знаке <strong>7.20</strong>.</p><p>По правилам перевозка опасных грузов осуществляется в транспортных средствах, имеющих опознавательный знак <strong>«Опасный груз»</strong>.</p><p>Не всегда может быть целесообразным запрещать перевозку всех без исключения опасных грузов на определенном участке дороги. В таких случаях знак <strong>7.20 «Класс опасного груза»</strong> помогает ограничить действие установленных вместе с ним знаков.</p><p>Знаки распространяются только на транспортные средства, перевозящие опасные грузы, относящиеся к классам, указанным в знаке <strong>7.20</strong>. Водители всех остальных транспортных средств могут игнорировать требования этих знаков.</p><p>&nbsp;</p>"
+                        }
+                    ],
+                    "kiril": [
+                        {
+                            "type": "1",
+                            "value": "<ul><li><strong>7.20 Хавфли юк</strong></li></ul><p><strong>7.20 «Хавфли юк тоифаси»</strong> белгиси қора ҳошияли тўғри тўртбурчак шаклда. Тўртбурчак марказида қизил фонда, лотин алифбосида «XAVFLI YUK sinfi» ёзуви ва белги қайси синфдаги хавфли юкка тегишлилигини англатувчи рақамлар кўрсатилган.</p><p><strong>7.20 «Хавфли юк тоифаси»</strong> белгиси <strong>3.32 «Хавфли юк ташиётган транспорт воситасининг ҳаракати тақиқланган»</strong>,<strong> 3.33 «Портловчи ва тез алангаланувчи юкни ташиётган транспорт воситасининг ҳаракати тақиқланган», 4.9.1, 4.9.2 ва 4.9.3 «Хавфли юк ташиётган транспорт воситаларининг ҳаракат йўналиши»</strong> белгилари билан қўлланилиб, ушбу белгилар таъсири <strong>7.20</strong> белгисида кўрсатилган синфдаги хафли юк ташиётган транспорт воситаларига тегишлилигини билдиради.</p><p>Қоидаларга асосан, хавфли юкларни ташиш, <strong>«Хавфли юк»</strong> таниқлик белгиси ўрнатилган транспорт воситаларида амалга оширилади.</p><p>Йўлнинг маълум бир қисмида истисносиз барча хавфли юкларни ташишни тақиқлаш ҳар доим ҳам мақсадга мувофиқ бўлмаслиги мумкин. Шундай ҳолатларда <strong>7.20 «Хавфли юк тоифаси»</strong> белгиси у билан ўрнатилган белгиларнинг таъсирини чеклашга ёрдам беради.</p><p>Белгилар фақат <strong>7.20</strong> белгисида кўрсатилган синфларга тегишли хавфли юкларни ташувчи транспорт воситаларига нисбатан қўлланилади. Бошқа барча транспорт воситаларининг ҳайдовчилари ушбу белгининг талабларига эътибор бермасликлари мумкин.</p><p>&nbsp;</p>"
+                        }
+                    ]
+                },
+                "order": 50
+            }
+        ]
+    },
+    "message": "success",
+    "response_code": 200
+}
