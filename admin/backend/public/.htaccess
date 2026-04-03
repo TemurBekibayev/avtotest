@@ -8,13 +8,6 @@ DirectoryIndex index.php
 
     RewriteEngine On
 
-    # 1. Handle CORS Preflight (OPTIONS) Handshake
-    RewriteCond %{REQUEST_METHOD} OPTIONS
-    RewriteRule ^(.*)$ $1 [R=200,L,E=cors:1]
-    Header always set Access-Control-Allow-Origin "https://amudaryoavtotest.uz" env=cors
-    Header always set Access-Control-Allow-Methods "POST, GET, OPTIONS, DELETE, PUT" env=cors
-    Header always set Access-Control-Allow-Headers "Content-Type, Authorization, X-Requested-With, X-XSRF-TOKEN" env=cors
-
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
     RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]

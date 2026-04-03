@@ -1,4 +1,12 @@
 <?php
+// Handle CORS Preflight (OPTIONS) requests immediately
+if (isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    header("Access-Control-Allow-Origin: *");
+    header("Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT");
+    header("Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With, X-XSRF-Token");
+    header("HTTP/1.1 200 OK");
+    exit;
+}
 
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
