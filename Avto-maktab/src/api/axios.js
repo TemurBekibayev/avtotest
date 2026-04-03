@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: '/api',
+    baseURL: 'https://api.amudaryoavtotest.uz/api',
     timeout: 10000,
     headers: {
         'Content-Type': 'application/json',
