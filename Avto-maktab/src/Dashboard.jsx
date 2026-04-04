@@ -698,17 +698,22 @@ const Dashboard = ({ onLogout, user }) => {
                                                 </div>
 
                                                 {q.answer && (
-                                                    <div className="bg-amber-50 rounded-xl p-6 border border-amber-200" style={{ marginTop: '15px' }}>
-                                                        <h4 className="font-bold text-amber-800 mb-2 flex items-center gap-2">
-                                                            <PlayCircle size={18} /> Javob izohi:
+                                                    <div className="bg-emerald-50/50 rounded-2xl p-6 border border-emerald-100 mt-6 shadow-inner">
+                                                        <h4 className="font-bold text-emerald-800 mb-3 flex items-center gap-2">
+                                                            <div className="w-8 h-8 rounded-full bg-emerald-100 flex items-center justify-center text-emerald-600">
+                                                                <PlayCircle size={18} />
+                                                            </div>
+                                                            Javob izohi:
                                                         </h4>
-                                                        <p className="text-amber-900 mb-4">{q.answer.answer_description}</p>
+                                                        <p className="text-slate-700 leading-relaxed mb-6 font-medium bg-white/50 p-4 rounded-xl border border-emerald-50">
+                                                            {q.answer.answer_description}
+                                                        </p>
                                                         {q.answer.answer_resource && (
-                                                            <div className="mt-4 rounded-xl overflow-hidden border border-amber-200 shadow-sm bg-black">
+                                                            <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-lg bg-black aspect-video max-w-2xl mx-auto">
                                                                 <video
                                                                     src={q.answer.answer_resource.startsWith('http') ? q.answer.answer_resource : `${backendUrl}${q.answer.answer_resource}`}
                                                                     controls
-                                                                    className="w-full max-h-[400px] outline-none"
+                                                                    className="w-full h-full outline-none"
                                                                 >
                                                                     Sizning brauzeringiz video formatini qo'llab-quvvatlamaydi.
                                                                 </video>
