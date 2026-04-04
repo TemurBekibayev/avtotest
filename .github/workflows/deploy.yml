@@ -56,6 +56,9 @@ jobs:
           local-dir: Avto-maktab/dist/
           dangerous-clean-slate: false
 
+      - name: Wait for connection to clear
+        run: sleep 5
+
       - name: Deploy Admin Panel to public_html/admin/
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
@@ -65,6 +68,9 @@ jobs:
           server-dir: public_html/admin/
           local-dir: admin/frontend/dist/
           dangerous-clean-slate: false
+
+      - name: Wait for connection to clear
+        run: sleep 5
 
       - name: Deploy Backend to /application/
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
