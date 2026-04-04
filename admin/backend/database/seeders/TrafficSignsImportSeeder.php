@@ -50,8 +50,9 @@ class TrafficSignsImportSeeder extends Seeder
                             'traffic_sign_category_id' => $categoryMap[$sign['road_sign_type_id']]
                         ],
                         [
-                            'description' => is_array($sign['description']) ? ($sign['description']['uz'] ?? '') : ($sign['description'] ?? ''),
+                            'description' => is_array($sign['description'] ?? null) ? ($sign['description']['uz'] ?? '') : ($sign['description'] ?? ''),
                             'image' => $sign['image'] ?? '',
+                            'content' => isset($sign['content']) ? json_encode($sign['content']) : null,
                             'created_at' => now(),
                             'updated_at' => now()
                         ]
@@ -80,8 +81,9 @@ class TrafficSignsImportSeeder extends Seeder
                                         'traffic_sign_category_id' => $categoryMap[$sign['road_sign_type_id']]
                                     ],
                                     [
-                                        'description' => is_array($sign['description']) ? ($sign['description']['uz'] ?? '') : ($sign['description'] ?? ''),
+                                        'description' => is_array($sign['description'] ?? null) ? ($sign['description']['uz'] ?? '') : ($sign['description'] ?? ''),
                                         'image' => $sign['image'] ?? '',
+                                        'content' => isset($sign['content']) ? json_encode($sign['content']) : null,
                                         'created_at' => now(),
                                         'updated_at' => now()
                                     ]
