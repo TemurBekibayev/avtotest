@@ -13,7 +13,8 @@ const Login = () => {
             setLoading(true);
             const response = await api.post('/login', {
                 email: values.email,
-                password: values.password
+                password: values.password,
+                role: 'admin'
             });
 
             // Assuming token is in response.data.token

@@ -60,6 +60,13 @@ class AuthController extends Controller
             ]);
         }
 
+        // Validate role if requested
+        if ($request->has('role') && $user->role !== $request->role) {
+            throw ValidationException::withMessages([
+                'email' => ['Sizda ushbu tizimga kirish huquqi yo\'q.'],
+            ]);
+        }
+
         $token = $user->createToken('auth_token')->plainTextToken;
 
         return response()->json([

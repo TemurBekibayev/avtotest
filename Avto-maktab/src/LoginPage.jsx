@@ -61,7 +61,8 @@ const LoginPage = ({ onLogin }) => {
         try {
             const response = await api.post('/login', {
                 email: formData.login,
-                password: formData.password
+                password: formData.password,
+                role: 'student'
             });
 
             const { token, user } = response.data;
