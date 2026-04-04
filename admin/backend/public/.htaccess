@@ -2,11 +2,6 @@
 DirectoryIndex index.php
 
 <IfModule mod_rewrite.c>
-    # Handle CORS Preflight (OPTIONS) requests early
-    Header set Access-Control-Allow-Origin "https://amudaryoavtotest.uz"
-    Header set Access-Control-Allow-Methods "GET, POST, OPTIONS, PUT, DELETE"
-    Header set Access-Control-Allow-Headers "Origin, X-Requested-With, Content-Type, Accept, Authorization, X-XSRF-Token"
-    
     <IfModule mod_negotiation.c>
         Options -MultiViews -Indexes
     </IfModule>
