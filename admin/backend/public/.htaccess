@@ -8,6 +8,13 @@ DirectoryIndex index.php
 
     RewriteEngine On
 
+    # Handle CORS Preflight (OPTIONS) requests early
+    Header always set Access-Control-Allow-Origin "https://amudaryoavtotest.uz"
+    Header always set Access-Control-Allow-Methods "GET, POST, OPTIONS, PUT, DELETE"
+    Header always set Access-Control-Allow-Headers "Origin, X-Requested-With, Content-Type, Accept, Authorization, X-XSRF-Token"
+    Header always set Access-Control-Allow-Credentials "true"
+    Header always set Access-Control-Max-Age "86400"
+
     # Handle OPTIONS requests...
     RewriteCond %{REQUEST_METHOD} OPTIONS
     RewriteRule ^(.*)$ $1 [R=204,L]

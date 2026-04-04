@@ -10,6 +10,11 @@ echo "<html><head><title>cPanel Database & Server Setup</title><style>body{font-
 echo "<h2>🚀 Starting Full Automatic cPanel Setup...</h2><hr/>";
 
 try {
+    // 0. Ensure APP_KEY exists
+    if (!env('APP_KEY')) {
+        \Illuminate\Support\Facades\Artisan::call('key:generate', ['--force' => true]);
+        echo "<p>✅ Application Encryption Key (APP_KEY) generated and saved to .env.</p>";
+    }
     // 1. Create Storage Link (Shortcut for Media files)
     $target = __DIR__ . '/../storage/app/public';
     $link = __DIR__ . '/storage';
