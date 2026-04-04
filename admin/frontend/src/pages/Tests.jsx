@@ -6,7 +6,7 @@ import api from '../api/axios';
 
 
 const Tests = () => {
-    const backendUrl = import.meta.env.VITE_API_BASE_URL?.replace('/api', '') || 'http://localhost';
+    const backendUrl = 'https://api.amudaryoavtotest.uz';
     const [activeTab, setActiveTab] = useState('results');
 
     // Results State
