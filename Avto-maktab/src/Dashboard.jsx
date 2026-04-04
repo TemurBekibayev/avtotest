@@ -47,7 +47,7 @@ const Dashboard = ({ onLogout, user }) => {
     const [barchaLoading, setBarchaLoading] = useState(false);
     const [fetchError, setFetchError] = useState(null);
 
-    const backendUrl = api.defaults.baseURL?.replace('/api', '') || 'http://localhost';
+    const backendUrl = 'https://api.amudaryoavtotest.uz';
 
     useEffect(() => {
         fetchTemplates();
