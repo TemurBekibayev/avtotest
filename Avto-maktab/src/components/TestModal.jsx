@@ -61,7 +61,7 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
         if (answers[q.id] && settings?.instantFeedback) return; // Prevent changing if already answered in instant mode
 
         const option = q.options.find(o => o.id === optionId);
-        const isCorrect = option.is_correct;
+        const isCorrect = option.is_correct === true || option.is_correct === 1 || option.is_correct === "1";
 
         setAnswers(prev => ({
             ...prev,
