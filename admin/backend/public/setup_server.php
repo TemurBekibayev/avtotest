@@ -102,7 +102,48 @@ try {
             $aCount++;
         }
     }
-    echo "<p>✅ Analyzed and repaired media paths ($qCount questions, $aCount answers fixed).</p>";
+
+    // Fix Traffic Signs
+    $tsCount = 0;
+    $trafficSigns = \Illuminate\Support\Facades\DB::table('traffic_signs')->get();
+    foreach ($trafficSigns as $ts) {
+        $updated = false;
+        
+        // Fix main image
+        if (!empty($ts->image)) {
+            $original = $ts->image;
+            $new = $original;
+            foreach ($localDomains as $domain) $new = str_replace($domain, '', $new);
+            if (str_contains($new, '/storage/tests/images/') && !str_contains($new, 'images changed')) {
+                $new = str_replace('/storage/tests/images/', '/storage/tests/images changed/', $new);
+            }
+            if (!empty($new) && !str_starts_with($new, '/storage/')) {
+                if (str_starts_with($new, 'storage/')) $new = '/' . $new;
+                else if (str_starts_with($new, 'tests/')) $new = '/storage/' . $new;
+            }
+            if ($new !== $original) {
+                \Illuminate\Support\Facades\DB::table('traffic_signs')->where('id', $ts->id)->update(['image' => $new]);
+                $updated = true;
+            }
+        }
+
+        // Fix content JSON (videos and extra images)
+        if (!empty($ts->content)) {
+            $originalContent = $ts->content;
+            $newContent = $originalContent;
+            // The content might be double encoded or a string, let's just do string replacement
+            if (str_contains($newContent, '/storage/tests/images/') && !str_contains($newContent, 'images changed')) {
+                $newContent = str_replace('/storage/tests/images/', '/storage/tests/images changed/', $newContent);
+                if ($newContent !== $originalContent) {
+                    \Illuminate\Support\Facades\DB::table('traffic_signs')->where('id', $ts->id)->update(['content' => $newContent]);
+                    $updated = true;
+                }
+            }
+        }
+
+        if ($updated) $tsCount++;
+    }
+    echo "<p>✅ Analyzed and repaired media paths ($qCount questions, $aCount answers, $tsCount signs fixed).</p>";
 
     echo "<hr/><h2>🎉 Awesome! Everything is perfectly setup!</h2>";
     echo "<p style='color:green;font-weight:bold'>Your website and backend database is completely ready to use.</p>";
