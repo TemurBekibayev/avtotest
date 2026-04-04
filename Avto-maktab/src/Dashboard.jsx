@@ -533,7 +533,7 @@ const Dashboard = ({ onLogout, user }) => {
                                 ) : templates.length > 0 ? (
                                     templates.map((tpl, i) => {
                                         // Find latest result for this template
-                                        const latestResult = results.find(r => r.test_template_id === tpl.id);
+                                        const latestResult = results.find(r => Number(r.test_template_id) === Number(tpl.id));
                                         const score = latestResult ? latestResult.score : 0;
                                         const correctCount = latestResult ? Math.round((score / 100) * 20) : 0;
                                         // Calculate stroke dash offset: 251.2 is full circle (2 * PI * 40)
