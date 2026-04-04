@@ -10,10 +10,27 @@ echo "<html><head><title>cPanel Database & Server Setup</title><style>body{font-
 echo "<h2>🚀 Starting Full Automatic cPanel Setup...</h2><hr/>";
 
 try {
-    // 0. Ensure APP_KEY exists
-    if (!env('APP_KEY')) {
-        \Illuminate\Support\Facades\Artisan::call('key:generate', ['--force' => true]);
-        echo "<p>✅ Application Encryption Key (APP_KEY) generated and saved to .env.</p>";
+    // 0. Ensure .env file exists and has an APP_KEY
+    $envPath = __DIR__ . '/../.env';
+    $envExamplePath = __DIR__ . '/../.env.example';
+
+    if (!file_exists($envPath)) {
+        if (file_exists($envExamplePath)) {
+            copy($envExamplePath, $envPath);
+            echo "<p>✅ Created .env from .env.example.</p>";
+        } else {
+            echo "<p>❌ Error: .env.example not found. Cannot create .env.</p>";
+        }
+    }
+
+    if (file_exists($envPath)) {
+        $content = file_get_contents($envPath);
+        if (strpos($content, 'APP_KEY=') === false || empty(trim(explode("\n", explode('APP_KEY=', $content)[1])[0]))) {
+            \Illuminate\Support\Facades\Artisan::call('key:generate', ['--force' => true]);
+            echo "<p>✅ Application Encryption Key (APP_KEY) generated successfully.</p>";
+        } else {
+            echo "<p>✅ Application Encryption Key (APP_KEY) already exists.</p>";
+        }
     }
     // 1. Create Storage Link (Shortcut for Media files)
     $target = __DIR__ . '/../storage/app/public';
