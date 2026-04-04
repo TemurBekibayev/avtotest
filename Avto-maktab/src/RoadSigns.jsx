@@ -15,7 +15,7 @@ const RoadSigns = ({ t }) => {
     const [drawerVisible, setDrawerVisible] = useState(false);
     const [currentLang, setCurrentLang] = useState(localStorage.getItem('language') || 'uz');
 
-    const backendUrl = axiosInstance.defaults.baseURL?.replace('/api', '') || 'http://localhost';
+    const backendUrl = 'https://api.amudaryoavtotest.uz';
 
     useEffect(() => {
         const handleStorageChange = () => {

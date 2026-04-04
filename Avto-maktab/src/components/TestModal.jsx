@@ -12,7 +12,7 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
     const [timeLeft, setTimeLeft] = useState((template.duration_minutes || 25) * 60);
     const [submitting, setSubmitting] = useState(false);
 
-    const backendUrl = api.defaults.baseURL?.replace('/api', '') || 'http://localhost';
+    const backendUrl = 'https://api.amudaryoavtotest.uz';
     const lang = settings?.language || 'uz';
 
     useEffect(() => {
