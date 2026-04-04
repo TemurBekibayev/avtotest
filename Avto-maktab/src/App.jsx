@@ -13,9 +13,14 @@ function App() {
     const storedUser = localStorage.getItem('user');
 
     if (token && storedUser) {
-      setIsAuthenticated(true);
-      setUser(JSON.parse(storedUser));
-      checkAuth();
+      const parsedUser = JSON.parse(storedUser);
+      if (parsedUser.role !== 'student') {
+        handleLogout();
+      } else {
+        setIsAuthenticated(true);
+        setUser(parsedUser);
+        checkAuth();
+      }
     } else {
       setLoading(false);
     }
@@ -24,8 +29,13 @@ function App() {
   const checkAuth = async () => {
     try {
       const response = await api.get('/me');
-      setUser(response.data);
-      localStorage.setItem('user', JSON.stringify(response.data));
+      const userData = response.data;
+      if (userData.role !== 'student') {
+        handleLogout();
+      } else {
+        setUser(userData);
+        localStorage.setItem('user', JSON.stringify(userData));
+      }
     } catch (err) {
       handleLogout();
     } finally {

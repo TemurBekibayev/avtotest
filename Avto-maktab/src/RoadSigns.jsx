@@ -167,7 +167,7 @@ const RoadSigns = ({ t }) => {
                                                     alt={getTranslation(category, 'name')}
                                                     src={`${backendUrl}${category.image_url}`}
                                                     className="max-h-full max-w-full object-contain relative z-10"
-                                                    onError={(e) => { e.target.src = '/src/assets/placeholder.png'; }}
+                                                    onError={(e) => { e.target.src = '/logo.png'; }}
                                                 />
                                             ) : (
                                                 <div className="text-slate-100 opacity-30 relative z-10">
@@ -235,7 +235,7 @@ const RoadSigns = ({ t }) => {
                                                         src={sign.image?.startsWith('http') ? sign.image : `${backendUrl}${sign.image}`}
                                                         alt={sign.code}
                                                         className="max-h-full max-w-full object-contain filter drop-shadow-sm group-hover:scale-105 transition-transform"
-                                                        onError={(e) => { e.target.src = '/src/assets/placeholder.png'; }}
+                                                        onError={(e) => { e.target.src = '/logo.png'; }}
                                                     />
                                                 </div>
                                                 <div className="mt-auto items-center flex flex-col border-t border-slate-50 pt-3">
