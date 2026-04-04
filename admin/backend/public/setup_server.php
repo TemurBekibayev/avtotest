@@ -60,6 +60,50 @@ try {
     \Illuminate\Support\Facades\Artisan::call('db:seed', ['--class' => 'TrafficSignsImportSeeder', '--force' => true]);
     echo "<p>✅ Road and Traffic signs catalogs successfully established.</p>";
 
+    // 4. Fix Media Paths (Repair hardcoded local paths and directories)
+    $localDomains = ['http://localhost:8000', 'http://127.0.0.1:8000', 'http://localhost', 'http://127.0.0.1'];
+    
+    // Fix Questions
+    $qCount = 0;
+    $questions = \Illuminate\Support\Facades\DB::table('test_questions')->whereNotNull('question_file')->get();
+    foreach ($questions as $q) {
+        $original = $q->question_file;
+        $new = $original;
+        foreach ($localDomains as $domain) $new = str_replace($domain, '', $new);
+        if (str_contains($new, '/storage/tests/images/') && !str_contains($new, 'images changed')) {
+            $new = str_replace('/storage/tests/images/', '/storage/tests/images changed/', $new);
+        }
+        if (!empty($new) && !str_starts_with($new, '/storage/')) {
+            if (str_starts_with($new, 'storage/')) $new = '/' . $new;
+            else if (str_starts_with($new, 'tests/')) $new = '/storage/' . $new;
+        }
+        if ($new !== $original) {
+            \Illuminate\Support\Facades\DB::table('test_questions')->where('id', $q->id)->update(['question_file' => $new]);
+            $qCount++;
+        }
+    }
+    
+    // Fix Answers
+    $aCount = 0;
+    $answers = \Illuminate\Support\Facades\DB::table('answers')->whereNotNull('answer_resource')->get();
+    foreach ($answers as $a) {
+        $original = $a->answer_resource;
+        $new = $original;
+        foreach ($localDomains as $domain) $new = str_replace($domain, '', $new);
+        if (str_contains($new, '/storage/tests/videos/') && !str_contains($new, 'videos changed')) {
+            $new = str_replace('/storage/tests/videos/', '/storage/tests/videos changed/', $new);
+        }
+        if (!empty($new) && !str_starts_with($new, '/storage/')) {
+            if (str_starts_with($new, 'storage/')) $new = '/' . $new;
+            else if (str_starts_with($new, 'tests/')) $new = '/storage/' . $new;
+        }
+        if ($new !== $original) {
+            \Illuminate\Support\Facades\DB::table('answers')->where('id', $a->id)->update(['answer_resource' => $new]);
+            $aCount++;
+        }
+    }
+    echo "<p>✅ Analyzed and repaired media paths ($qCount questions, $aCount answers fixed).</p>";
+
     echo "<hr/><h2>🎉 Awesome! Everything is perfectly setup!</h2>";
     echo "<p style='color:green;font-weight:bold'>Your website and backend database is completely ready to use.</p>";
     echo "<p>Note: For security, you should delete this 'setup_server.php' file or rename it after using.</p>";
