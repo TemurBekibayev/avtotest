@@ -9,8 +9,8 @@
 
 // 1. Initial Setup & Bootstrap Laravel
 // Note: We are assuming this script is uploaded to public_html/
-require __DIR__ . '/application/vendor/autoload.php';
-$app = require_once __DIR__ . '/application/bootstrap/app.php';
+require __DIR__ . '/../application/vendor/autoload.php';
+$app = require_once __DIR__ . '/../application/bootstrap/app.php';
 $kernel = $app->make(Illuminate\Contracts\Console\Kernel::class);
 $kernel->bootstrap();
 
@@ -22,8 +22,8 @@ try {
     // Target: application/storage/app/public
     // Link:   application/public/storage (Root of API domain)
     
-    $storageTarget = __DIR__ . '/application/storage/app/public';
-    $apiPublicStorage = __DIR__ . '/application/public/storage';
+    $storageTarget = __DIR__ . '/../application/storage/app/public';
+    $apiPublicStorage = __DIR__ . '/../application/public/storage';
     $webPublicStorage = __DIR__ . '/storage'; // public_html/storage
 
     echo "<h3>1. Shortcut Creation</h3>";
