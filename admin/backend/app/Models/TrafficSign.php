@@ -12,6 +12,20 @@ class TrafficSign extends Model
         'content' => 'array',
     ];
 
+    protected $appends = ['image_url'];
+
+    public function getImageUrlAttribute()
+    {
+        if (!$this->image) return null;
+        
+        $path = $this->image;
+        if (!str_starts_with($path, 'storage/')) {
+            $path = 'storage/' . $path;
+        }
+
+        return url($path);
+    }
+
     public function category()
     {
         return $this->belongsTo(TrafficSignCategory::class, 'traffic_sign_category_id');
