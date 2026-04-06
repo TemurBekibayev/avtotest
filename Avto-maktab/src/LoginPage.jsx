@@ -111,9 +111,10 @@ const LoginPage = ({ onLogin }) => {
             <main className="login-main">
                 <motion.div className="brand-section" variants={formVariants}>
                     <div className="logo-placeholder">
-                        <img src="/logo.png" alt="Amudaryo AvtoTest Logo" className="brand-logo-img" style={{ maxWidth: '180px' }} />
+                        <img src="/logo.png" alt="Amudaryo AvtoTest Logo" className="brand-logo-img" />
                     </div>
                     <h1 className="main-title">{t.title}</h1>
+
                     <p className="sub-title">{t.subtitle}</p>
                 </motion.div>
 

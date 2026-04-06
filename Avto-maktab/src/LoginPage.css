@@ -76,8 +76,25 @@
 }
 
 .logo-placeholder {
-    margin-bottom: 20px;
+    margin-bottom: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.brand-logo-img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 12px;
+    filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.2));
+    transition: all 0.3s ease;
+}
+
+.brand-logo-img:hover {
+    transform: scale(1.02);
+    filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.3));
+}
+
 
 .shimmer-logo {
     font-size: 2.5rem;
@@ -294,4 +311,8 @@
         gap: 16px;
         align-items: flex-start;
     }
-}
+
+    .brand-logo-img {
+        max-width: 220px;
+    }
+}
