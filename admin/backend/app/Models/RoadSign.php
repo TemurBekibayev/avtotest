@@ -11,6 +11,8 @@ class RoadSign extends Model
 
     protected $guarded = [];
 
+    protected $fillable = ['road_sign_type_id', 'title', 'image', 'description', 'order_column'];
+
     protected $casts = [
         'name' => 'array',
         'content' => 'array',
@@ -18,12 +20,12 @@ class RoadSign extends Model
 
     protected $appends = ['image_url'];
 
-    public function getImageUrlAttribute()
+    public function getImageAttribute($value)
     {
-        if (!$this->image) return null;
+        if (!$value) return null;
         
         // Clean the path (remove leading dots, slashes, or domains)
-        $path = $this->image;
+        $path = $value;
         $path = ltrim($path, './');
         $path = str_replace(['https://api.amudaryoavtotest.uz/', 'http://api.amudaryoavtotest.uz/'], '', $path);
         

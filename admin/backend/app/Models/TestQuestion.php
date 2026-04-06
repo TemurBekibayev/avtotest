@@ -6,19 +6,13 @@ use Illuminate\Database\Eloquent\Model;
 
 class TestQuestion extends Model
 {
-    protected $fillable = [
-        'new_question_id',
-        'question_file',
-        'image',
-    ];
+    protected $fillable = ['theme_id', 'question', 'image', 'options', 'correct_option', 'explanation'];
 
-    protected $appends = ['image_url'];
-
-    public function getImageUrlAttribute()
+    public function getImageAttribute($value)
     {
-        if (!$this->image) return null;
+        if (!$value) return null;
         
-        $path = $this->image;
+        $path = $value;
         $path = ltrim($path, './');
         $path = str_replace(['https://api.amudaryoavtotest.uz/', 'http://api.amudaryoavtotest.uz/'], '', $path);
         

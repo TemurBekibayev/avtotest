@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class TrafficSign extends Model
 {
-    protected $fillable = ['traffic_sign_category_id', 'title', 'description', 'image', 'content'];
+    protected $fillable = ['traffic_sign_type_id', 'title', 'image', 'content'];
 
     protected $casts = [
         'content' => 'array',
@@ -14,11 +14,11 @@ class TrafficSign extends Model
 
     protected $appends = ['image_url'];
 
-    public function getImageUrlAttribute()
+    public function getImageAttribute($value)
     {
-        if (!$this->image) return null;
+        if (!$value) return null;
         
-        $path = $this->image;
+        $path = $value;
         $path = ltrim($path, './');
         $path = str_replace(['https://api.amudaryoavtotest.uz/', 'http://api.amudaryoavtotest.uz/'], '', $path);
         
