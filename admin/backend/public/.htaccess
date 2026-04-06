@@ -1,4 +1,44 @@
-# Ensure index.php is the default file
+# # Ensure index.php is the default file
+# DirectoryIndex index.php
+
+# <IfModule mod_rewrite.c>
+#     <IfModule mod_negotiation.c>
+#         Options -MultiViews -Indexes
+#     </IfModule>
+
+#     RewriteEngine On
+
+#     # Handle CORS Preflight (OPTIONS) requests early
+#     Header always set Access-Control-Allow-Origin "https://amudaryoavtotest.uz"
+#     Header always set Access-Control-Allow-Methods "GET, POST, OPTIONS, PUT, DELETE"
+#     Header always set Access-Control-Allow-Headers "Origin, X-Requested-With, Content-Type, Accept, Authorization, X-XSRF-Token"
+#     Header always set Access-Control-Allow-Credentials "true"
+#     Header always set Access-Control-Max-Age "86400"
+
+#     # Handle OPTIONS requests...
+#     RewriteCond %{REQUEST_METHOD} OPTIONS
+#     RewriteRule ^(.*)$ $1 [R=204,L]
+
+#     # Handle Authorization Header
+#     RewriteCond %{HTTP:Authorization} .
+#     RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+#     # Handle X-XSRF-Token Header
+#     RewriteCond %{HTTP:x-xsrf-token} .
+#     RewriteRule .* - [E=HTTP_X_XSRF_TOKEN:%{HTTP:X-XSRF-Token}]
+
+#     # Redirect Trailing Slashes If Not A Folder...
+#     RewriteCond %{REQUEST_FILENAME} !-d
+#     RewriteCond %{REQUEST_URI} (.+)/$
+#     RewriteRule ^ %1 [L,R=301]
+
+#     # Send Requests To Front Controller...
+#     RewriteCond %{REQUEST_FILENAME} !-d
+#     RewriteCond %{REQUEST_FILENAME} !-f
+#     RewriteRule ^ index.php [L]
+# </IfModule>
+
+
 DirectoryIndex index.php
 
 <IfModule mod_rewrite.c>
@@ -8,16 +48,9 @@ DirectoryIndex index.php
 
     RewriteEngine On
 
-    # Handle CORS Preflight (OPTIONS) requests early
-    Header always set Access-Control-Allow-Origin "https://amudaryoavtotest.uz"
-    Header always set Access-Control-Allow-Methods "GET, POST, OPTIONS, PUT, DELETE"
-    Header always set Access-Control-Allow-Headers "Origin, X-Requested-With, Content-Type, Accept, Authorization, X-XSRF-Token"
-    Header always set Access-Control-Allow-Credentials "true"
-    Header always set Access-Control-Max-Age "86400"
-
-    # Handle OPTIONS requests...
+    # ✅ OPTIONS so'rovni PHP ga yubormasdan to'g'ridan-to'g'ri qaytarish
     RewriteCond %{REQUEST_METHOD} OPTIONS
-    RewriteRule ^(.*)$ $1 [R=204,L]
+    RewriteRule .* - [R=204,L]
 
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
@@ -36,4 +69,13 @@ DirectoryIndex index.php
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
+</IfModule>
+
+# ✅ CORS headerlar RewriteEngine DAN TASHQARIDA — har doim ishlaydi
+<IfModule mod_headers.c>
+    Header always set Access-Control-Allow-Origin "https://amudaryoavtotest.uz"
+    Header always set Access-Control-Allow-Methods "GET, POST, OPTIONS, PUT, DELETE"
+    Header always set Access-Control-Allow-Headers "Origin, X-Requested-With, Content-Type, Accept, Authorization, X-XSRF-Token"
+    Header always set Access-Control-Allow-Credentials "true"
+    Header always set Access-Control-Max-Age "86400"
 </IfModule>
