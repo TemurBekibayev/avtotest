@@ -12,11 +12,23 @@ use App\Http\Controllers\API\TestQuestionController;
 use App\Http\Controllers\API\TrafficSignController;
 use App\Http\Controllers\API\RoadSignController;
 use App\Http\Controllers\API\InstructorController;
+use App\Http\Controllers\API\DashboardController;
+
 
 /* |-------------------------------------------------------------------------- | API Routes |-------------------------------------------------------------------------- */
 
+// Health check route to verify connection
+Route::get('/up', function() {
+    return response()->json(['status' => 'ok', 'message' => 'Connection successful!']);
+});
+
+// Explicitly handle security checks (OPTIONS) if Apache/cPanel blocks them
+Route::options('{any}', function() {
+    return response()->json([], 200);
+})->where('any', '.*');
+
 Route::post('/register', [AuthController::class , 'register']);
-Route::post('/login', [AuthController::class , 'login']);
+Route::post('/login', [AuthController::class , 'login'])->name('login');
 
 Route::get('/user', function (Request $request) {
     return $request->user();
@@ -28,6 +40,7 @@ Route::get('/login', function () {
 })->name('login');
 
 Route::middleware('auth:sanctum')->group(function () {
+    Route::get('/dashboard/stats', [DashboardController::class, 'getStats']);
     Route::post('/logout', [AuthController::class , 'logout']);
     Route::get('/me', [AuthController::class , 'me']);
 

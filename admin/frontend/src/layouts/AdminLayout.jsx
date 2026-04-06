@@ -94,6 +94,16 @@ const AdminLayout = () => {
                             );
                         })}
                     </nav>
+
+                    <div className="mt-8 border-t border-slate-700/50 pt-4 px-6 mb-10">
+                        <button
+                            onClick={handleLogout}
+                            className="flex items-center w-full px-4 py-2 text-slate-400 hover:text-white hover:bg-red-600/20 rounded-md transition-all group"
+                        >
+                            <LogOut size={20} className="mr-3 group-hover:text-red-500" />
+                            <span className="font-medium">Chiqish</span>
+                        </button>
+                    </div>
                 </div>
             </aside>
 

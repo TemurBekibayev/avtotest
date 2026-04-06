@@ -5,22 +5,33 @@ import api from '../api/axios';
 
 const Dashboard = () => {
     const [recentTests, setRecentTests] = useState([]);
+    const [stats, setStats] = useState({
+        total_students: 0,
+        active_groups_count: 0,
+        student_growth_percentage: 0,
+        new_groups_this_week: 0
+    });
     const [loading, setLoading] = useState(false);
 
     useEffect(() => {
-        const fetchRecentTests = async () => {
+        const fetchDashboardData = async () => {
             try {
                 setLoading(true);
-                const response = await api.get('/test-results');
-                // The API returns paginated data for admin
-                setRecentTests(response.data.data || []);
+                // Fetch stats and recent tests in parallel
+                const [statsRes, testsRes] = await Promise.all([
+                    api.get('/dashboard/stats'),
+                    api.get('/test-results')
+                ]);
+                
+                setStats(statsRes.data);
+                setRecentTests(testsRes.data.data || []);
             } catch (error) {
-                console.error('Failed to fetch recent tests:', error);
+                console.error('Failed to fetch dashboard data:', error);
             } finally {
                 setLoading(false);
             }
         };
-        fetchRecentTests();
+        fetchDashboardData();
     }, []);
 
     const columns = [
@@ -73,32 +84,31 @@ const Dashboard = () => {
                         <div className="flex items-center justify-between">
                             <div>
                                 <p className="text-sm font-medium text-slate-500 mb-1">Jami o'quvchilar</p>
-                                <h3 className="text-3xl font-bold text-slate-800">1,248</h3>
+                                <h3 className="text-3xl font-bold text-slate-800">{stats.total_students.toLocaleString()}</h3>
                             </div>
                             <div className="p-3 bg-blue-50 rounded-lg">
                                 <Users className="text-blue-500" size={24} />
                             </div>
                         </div>
                         <div className="mt-4 flex items-center text-sm">
-                            <span className="text-emerald-500 font-medium flex items-center">+12%</span>
+                            <span className="text-emerald-500 font-medium flex items-center">+{stats.student_growth_percentage}%</span>
                             <span className="text-slate-400 ml-2">o'tgan oyga nisbatan</span>
                         </div>
                     </Card>
                 </Col>
-
-                <Col xs={24} sm={12} lg={12}>
-                    <Card className="rounded-xl shadow-sm border-slate-200">
+                <Col xs={24} sm={12} lg={6}>
+                    <Card className="dashboard-stat-card">
                         <div className="flex items-center justify-between">
                             <div>
                                 <p className="text-sm font-medium text-slate-500 mb-1">Faol guruhlar</p>
-                                <h3 className="text-3xl font-bold text-slate-800">42</h3>
+                                <h3 className="text-3xl font-bold text-slate-800">{stats.active_groups_count}</h3>
                             </div>
                             <div className="p-3 bg-emerald-50 rounded-lg">
                                 <BookOpen className="text-emerald-500" size={24} />
                             </div>
                         </div>
                         <div className="mt-4 flex items-center text-sm">
-                            <span className="text-emerald-500 font-medium flex items-center">+3</span>
+                            <span className="text-emerald-500 font-medium flex items-center">+{stats.new_groups_this_week}</span>
                             <span className="text-slate-400 ml-2">bu hafta yangi guruhlar</span>
                         </div>
                     </Card>
