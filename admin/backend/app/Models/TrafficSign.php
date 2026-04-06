@@ -8,11 +8,11 @@ class TrafficSign extends Model
 {
     protected $fillable = ['traffic_sign_type_id', 'title', 'image', 'content'];
 
+    protected $guarded = [];
+
     protected $casts = [
         'content' => 'array',
     ];
-
-    protected $appends = ['image_url'];
 
     public function getImageAttribute($value)
     {

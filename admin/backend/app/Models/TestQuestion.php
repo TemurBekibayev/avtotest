@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class TestQuestion extends Model
 {
-    protected $fillable = ['theme_id', 'question', 'image', 'options', 'correct_option', 'explanation'];
+    protected $guarded = [];
 
     public function getImageAttribute($value)
     {

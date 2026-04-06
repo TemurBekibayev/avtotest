@@ -11,14 +11,10 @@ class RoadSign extends Model
 
     protected $guarded = [];
 
-    protected $fillable = ['road_sign_type_id', 'title', 'image', 'description', 'order_column'];
-
     protected $casts = [
         'name' => 'array',
         'content' => 'array',
     ];
-
-    protected $appends = ['image_url'];
 
     public function getImageAttribute($value)
     {
