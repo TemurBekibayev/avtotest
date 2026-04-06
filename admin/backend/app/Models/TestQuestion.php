@@ -19,11 +19,14 @@ class TestQuestion extends Model
         if (!$this->image) return null;
         
         $path = $this->image;
+        $path = ltrim($path, './');
+        $path = str_replace(['https://api.amudaryoavtotest.uz/', 'http://api.amudaryoavtotest.uz/'], '', $path);
+        
         if (!str_starts_with($path, 'storage/')) {
             $path = 'storage/' . $path;
         }
 
-        return url($path);
+        return 'https://api.amudaryoavtotest.uz/' . str_replace(' ', '%20', $path);
     }
 
     public function options()

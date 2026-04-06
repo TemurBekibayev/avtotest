@@ -22,13 +22,18 @@ class RoadSign extends Model
     {
         if (!$this->image) return null;
         
-        // Ensure the path starts with storage/
+        // Clean the path (remove leading dots, slashes, or domains)
         $path = $this->image;
+        $path = ltrim($path, './');
+        $path = str_replace(['https://api.amudaryoavtotest.uz/', 'http://api.amudaryoavtotest.uz/'], '', $path);
+        
+        // Ensure it starts with storage/
         if (!str_starts_with($path, 'storage/')) {
             $path = 'storage/' . $path;
         }
 
-        return url($path);
+        // Return a clean, encoded URL
+        return 'https://api.amudaryoavtotest.uz/' . str_replace(' ', '%20', $path);
     }
 
     public function type()
