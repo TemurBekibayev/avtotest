@@ -7,6 +7,10 @@ DirectoryIndex index.php
 
     RewriteEngine On
 
+    # ✅ OPTIONS so'rovni PHP ga yubormasdan to'g'ridan-to'g'ri qaytarish
+    RewriteCond %{REQUEST_METHOD} OPTIONS
+    RewriteRule .* - [R=204,L]
+
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
     RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
@@ -24,4 +28,13 @@ DirectoryIndex index.php
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
+</IfModule>
+
+# ✅ CORS headerlar RewriteEngine DAN TASHQARIDA — har doim ishlaydi
+<IfModule mod_headers.c>
+    Header always set Access-Control-Allow-Origin "https://amudaryoavtotest.uz"
+    Header always set Access-Control-Allow-Methods "GET, POST, OPTIONS, PUT, DELETE"
+    Header always set Access-Control-Allow-Headers "Origin, X-Requested-With, Content-Type, Accept, Authorization, X-XSRF-Token"
+    Header always set Access-Control-Allow-Credentials "true"
+    Header always set Access-Control-Max-Age "86400"
 </IfModule>
