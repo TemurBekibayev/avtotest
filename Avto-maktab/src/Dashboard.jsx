@@ -27,6 +27,7 @@ const Dashboard = ({ onLogout, user }) => {
     const [fontSize, setFontSize] = useState(100); // percentage
     const [theme, setTheme] = useState('dark');
     const [currentLang, setCurrentLang] = useState({ code: 'uz-lat', label: "O'zbek (lotin)", flag: "🇺🇿" });
+    const [userMenuOpen, setUserMenuOpen] = useState(false);
     const [templates, setTemplates] = useState([]);
     const [templatesLoading, setTemplatesLoading] = useState(false);
     const [activeTemplate, setActiveTemplate] = useState(null);
@@ -344,14 +345,36 @@ const Dashboard = ({ onLogout, user }) => {
                             </AnimatePresence>
                         </div>
 
-                        <div className="user-profile">
-                            <div className="user-avatar">
-                                <User size={20} />
+                        <div className="user-profile-container">
+                            <div className="user-profile" onClick={() => setUserMenuOpen(!userMenuOpen)}>
+                                <div className="user-avatar">
+                                    <User size={20} />
+                                </div>
+                                <div className="user-info-brief">
+                                    <span className="user-name">{userData.name.split(' ')[0]}</span>
+                                    <ChevronDown size={14} className={userMenuOpen ? 'rotated' : ''} />
+                                </div>
                             </div>
-                            <div className="user-info-brief">
-                                <span className="user-name">{userData.name.split(' ')[0]}</span>
-                                <ChevronDown size={14} />
-                            </div>
+                            <AnimatePresence>
+                                {userMenuOpen && (
+                                    <motion.div 
+                                        className="user-dropdown-menu"
+                                        initial={{ opacity: 0, y: 10 }}
+                                        animate={{ opacity: 1, y: 0 }}
+                                        exit={{ opacity: 0, y: 10 }}
+                                    >
+                                        <div className="user-dropdown-header">
+                                            <p className="user-full-name">{userData.name}</p>
+                                            <p className="user-group-name">{userData.group}</p>
+                                        </div>
+                                        <div className="dropdown-divider"></div>
+                                        <button className="dropdown-item logout-item" onClick={onLogout}>
+                                            <LogOut size={16} />
+                                            <span>Chiqish</span>
+                                        </button>
+                                    </motion.div>
+                                )}
+                            </AnimatePresence>
                         </div>
                     </div>
                 </header>

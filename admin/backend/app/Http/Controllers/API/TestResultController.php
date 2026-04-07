@@ -21,7 +21,12 @@ class TestResultController extends Controller
 
         $student = $user->student;
         if (!$student) {
-            return response()->json([], 404);
+            return response()->json([
+                'data' => [],
+                'current_page' => 1,
+                'last_page' => 1,
+                'total' => 0,
+            ]);
         }
 
         return response()->json(TestResult::with('template')

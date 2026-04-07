@@ -73,7 +73,10 @@ DirectoryIndex index.php
 
 # ✅ CORS headerlar RewriteEngine DAN TASHQARIDA — har doim ishlaydi
 <IfModule mod_headers.c>
-    Header always set Access-Control-Allow-Origin "https://amudaryoavtotest.uz"
+    # Set Access-Control-Allow-Origin dynamically to support multiple frontends (admin, student, mobile)
+    SetEnvIf Origin "(.+)" ALLOWED_ORIGIN=$1
+    Header always set Access-Control-Allow-Origin "%{ALLOWED_ORIGIN}e" env=ALLOWED_ORIGIN
+    
     Header always set Access-Control-Allow-Methods "GET, POST, OPTIONS, PUT, DELETE"
     Header always set Access-Control-Allow-Headers "Origin, X-Requested-With, Content-Type, Accept, Authorization, X-XSRF-Token"
     Header always set Access-Control-Allow-Credentials "true"
