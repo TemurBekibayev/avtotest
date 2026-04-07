@@ -22,10 +22,6 @@ Route::get('/up', function() {
     return response()->json(['status' => 'ok', 'message' => 'Connection successful!']);
 });
 
-// Explicitly handle security checks (OPTIONS) if Apache/cPanel blocks them
-Route::options('{any}', function() {
-    return response()->json([], 200);
-})->where('any', '.*');
 
 Route::post('/register', [AuthController::class , 'register']);
 Route::post('/login', [AuthController::class , 'login'])->name('login');
