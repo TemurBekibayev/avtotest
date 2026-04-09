@@ -31,7 +31,14 @@ return [
         '#^https?://.*\.amudaryoavtotest\.uz$#',
     ],
 
-    'allowed_headers' => ['*'],
+    'allowed_headers' => [
+        'Content-Type',
+        'X-Requested-With',
+        'Authorization',
+        'Accept',
+        'X-XSRF-TOKEN',
+        'Origin',
+    ],
 
     'exposed_headers' => [],
 

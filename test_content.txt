@@ -1,0 +1,28 @@
+{
+    "status": 1,
+    "data": {
+        "questions": [
+            {
+                "id": 12056,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ushbu yo‘l belgisi chorrahalarda o‘ngga burilayotgan relssiz transport vositalariga svetaforning qaysi ishorasida harakatlanishga ruxsat etiladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12056/12056-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191648,
+                        "newtest_question_id": 12056,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "

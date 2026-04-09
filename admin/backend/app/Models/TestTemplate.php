@@ -13,6 +13,23 @@ class TestTemplate extends Model
         'passing_score',
     ];
 
+    protected $appends = ['question_count', 'time_limit', 'description'];
+
+    public function getQuestionCountAttribute()
+    {
+        return $this->questions()->count() ?: 20;
+    }
+
+    public function getTimeLimitAttribute()
+    {
+        return $this->duration_minutes ?: 15;
+    }
+
+    public function getDescriptionAttribute()
+    {
+        return $this->type ?: '';
+    }
+
     public function questions()
     {
         // Assuming a many-to-many relationship using pivot table template_questions
