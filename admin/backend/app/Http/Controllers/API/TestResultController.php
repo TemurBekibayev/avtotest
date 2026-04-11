@@ -15,8 +15,10 @@ class TestResultController extends Controller
     {
         $user = $request->user();
 
+        $query = TestResult::with(['student.group']);
+
         if ($user->role === 'admin') {
-            return response()->json(TestResult::with(['student.group', 'template'])->latest()->paginate(20));
+            return response()->json($query->latest()->paginate(20));
         }
 
         $student = $user->student;
@@ -29,8 +31,7 @@ class TestResultController extends Controller
             ]);
         }
 
-        return response()->json(TestResult::with('template')
-            ->where('student_id', $student->id)
+        return response()->json($query->where('student_id', $student->id)
             ->latest()
             ->paginate(15));
     }
@@ -40,15 +41,12 @@ class TestResultController extends Controller
      */
     public function store(Request $request)
     {
-        $templateId = $request->test_template_id;
-        if ($templateId === 'mixed') {
-            $templateId = null;
+        $id = $request->test_template_id;
+        if ($id === 'mixed') {
+            $id = null;
         }
 
-        $request->merge(['test_template_id' => $templateId]);
-
         $request->validate([
-            'test_template_id' => 'nullable|exists:test_templates,id',
             'score' => 'required|integer|min:0',
             'taken_at' => 'nullable|date',
         ]);
@@ -60,16 +58,32 @@ class TestResultController extends Controller
             return response()->json(['message' => 'Foydalanuvchi talaba emas.'], 403);
         }
 
-        if ($templateId) {
-            $template = \App\Models\TestTemplate::findOrFail($templateId);
-            $passed = $request->score >= $template->passing_score;
-        } else {
-            $passed = $request->score >= 90; // Default passing score for mixed tests
+        $testTemplateId = null;
+        $studentTestTemplateId = null;
+        $passingScore = 90;
+
+        if ($id) {
+            // Check if it's a Shablon test (StudentTestTemplate)
+            $shablon = \App\Models\StudentTestTemplate::find($id);
+            if ($shablon) {
+                $studentTestTemplateId = $shablon->id;
+                $passingScore = $shablon->passing_score;
+            } else {
+                // Check if it's an original test
+                $template = \App\Models\TestTemplate::find($id);
+                if ($template) {
+                    $testTemplateId = $template->id;
+                    $passingScore = $template->passing_score;
+                }
+            }
         }
+
+        $passed = $request->score >= $passingScore;
 
         $result = TestResult::create([
             'student_id' => $student->id,
-            'test_template_id' => $templateId,
+            'test_template_id' => $testTemplateId,
+            'student_test_template_id' => $studentTestTemplateId,
             'score' => $request->score,
             'passed' => $passed,
             'taken_at' => $request->taken_at ?? now(),
