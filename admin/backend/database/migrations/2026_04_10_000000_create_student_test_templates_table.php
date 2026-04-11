@@ -18,11 +18,9 @@ return new class extends Migration
         });
 
         Schema::create('student_template_questions', function (Blueprint $table) {
-            $table->id();
             $table->foreignId('template_id')->constrained('student_test_templates')->cascadeOnDelete();
-            // Use unsignedBigInteger to match typical test_questions id, avoiding foreign key typing issues if not exact
-            $table->unsignedBigInteger('question_id');
-            $table->foreign('question_id')->references('id')->on('test_questions')->cascadeOnDelete();
+            $table->foreignId('question_id')->constrained('shablon_questions')->cascadeOnDelete();
+            $table->primary(['template_id', 'question_id']);
             $table->timestamps();
         });
     }

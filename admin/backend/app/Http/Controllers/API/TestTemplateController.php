@@ -45,8 +45,11 @@ class TestTemplateController extends Controller
     public function show($id)
     {
         try {
-            // Fetch from StudentTestTemplate manually since route model binding is bound to TestTemplate
-            $studentTemplate = \App\Models\StudentTestTemplate::with('questions.translations', 'questions.options.translations', 'questions.answer')->findOrFail($id);
+            $studentTemplate = \App\Models\StudentTestTemplate::with([
+                'questions.translations', 
+                'questions.options.translations', 
+                'questions.answers'
+            ])->findOrFail($id);
             return response()->json($studentTemplate);
         } catch (\Exception $e) {
             return response()->json([

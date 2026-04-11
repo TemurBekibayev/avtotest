@@ -34,6 +34,6 @@ class StudentTestTemplate extends Model
 
     public function questions()
     {
-        return $this->belongsToMany(TestQuestion::class, 'student_template_questions', 'template_id', 'question_id');
+        return $this->belongsToMany(ShablonQuestion::class, 'student_template_questions', 'template_id', 'question_id');
     }
 }
