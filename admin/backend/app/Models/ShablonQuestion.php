@@ -7,7 +7,15 @@ use Illuminate\Database\Eloquent\Model;
 class ShablonQuestion extends Model
 {
     protected $fillable = ['json_id', 'image_path'];
-    protected $appends = ['question_file', 'answer'];
+    protected $appends = ['question', 'question_file', 'answer'];
+
+    public function getQuestionAttribute()
+    {
+        $lang = request()->get('lang', 'uz-lat');
+        $translation = $this->translations()->where('language', $lang)->first();
+        if (!$translation) $translation = $this->translations()->first();
+        return $translation ? $translation->question_text : '';
+    }
 
     public function getQuestionFileAttribute()
     {
