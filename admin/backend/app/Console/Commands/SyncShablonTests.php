@@ -96,7 +96,19 @@ class SyncShablonTests extends Command
             ]);
             $sqIds[] = $sq->id;
 
-            // Question Translations
+            // 2. Create Options once (using UZ as master)
+            $createdOptionIds = [];
+            if (isset($uzQ['answers'])) {
+                foreach ($uzQ['answers'] as $optData) {
+                    $so = ShablonOption::create([
+                        'shablon_question_id' => $sq->id,
+                        'is_correct' => ($optData['check'] == 1)
+                    ]);
+                    $createdOptionIds[] = $so->id;
+                }
+            }
+
+            // 3. Question & Option Translations (3 languages)
             foreach (['uz', 'ru', 'kiril'] as $lang) {
                 $qData = ($lang === 'uz') ? $uzQ : (($lang === 'ru') ? $ruQ : $krQ);
                 if ($qData) {
@@ -120,7 +132,7 @@ class SyncShablonTests extends Command
                         ]);
                     }
 
-                    // Options (Multi-lang)
+                    // Option Translations
                     if (isset($qData['answers'])) {
                         foreach ($qData['answers'] as $optIndex => $optData) {
                             $optText = '';
@@ -128,16 +140,7 @@ class SyncShablonTests extends Command
                                 if ($part['type'] == 1) $optText = $part['value'];
                             }
 
-                            // We only create the parent Option once (on the first language pass)
-                            if ($lang === 'uz') {
-                                $so = ShablonOption::create([
-                                    'shablon_question_id' => $sq->id,
-                                    'is_correct' => ($optData['check'] == 1)
-                                ]);
-                                $sq->current_options_for_sync[] = $so->id; // Temp storage
-                            }
-
-                            $optionId = $sq->current_options_for_sync[$optIndex] ?? null;
+                            $optionId = $createdOptionIds[$optIndex] ?? null;
                             if ($optionId) {
                                 ShablonOptionTranslation::create([
                                     'shablon_option_id' => $optionId,
