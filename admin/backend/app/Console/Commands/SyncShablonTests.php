@@ -23,9 +23,9 @@ class SyncShablonTests extends Command
         
         $baseDir = resource_path('tests/savollar');
         $files = [
-            'uz' => "$baseDir/all_questions_uz.json",
+            'uz-lat' => "$baseDir/all_questions_uz.json",
             'ru' => "$baseDir/all_questions_ru.json",
-            'kiril' => "$baseDir/all_questions_kiril.json"
+            'uz-cyr' => "$baseDir/all_questions_kiril.json"
         ];
 
         foreach ($files as $lang => $path) {
@@ -37,7 +37,7 @@ class SyncShablonTests extends Command
 
         // 1. Load and Flatten data per language
         $this->info("Loading and flattening JSON data...");
-        $flattened = ['uz' => [], 'ru' => [], 'kiril' => []];
+        $flattened = ['uz-lat' => [], 'ru' => [], 'uz-cyr' => []];
         foreach ($files as $lang => $path) {
             $data = json_decode(File::get($path), true);
             foreach ($data as $templateObj) {
@@ -48,7 +48,7 @@ class SyncShablonTests extends Command
             }
         }
 
-        $totalQuestions = count($flattened['uz']);
+        $totalQuestions = count($flattened['uz-lat']);
         $this->info("Found $totalQuestions questions to process.");
 
         // Wipe tables
@@ -73,9 +73,9 @@ class SyncShablonTests extends Command
         $sqIds = [];
         
         for ($i = 0; $i < $totalQuestions; $i++) {
-            $uzQ = $flattened['uz'][$i];
+            $uzQ = $flattened['uz-lat'][$i];
             $ruQ = $flattened['ru'][$i] ?? null;
-            $krQ = $flattened['kiril'][$i] ?? null;
+            $krQ = $flattened['uz-cyr'][$i] ?? null;
             $jsonId = $uzQ['id'];
 
             // Determine image path (Master UZ ID first)
@@ -96,7 +96,7 @@ class SyncShablonTests extends Command
             ]);
             $sqIds[] = $sq->id;
 
-            // 2. Create Options once (using UZ as master)
+            // 2. Create Options once (using uz-lat as master)
             $createdOptionIds = [];
             if (isset($uzQ['answers'])) {
                 foreach ($uzQ['answers'] as $optData) {
@@ -109,8 +109,8 @@ class SyncShablonTests extends Command
             }
 
             // 3. Question & Option Translations (3 languages)
-            foreach (['uz', 'ru', 'kiril'] as $lang) {
-                $qData = ($lang === 'uz') ? $uzQ : (($lang === 'ru') ? $ruQ : $krQ);
+            foreach (['uz-lat', 'ru', 'uz-cyr'] as $lang) {
+                $qData = ($lang === 'uz-lat') ? $uzQ : (($lang === 'ru') ? $ruQ : $krQ);
                 if ($qData) {
                     $qText = '';
                     foreach ($qData['body'] as $part) {

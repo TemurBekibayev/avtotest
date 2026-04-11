@@ -16,7 +16,7 @@ class ShablonQuestion extends Model
 
     public function getAnswerAttribute()
     {
-        $lang = request()->get('lang', 'uz');
+        $lang = request()->get('lang', 'uz-lat');
         $answer = $this->answers()->where('language', $lang)->first();
         if (!$answer) $answer = $this->answers()->first();
         
