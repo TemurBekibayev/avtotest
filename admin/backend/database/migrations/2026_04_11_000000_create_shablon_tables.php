@@ -23,7 +23,7 @@ return new class extends Migration
         Schema::create('shablon_question_translations', function (Blueprint $table) {
             $table->id();
             $table->foreignId('shablon_question_id')->constrained('shablon_questions')->cascadeOnDelete();
-            $table->enum('language', ['uz', 'ru', 'kiril']);
+            $table->string('language', 10);
             $table->text('question_text');
             $table->timestamps();
         });
@@ -40,7 +40,7 @@ return new class extends Migration
         Schema::create('shablon_option_translations', function (Blueprint $table) {
             $table->id();
             $table->foreignId('shablon_option_id')->constrained('shablon_options')->cascadeOnDelete();
-            $table->enum('language', ['uz', 'ru', 'kiril']);
+            $table->string('language', 10);
             $table->text('option_text');
             $table->timestamps();
         });
@@ -49,7 +49,7 @@ return new class extends Migration
         Schema::create('shablon_answers', function (Blueprint $table) {
             $table->id();
             $table->foreignId('shablon_question_id')->constrained('shablon_questions')->cascadeOnDelete();
-            $table->enum('language', ['uz', 'ru', 'kiril']);
+            $table->string('language', 10);
             $table->text('description')->nullable();
             $table->string('video_path')->nullable();
             $table->timestamps();
