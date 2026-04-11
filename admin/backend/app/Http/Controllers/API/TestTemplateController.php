@@ -13,7 +13,7 @@ class TestTemplateController extends Controller
      */
     public function index()
     {
-        return response()->json(TestTemplate::all());
+        return response()->json(\App\Models\StudentTestTemplate::all());
     }
 
     /**
@@ -35,9 +35,11 @@ class TestTemplateController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(TestTemplate $testTemplate)
+    public function show($id)
     {
-        return response()->json($testTemplate->load('questions.translations', 'questions.options.translations', 'questions.answer'));
+        // Fetch from StudentTestTemplate manually since route model binding is bound to TestTemplate
+        $studentTemplate = \App\Models\StudentTestTemplate::with('questions.translations', 'questions.options.translations', 'questions.answer')->findOrFail($id);
+        return response()->json($studentTemplate);
     }
 
     /**
