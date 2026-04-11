@@ -10,6 +10,15 @@ Route::get('/setup-cpanel', function () {
     try {
         $output = [];
         
+        // Check for required JSON files before running
+        $baseDir = resource_path('tests/savollar');
+        $files = ['all_questions_uz.json', 'all_questions_ru.json', 'all_questions_kiril.json'];
+        foreach ($files as $file) {
+            if (!file_exists("$baseDir/$file")) {
+                throw new \Exception("Missing required data file: resources/tests/savollar/$file");
+            }
+        }
+
         \Illuminate\Support\Facades\Artisan::call('migrate', ['--force' => true]);
         $output['migrate'] = \Illuminate\Support\Facades\Artisan::output();
         
@@ -24,7 +33,10 @@ Route::get('/setup-cpanel', function () {
     } catch (\Exception $e) {
         return response()->json([
             'status' => 'error',
-            'message' => $e->getMessage()
+            'message' => $e->getMessage(),
+            'file' => $e->getFile(),
+            'line' => $e->getLine(),
+            'trace' => explode("\n", $e->getTraceAsString())
         ], 500);
     }
 });

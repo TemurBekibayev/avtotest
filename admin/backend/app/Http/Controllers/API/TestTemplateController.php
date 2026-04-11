@@ -13,7 +13,14 @@ class TestTemplateController extends Controller
      */
     public function index()
     {
-        return response()->json(\App\Models\StudentTestTemplate::all());
+        try {
+            return response()->json(\App\Models\StudentTestTemplate::all());
+        } catch (\Exception $e) {
+            return response()->json([
+                'message' => 'Error fetching templates. The database might not be initialized.',
+                'error' => $e->getMessage()
+            ], 500);
+        }
     }
 
     /**
@@ -37,9 +44,16 @@ class TestTemplateController extends Controller
      */
     public function show($id)
     {
-        // Fetch from StudentTestTemplate manually since route model binding is bound to TestTemplate
-        $studentTemplate = \App\Models\StudentTestTemplate::with('questions.translations', 'questions.options.translations', 'questions.answer')->findOrFail($id);
-        return response()->json($studentTemplate);
+        try {
+            // Fetch from StudentTestTemplate manually since route model binding is bound to TestTemplate
+            $studentTemplate = \App\Models\StudentTestTemplate::with('questions.translations', 'questions.options.translations', 'questions.answer')->findOrFail($id);
+            return response()->json($studentTemplate);
+        } catch (\Exception $e) {
+            return response()->json([
+                'message' => 'Error fetching template details.',
+                'error' => $e->getMessage()
+            ], 500);
+        }
     }
 
     /**
