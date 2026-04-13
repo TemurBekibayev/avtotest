@@ -555,8 +555,8 @@ const Dashboard = ({ onLogout, user }) => {
                                     <div className="loading-templates">Yuklanmoqda...</div>
                                 ) : templates.length > 0 ? (
                                     templates.map((tpl, i) => {
-                                        // Find latest result for this template
-                                        const latestResult = results.find(r => Number(r.test_template_id) === Number(tpl.id));
+                                        // Use latest result provided by the backend for this template
+                                        const latestResult = tpl.latest_result || tpl.latestResult;
                                         const score = latestResult ? latestResult.score : 0;
                                         const correctCount = latestResult ? Math.round((score / 100) * 20) : 0;
                                         // Calculate stroke dash offset: 251.2 is full circle (2 * PI * 40)
@@ -912,6 +912,7 @@ const Dashboard = ({ onLogout, user }) => {
                         setActiveTemplate(null);
                         setActiveTab('shablon-testlar');
                         fetchResults();
+                        fetchTemplates();
                     }}
                 />
             )}
