@@ -11,10 +11,28 @@ class TestTemplateController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
         try {
-            return response()->json(\App\Models\StudentTestTemplate::all());
+            $user = $request->user();
+            $student = $user ? $user->student : null;
+            
+            $templates = \App\Models\StudentTestTemplate::all();
+            
+            if ($student) {
+                foreach ($templates as $tpl) {
+                    // Manually find the latest result for THIS template for THIS student
+                    $latestResult = \App\Models\TestResult::where('student_id', $student->id)
+                        ->where('student_test_template_id', $tpl->id)
+                        ->latest()
+                        ->first();
+                    
+                    // Attach it to the template object
+                    $tpl->latest_result = $latestResult;
+                }
+            }
+            
+            return response()->json($templates);
         } catch (\Exception $e) {
             return response()->json([
                 'message' => 'Error fetching templates. The database might not be initialized.',
