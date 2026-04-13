@@ -555,8 +555,11 @@ const Dashboard = ({ onLogout, user }) => {
                                     <div className="loading-templates">Yuklanmoqda...</div>
                                 ) : templates.length > 0 ? (
                                     templates.map((tpl, i) => {
-                                        // Find latest result for this template
-                                        const latestResult = results.find(r => Number(r.test_template_id) === Number(tpl.id));
+                                        // Use eager-loaded latestResult from backend if available, otherwise search in results array
+                                        const latestResult = tpl.latest_result || results.find(r => 
+                                            (r.student_test_template_id && Number(r.student_test_template_id) === Number(tpl.id)) ||
+                                            (r.test_template_id && Number(r.test_template_id) === Number(tpl.id))
+                                        );
                                         const score = latestResult ? latestResult.score : 0;
                                         const correctCount = latestResult ? Math.round((score / 100) * 20) : 0;
                                         // Calculate stroke dash offset: 251.2 is full circle (2 * PI * 40)
