@@ -14,20 +14,27 @@ class TestTemplateController extends Controller
     public function index(Request $request)
     {
         try {
+            $templates = \App\Models\StudentTestTemplate::all();
             $student = $request->user()->student;
-            
-            $query = \App\Models\StudentTestTemplate::query();
-            
+
             if ($student) {
-                $query->with(['latestResult' => function($q) use ($student) {
-                    $q->where('student_id', $student->id);
-                }]);
+                // Fetch all results for this student for these templates, ordered by latest
+                $results = \App\Models\TestResult::where('student_id', $student->id)
+                    ->whereNotNull('student_test_template_id')
+                    ->latest()
+                    ->get()
+                    ->groupBy('student_test_template_id');
+
+                // Attach the latest result to each template
+                $templates->each(function ($tpl) use ($results) {
+                    $tpl->latest_result = $results->get($tpl->id)?->first();
+                });
             }
-            
-            return response()->json($query->get());
+
+            return response()->json($templates);
         } catch (\Exception $e) {
             return response()->json([
-                'message' => 'Error fetching templates. The database might not be initialized.',
+                'message' => 'Error fetching templates.',
                 'error' => $e->getMessage()
             ], 500);
         }

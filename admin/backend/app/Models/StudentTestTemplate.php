@@ -39,6 +39,6 @@ class StudentTestTemplate extends Model
 
     public function latestResult()
     {
-        return $this->hasOne(TestResult::class, 'student_test_template_id')->latestOfMany();
+        return $this->hasOne(TestResult::class, 'student_test_template_id')->latest();
     }
 }
