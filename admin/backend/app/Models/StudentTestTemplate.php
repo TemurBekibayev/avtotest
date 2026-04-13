@@ -36,9 +36,4 @@ class StudentTestTemplate extends Model
     {
         return $this->belongsToMany(ShablonQuestion::class, 'student_template_questions', 'template_id', 'question_id');
     }
-
-    public function latestResult()
-    {
-        return $this->hasOne(TestResult::class, 'student_test_template_id')->latest();
-    }
 }
