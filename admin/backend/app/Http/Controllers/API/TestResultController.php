@@ -80,14 +80,30 @@ class TestResultController extends Controller
 
         $passed = $request->score >= $passingScore;
 
-        $result = TestResult::create([
+        $data = [
             'student_id' => $student->id,
             'test_template_id' => $testTemplateId,
-            'student_test_template_id' => $studentTestTemplateId,
             'score' => $request->score,
             'passed' => $passed,
             'taken_at' => $request->taken_at ?? now(),
-        ]);
+        ];
+
+        // Only add student_test_template_id if it's set
+        if ($studentTestTemplateId) {
+            $data['student_test_template_id'] = $studentTestTemplateId;
+        }
+
+        try {
+            $result = TestResult::create($data);
+        } catch (\Exception $e) {
+            // If it fails with the new column, try saving without it as a fallback
+            if (isset($data['student_test_template_id'])) {
+                unset($data['student_test_template_id']);
+                $result = TestResult::create($data);
+            } else {
+                throw $e;
+            }
+        }
 
         return response()->json($result, 201);
     }
