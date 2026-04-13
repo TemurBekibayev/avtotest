@@ -11,13 +11,36 @@ class TestTemplateController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
         try {
-            return response()->json(\App\Models\StudentTestTemplate::all());
+            $templates = \App\Models\StudentTestTemplate::all();
+            $student = $request->user()->student;
+
+            if ($student) {
+                try {
+                    // Fetch all results for this student for these templates
+                    // We check if student_test_template_id exists to avoid crashes on older DB versions
+                    $results = \App\Models\TestResult::where('student_id', $student->id)
+                        ->whereNotNull('student_test_template_id')
+                        ->latest()
+                        ->get()
+                        ->groupBy('student_test_template_id');
+
+                    // Attach the latest result to each template
+                    $templates->each(function ($tpl) use ($results) {
+                        $tpl->latest_result = $results->get($tpl->id)?->first();
+                    });
+                } catch (\Exception $e) {
+                    // If the column is missing, we just ignore the results part to prevent 500 error
+                    \Log::info('TestResults missing student_test_template_id column. Run migrations.');
+                }
+            }
+
+            return response()->json($templates);
         } catch (\Exception $e) {
             return response()->json([
-                'message' => 'Error fetching templates. The database might not be initialized.',
+                'message' => 'Error fetching templates.',
                 'error' => $e->getMessage()
             ], 500);
         }

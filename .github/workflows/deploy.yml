@@ -55,8 +55,9 @@ jobs:
           server-dir: public_html/
           local-dir: Avto-maktab/dist/
           dangerous-clean-slate: false
-          timeout: 60000
-          port: 21
+          timeout: 90000
+          port: 22
+          protocol: sftp
 
       - name: Wait for connection to clear
         run: sleep 5
@@ -70,8 +71,9 @@ jobs:
           server-dir: public_html/admin/
           local-dir: admin/frontend/dist/
           dangerous-clean-slate: false
-          timeout: 60000
-          port: 21
+          timeout: 90000
+          port: 22
+          protocol: sftp
 
       - name: Wait for connection to clear
         run: sleep 5
@@ -85,8 +87,9 @@ jobs:
           server-dir: application/
           local-dir: admin/backend/
           dangerous-clean-slate: false
-          timeout: 90000
-          port: 21
+          timeout: 120000
+          port: 22
+          protocol: sftp
           exclude: |
             **/.git*
             **/.git*/**
