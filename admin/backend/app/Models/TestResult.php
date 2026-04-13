@@ -15,6 +15,10 @@ class TestResult extends Model
         'taken_at',
     ];
 
+    protected $appends = [
+        'template',
+    ];
+
     protected $casts = [
         'passed' => 'boolean',
         'taken_at' => 'datetime',
@@ -25,24 +29,21 @@ class TestResult extends Model
         return $this->belongsTo(Student::class);
     }
 
-    public function template()
-    {
-        return $this->originalTemplate() ?? $this->shablonTemplate();
-    }
+
 
     public function originalTemplate()
     {
-        return $this->belongsTo(TestTemplate::class, 'test_template_id')->first();
+        return $this->belongsTo(TestTemplate::class, 'test_template_id');
     }
 
     public function shablonTemplate()
     {
-        return $this->belongsTo(StudentTestTemplate::class, 'student_test_template_id')->first();
+        return $this->belongsTo(StudentTestTemplate::class, 'student_test_template_id');
     }
 
     // This allows $result->template to work as an attribute in JSON/Frontend
     public function getTemplateAttribute()
     {
-        return $this->originalTemplate() ?: $this->shablonTemplate();
+        return $this->originalTemplate ?: $this->shablonTemplate;
     }
 }

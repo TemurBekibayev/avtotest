@@ -15,7 +15,7 @@ class TestResultController extends Controller
     {
         $user = $request->user();
 
-        $query = TestResult::with(['student.group']);
+        $query = TestResult::with(['student.group', 'originalTemplate', 'shablonTemplate']);
 
         if ($user->role === 'admin') {
             return response()->json($query->latest()->paginate(20));
