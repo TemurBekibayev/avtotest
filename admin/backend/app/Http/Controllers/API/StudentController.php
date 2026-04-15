@@ -16,9 +16,15 @@ class StudentController extends Controller
     public function store(Request $request)
     {
         $validated = $request->validate([
-            'status' => 'nullable|in:active,inactive,graduated',
+            'full_name' => 'required|string|max:255',
+            'group_id' => 'required|exists:groups,id',
+            'organization_id' => 'nullable|integer',
+            'category' => 'required|string|max:50',
+            'phone' => 'required|string|max:50',
+            'address' => 'nullable|string',
+            'status' => 'nullable|in:active,inactive,graduated,debtor',
             'email' => 'nullable|email|unique:users,email',
-            'password' => 'nullable|string|min:6',
+            'password' => 'nullable|string|min:4',
         ]);
 
         // Create user account for student
@@ -51,7 +57,13 @@ class StudentController extends Controller
     public function update(Request $request, Student $student)
     {
         $validated = $request->validate([
-            'status' => 'sometimes|in:active,inactive,graduated',
+            'full_name' => 'sometimes|required|string|max:255',
+            'group_id' => 'sometimes|required|exists:groups,id',
+            'organization_id' => 'nullable|integer',
+            'category' => 'sometimes|required|string|max:50',
+            'phone' => 'sometimes|required|string|max:50',
+            'address' => 'nullable|string',
+            'status' => 'sometimes|in:active,inactive,graduated,debtor',
             'email' => 'nullable|email|unique:users,email,' . ($student->user_id ?: 0),
             'password' => 'nullable|string|min:4',
         ]);
