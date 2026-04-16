@@ -17,10 +17,10 @@ class StudentController extends Controller
     {
         $validated = $request->validate([
             'full_name' => 'required|string|max:255',
-            'group_id' => 'required|exists:groups,id',
+            'group_id' => 'required|exists:course_groups,id',
             'organization_id' => 'nullable|integer',
             'category' => 'required|string|max:50',
-            'phone' => 'required|string|max:50',
+            'phone' => 'required|string|max:50|unique:students,phone',
             'address' => 'nullable|string',
             'status' => 'nullable|in:active,inactive,graduated,debtor',
             'email' => 'nullable|email|unique:users,email',
@@ -29,7 +29,19 @@ class StudentController extends Controller
 
         // Create user account for student
         $plainPassword = $request->password ?: str_pad(rand(0, 999999), 6, '0', STR_PAD_LEFT);
-        $email = $request->email ?: $validated['phone'] . '@eavtotalim.uz';
+        
+        if ($request->filled('email')) {
+            $email = $request->email;
+        } else {
+            $cleanPhone = preg_replace('/[^a-zA-Z0-9]/', '', $validated['phone']);
+            $emailBase = $cleanPhone . '@eavtotalim.uz';
+            $email = $emailBase;
+            $count = 1;
+            while (\App\Models\User::where('email', $email)->exists()) {
+                $email = $cleanPhone . '_' . $count . '@eavtotalim.uz';
+                $count++;
+            }
+        }
         
         $user = \App\Models\User::create([
             'name' => $validated['full_name'],
@@ -58,10 +70,10 @@ class StudentController extends Controller
     {
         $validated = $request->validate([
             'full_name' => 'sometimes|required|string|max:255',
-            'group_id' => 'sometimes|required|exists:groups,id',
+            'group_id' => 'sometimes|required|exists:course_groups,id',
             'organization_id' => 'nullable|integer',
             'category' => 'sometimes|required|string|max:50',
-            'phone' => 'sometimes|required|string|max:50',
+            'phone' => 'sometimes|required|string|max:50|unique:students,phone,' . $student->id,
             'address' => 'nullable|string',
             'status' => 'sometimes|in:active,inactive,graduated,debtor',
             'email' => 'nullable|email|unique:users,email,' . ($student->user_id ?: 0),
