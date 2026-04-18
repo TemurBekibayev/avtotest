@@ -713,7 +713,7 @@ const Dashboard = ({ onLogout, user }) => {
                                                             {q.options?.map((opt, oIdx) => (
                                                                 <div
                                                                     key={opt.id}
-                                                                    className={`p-3 rounded-lg border ${opt.is_correct ? 'bg-emerald-50 border-emerald-200 text-emerald-800 font-medium' : 'bg-slate-50 border-slate-200 text-slate-700'}`} style={{ padding: '10px 20px' }}
+                                                                    className={`p-3 rounded-lg border ${(opt.is_correct === true || opt.is_correct === 1 || opt.is_correct === "1") ? 'bg-emerald-50 border-emerald-200 text-emerald-800 font-medium' : 'bg-slate-50 border-slate-200 text-slate-700'}`} style={{ padding: '10px 20px' }}
                                                                 >
                                                                     <span className="mr-3 font-bold opacity-60">{String.fromCharCode(65 + oIdx)})</span>
                                                                     {opt.option}

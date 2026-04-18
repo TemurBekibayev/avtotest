@@ -257,17 +257,19 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
                             {currentQuestion?.options.map((opt, idx) => {
                                 const isSelected = userAnswer?.optionId === opt.id;
                                 const optionTranslation = opt.translations?.find(t => t.language === lang)?.option || opt.option;
+                                const isCorrectOption = opt.is_correct === true || opt.is_correct === 1 || opt.is_correct === "1";
+                                
                                 let statusClasses = 'bg-white/5 border-white/10 hover:bg-white/10 hover:border-white/20 text-slate-200';
 
                                 if (isSelected) {
                                     if (settings?.instantFeedback) {
-                                        statusClasses = opt.is_correct
+                                        statusClasses = isCorrectOption
                                             ? 'bg-emerald-500/20 border-emerald-500 text-emerald-50 shadow-[0_0_20px_rgba(16,185,129,0.15)] ring-1 ring-emerald-500'
                                             : 'bg-red-500/20 border-red-500 text-red-50 shadow-[0_0_20px_rgba(239,68,68,0.15)] ring-1 ring-red-500';
                                     } else {
                                         statusClasses = 'bg-blue-600/20 border-blue-500 text-blue-50 shadow-[0_0_20px_rgba(59,130,246,0.15)] ring-1 ring-blue-500';
                                     }
-                                } else if (settings?.instantFeedback && userAnswer && opt.is_correct) {
+                                } else if (settings?.instantFeedback && userAnswer && isCorrectOption) {
                                     statusClasses = 'bg-emerald-500/10 border-emerald-500/50 text-emerald-200 opacity-90';
                                 }
 
@@ -277,7 +279,7 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
                                         className={`group flex items-center text-left p-6 rounded-2xl border-2 transition-all duration-300 ${statusClasses} hover:-translate-y-1 active:translate-y-0 shadow-md`}
                                         onClick={() => handleSelectOption(opt.id)}
                                     >
-                                        <div className={`w-12 h-12 rounded-xl flex items-center justify-center font-black text-xl mr-6 shrink-0 shadow-inner transition-all ${isSelected ? (settings?.instantFeedback ? (opt.is_correct ? 'bg-emerald-500 text-white' : 'bg-red-500 text-white') : 'bg-blue-500 text-white') : 'bg-slate-800 text-slate-400 group-hover:bg-slate-700 border border-white/5'}`}>
+                                        <div className={`w-12 h-12 rounded-xl flex items-center justify-center font-black text-xl mr-6 shrink-0 shadow-inner transition-all ${isSelected ? (settings?.instantFeedback ? (isCorrectOption ? 'bg-emerald-500 text-white' : 'bg-red-500 text-white') : 'bg-blue-500 text-white') : (settings?.instantFeedback && userAnswer && isCorrectOption ? 'bg-emerald-500 text-white' : 'bg-slate-800 text-slate-400 group-hover:bg-slate-700 border border-white/5')}`}>
                                             {String.fromCharCode(65 + idx)}
                                         </div>
                                         <div className="text-xl lg:text-2xl font-bold leading-snug">{optionTranslation}</div>
