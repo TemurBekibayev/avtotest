@@ -23,7 +23,7 @@ class StudentController extends Controller
             'phone' => 'required|string|max:50|unique:students,phone',
             'address' => 'nullable|string',
             'status' => 'nullable|in:active,inactive,graduated,debtor',
-            'email' => 'nullable|email|unique:users,email',
+            'email' => 'nullable|string|unique:users,email',
             'password' => 'nullable|string|min:4',
         ]);
 
@@ -76,7 +76,7 @@ class StudentController extends Controller
             'phone' => 'sometimes|required|string|max:50|unique:students,phone,' . $student->id,
             'address' => 'nullable|string',
             'status' => 'sometimes|in:active,inactive,graduated,debtor',
-            'email' => 'nullable|email|unique:users,email,' . ($student->user_id ?: 0),
+            'email' => 'nullable|string|unique:users,email,' . ($student->user_id ?: 0),
             'password' => 'nullable|string|min:4',
         ]);
 

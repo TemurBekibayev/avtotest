@@ -18,8 +18,8 @@ const Login = () => {
             });
 
             // Assuming token is in response.data.token
-            localStorage.setItem('token', response.data.token);
-            localStorage.setItem('user', JSON.stringify(response.data.user));
+            sessionStorage.setItem('token', response.data.token);
+            sessionStorage.setItem('user', JSON.stringify(response.data.user));
 
             message.success('Muvaffaqiyatli tizimga kirdingiz!');
             navigate('/dashboard');
@@ -49,13 +49,12 @@ const Login = () => {
                 <Form.Item
                     name="email"
                     rules={[
-                        { required: true, message: 'Iltimos emailingizni kiriting!' },
-                        { type: 'email', message: 'Yaroqli email kiriting!' }
+                        { required: true, message: 'Iltimos loginingizni kiriting!' }
                     ]}
                 >
                     <Input
                         prefix={<User size={18} className="text-slate-400 mr-2" />}
-                        placeholder="Admin Email manzili"
+                        placeholder="Admin Login"
                         className="rounded-lg"
                     />
                 </Form.Item>

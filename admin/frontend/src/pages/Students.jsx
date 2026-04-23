@@ -372,10 +372,10 @@ const Students = () => {
                         <div className="grid grid-cols-2 gap-4">
                             <Form.Item
                                 name="email"
-                                label="Login (Email)"
+                                label="Login (Username yoki Email)"
                                 extra="Bo'sh qolsa avtomatik yaratiladi"
                             >
-                                <Input placeholder="student@example.com" />
+                                <Input placeholder="Masalan: avto123" />
                             </Form.Item>
 
                             <Form.Item

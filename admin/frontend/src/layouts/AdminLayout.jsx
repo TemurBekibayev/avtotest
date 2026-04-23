@@ -24,12 +24,12 @@ const AdminLayout = () => {
 
     // Check auth on load
     useEffect(() => {
-        const token = localStorage.getItem('token');
-        const user = JSON.parse(localStorage.getItem('user') || '{}');
+        const token = sessionStorage.getItem('token');
+        const user = JSON.parse(sessionStorage.getItem('user') || '{}');
         
         if (!token || user.role !== 'admin') {
-            localStorage.removeItem('token');
-            localStorage.removeItem('user');
+            sessionStorage.removeItem('token');
+            sessionStorage.removeItem('user');
             navigate('/login');
         }
     }, [navigate]);
@@ -40,8 +40,8 @@ const AdminLayout = () => {
         } catch (error) {
             console.error('Logout error:', error);
         } finally {
-            localStorage.removeItem('token');
-            localStorage.removeItem('user');
+            sessionStorage.removeItem('token');
+            sessionStorage.removeItem('user');
             navigate('/login');
         }
     };
@@ -140,10 +140,10 @@ const AdminLayout = () => {
                         <Dropdown menu={userMenuSettings} trigger={['click']} placement="bottomRight">
                             <button className="flex items-center space-x-2 p-1 pr-2 rounded-full hover:bg-slate-50 border border-slate-100 transition-colors">
                                 <div className="w-8 h-8 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold text-sm uppercase">
-                                    {JSON.parse(localStorage.getItem('user') || '{}')?.name?.substring(0, 2) || 'AD'}
+                                    {JSON.parse(sessionStorage.getItem('user') || '{}')?.name?.substring(0, 2) || 'AD'}
                                 </div>
                                 <span className="text-sm font-medium text-slate-700 hidden sm:block">
-                                    {JSON.parse(localStorage.getItem('user') || '{}')?.name || 'Admin User'}
+                                    {JSON.parse(sessionStorage.getItem('user') || '{}')?.name || 'Admin User'}
                                 </span>
                             </button>
                         </Dropdown>
