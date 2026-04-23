@@ -28,18 +28,14 @@ class StudentController extends Controller
         ]);
 
         // Create user account for student
-        $plainPassword = $request->password ?: str_pad(rand(0, 999999), 6, '0', STR_PAD_LEFT);
+        $plainPassword = $request->password ?: 'usrp_' . str_pad(rand(0, 999999), 6, '0', STR_PAD_LEFT);
         
         if ($request->filled('email')) {
             $email = $request->email;
         } else {
-            $cleanPhone = preg_replace('/[^a-zA-Z0-9]/', '', $validated['phone']);
-            $emailBase = $cleanPhone . '@eavtotalim.uz';
-            $email = $emailBase;
-            $count = 1;
+            $email = 'usrl_' . str_pad(rand(0, 99999999), 8, '0', STR_PAD_LEFT);
             while (\App\Models\User::where('email', $email)->exists()) {
-                $email = $cleanPhone . '_' . $count . '@eavtotalim.uz';
-                $count++;
+                $email = 'usrl_' . str_pad(rand(0, 99999999), 8, '0', STR_PAD_LEFT);
             }
         }
         
