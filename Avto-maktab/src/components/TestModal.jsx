@@ -241,10 +241,10 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
             <main className="flex-1 flex flex-col overflow-hidden bg-slate-950">
                 {/* Top Section: Question Title (Centered) */}
                 <div className="w-full bg-slate-900 border-b border-slate-800 p-6 lg:p-8 flex flex-col items-center text-center shadow-lg relative z-10">
-                    <div className="inline-flex text-blue-400 font-black px-6 py-2 text-sm uppercase tracking-[0.2em] mb-4">
+                    <div className="inline-flex text-blue-400 font-black px-4 py-1.5 lg:px-6 lg:py-2 text-xs lg:text-sm uppercase tracking-[0.2em] mb-4">
                         {currentIndex + 1}-SAVOL
                     </div>
-                    <h2 className="text-2xl lg:text-4xl font-black text-white leading-tight max-w-5xl">
+                    <h2 className="text-lg lg:text-3xl font-black text-white leading-tight max-w-5xl">
                         {translation?.question}
                     </h2>
                 </div>
@@ -276,13 +276,13 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
                                 return (
                                     <button
                                         key={opt.id}
-                                        className={`group flex items-center text-left p-6 rounded-2xl border-2 transition-all duration-300 ${statusClasses} hover:-translate-y-1 active:translate-y-0 shadow-md`}
+                                        className={`group flex items-center text-left p-4 lg:p-6 rounded-2xl border-2 transition-all duration-300 ${statusClasses} hover:-translate-y-1 active:translate-y-0 shadow-md`}
                                         onClick={() => handleSelectOption(opt.id)}
                                     >
-                                        <div className={`w-12 h-12 rounded-xl flex items-center justify-center font-black text-xl mr-6 shrink-0 shadow-inner transition-all ${isSelected ? (settings?.instantFeedback ? (isCorrectOption ? 'bg-emerald-500 text-white' : 'bg-red-500 text-white') : 'bg-blue-500 text-white') : (settings?.instantFeedback && userAnswer && isCorrectOption ? 'bg-emerald-500 text-white' : 'bg-slate-800 text-slate-400 group-hover:bg-slate-700 border border-white/5')}`}>
+                                        <div className={`w-10 h-10 lg:w-12 lg:h-12 rounded-xl flex items-center justify-center font-black text-base lg:text-xl mr-4 lg:mr-6 shrink-0 shadow-inner transition-all ${isSelected ? (settings?.instantFeedback ? (isCorrectOption ? 'bg-emerald-500 text-white' : 'bg-red-500 text-white') : 'bg-blue-500 text-white') : (settings?.instantFeedback && userAnswer && isCorrectOption ? 'bg-emerald-500 text-white' : 'bg-slate-800 text-slate-400 group-hover:bg-slate-700 border border-white/5')}`}>
                                             {String.fromCharCode(65 + idx)}
                                         </div>
-                                        <div className="text-xl lg:text-2xl font-bold leading-snug">{optionTranslation}</div>
+                                        <div className="text-base lg:text-xl font-bold leading-snug">{optionTranslation}</div>
                                     </button>
                                 );
                             })}
