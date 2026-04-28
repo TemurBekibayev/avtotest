@@ -11,6 +11,10 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
     const [answers, setAnswers] = useState({}); // { questionId: { optionId, isCorrect, clickedAt } }
     const [timeLeft, setTimeLeft] = useState((template.duration_minutes || 25) * 60);
     const [submitting, setSubmitting] = useState(false);
+    const [textScale, setTextScale] = useState(1);
+
+    const handleZoomIn = () => setTextScale(prev => Math.min(prev + 0.2, 2.0));
+    const handleZoomOut = () => setTextScale(prev => Math.max(prev - 0.2, 0.6));
 
     const backendUrl = 'https://api.amudaryoavtotest.uz';
     const lang = settings?.language || 'uz';
@@ -222,19 +226,39 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
                     <span className="text-xl font-mono font-bold text-white tracking-widest">{formatTime(timeLeft)}</span>
                 </div>
 
-                <button
-                    onClick={handleSubmit}
-                    disabled={submitting}
-                    className="bg-red-600 hover:bg-red-500 disabled:bg-red-600/50 text-white font-bold transition-all shadow-[0_0_15px_rgba(220,38,38,0.3)] hover:shadow-[0_0_20px_rgba(220,38,38,0.5)] flex items-center gap-2 border border-red-500 hover:-translate-y-0.5"
-                    style={{ padding: '10px 24px', borderRadius: '8px' }}
-                >
-                    {submitting ? (
-                        <Clock className="animate-spin" size={20} />
-                    ) : (
-                        <CheckCircle2 size={20} />
-                    )}
-                    IMTIHONNI YAKUNLASH
-                </button>
+                <div className="flex items-center gap-4">
+                    <div className="flex items-center bg-slate-800 rounded-lg p-1 border border-slate-700">
+                        <button
+                            onClick={handleZoomOut}
+                            className="p-2 text-slate-400 hover:text-white hover:bg-slate-700 rounded transition-all"
+                            title="Kichraytirish"
+                        >
+                            <span className="text-lg font-bold">A-</span>
+                        </button>
+                        <div className="w-px h-6 bg-slate-700 mx-1"></div>
+                        <button
+                            onClick={handleZoomIn}
+                            className="p-2 text-slate-400 hover:text-white hover:bg-slate-700 rounded transition-all"
+                            title="Kattalashtirish"
+                        >
+                            <span className="text-lg font-bold">A+</span>
+                        </button>
+                    </div>
+
+                    <button
+                        onClick={handleSubmit}
+                        disabled={submitting}
+                        className="bg-red-600 hover:bg-red-500 disabled:bg-red-600/50 text-white font-bold transition-all shadow-[0_0_15px_rgba(220,38,38,0.3)] hover:shadow-[0_0_20px_rgba(220,38,38,0.5)] flex items-center gap-2 border border-red-500 hover:-translate-y-0.5"
+                        style={{ padding: '10px 24px', borderRadius: '8px' }}
+                    >
+                        {submitting ? (
+                            <Clock className="animate-spin" size={20} />
+                        ) : (
+                            <CheckCircle2 size={20} />
+                        )}
+                        IMTIHONNI YAKUNLASH
+                    </button>
+                </div>
             </header>
 
             {/* Main Content */}
@@ -244,7 +268,7 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
                     <div className="inline-flex text-blue-400 font-black px-4 py-1.5 lg:px-6 lg:py-2 text-xs lg:text-sm uppercase tracking-[0.2em] mb-4">
                         {currentIndex + 1}-SAVOL
                     </div>
-                    <h2 className="text-lg lg:text-3xl font-black text-white leading-tight max-w-5xl">
+                    <h2 className="font-black text-white leading-tight max-w-5xl" style={{ fontSize: `calc(clamp(1.125rem, 2.5vw, 1.875rem) * ${textScale})` }}>
                         {translation?.question}
                     </h2>
                 </div>
@@ -282,7 +306,7 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
                                         <div className={`w-10 h-10 lg:w-12 lg:h-12 rounded-xl flex items-center justify-center font-black text-base lg:text-xl mr-4 lg:mr-6 shrink-0 shadow-inner transition-all ${isSelected ? (settings?.instantFeedback ? (isCorrectOption ? 'bg-emerald-500 text-white' : 'bg-red-500 text-white') : 'bg-blue-500 text-white') : (settings?.instantFeedback && userAnswer && isCorrectOption ? 'bg-emerald-500 text-white' : 'bg-slate-800 text-slate-400 group-hover:bg-slate-700 border border-white/5')}`}>
                                             {String.fromCharCode(65 + idx)}
                                         </div>
-                                        <div className="text-base lg:text-xl font-bold leading-snug">{optionTranslation}</div>
+                                        <div className="font-bold leading-snug" style={{ fontSize: `calc(clamp(1rem, 2vw, 1.25rem) * ${textScale})` }}>{optionTranslation}</div>
                                     </button>
                                 );
                             })}
