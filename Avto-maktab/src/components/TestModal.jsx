@@ -230,7 +230,8 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
                     <div className="flex items-center bg-slate-800 rounded-lg p-1 border border-slate-700">
                         <button
                             onClick={handleZoomOut}
-                            className="px-4 py-2 text-slate-400 hover:text-white hover:bg-slate-700 rounded transition-all"
+                            className="text-slate-400 hover:text-white hover:bg-slate-700 rounded transition-all flex items-center justify-center"
+                            style={{ padding: '8px 16px' }}
                             title="Kichraytirish"
                         >
                             <span className="text-lg font-bold">A-</span>
@@ -238,7 +239,8 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
                         <div className="w-px h-6 bg-slate-700 mx-1"></div>
                         <button
                             onClick={handleZoomIn}
-                            className="px-4 py-2 text-slate-400 hover:text-white hover:bg-slate-700 rounded transition-all"
+                            className="text-slate-400 hover:text-white hover:bg-slate-700 rounded transition-all flex items-center justify-center"
+                            style={{ padding: '8px 16px' }}
                             title="Kattalashtirish"
                         >
                             <span className="text-lg font-bold">A+</span>
