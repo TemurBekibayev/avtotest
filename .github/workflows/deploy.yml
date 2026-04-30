@@ -85,6 +85,6 @@ jobs:
             **/.git*
             **/.git*/**
             **/node_modules/**
-            **/tests/**
+            tests/**
             **/.idea/**
             **/*.log

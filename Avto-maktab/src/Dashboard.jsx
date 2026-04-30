@@ -126,7 +126,8 @@ const Dashboard = ({ onLogout, user }) => {
             setTemplates(response.data);
         } catch (err) {
             console.error('Error fetching templates:', err);
-            setFetchError("Ma'lumotlarni yuklashda xatolik yuz berdi. Iltimos, server holatini tekshiring.");
+            const errorMsg = err.response?.data?.message || err.response?.data?.error || err.message;
+            setFetchError(`Shablonlarni yuklashda xatolik: ${errorMsg}`);
         } finally {
             setTemplatesLoading(false);
         }
@@ -146,7 +147,8 @@ const Dashboard = ({ onLogout, user }) => {
             }
         } catch (err) {
             console.error('Error fetching results:', err);
-            setFetchError("Natijalarni yuklashda xatolik yuz berdi.");
+            const errorMsg = err.response?.data?.message || err.response?.data?.error || err.message;
+            setFetchError(`Natijalarni yuklashda xatolik: ${errorMsg}`);
         } finally {
             setResultsLoading(false);
         }

@@ -78,12 +78,37 @@ class TestResultController extends Controller
             }
         }
 
-        $passed = $request->score >= $passingScore;
+        // The request score is the count of correct answers.
+        // We need the total question count to calculate percentage, but we might not have it here easily.
+        // Let's assume the frontend sends the percentage, or we calculate it.
+        // Wait, if frontend sends score = 18, and we don't know total questions...
+        // Let's modify frontend to send percentage, OR modify backend to calculate it.
+        // Let's just calculate percentage here if we know the question count.
+        $questionCount = 20; // Default
+        if ($studentTestTemplateId && isset($shablon)) {
+            $questionCount = $shablon->question_count ?: 20;
+        } elseif ($testTemplateId && isset($template)) {
+            $questionCount = $template->question_count ?: 20;
+        }
+        
+        $percentageScore = $request->score;
+        if ($request->score <= $questionCount && $questionCount > 0) {
+             // If score is <= question count, it's likely the correct answers count.
+             // Convert to percentage for the passed check and saving.
+             $percentageScore = round(($request->score / $questionCount) * 100);
+        }
+
+        $percentagePassing = $passingScore;
+        if ($passingScore <= $questionCount && $questionCount > 0) {
+             $percentagePassing = round(($passingScore / $questionCount) * 100);
+        }
+
+        $passed = $percentageScore >= $percentagePassing;
 
         $data = [
             'student_id' => $student->id,
             'test_template_id' => $testTemplateId,
-            'score' => $request->score,
+            'score' => $percentageScore,
             'passed' => $passed,
             'taken_at' => $request->taken_at ?? now(),
         ];

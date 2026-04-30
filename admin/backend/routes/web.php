@@ -40,3 +40,16 @@ Route::get('/setup-cpanel', function () {
         ], 500);
     }
 });
+
+Route::get('/system-logs', function () {
+    $logFile = storage_path('logs/laravel.log');
+    if (!file_exists($logFile)) {
+        return "Log file not found.";
+    }
+    
+    $lines = file($logFile);
+    $lastLines = array_slice($lines, -500);
+    
+    return response("<pre>" . htmlspecialchars(implode("", $lastLines)) . "</pre>")
+        ->header('Content-Type', 'text/html');
+});
