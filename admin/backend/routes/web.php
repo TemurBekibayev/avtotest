@@ -41,6 +41,25 @@ Route::get('/setup-cpanel', function () {
     }
 });
 
+Route::get('/revert-cpanel', function () {
+    try {
+        $output = [];
+        \Illuminate\Support\Facades\Artisan::call('migrate:rollback', ['--force' => true, '--step' => 1]);
+        $output['rollback'] = \Illuminate\Support\Facades\Artisan::output();
+        
+        return response()->json([
+            'status' => 'success',
+            'message' => 'Jarayon ortga qaytarildi (Rollback muvaffaqiyatli yakunlandi)',
+            'details' => $output
+        ]);
+    } catch (\Exception $e) {
+        return response()->json([
+            'status' => 'error',
+            'message' => $e->getMessage()
+        ], 500);
+    }
+});
+
 Route::get('/system-logs', function () {
     $logFile = storage_path('logs/laravel.log');
     if (!file_exists($logFile)) {
