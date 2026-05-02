@@ -123,7 +123,10 @@ class TestResultController extends Controller
         } catch (\Exception $e) {
             // If it fails with the new column, try saving without it as a fallback
             if (isset($data['student_test_template_id'])) {
+                $shablonId = $data['student_test_template_id'];
                 unset($data['student_test_template_id']);
+                // Workaround: save shablon ID into test_template_id since the column is missing
+                $data['test_template_id'] = $shablonId;
                 $result = TestResult::create($data);
             } else {
                 throw $e;
