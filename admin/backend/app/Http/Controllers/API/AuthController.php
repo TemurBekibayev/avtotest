@@ -70,11 +70,12 @@ class AuthController extends Controller
         // 1 soatdan ortiq aktiv bo'lmagan sessiyalarni tozalash
         $user->tokens()->where('last_used_at', '<', now()->subHours(1))->delete();
 
-        // Agar mavjud aktiv sessiyalar 2 yoki undan ko'p bo'lsa, loginni rad etish
+        // Agar mavjud aktiv sessiyalar 2 yoki undan ko'p bo'lsa, eng eskisini o'chiramiz (yangi sessiyaga joy bo'shatish)
         if ($user->tokens()->count() >= 2) {
-            throw ValidationException::withMessages([
-                'email' => ['Bir vaqtning o\'zida faqatgina 2 ta sessiyaga ruxsat beriladi.'],
-            ]);
+            $latestToken = $user->tokens()->orderBy('last_used_at', 'desc')->first();
+            if ($latestToken) {
+                $user->tokens()->where('id', '!=', $latestToken->id)->delete();
+            }
         }
 
         $token = $user->createToken('auth_token')->plainTextToken;

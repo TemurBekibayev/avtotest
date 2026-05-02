@@ -22,13 +22,26 @@ class TestTemplateController extends Controller
             if ($student) {
                 foreach ($templates as $tpl) {
                     // Manually find the latest result for THIS template for THIS student
-                    $latestResult = \App\Models\TestResult::where('student_id', $student->id)
-                        ->where('student_test_template_id', $tpl->id)
-                        ->latest()
-                        ->first();
-                    
-                    // Attach it to the template object
-                    $tpl->latest_result = $latestResult;
+                    try {
+                        $latestResult = \App\Models\TestResult::where('student_id', $student->id)
+                            ->where('student_test_template_id', $tpl->id)
+                            ->latest()
+                            ->first();
+                        
+                        // Attach it to the template object
+                        $tpl->latest_result = $latestResult;
+                    } catch (\Exception $e) {
+                        // Fallback if student_test_template_id column doesn't exist (e.g. after rollback)
+                        try {
+                            $latestResult = \App\Models\TestResult::where('student_id', $student->id)
+                                ->where('test_template_id', $tpl->id)
+                                ->latest()
+                                ->first();
+                            $tpl->latest_result = $latestResult;
+                        } catch (\Exception $e2) {
+                            $tpl->latest_result = null;
+                        }
+                    }
                 }
             }
             
