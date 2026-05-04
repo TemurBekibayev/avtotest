@@ -118,19 +118,20 @@ class TestResultController extends Controller
             $data['student_test_template_id'] = $studentTestTemplateId;
         }
 
+        // Ensure the student_test_template_id column exists
+        if ($studentTestTemplateId && !\Illuminate\Support\Facades\Schema::hasColumn('test_results', 'student_test_template_id')) {
+            \Illuminate\Support\Facades\Schema::table('test_results', function (\Illuminate\Database\Schema\Blueprint $table) {
+                $table->unsignedBigInteger('student_test_template_id')->nullable();
+                // Optionally add foreign key, but since user had issues with migrations, we just add the column
+            });
+        }
+
         try {
             $result = TestResult::create($data);
         } catch (\Exception $e) {
-            // If it fails with the new column, try saving without it as a fallback
-            if (isset($data['student_test_template_id'])) {
-                $shablonId = $data['student_test_template_id'];
-                unset($data['student_test_template_id']);
-                // Workaround: save shablon ID into test_template_id since the column is missing
-                $data['test_template_id'] = $shablonId;
-                $result = TestResult::create($data);
-            } else {
-                throw $e;
-            }
+            // If it still fails, log it and return error instead of wrong fallback
+            \Illuminate\Support\Facades\Log::error('Error saving test result: ' . $e->getMessage());
+            return response()->json(['message' => 'Natijani saqlashda xatolik yuz berdi.', 'error' => $e->getMessage()], 500);
         }
 
         return response()->json($result, 201);

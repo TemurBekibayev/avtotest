@@ -19,6 +19,9 @@ class ShablonQuestion extends Model
 
     public function getQuestionFileAttribute()
     {
+        if ($this->image_path && str_contains($this->image_path, '/test_files/img/newtest_questions/')) {
+            return str_replace('/test_files/img/newtest_questions/', '/storage/tests/extra-images/', $this->image_path);
+        }
         return $this->image_path;
     }
 
