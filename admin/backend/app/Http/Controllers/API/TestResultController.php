@@ -78,12 +78,6 @@ class TestResultController extends Controller
             }
         }
 
-        // The request score is the count of correct answers.
-        // We need the total question count to calculate percentage, but we might not have it here easily.
-        // Let's assume the frontend sends the percentage, or we calculate it.
-        // Wait, if frontend sends score = 18, and we don't know total questions...
-        // Let's modify frontend to send percentage, OR modify backend to calculate it.
-        // Let's just calculate percentage here if we know the question count.
         $questionCount = 20; // Default
         if ($studentTestTemplateId && isset($shablon)) {
             $questionCount = $shablon->question_count ?: 20;
@@ -91,13 +85,19 @@ class TestResultController extends Controller
             $questionCount = $template->question_count ?: 20;
         }
         
-        $percentageScore = $request->score;
-        if ($request->score <= $questionCount && $questionCount > 0) {
-             // If score is <= question count, it's likely the correct answers count.
-             // Convert to percentage for the passed check and saving.
-             $percentageScore = round(($request->score / $questionCount) * 100);
+        // The Web app sends 'taken_at' and sends 'score' as a percentage (e.g. 100, 20).
+        // The Mobile app does not send 'taken_at' and sends 'score' as the count of correct answers.
+        if ($request->has('taken_at')) {
+            $percentageScore = $request->score;
+        } else {
+            $percentageScore = $request->score;
+            if ($questionCount > 0) {
+                $percentageScore = round(($request->score / $questionCount) * 100);
+            }
         }
 
+        // Passing score is usually stored as a raw count or a percentage.
+        // If passing_score <= questionCount, we assume it's a raw count.
         $percentagePassing = $passingScore;
         if ($passingScore <= $questionCount && $questionCount > 0) {
              $percentagePassing = round(($passingScore / $questionCount) * 100);

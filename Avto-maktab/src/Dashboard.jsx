@@ -563,7 +563,7 @@ const Dashboard = ({ onLogout, user }) => {
                                             (r.test_template_id && Number(r.test_template_id) === Number(tpl.id))
                                         );
                                         const score = latestResult ? latestResult.score : 0;
-                                        const correctCount = latestResult ? Math.round((score / 100) * 20) : 0;
+                                        const correctCount = latestResult ? Math.round((score / 100) * (tpl.question_count || 20)) : 0;
                                         // Calculate stroke dash offset: 251.2 is full circle (2 * PI * 40)
                                         const offset = 251.2 - (score / 100) * 251.2;
 
