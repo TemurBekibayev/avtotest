@@ -13,6 +13,8 @@ use App\Http\Controllers\API\TrafficSignController;
 use App\Http\Controllers\API\RoadSignController;
 use App\Http\Controllers\API\InstructorController;
 use App\Http\Controllers\API\DashboardController;
+use App\Http\Controllers\API\ShablonController;
+
 
 
 /* |-------------------------------------------------------------------------- | API Routes |-------------------------------------------------------------------------- */
@@ -47,6 +49,14 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::get('/test-questions/random', [TestQuestionController::class , 'random']);
     Route::apiResource('test-questions', TestQuestionController::class);
     Route::get('/traffic-signs', [TrafficSignController::class, 'index']);
+
+    // Shablon management routes
+    Route::get('/shablons', [ShablonController::class, 'index']);
+    Route::post('/shablons/import-json', [ShablonController::class, 'importJson']);
+    Route::get('/shablons/{id}', [ShablonController::class, 'show']);
+    Route::put('/shablons/{id}', [ShablonController::class, 'update']);
+    Route::put('/shablons/questions/{id}', [ShablonController::class, 'updateQuestion']);
+
 
     Route::apiResource('instructors', InstructorController::class);
 

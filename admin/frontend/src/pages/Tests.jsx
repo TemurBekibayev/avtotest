@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { Card, Table, Tag, Button, Progress, message, Tabs, Input, Image, Space, Modal, Form, Radio, Select } from 'antd';
+import { Card, Table, Tag, Button, Progress, message, Tabs, Input, Image, Space, Modal, Form, Radio, Select, Upload } from 'antd';
 import { Plus, CheckCircle2, XCircle, Search, Eye, Languages, Image as ImageIcon, Video, UploadCloud } from 'lucide-react';
 import api from '../api/axios';
 
@@ -32,6 +32,200 @@ const Tests = () => {
     const [isTemplateModalVisible, setIsTemplateModalVisible] = useState(false);
     const [templateForm] = Form.useForm();
     const [templateSubmitting, setTemplateSubmitting] = useState(false);
+
+    // Shablon State
+    const [shablons, setShablons] = useState([]);
+    const [shablonsLoading, setShablonsLoading] = useState(false);
+    const [selectedShablon, setSelectedShablon] = useState(null);
+    const [shablonQuestions, setShablonQuestions] = useState([]);
+    const [shablonQuestionsLoading, setShablonQuestionsLoading] = useState(false);
+    
+    // Shablon Edit State
+    const [isShablonEditModalVisible, setIsShablonEditModalVisible] = useState(false);
+    const [shablonEditForm] = Form.useForm();
+    const [shablonEditSubmitting, setShablonEditSubmitting] = useState(false);
+    
+    // Question Edit State
+    const [isQuestionEditModalVisible, setIsQuestionEditModalVisible] = useState(false);
+    const [questionEditForm] = Form.useForm();
+    const [questionEditSubmitting, setQuestionEditSubmitting] = useState(false);
+    const [editingQuestion, setEditingQuestion] = useState(null);
+    
+    // JSON Import State
+    const [isImportModalVisible, setIsImportModalVisible] = useState(false);
+    const [importForm] = Form.useForm();
+    const [importSubmitting, setImportSubmitting] = useState(false);
+
+    const fetchShablons = async () => {
+        try {
+            setShablonsLoading(true);
+            const response = await api.get('/shablons');
+            setShablons(response.data);
+        } catch (error) {
+            message.error('Shablonlarni yuklashda xatolik yuz berdi');
+        } finally {
+            setShablonsLoading(false);
+        }
+    };
+
+    const fetchShablonDetails = async (id) => {
+        try {
+            setShablonQuestionsLoading(true);
+            const response = await api.get(`/shablons/${id}`);
+            setSelectedShablon(response.data);
+            setShablonQuestions(response.data.questions || []);
+        } catch (error) {
+            message.error('Shablon savollarini yuklashda xatolik yuz berdi');
+        } finally {
+            setShablonQuestionsLoading(false);
+        }
+    };
+
+    const handleShablonEditSubmit = async () => {
+        try {
+            const values = await shablonEditForm.validateFields();
+            setShablonEditSubmitting(true);
+            await api.put(`/shablons/${selectedShablon.id}`, values);
+            message.success('Shablon muvaffaqiyatli tahrirlandi');
+            setIsShablonEditModalVisible(false);
+            fetchShablonDetails(selectedShablon.id);
+            fetchShablons();
+        } catch (error) {
+            message.error(error.response?.data?.message || 'Xatolik yuz berdi');
+        } finally {
+            setShablonEditSubmitting(false);
+        }
+    };
+
+    const handleImportSubmit = async () => {
+        try {
+            setImportSubmitting(true);
+            const formData = new FormData();
+            
+            const uzFileList = importForm.getFieldValue('uz_file');
+            const ruFileList = importForm.getFieldValue('ru_file');
+            const kirilFileList = importForm.getFieldValue('kiril_file');
+            
+            const uzFile = uzFileList?.[0]?.originFileObj;
+            const ruFile = ruFileList?.[0]?.originFileObj;
+            const kirilFile = kirilFileList?.[0]?.originFileObj;
+            
+            if (uzFile) formData.append('uz_file', uzFile);
+            if (ruFile) formData.append('ru_file', ruFile);
+            if (kirilFile) formData.append('kiril_file', kirilFile);
+            
+            if (!uzFile && !ruFile && !kirilFile) {
+                throw new Error("Kamida bitta JSON fayl yuklanishi shart!");
+            }
+            
+            const response = await api.post('/shablons/import-json', formData, {
+                headers: { 'Content-Type': 'multipart/form-data' }
+            });
+            
+            message.success(response.data.message || 'Muvaffaqiyatli import qilindi');
+            setIsImportModalVisible(false);
+            importForm.resetFields();
+            fetchShablons();
+        } catch (error) {
+            message.error(error.response?.data?.message || error.message || 'Xatolik yuz berdi');
+        } finally {
+            setImportSubmitting(false);
+        }
+    };
+
+    const handleQuestionEditSubmit = async () => {
+        try {
+            const values = await questionEditForm.validateFields();
+            setQuestionEditSubmitting(true);
+            
+            const formattedOptions = [1, 2, 3, 4].map(num => {
+                const optId = values[`opt${num}_id`];
+                return {
+                    id: optId,
+                    is_correct: values.correct_option === num,
+                    translations: [
+                        { language: 'uz-lat', option_text: values[`opt${num}_uz`] },
+                        { language: 'ru', option_text: values[`opt${num}_ru`] || '' },
+                        { language: 'uz-cyr', option_text: values[`opt${num}_kiril`] || '' }
+                    ]
+                };
+            });
+            
+            const payload = {
+                image_path: values.image_path,
+                translations: [
+                    { language: 'uz-lat', question_text: values.question_uz },
+                    { language: 'ru', question_text: values.question_ru || '' },
+                    { language: 'uz-cyr', question_text: values.question_kiril || '' }
+                ],
+                options: formattedOptions,
+                answers: [
+                    { language: 'uz-lat', description: values.answer_description_uz || '', video_path: values.answer_resource_uz || null },
+                    { language: 'ru', description: values.answer_description_ru || '', video_path: values.answer_resource_ru || null },
+                    { language: 'uz-cyr', description: values.answer_description_kiril || '', video_path: values.answer_resource_kiril || null }
+                ]
+            };
+            
+            await api.put(`/shablons/questions/${editingQuestion.id}`, payload);
+            message.success("Savol muvaffaqiyatli tahrirlandi!");
+            setIsQuestionEditModalVisible(false);
+            fetchShablonDetails(selectedShablon.id);
+        } catch (error) {
+            message.error(error.response?.data?.message || 'Xatolik yuz berdi');
+        } finally {
+            setQuestionEditSubmitting(false);
+        }
+    };
+
+    const openQuestionEditModal = (q) => {
+        setEditingQuestion(q);
+        
+        const uzTrans = q.translations?.find(t => t.language === 'uz-lat' || t.language === 'uz');
+        const ruTrans = q.translations?.find(t => t.language === 'ru');
+        const kirilTrans = q.translations?.find(t => t.language === 'uz-cyr' || t.language === 'kiril');
+        
+        const uzAns = q.answers?.find(a => a.language === 'uz-lat' || a.language === 'uz');
+        const ruAns = q.answers?.find(a => a.language === 'ru');
+        const kirilAns = q.answers?.find(a => a.language === 'uz-cyr' || a.language === 'kiril');
+        
+        const formValues = {
+            image_path: q.image_path || '',
+            question_uz: uzTrans?.question_text || uzTrans?.question || '',
+            question_ru: ruTrans?.question_text || ruTrans?.question || '',
+            question_kiril: kirilTrans?.question_text || kirilTrans?.question || '',
+            
+            answer_description_uz: uzAns?.description || '',
+            answer_resource_uz: uzAns?.video_path || '',
+            answer_description_ru: ruAns?.description || '',
+            answer_resource_ru: ruAns?.video_path || '',
+            answer_description_kiril: kirilAns?.description || '',
+            answer_resource_kiril: kirilAns?.video_path || '',
+        };
+        
+        let correctOptionIndex = 1;
+        q.options?.forEach((opt, idx) => {
+            const num = idx + 1;
+            if (num > 4) return;
+            
+            formValues[`opt${num}_id`] = opt.id;
+            formValues[`opt${num}_is_correct`] = opt.is_correct;
+            if (opt.is_correct) correctOptionIndex = num;
+            
+            const uzOpt = opt.translations?.find(t => t.language === 'uz-lat' || t.language === 'uz');
+            const ruOpt = opt.translations?.find(t => t.language === 'ru');
+            const kirilOpt = opt.translations?.find(t => t.language === 'uz-cyr' || t.language === 'kiril');
+            
+            formValues[`opt${num}_uz`] = uzOpt?.option_text || uzOpt?.option || opt.option || '';
+            formValues[`opt${num}_ru`] = ruOpt?.option_text || ruOpt?.option || '';
+            formValues[`opt${num}_kiril`] = kirilOpt?.option_text || kirilOpt?.option || '';
+        });
+        
+        formValues.correct_option = correctOptionIndex;
+        
+        questionEditForm.setFieldsValue(formValues);
+        setIsQuestionEditModalVisible(true);
+    };
+
 
     const fetchTestResults = async (page = 1) => {
         try {
@@ -78,6 +272,9 @@ const Tests = () => {
             fetchTestResults(resultsPagination.current);
         } else if (activeTab === 'questions') {
             fetchQuestions(questionsPagination.current, searchText);
+        } else if (activeTab === 'shablons') {
+            fetchShablons();
+            setSelectedShablon(null);
         }
     }, [activeTab, fetchQuestions]);
 
@@ -367,6 +564,166 @@ const Tests = () => {
                                     />
                                 </>
                             )
+                        },
+                        {
+                            key: 'shablons',
+                            label: 'Shablonlar boshqaruvi',
+                            children: (
+                                <div className="space-y-6">
+                                    <div className="flex justify-between items-center mb-4">
+                                        <div className="text-slate-500 text-sm">
+                                            Jami shablon testlar: <span className="font-bold text-slate-800">{shablons.length}</span>
+                                        </div>
+                                        <Button
+                                            type="primary"
+                                            className="bg-indigo-600 hover:bg-indigo-700 shadow-md font-medium"
+                                            icon={<UploadCloud size={16} />}
+                                            onClick={() => {
+                                                importForm.resetFields();
+                                                setIsImportModalVisible(true);
+                                            }}
+                                        >
+                                            JSON test import qilish
+                                        </Button>
+                                    </div>
+                                    
+                                    {!selectedShablon ? (
+                                        <Table
+                                            columns={[
+                                                { title: 'ID', dataIndex: 'id', key: 'id', width: 60 },
+                                                { title: 'Shablon nomi', dataIndex: 'name', key: 'name', className: 'font-semibold text-slate-800' },
+                                                { title: 'Savollar soni', dataIndex: 'question_count', key: 'question_count', render: count => <Tag color="blue">{count} ta</Tag> },
+                                                { title: 'Davomiyligi (daqiqa)', dataIndex: 'duration_minutes', key: 'duration_minutes', render: min => `${min} daqiqa` },
+                                                { title: 'O\'tish balli', dataIndex: 'passing_score', key: 'passing_score' },
+                                                {
+                                                    title: 'Amallar',
+                                                    key: 'actions',
+                                                    width: 250,
+                                                    render: (_, record) => (
+                                                        <Space>
+                                                            <Button
+                                                                type="default"
+                                                                size="small"
+                                                                onClick={() => {
+                                                                    shablonEditForm.setFieldsValue(record);
+                                                                    setSelectedShablon(record);
+                                                                    setIsShablonEditModalVisible(true);
+                                                                }}
+                                                            >
+                                                                Tahrirlash
+                                                            </Button>
+                                                            <Button
+                                                                type="primary"
+                                                                ghost
+                                                                size="small"
+                                                                icon={<Eye size={14} />}
+                                                                onClick={() => fetchShablonDetails(record.id)}
+                                                            >
+                                                                Savollarni ko'rish ({record.question_count})
+                                                            </Button>
+                                                        </Space>
+                                                    )
+                                                }
+                                            ]}
+                                            dataSource={shablons}
+                                            loading={shablonsLoading}
+                                            rowKey="id"
+                                            pagination={{ pageSize: 15 }}
+                                        />
+                                    ) : (
+                                        <div className="space-y-4">
+                                            <div className="flex justify-between items-center bg-slate-50 p-4 rounded-xl border border-slate-200">
+                                                <div>
+                                                    <h3 className="text-lg font-bold text-slate-800">{selectedShablon.name}</h3>
+                                                    <p className="text-slate-500 text-sm mt-1">
+                                                        Davomiyligi: <b>{selectedShablon.duration_minutes} daqiqa</b> | O'tish balli: <b>{selectedShablon.passing_score}</b> | Jami: <b>{shablonQuestions.length} ta savol</b>
+                                                    </p>
+                                                </div>
+                                                <Space>
+                                                    <Button onClick={() => setSelectedShablon(null)}>Orqaga qaytish</Button>
+                                                    <Button
+                                                        type="primary"
+                                                        onClick={() => {
+                                                            shablonEditForm.setFieldsValue(selectedShablon);
+                                                            setIsShablonEditModalVisible(true);
+                                                        }}
+                                                    >
+                                                        Shablonni tahrirlash
+                                                    </Button>
+                                                </Space>
+                                            </div>
+
+                                            <Table
+                                                loading={shablonQuestionsLoading}
+                                                dataSource={shablonQuestions}
+                                                rowKey="id"
+                                                columns={[
+                                                    { title: 'T/R', key: 'index', width: 60, render: (_, __, index) => index + 1 },
+                                                    { title: 'Savol ID', dataIndex: 'json_id', key: 'json_id', width: 90 },
+                                                    {
+                                                        title: 'Rasm',
+                                                        dataIndex: 'image_path',
+                                                        key: 'image',
+                                                        width: 100,
+                                                        render: (file) => file ? (
+                                                            <Image
+                                                                src={file.startsWith('http') ? file : `${backendUrl}${file}`}
+                                                                alt="Question"
+                                                                className="rounded-md object-cover"
+                                                                width={60}
+                                                                height={40}
+                                                                fallback="https://via.placeholder.com/60x40?text=Rasm+yo'q"
+                                                            />
+                                                        ) : <Tag color="default">Rasm yo'q</Tag>
+                                                    },
+                                                    {
+                                                        title: 'Savol (O\'zbekcha)',
+                                                        dataIndex: 'translations',
+                                                        key: 'question_uz',
+                                                        render: (translations) => {
+                                                            const uz = translations?.find(t => t.language === 'uz-lat' || t.language === 'uz');
+                                                            return <div className="max-w-md truncate font-medium text-slate-700">{uz?.question_text || uz?.question || 'N/A'}</div>
+                                                        }
+                                                    },
+                                                    {
+                                                        title: 'Boshqa tillar',
+                                                        dataIndex: 'translations',
+                                                        key: 'langs',
+                                                        width: 120,
+                                                        render: (translations) => (
+                                                            <Space>
+                                                                {translations?.map(t => (
+                                                                    <Tag key={t.language} color={t.language === 'ru' ? 'blue' : 'purple'} size="small">
+                                                                        {t.language.toUpperCase()}
+                                                                    </Tag>
+                                                                ))}
+                                                            </Space>
+                                                        )
+                                                    },
+                                                    {
+                                                        title: 'Amallar',
+                                                        key: 'actions',
+                                                        width: 100,
+                                                        render: (_, record) => (
+                                                            <Space>
+                                                                <Button
+                                                                    type="primary"
+                                                                    ghost
+                                                                    size="small"
+                                                                    onClick={() => openQuestionEditModal(record)}
+                                                                >
+                                                                    Tahrirlash
+                                                                </Button>
+                                                            </Space>
+                                                        )
+                                                    }
+                                                ]}
+                                                pagination={{ pageSize: 10 }}
+                                            />
+                                        </div>
+                                    )}
+                                </div>
+                            )
                         }
                     ]}
                 />
@@ -642,8 +999,214 @@ const Tests = () => {
                     </div>
                 </Form>
             </Modal>
+
+            {/* Shablon Edit Modal */}
+            <Modal
+                title="Shablon tafsilotlarini tahrirlash"
+                open={isShablonEditModalVisible}
+                onOk={handleShablonEditSubmit}
+                confirmLoading={shablonEditSubmitting}
+                onCancel={() => setIsShablonEditModalVisible(false)}
+                okText="Saqlash"
+                cancelText="Bekor qilish"
+                className="rounded-2xl"
+            >
+                <Form form={shablonEditForm} layout="vertical" className="mt-4">
+                    <Form.Item name="name" label="Shablon nomi" rules={[{ required: true, message: 'Majburiy!' }]}>
+                        <Input />
+                    </Form.Item>
+                    <div className="grid grid-cols-2 gap-4">
+                        <Form.Item name="duration_minutes" label="Davomiyligi (daqiqa)" rules={[{ required: true, message: 'Majburiy!' }]}>
+                            <Input type="number" min={1} />
+                        </Form.Item>
+                        <Form.Item name="passing_score" label="O'tish balli" rules={[{ required: true, message: 'Majburiy!' }]}>
+                            <Input type="number" min={0} />
+                        </Form.Item>
+                    </div>
+                </Form>
+            </Modal>
+
+            {/* JSON Test Import Modal */}
+            <Modal
+                title={
+                    <div className="flex items-center space-x-2">
+                        <UploadCloud size={20} className="text-indigo-600" />
+                        <span>JSON Fayl orqali test import qilish</span>
+                    </div>
+                }
+                open={isImportModalVisible}
+                onOk={handleImportSubmit}
+                confirmLoading={importSubmitting}
+                onCancel={() => setIsImportModalVisible(false)}
+                okText="Import qilish"
+                cancelText="Bekor qilish"
+                className="rounded-2xl"
+            >
+                <Form form={importForm} layout="vertical" className="mt-4">
+                    <p className="text-slate-500 text-sm mb-4">
+                        Tillar bo'yicha JSON fayllarni yuklang. Savollar avtomatik ravishda moslashtirilib, shablon testlar davomiga qo'shiladi (maksimal 20 tadan chunk qilinadi).
+                    </p>
+                    
+                    <Form.Item
+                        name="uz_file"
+                        label="O'zbekcha test JSON fayli (uz.json)"
+                        valuePropName="fileList"
+                        getValueFromEvent={e => Array.isArray(e) ? e : e?.fileList}
+                        rules={[{ required: true, message: 'Kamida O\'zbekcha fayl yuklanishi shart!' }]}
+                    >
+                        <Upload dragger beforeUpload={() => false} maxCount={1} accept=".json">
+                            <div className="p-4 border border-dashed border-slate-300 rounded-lg text-center cursor-pointer hover:border-indigo-500 transition-colors">
+                                <p className="flex justify-center text-slate-400 mb-2"><UploadCloud size={30} /></p>
+                                <p className="text-sm text-slate-600">Faylni yuklash uchun bosing yoki tortib keling</p>
+                            </div>
+                        </Upload>
+                    </Form.Item>
+
+                    <Form.Item
+                        name="ru_file"
+                        label="Ruscha test JSON fayli (ru.json)"
+                        valuePropName="fileList"
+                        getValueFromEvent={e => Array.isArray(e) ? e : e?.fileList}
+                    >
+                        <Upload dragger beforeUpload={() => false} maxCount={1} accept=".json">
+                            <div className="p-4 border border-dashed border-slate-300 rounded-lg text-center cursor-pointer hover:border-indigo-500 transition-colors">
+                                <p className="flex justify-center text-slate-400 mb-2"><UploadCloud size={30} /></p>
+                                <p className="text-sm text-slate-600">Faylni yuklash uchun bosing yoki tortib keling</p>
+                            </div>
+                        </Upload>
+                    </Form.Item>
+
+                    <Form.Item
+                        name="kiril_file"
+                        label="Kirilcha test JSON fayli (kiril.json)"
+                        valuePropName="fileList"
+                        getValueFromEvent={e => Array.isArray(e) ? e : e?.fileList}
+                    >
+                        <Upload dragger beforeUpload={() => false} maxCount={1} accept=".json">
+                            <div className="p-4 border border-dashed border-slate-300 rounded-lg text-center cursor-pointer hover:border-indigo-500 transition-colors">
+                                <p className="flex justify-center text-slate-400 mb-2"><UploadCloud size={30} /></p>
+                                <p className="text-sm text-slate-600">Faylni yuklash uchun bosing yoki tortib keling</p>
+                            </div>
+                        </Upload>
+                    </Form.Item>
+                </Form>
+            </Modal>
+
+            {/* Shablon Question Edit Modal */}
+            <Modal
+                title="Shablon savolini tahrirlash"
+                open={isQuestionEditModalVisible}
+                onOk={handleQuestionEditSubmit}
+                confirmLoading={questionEditSubmitting}
+                onCancel={() => setIsQuestionEditModalVisible(false)}
+                width={900}
+                okText="Saqlash"
+                cancelText="Bekor qilish"
+                className="rounded-2xl"
+            >
+                <Form form={questionEditForm} layout="vertical" className="mt-4">
+                    <Form.Item name="image_path" label="Savol rasmi linki (ixtiyoriy)">
+                        <Input placeholder="Masalan: /test_files/img/newtest_questions/..." />
+                    </Form.Item>
+
+                    <Tabs
+                        defaultActiveKey="uz"
+                        className="mb-4"
+                        items={[
+                            {
+                                key: 'uz',
+                                label: <span className="text-emerald-600 font-medium">O'zbekcha</span>,
+                                children: (
+                                    <div className="space-y-4">
+                                        <Form.Item name="question_uz" label="Savol matni (O'zbek)" rules={[{ required: true }]}>
+                                            <Input.TextArea rows={3} />
+                                        </Form.Item>
+                                        <div className="grid grid-cols-2 gap-4">
+                                            <Form.Item name="answer_description_uz" label="Tushuntirish / Izoh (O'zbek)">
+                                                <Input.TextArea rows={2} />
+                                            </Form.Item>
+                                            <Form.Item name="answer_resource_uz" label="Video linki (O'zbek)">
+                                                <Input placeholder="URL" />
+                                            </Form.Item>
+                                        </div>
+                                    </div>
+                                )
+                            },
+                            {
+                                key: 'ru',
+                                label: <span className="text-blue-600 font-medium">Русский</span>,
+                                children: (
+                                    <div className="space-y-4">
+                                        <Form.Item name="question_ru" label="Savol matni (Rus)">
+                                            <Input.TextArea rows={3} />
+                                        </Form.Item>
+                                        <div className="grid grid-cols-2 gap-4">
+                                            <Form.Item name="answer_description_ru" label="Объяснение (Rus)">
+                                                <Input.TextArea rows={2} />
+                                            </Form.Item>
+                                            <Form.Item name="answer_resource_ru" label="Видео ссылка (Rus)">
+                                                <Input placeholder="URL" />
+                                            </Form.Item>
+                                        </div>
+                                    </div>
+                                )
+                            },
+                            {
+                                key: 'kiril',
+                                label: <span className="text-purple-600 font-medium">Kiril</span>,
+                                children: (
+                                    <div className="space-y-4">
+                                        <Form.Item name="question_kiril" label="Savol matni (Kiril)">
+                                            <Input.TextArea rows={3} />
+                                        </Form.Item>
+                                        <div className="grid grid-cols-2 gap-4">
+                                            <Form.Item name="answer_description_kiril" label="Тушунтириш (Kiril)">
+                                                <Input.TextArea rows={2} />
+                                            </Form.Item>
+                                            <Form.Item name="answer_resource_kiril" label="Видео ҳавола (Kiril)">
+                                                <Input placeholder="URL" />
+                                            </Form.Item>
+                                        </div>
+                                    </div>
+                                )
+                            }
+                        ]}
+                    />
+
+                    <div className="bg-slate-50 p-4 rounded-xl border border-slate-200 mb-4">
+                        <h4 className="font-bold text-slate-700 mb-4">Savol variantlari va to'g'riligi</h4>
+                        
+                        <Form.Item name="correct_option" label="To'g'ri javobni belgilang">
+                            <Radio.Group className="w-full">
+                                <div className="space-y-4">
+                                    {[1, 2, 3, 4].map(num => (
+                                        <div key={num} className="flex flex-col space-y-2 p-3 bg-white rounded-lg border border-slate-200">
+                                            <div className="flex items-center">
+                                                <Radio value={num} className="font-bold text-slate-700">Variant {num}</Radio>
+                                                <Form.Item name={`opt${num}_id`} hidden><Input /></Form.Item>
+                                            </div>
+                                            <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
+                                                <Form.Item name={`opt${num}_uz`} label="O'zbekcha" className="mb-0" rules={[{ required: true }]}>
+                                                    <Input size="small" />
+                                                </Form.Item>
+                                                <Form.Item name={`opt${num}_ru`} label="Русский" className="mb-0">
+                                                    <Input size="small" />
+                                                </Form.Item>
+                                                <Form.Item name={`opt${num}_kiril`} label="Кирил" className="mb-0">
+                                                    <Input size="small" />
+                                                </Form.Item>
+                                            </div>
+                                        </div>
+                                    ))}
+                                </div>
+                            </Radio.Group>
+                        </Form.Item>
+                    </div>
+                </Form>
+            </Modal>
         </div>
     );
 };
 
 export default Tests;
+

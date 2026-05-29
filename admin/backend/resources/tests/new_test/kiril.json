@@ -1,0 +1,2782 @@
+{
+    "status": 1,
+    "data": {
+        "questions": [
+            {
+                "id": 12087,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ушбу ҳолатда сиз қандай йўл тутишингиз керак?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12087/12087-1-562.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191566,
+                        "newtest_question_id": 12087,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Овозли ишора бериб, тезликни оширинг"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191567,
+                        "newtest_question_id": 12087,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Зарур бўлганда дарҳол тўхташ имкониятини берадиган даражада тезликни камайтиринг"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191568,
+                        "newtest_question_id": 12087,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Чапга бурилиб, тўсиқни айланиб ўтинг"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191569,
+                        "newtest_question_id": 12087,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Тўхтовсиз ҳаракатни давом эттиринг"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "ЙҲҚнинг 6-боб. 27-бандига асосан: 27. Тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маёқчасини ёқиб тўхтаб турган транспорт воситасига яқинлашаётган ҳайдовчилар зарур бўлган ҳолларда ҳаракатланиш тезлигини дарҳол тўхташ имкониятини берадиган даражада камайтиришлари шарт.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12087/12087-984.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 12,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 9992,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ушбу кўрсатилган йўл нечта қатнов қисмига эга?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/9992/9992-1-439.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191726,
+                        "newtest_question_id": 9992,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Битта"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191727,
+                        "newtest_question_id": 9992,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Иккита"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191728,
+                        "newtest_question_id": 9992,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Саккизта"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "Йўл ҳаракати қоидаларининг 6 бандига асосан, ажратувчи минтақа — йўлнинг ёнма-ён жойлашган қатнов қисмларини ажратувчи, транспорт воситалари ҳаракатланиши ёки тўхташи учун мўлжалланмаган, йўл сатҳидан кўтарилган ёки майсазор, ариқ, махсус тўсиқлар билан ажратилган баланд қисми.",
+                "answer_video": "/test_files/testanswer/newtest_questions/9992/9992-803.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": false,
+                "newtest_lesson_id": 12,
+                "status": 1,
+                "templates": [
+                    {
+                        "id": 29,
+                        "name": "29",
+                        "status": 1,
+                        "created_at": "2023-03-13T16:58:39.000000Z",
+                        "updated_at": "2023-03-13T16:58:39.000000Z",
+                        "questions_count": null
+                    }
+                ],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12090,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Қайси автомобил ҳайдовчиси йўл бериши керак?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12090/12090-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191699,
+                        "newtest_question_id": 12090,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Қизил автомобил ҳайдовчиси"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191700,
+                        "newtest_question_id": 12090,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Кўк автомобил ҳайдовчиси"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "ЙҲҚнинг 16-боб. 105-банд 1-хатбоши ва 106-бандига асосан: 105. Тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак. \r\n106. Асосий йўлнинг йўналиши чорраҳада ўзгарганда, асосий йўлда ҳаракатланаётган ҳайдовчилар ўзаро тенг аҳамиятли йўллар чорраҳасидан ўтиш қоидасига амал қилишлари керак.\r\nИккинчи даражали йўлларда ҳаракатланаётган ҳайдовчилар ҳам ўзаро шу қоидага амал қилишлари керак.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12090/12090.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 23,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 8337,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Автомагистралларда юк автомобилларига йўлнинг четки чап қаторида ҳаракатланишга рухсат этиладими?"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 143181,
+                        "newtest_question_id": 8337,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Рухсат этилади."
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 143182,
+                        "newtest_question_id": 8337,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Тақиқланади."
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "ЙҲҚ 19-бўлими 121-банди 2-хатбошига асосан, автомагистралларда юк автомобилларига йўлнинг четки чап қаторида ҳаракатланиши тақиқланади.",
+                "answer_video": null,
+                "comment": null,
+                "static_order_answers": 1,
+                "is_new": false,
+                "newtest_lesson_id": 24,
+                "status": 1,
+                "templates": [
+                    {
+                        "id": 48,
+                        "name": "48",
+                        "status": 1,
+                        "created_at": "2023-03-13T16:58:39.000000Z",
+                        "updated_at": "2023-03-13T16:58:39.000000Z",
+                        "questions_count": null
+                    }
+                ],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12093,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Тартибга солувчининг ушбу ишорасида қайси транспорт воситаларига ҳаракатланишга рухсат этилади?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12093/12093-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191765,
+                        "newtest_question_id": 12093,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Яшил ва оқ автомобилларга"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191766,
+                        "newtest_question_id": 12093,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Қизил автомобил ва ЙПХ автомобилига"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191767,
+                        "newtest_question_id": 12093,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Фақат ЙПХ автомобилига"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191768,
+                        "newtest_question_id": 12093,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ҳеч бирига рухсат этилмайди"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "ЙҲҚнинг 7-боб. 38-банди ва 6-боб. 25-банди 1-хатбошига асосан: \r\n38. Тартибга солувчининг ишоралари қуйидаги маънони билдиради:\r\nҚўлини юқорига кўтарганда:\r\nушбу Қоидаларнинг 42-бандида кўрсатилганидан бошқа ҳолларда транспорт воситалари ва пиёдаларнинг барча йўналишларда ҳаракатланиши тақиқланади.\r\n25. Тезкор ва махсус хизматларнинг кўк ёки қизил ёхуд кўк ва қизил рангли ялт-ялт этувчи маёқчалар ёқилган транспорт воситаларининг ҳайдовчилари кечиктириб бўлмайдиган хизмат вазифаларини бажараётиб, ҳаракатланиш хавфсизлигини таъминлаш шарти билан ушбу Қоидаларнинг 7-боби (тартибга солувчининг ишораларидан ташқари), 9 — 16, 19-20 ва 22 боблари, 1 ва 2-иловалари талабларидан четга чиқишлари мумкин.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12093/12093.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 12,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12096,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ушбу белгилардан қайси бири “Сунъий йўл нотекслиги” деб аталади?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12096/12096-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191804,
+                        "newtest_question_id": 12096,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Иккинчи белги"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191805,
+                        "newtest_question_id": 12096,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ҳар иккала белги"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191806,
+                        "newtest_question_id": 12096,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Биринчи белги"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "ЙҲҚга 1-ИЛОВА 1.31 бандига асосан: 1.31. «Сунъий йўл нотекислиги». Йўлнинг сунъий нотекислик ўрнатилган қисмига яқинлашаётганлиги тўғрисида огоҳлантиради. Транспорт воситасининг ҳаракатланиш тезлигини мажбурий тарзда камайтириш учун қўлланилади.",
+                "answer_video": null,
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 13,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12099,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ушбу кўрсатилган жойда тўхташга рухсат этиладими?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12099/12099-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191812,
+                        "newtest_question_id": 12099,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Рухсат этилади"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191813,
+                        "newtest_question_id": 12099,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Тақиқланади"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "ЙҲҚнинг 13-боб. 91-банд 5-хатбошига асосан: 91. Қуйидагиларда тўхташ тақиқланади: бир йўналишда ҳаракатланиш учун учтадан кам тасмага эга бўлган кўприк, йўл ўтказгич ва эстакадаларнинг устида.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12099/12099.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 21,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12102,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Қайси йўналишларга ҳаракатланишга рухсат этилади?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12102/12102-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191820,
+                        "newtest_question_id": 12102,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Барча йўналишларга ўнгга бурилиш ва қайрилишдан ташқари"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191821,
+                        "newtest_question_id": 12102,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Барча йўналишларга"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191822,
+                        "newtest_question_id": 12102,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Фақат тўғрига"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191823,
+                        "newtest_question_id": 12102,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Тўғрига, чапга ва қайрилишга"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "ЙҲҚга 1-ИЛОВА 3.19 банди, 5.6 банди ва 5.7.2 бандига асосан: 3.18.1. «Ўнгга бурилиш тақиқланган». 5.6. «Бир томонлама ҳаракатли йўлнинг охири». 5.7.2. «Бир томонлама ҳаракатли йўлга чиқиш». Ҳаракатланиш бир томонлама бўлган йўлга ёки қатнов қисмига чиқиш.\r\nЮқоридаги белгилар талабларига кўра, ушбу ҳолатда ўнгга бурилиш ва қайрилиб олиш тақиқланади. Чапга ва тўғрига ҳаракатланишга рухсат этилади.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12102/12102.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 13,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12105,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Мазкур жойда йўловчиларни тушириш ёки чиқариш учун тўхташга рухсат этиладими?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12105/12105-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191831,
+                        "newtest_question_id": 12105,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Рухсат этилади"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191832,
+                        "newtest_question_id": 12105,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Тақиқланади"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191833,
+                        "newtest_question_id": 12105,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Фақат такси ҳайдовчиларига рухсат этилади"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "ЙҲҚнинг 13-боб. 91-банд 4-хатбошига асосан: 91. Қуйидагиларда тўхташ тақиқланади: туннелларда.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12105/12105.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 21,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12108,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Кўк автомобил чорраҳадан нечaнчи бўлиб кесиб ўтади?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12108/12108-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191841,
+                        "newtest_question_id": 12108,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Биринчи"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191842,
+                        "newtest_question_id": 12108,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Иккинчи"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191843,
+                        "newtest_question_id": 12108,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Учинчи"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191844,
+                        "newtest_question_id": 12108,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Охирги"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "ЙҲҚнинг 16-боб. 104-банд, 105-банд 1-хатбоши ва 106-бандига асосан: 104. Тенг аҳамиятга эга бўлмаган йўллар кесишган чорраҳада иккинчи даражали йўлдан ҳаракатланаётган транспорт воситасининг ҳайдовчиси асосий йўлдан яқинлашаётган транспорт воситаларига уларнинг кейинги ҳаракатланиш йўналишидан қатъий назар, йўл бериши керак.\r\nБундай чорраҳаларда трамвай ҳаракатланиш йўналишидан қатъий назар, тенг аҳамиятли йўлда бир йўналишда ёки қарама-қарши йўналишда ҳаракатланаётган рельссиз транспорт воситаларига нисбатан имтиёзга эга.\r\n105. Тенг аҳамиятга эга бўлган йўллар кесишган чорраҳада рельссиз транспорт воситасининг ҳайдовчиси ўнгдан яқинлашаётган транспорт воситаларига йўл бериши шарт. Бу қоидага трамвай ҳайдовчилари ҳам ўзаро амал қилишлари керак. \r\n106. Асосий йўлнинг йўналиши чорраҳада ўзгарганда, асосий йўлда ҳаракатланаётган ҳайдовчилар ўзаро тенг аҳамиятли йўллар чорраҳасидан ўтиш қоидасига амал қилишлари керак.\r\nИккинчи даражали йўлларда ҳаракатланаётган ҳайдовчилар ҳам ўзаро шу қоидага амал қилишлари керак.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12108/12108.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 23,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12111,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Қайси йўналишларда сизга ҳаракатни давом эттиришга рухсат этилади?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12111/12111-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191852,
+                        "newtest_question_id": 12111,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Фақат чапга"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191853,
+                        "newtest_question_id": 12111,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Тўғрига ва чапга"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191854,
+                        "newtest_question_id": 12111,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Чапга ва орқага қайрилиб олишга"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "ЙҲҚга 1-ИЛОВА 5.8.2 банди ва 5. Ахборот-кўрсатгич белгиларининг 11-хатбоши ҳамда ЙҲҚнинг 7-боб. 32-банд 1 ва 2-хатбошига асосан: 5.8.2. «Тасма бўйича ҳаракатланиш йўналиши». Тасма бўйича рухсат этилган ҳаракатланиш йўналиши. Бошқа йўналишлар бўйича ҳаракатланиш тақиқланади.\r\nЙўлнинг четки чап бўлагидан чапга бурилишга рухсат берувчи 5.8.1 ва 5.8.2 белгилари шу тасмадан қайрилишга ҳам рухсат беради. \r\n32. Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари ҳам доирасимон шаклидаги светофор ишоралари билан бир хил маънога эга бўлади. Улар фақат кўрсатилган йўналишга таъсир этади.\r\nАгар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи йўналтиргич қайрилиб олишга ҳам рухсат беради. Қўшимча тармоқдаги яшил йўналтиргич ҳам худди шу маънони билдиради.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12111/12111.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 18,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12123,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Қизил автомобил қайси йўналишлар бўйича ҳаракатланишга рухсат этилади?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12123/12123-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191898,
+                        "newtest_question_id": 12123,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Тўғрига ва чапга"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191899,
+                        "newtest_question_id": 12123,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Тўғрига ва қайрилиб олишга"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191900,
+                        "newtest_question_id": 12123,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Фақат тўғрига"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191901,
+                        "newtest_question_id": 12123,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Фақат чапга"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "ЙҲҚга 1-ИЛОВА 5.8.2 банди ва 5. Ахборот-кўрсатгич белгиларининг 11-хатбоши ҳамда ЙҲҚнинг 7-боб. 32-банд 1 ва 2-хатбошига асосан: 5.8.2. «Тасма бўйича ҳаракатланиш йўналиши». Тасма бўйича рухсат этилган ҳаракатланиш йўналиши. Бошқа йўналишлар бўйича ҳаракатланиш тақиқланади.\r\nЙўлнинг четки чап бўлагидан чапга бурилишга рухсат берувчи 5.8.1 ва 5.8.2 белгилари шу тасмадан қайрилишга ҳам рухсат беради. \r\n32. Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари ҳам доирасимон шаклидаги светофор ишоралари билан бир хил маънога эга бўлади. Улар фақат кўрсатилган йўналишга таъсир этади.\r\nАгар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи йўналтиргич қайрилиб олишга ҳам рухсат беради. Қўшимча тармоқдаги яшил йўналтиргич ҳам худди шу маънони билдиради.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12123/12123.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 18,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12114,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Қизил автомобил қайси йўналишга ҳаракатланишга рухсат этилади?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12114/12114-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191862,
+                        "newtest_question_id": 12114,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ҳаракатланиш тақиқланади"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191863,
+                        "newtest_question_id": 12114,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Тўғрига, чапга ва орқага қайрилишга"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191864,
+                        "newtest_question_id": 12114,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Тўғрига ва чапга"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191865,
+                        "newtest_question_id": 12114,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Фақат тўғрига"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "ЙҲҚга 1-ИЛОВА 5.8.2 банди ва 5. Ахборот-кўрсатгич белгиларининг 11-хатбоши ҳамда ЙҲҚнинг 7-боб. 32-банд 1 ва 2-хатбошига асосан: 5.8.2. «Тасма бўйича ҳаракатланиш йўналиши». Тасма бўйича рухсат этилган ҳаракатланиш йўналиши. Бошқа йўналишлар бўйича ҳаракатланиш тақиқланади.\r\nЙўлнинг четки чап бўлагидан чапга бурилишга рухсат берувчи 5.8.1 ва 5.8.2 белгилари шу тасмадан қайрилишга ҳам рухсат беради. \r\n32. Йўналтиргич кўринишидаги қизил, сариқ ва яшил рангли светофор ишоралари ҳам доирасимон шаклидаги светофор ишоралари билан бир хил маънога эга бўлади. Улар фақат кўрсатилган йўналишга таъсир этади.\r\nАгар тегишли йўл белгиси билан қайрилиб олиш тақиқланмаган бўлса, чапга бурилишга рухсат берувчи йўналтиргич қайрилиб олишга ҳам рухсат беради. Қўшимча тармоқдаги яшил йўналтиргич ҳам худди шу маънони билдиради.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12114/12114.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 18,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12117,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ҳаракат тезлиги 40 км/соатдан ошмайдиган транспорт воситасига қатнов қисмининг ўнг тасмасидан чиқишга қачон рухсат этилади?"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191873,
+                        "newtest_question_id": 12117,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Айланиб ўтишда"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191874,
+                        "newtest_question_id": 12117,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Чапга бурилиш ёки қайриб олиш учун қайта тизилишда"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191875,
+                        "newtest_question_id": 12117,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Барча санаб ўтилган ҳолларда"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "ЙҲҚнинг 10-боб. 68-бандига асосан: 68. Тезлигини соатига 40 километрдан ошириши мумкин бўлмаган ёки техник сабабларга кўра тезлигини бундан ошира олмайдиган транспорт воситалари айланиб ўтиш, қувиб ўтиш, чапга бурилиш ёки қайрилиб олиш учун қайта тизилишдан ёки рухсат этилган ҳолларда йўлнинг чап томонида тўхташдан бошқа ҳолларда фақат четки ўнг қаторида ҳаракатланишлари керак.",
+                "answer_video": null,
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 20,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            },
+            {
+                "id": 12120,
+                "lang_id": 3,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Қайси транспорт воситаси тўғри ҳаракатланмоқда?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12120/12120-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 191884,
+                        "newtest_question_id": 12120,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Сариқ"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191885,
+                        "newtest_question_id": 12120,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Яшил ва сариқ"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 191886,
+                        "newtest_question_id": 12120,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Яшил"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191887,
+                        "newtest_question_id": 12120,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Барчаси нотўғри"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 191888,
+                        "newtest_question_id": 12120,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Барчаси тўғри"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "ЙҲҚнинг 9-боб. 56-банд 1-хатбоши ҳамда 57-банд 2-хатбошига асосан: 56. Айланма ҳаракатланиш ташкил қилинган чорраҳаларга кириш учун бурилишдан бошқа барча ҳолларда, ҳайдовчи ўнгга, чапга бурилиши ёки қайрилиб олишдан олдинроқ шу йўналишда ҳаракатланиши учун мўлжалланган қатнов қисмининг энг четки ҳолатни эгаллаши шарт.\r\nЎнгга бурилишда транспорт воситаси иложи борича қатнов қисмининг ўнг четига яқинроқда ҳаракатланиши керак.",
+                "answer_video": "/test_files/testanswer/newtest_questions/12120/12120.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 19,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "detail": null
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "detail": null
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "detail": null
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "detail": null
+                    }
+                ]
+            }
+        ],
+        "exam_center_test_template": {
+            "id": 62,
+            "name": 62,
+            "created_at": "2026-02-02T13:30:21.000000Z",
+            "updated_at": "2026-02-02T13:30:21.000000Z",
+            "status": 0,
+            "exam_center_test_template_result": {
+                "id": 7277688,
+                "student_id": 1036817,
+                "template_id": 62,
+                "correct_answers_count": 15,
+                "incorrect_answers_count": 0,
+                "question_count": 15,
+                "history": null,
+                "percent": 100,
+                "max_result_corrects": 15,
+                "max_result_percent": 100,
+                "organization_id": 2235,
+                "group_id": 44666,
+                "user_id": 1071434,
+                "created_at": "2026-03-28T06:42:11.000000Z",
+                "updated_at": "2026-05-16T14:15:00.000000Z"
+            },
+            "saved_test": null
+        },
+        "saved_test": null
+    },
+    "message": "success",
+    "response_code": 200
+}
