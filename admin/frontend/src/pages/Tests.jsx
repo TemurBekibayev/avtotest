@@ -50,6 +50,7 @@ const Tests = () => {
     const [questionEditForm] = Form.useForm();
     const [questionEditSubmitting, setQuestionEditSubmitting] = useState(false);
     const [editingQuestion, setEditingQuestion] = useState(null);
+    const [editingOptions, setEditingOptions] = useState([]);
     
     // JSON Import State
     const [isImportModalVisible, setIsImportModalVisible] = useState(false);
@@ -138,15 +139,15 @@ const Tests = () => {
             const values = await questionEditForm.validateFields();
             setQuestionEditSubmitting(true);
             
-            const formattedOptions = [1, 2, 3, 4].map(num => {
-                const optId = values[`opt${num}_id`];
+            const formattedOptions = editingOptions.map((opt, idx) => {
+                const optId = values[`opt${idx}_id`] || opt.id;
                 return {
                     id: optId,
-                    is_correct: values.correct_option === num,
+                    is_correct: values.correct_option === idx,
                     translations: [
-                        { language: 'uz-lat', option_text: values[`opt${num}_uz`] },
-                        { language: 'ru', option_text: values[`opt${num}_ru`] || '' },
-                        { language: 'uz-cyr', option_text: values[`opt${num}_kiril`] || '' }
+                        { language: 'uz-lat', option_text: values[`opt${idx}_uz`] },
+                        { language: 'ru', option_text: values[`opt${idx}_ru`] || '' },
+                        { language: 'uz-cyr', option_text: values[`opt${idx}_kiril`] || '' }
                     ]
                 };
             });
@@ -179,6 +180,8 @@ const Tests = () => {
 
     const openQuestionEditModal = (q) => {
         setEditingQuestion(q);
+        const optionsList = q.options || [];
+        setEditingOptions(optionsList);
         
         const uzTrans = q.translations?.find(t => t.language === 'uz-lat' || t.language === 'uz');
         const ruTrans = q.translations?.find(t => t.language === 'ru');
@@ -202,22 +205,19 @@ const Tests = () => {
             answer_resource_kiril: kirilAns?.video_path || '',
         };
         
-        let correctOptionIndex = 1;
-        q.options?.forEach((opt, idx) => {
-            const num = idx + 1;
-            if (num > 4) return;
-            
-            formValues[`opt${num}_id`] = opt.id;
-            formValues[`opt${num}_is_correct`] = opt.is_correct;
-            if (opt.is_correct) correctOptionIndex = num;
+        let correctOptionIndex = 0;
+        optionsList.forEach((opt, idx) => {
+            formValues[`opt${idx}_id`] = opt.id;
+            formValues[`opt${idx}_is_correct`] = opt.is_correct;
+            if (opt.is_correct) correctOptionIndex = idx;
             
             const uzOpt = opt.translations?.find(t => t.language === 'uz-lat' || t.language === 'uz');
             const ruOpt = opt.translations?.find(t => t.language === 'ru');
             const kirilOpt = opt.translations?.find(t => t.language === 'uz-cyr' || t.language === 'kiril');
             
-            formValues[`opt${num}_uz`] = uzOpt?.option_text || uzOpt?.option || opt.option || '';
-            formValues[`opt${num}_ru`] = ruOpt?.option_text || ruOpt?.option || '';
-            formValues[`opt${num}_kiril`] = kirilOpt?.option_text || kirilOpt?.option || '';
+            formValues[`opt${idx}_uz`] = uzOpt?.option_text || uzOpt?.option || opt.option || '';
+            formValues[`opt${idx}_ru`] = ruOpt?.option_text || ruOpt?.option || '';
+            formValues[`opt${idx}_kiril`] = kirilOpt?.option_text || kirilOpt?.option || '';
         });
         
         formValues.correct_option = correctOptionIndex;
@@ -1179,20 +1179,20 @@ const Tests = () => {
                         <Form.Item name="correct_option" label="To'g'ri javobni belgilang">
                             <Radio.Group className="w-full">
                                 <div className="space-y-4">
-                                    {[1, 2, 3, 4].map(num => (
-                                        <div key={num} className="flex flex-col space-y-2 p-3 bg-white rounded-lg border border-slate-200">
+                                    {editingOptions.map((opt, idx) => (
+                                        <div key={opt.id || idx} className="flex flex-col space-y-2 p-3 bg-white rounded-lg border border-slate-200">
                                             <div className="flex items-center">
-                                                <Radio value={num} className="font-bold text-slate-700">Variant {num}</Radio>
-                                                <Form.Item name={`opt${num}_id`} hidden><Input /></Form.Item>
+                                                <Radio value={idx} className="font-bold text-slate-700">Variant {idx + 1}</Radio>
+                                                <Form.Item name={`opt${idx}_id`} hidden><Input /></Form.Item>
                                             </div>
                                             <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
-                                                <Form.Item name={`opt${num}_uz`} label="O'zbekcha" className="mb-0" rules={[{ required: true }]}>
+                                                <Form.Item name={`opt${idx}_uz`} label="O'zbekcha" className="mb-0" rules={[{ required: true, message: 'Majburiy!' }]}>
                                                     <Input size="small" />
                                                 </Form.Item>
-                                                <Form.Item name={`opt${num}_ru`} label="Русский" className="mb-0">
+                                                <Form.Item name={`opt${idx}_ru`} label="Русский" className="mb-0">
                                                     <Input size="small" />
                                                 </Form.Item>
-                                                <Form.Item name={`opt${num}_kiril`} label="Кирил" className="mb-0">
+                                                <Form.Item name={`opt${idx}_kiril`} label="Киril" className="mb-0">
                                                     <Input size="small" />
                                                 </Form.Item>
                                             </div>
