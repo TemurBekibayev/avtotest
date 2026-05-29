@@ -222,13 +222,15 @@ class ShablonController extends Controller
                     continue;
                 }
 
-                // Extract image path
+                // Extract image path and format as /storage/tests/extra-images/filename.jpg
                 $imagePath = null;
                 $masterQ = $uzQ ?? $ruQ ?? $krQ;
                 if (isset($masterQ['body'])) {
                     foreach ($masterQ['body'] as $part) {
                         if (isset($part['type']) && $part['type'] == 2) {
-                            $imagePath = $part['value'];
+                            $rawPath = $part['value'];
+                            $filename = basename($rawPath);
+                            $imagePath = "/storage/tests/extra-images/" . $filename;
                             break;
                         }
                     }
