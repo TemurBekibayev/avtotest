@@ -15,14 +15,60 @@ class TestResultController extends Controller
     {
         $user = $request->user();
 
-        $query = TestResult::with(['student.group', 'originalTemplate', 'shablonTemplate']);
-
-        if ($user->role === 'admin') {
-            return response()->json($query->latest()->paginate(20));
+        // Ensure the student_test_template_id column exists
+        try {
+            if (!\Illuminate\Support\Facades\Schema::hasColumn('test_results', 'student_test_template_id')) {
+                \Illuminate\Support\Facades\Schema::table('test_results', function (\Illuminate\Database\Schema\Blueprint $table) {
+                    $table->unsignedBigInteger('student_test_template_id')->nullable()->after('test_template_id');
+                });
+            }
+        } catch (\Exception $ex) {
+            \Illuminate\Support\Facades\Log::error('Dynamic column creation in index failed: ' . $ex->getMessage());
         }
 
-        $student = $user->student;
-        if (!$student) {
+        try {
+            $query = TestResult::with(['student.group', 'originalTemplate', 'shablonTemplate']);
+
+            if ($user->role === 'admin') {
+                return response()->json($query->latest()->paginate(20));
+            }
+
+            $student = $user->student;
+            if (!$student) {
+                return response()->json([
+                    'data' => [],
+                    'current_page' => 1,
+                    'last_page' => 1,
+                    'total' => 0,
+                ]);
+            }
+
+            return response()->json($query->where('student_id', $student->id)
+                ->latest()
+                ->paginate(15));
+        } catch (\Exception $e) {
+            \Illuminate\Support\Facades\Log::error('Error fetching test results with relations: ' . $e->getMessage());
+
+            // Fallback to fetch results without broken relations if DB column is missing
+            try {
+                $query = TestResult::with(['student.group', 'originalTemplate']);
+                if ($user->role === 'admin') {
+                    return response()->json($query->latest()->paginate(20));
+                }
+
+                $student = $user->student;
+                if ($student) {
+                    return response()->json($query->where('student_id', $student->id)
+                        ->latest()
+                        ->paginate(15));
+                }
+            } catch (\Exception $fallbackException) {
+                return response()->json([
+                    'message' => 'Natijalarni yuklashda xatolik yuz berdi.',
+                    'error' => $fallbackException->getMessage()
+                ], 500);
+            }
+
             return response()->json([
                 'data' => [],
                 'current_page' => 1,
@@ -30,10 +76,6 @@ class TestResultController extends Controller
                 'total' => 0,
             ]);
         }
-
-        return response()->json($query->where('student_id', $student->id)
-            ->latest()
-            ->paginate(15));
     }
 
     /**
