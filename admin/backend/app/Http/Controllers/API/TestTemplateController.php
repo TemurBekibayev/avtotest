@@ -24,7 +24,10 @@ class TestTemplateController extends Controller
                     // Manually find the latest result for THIS template for THIS student
                     try {
                         $latestResult = \App\Models\TestResult::where('student_id', $student->id)
-                            ->where('student_test_template_id', $tpl->id)
+                            ->where(function ($q) use ($tpl) {
+                                $q->where('student_test_template_id', $tpl->id)
+                                  ->orWhere('test_template_id', $tpl->id);
+                            })
                             ->latest()
                             ->first();
                         
