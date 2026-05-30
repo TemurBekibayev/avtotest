@@ -15,7 +15,12 @@ class StudentTestTemplate extends Model
         'passing_score',
     ];
 
-    protected $appends = ['question_count', 'time_limit', 'description'];
+    protected $appends = ['question_count', 'time_limit', 'description', 'latest_result'];
+
+    public function getLatestResultAttribute()
+    {
+        return $this->attributes['latest_result'] ?? null;
+    }
 
     public function getQuestionCountAttribute()
     {

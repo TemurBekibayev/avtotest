@@ -70,6 +70,7 @@ const Dashboard = ({ onLogout, user }) => {
             fetchResults();
         } else if (activeTab === 'shablon-testlar') {
             // setShowTemplateTests(true); // This line is commented out as it refers to a removed state
+            fetchResults();
         } else if (activeTab === 'aralash-testlar') {
             // setShowTestsList(true); // This line is commented out as it refers to a removed state
         } else if (activeTab === 'barcha-testlar') {
