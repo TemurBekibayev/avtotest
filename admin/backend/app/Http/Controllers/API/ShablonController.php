@@ -21,11 +21,7 @@ class ShablonController extends Controller
     public function index(Request $request)
     {
         try {
-            $templates = StudentTestTemplate::all()->map(function($template) {
-                // Ensure dynamic fields are loaded
-                $template->question_count = $template->questions()->count();
-                return $template;
-            });
+            $templates = StudentTestTemplate::withCount('questions')->get();
             return response()->json($templates);
         } catch (\Exception $e) {
             return response()->json([

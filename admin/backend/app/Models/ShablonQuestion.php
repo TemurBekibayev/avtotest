@@ -12,8 +12,8 @@ class ShablonQuestion extends Model
     public function getQuestionAttribute()
     {
         $lang = request()->get('lang', 'uz-lat');
-        $translation = $this->translations()->where('language', $lang)->first();
-        if (!$translation) $translation = $this->translations()->first();
+        $translation = $this->translations->where('language', $lang)->first();
+        if (!$translation) $translation = $this->translations->first();
         return $translation ? $translation->question_text : '';
     }
 
@@ -28,8 +28,8 @@ class ShablonQuestion extends Model
     public function getAnswerAttribute()
     {
         $lang = request()->get('lang', 'uz-lat');
-        $answer = $this->answers()->where('language', $lang)->first();
-        if (!$answer) $answer = $this->answers()->first();
+        $answer = $this->answers->where('language', $lang)->first();
+        if (!$answer) $answer = $this->answers->first();
         
         if ($answer) {
             return [

@@ -24,6 +24,9 @@ class StudentTestTemplate extends Model
 
     public function getQuestionCountAttribute()
     {
+        if (array_key_exists('questions_count', $this->attributes)) {
+            return $this->attributes['questions_count'] ?: 20;
+        }
         return $this->questions()->count() ?: 20;
     }
 

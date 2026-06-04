@@ -45,24 +45,27 @@ class TestTemplateController extends Controller
                 }
             }
             
-            $templates = \App\Models\StudentTestTemplate::all();
+            $templates = \App\Models\StudentTestTemplate::withCount('questions')->get();
             
             if ($student) {
-                foreach ($templates as $tpl) {
-                    // Manually find the latest result for THIS template for THIS student
-                    try {
-                        $latestResult = \App\Models\TestResult::where('student_id', $student->id)
-                            ->where(function ($q) use ($tpl) {
-                                $q->where('student_test_template_id', $tpl->id)
-                                  ->orWhere('test_template_id', $tpl->id);
-                            })
-                            ->latest()
-                            ->first();
+                try {
+                    // Fetch all test results for this student, ordered by latest.
+                    // This replaces 62 sequential database queries with a single query.
+                    $allResults = \App\Models\TestResult::where('student_id', $student->id)
+                        ->latest()
+                        ->get();
+
+                    foreach ($templates as $tpl) {
+                        // Match the latest result in-memory
+                        $latestResult = $allResults->first(function ($res) use ($tpl) {
+                            return $res->student_test_template_id == $tpl->id 
+                                || $res->test_template_id == $tpl->id;
+                        });
                         
-                        // Attach it to the template object
                         $tpl->latest_result = $latestResult;
-                    } catch (\Exception $e) {
-                        // If the column doesn't exist or query fails, just return null
+                    }
+                } catch (\Exception $e) {
+                    foreach ($templates as $tpl) {
                         $tpl->latest_result = null;
                     }
                 }
