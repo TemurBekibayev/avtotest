@@ -44,6 +44,23 @@ class TestResult extends Model
     // This allows $result->template to work as an attribute in JSON/Frontend
     public function getTemplateAttribute()
     {
-        return $this->originalTemplate ?: $this->shablonTemplate;
+        try {
+            if ($this->relationLoaded('originalTemplate') && $this->originalTemplate) {
+                return $this->originalTemplate;
+            }
+            if ($this->relationLoaded('shablonTemplate') && $this->shablonTemplate) {
+                return $this->shablonTemplate;
+            }
+
+            if (array_key_exists('test_template_id', $this->attributes) && $this->test_template_id) {
+                return $this->originalTemplate;
+            }
+            if (array_key_exists('student_test_template_id', $this->attributes) && $this->student_test_template_id) {
+                return $this->shablonTemplate;
+            }
+        } catch (\Exception $e) {
+            // Safe fallback
+        }
+        return null;
     }
 }

@@ -60,6 +60,10 @@ class TestTemplateController extends Controller
                                 || $res->test_template_id == $tpl->id;
                         });
                         
+                        if ($latestResult) {
+                            $latestResult->makeHidden('template');
+                        }
+                        
                         $tpl->latest_result = $latestResult;
                     }
                 } catch (\Exception $e) {
