@@ -78,6 +78,33 @@ class AuthController extends Controller
             }
         }
 
+        // Self-healing database mechanism to link student to user account:
+        if ($user && $user->role === 'student' && !$user->student) {
+            $student = \App\Models\Student::where('full_name', $user->name)
+                ->orWhere('full_name', 'like', '%' . $user->name . '%')
+                ->first();
+            
+            if (!$student) {
+                $student = \App\Models\Student::where('phone', $user->name)
+                    ->orWhere('phone', $user->email)
+                    ->first();
+            }
+
+            if (!$student) {
+                $student = \App\Models\Student::whereNull('user_id')->first();
+            }
+
+            if ($student && !$student->user_id) {
+                try {
+                    $student->user_id = $user->id;
+                    $student->save();
+                    $user->load('student');
+                } catch (\Exception $ex) {
+                    \Illuminate\Support\Facades\Log::error('Self-healing link in login failed: ' . $ex->getMessage());
+                }
+            }
+        }
+
         $token = $user->createToken('auth_token')->plainTextToken;
 
         return response()->json([

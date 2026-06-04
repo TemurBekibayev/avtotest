@@ -35,6 +35,32 @@ class TestResultController extends Controller
 
             $student = $user->student;
             if (!$student) {
+                $student = \App\Models\Student::where('full_name', $user->name)
+                    ->orWhere('full_name', 'like', '%' . $user->name . '%')
+                    ->first();
+                
+                if (!$student) {
+                    $student = \App\Models\Student::where('phone', $user->name)
+                        ->orWhere('phone', $user->email)
+                        ->first();
+                }
+
+                if (!$student) {
+                    $student = \App\Models\Student::whereNull('user_id')->first();
+                }
+
+                if ($student && !$student->user_id) {
+                    try {
+                        $student->user_id = $user->id;
+                        $student->save();
+                        $user->load('student');
+                    } catch (\Exception $ex) {
+                        \Illuminate\Support\Facades\Log::error('Self-healing link in results index failed: ' . $ex->getMessage());
+                    }
+                }
+            }
+
+            if (!$student) {
                 return response()->json([
                     'data' => [],
                     'current_page' => 1,
@@ -97,27 +123,25 @@ class TestResultController extends Controller
         $student = $user->student;
 
         if (!$student) {
-            // Self-healing database mechanism:
-            // 1. Try to find a student record that matches the user's name
-            $student = \App\Models\Student::where('full_name', $user->name)->first();
+            $student = \App\Models\Student::where('full_name', $user->name)
+                ->orWhere('full_name', 'like', '%' . $user->name . '%')
+                ->first();
             
-            // 2. Try to match by phone if user name or email contains the phone number
             if (!$student) {
                 $student = \App\Models\Student::where('phone', $user->name)
                     ->orWhere('phone', $user->email)
                     ->first();
             }
 
-            // 3. Fallback to the first student record in the database for testers/admins
             if (!$student) {
-                $student = \App\Models\Student::first();
+                $student = \App\Models\Student::whereNull('user_id')->first();
             }
 
-            // 4. Automatically link the student record to this user account
             if ($student && !$student->user_id) {
                 try {
                     $student->user_id = $user->id;
                     $student->save();
+                    $user->load('student');
                 } catch (\Exception $ex) {
                     \Illuminate\Support\Facades\Log::error('Self-healing link failed: ' . $ex->getMessage());
                 }
