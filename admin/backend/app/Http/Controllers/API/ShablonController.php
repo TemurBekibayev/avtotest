@@ -84,13 +84,13 @@ class ShablonController extends Controller
             'image_path' => 'nullable|string',
             'translations' => 'required|array',
             'translations.*.language' => 'required|string',
-            'translations.*.question_text' => 'required|string',
+            'translations.*.question_text' => 'nullable|string',
             'options' => 'required|array',
             'options.*.id' => 'required|integer',
             'options.*.is_correct' => 'required|boolean',
             'options.*.translations' => 'required|array',
             'options.*.translations.*.language' => 'required|string',
-            'options.*.translations.*.option_text' => 'required|string',
+            'options.*.translations.*.option_text' => 'nullable|string',
             'answers' => 'nullable|array', // optional explanation per language
             'answers.*.language' => 'required|string',
             'answers.*.description' => 'nullable|string',
@@ -107,6 +107,13 @@ class ShablonController extends Controller
 
             // Update translations
             foreach ($request->input('translations') as $trans) {
+                if (is_null($trans['question_text']) || $trans['question_text'] === '') {
+                    ShablonQuestionTranslation::where([
+                        'shablon_question_id' => $question->id,
+                        'language' => $trans['language']
+                    ])->delete();
+                    continue;
+                }
                 ShablonQuestionTranslation::updateOrCreate(
                     [
                         'shablon_question_id' => $question->id,
@@ -142,6 +149,13 @@ class ShablonController extends Controller
                 ]);
 
                 foreach ($opt['translations'] as $optTrans) {
+                    if (is_null($optTrans['option_text']) || $optTrans['option_text'] === '') {
+                        ShablonOptionTranslation::where([
+                            'shablon_option_id' => $option->id,
+                            'language' => $optTrans['language']
+                        ])->delete();
+                        continue;
+                    }
                     ShablonOptionTranslation::updateOrCreate(
                         [
                             'shablon_option_id' => $option->id,
