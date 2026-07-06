@@ -36,7 +36,7 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
         try {
             let response;
             if (template.id === 'mixed') {
-                response = await api.get('/test-questions/random', { params: { limit: 20 } });
+                response = await api.get('/test-questions/random', { params: { limit: 20, lang: lang } });
             } else {
                 response = await api.get(`/test-templates/${template.id}`);
             }

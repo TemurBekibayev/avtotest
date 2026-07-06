@@ -109,6 +109,9 @@ class TestTemplateController extends Controller
                 'questions.options.translations', 
                 'questions.answers'
             ])->findOrFail($id);
+
+            $this->normalizeQuestionTranslations($studentTemplate->questions);
+
             return response()->json($studentTemplate);
         } catch (\Exception $e) {
             return response()->json([
@@ -116,6 +119,68 @@ class TestTemplateController extends Controller
                 'error' => $e->getMessage()
             ], 500);
         }
+    }
+
+    /**
+     * Helper to duplicate translations for frontend language code compatibility.
+     */
+    private function normalizeQuestionTranslations($questions)
+    {
+        $questions->each(function($question) {
+            if ($question->translations) {
+                $newTranslations = [];
+                foreach ($question->translations as $trans) {
+                    $newTranslations[] = $trans;
+                    if ($trans->language === 'uz-lat') {
+                        $clone = clone $trans;
+                        $clone->language = 'uz';
+                        $newTranslations[] = $clone;
+                    } elseif ($trans->language === 'uz-cyr') {
+                        $clone = clone $trans;
+                        $clone->language = 'kiril';
+                        $newTranslations[] = $clone;
+                    } elseif ($trans->language === 'uz') {
+                        $clone = clone $trans;
+                        $clone->language = 'uz-lat';
+                        $newTranslations[] = $clone;
+                    } elseif ($trans->language === 'kiril') {
+                        $clone = clone $trans;
+                        $clone->language = 'uz-cyr';
+                        $newTranslations[] = $clone;
+                    }
+                }
+                $question->setRelation('translations', collect($newTranslations));
+            }
+
+            if ($question->options) {
+                foreach ($question->options as $option) {
+                    if ($option->translations) {
+                        $newOptTranslations = [];
+                        foreach ($option->translations as $trans) {
+                            $newOptTranslations[] = $trans;
+                            if ($trans->language === 'uz-lat') {
+                                $clone = clone $trans;
+                                $clone->language = 'uz';
+                                $newOptTranslations[] = $clone;
+                            } elseif ($trans->language === 'uz-cyr') {
+                                $clone = clone $trans;
+                                $clone->language = 'kiril';
+                                $newOptTranslations[] = $clone;
+                            } elseif ($trans->language === 'uz') {
+                                $clone = clone $trans;
+                                $clone->language = 'uz-lat';
+                                $newOptTranslations[] = $clone;
+                            } elseif ($trans->language === 'kiril') {
+                                $clone = clone $trans;
+                                $clone->language = 'uz-cyr';
+                                $newOptTranslations[] = $clone;
+                            }
+                        }
+                        $option->setRelation('translations', collect($newOptTranslations));
+                    }
+                }
+            }
+        });
     }
 
     /**
