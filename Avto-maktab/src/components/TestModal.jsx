@@ -16,7 +16,7 @@ const TestModal = ({ template, settings, onClose, onFinish }) => {
     const handleZoomIn = () => setTextScale(prev => Math.min(prev + 0.2, 2.0));
     const handleZoomOut = () => setTextScale(prev => Math.max(prev - 0.2, 0.6));
 
-    const backendUrl = 'https://api.amudaryoavtotest.uz';
+    const backendUrl = 'https://amudaryoavtotest.uz/api';
     const lang = settings?.language || 'uz';
 
     useEffect(() => {

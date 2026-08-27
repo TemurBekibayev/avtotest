@@ -6,7 +6,7 @@ import api from '../api/axios';
 
 
 const Tests = () => {
-    const backendUrl = 'https://api.amudaryoavtotest.uz';
+    const backendUrl = 'https://amudaryoavtotest.uz/api';
     const [activeTab, setActiveTab] = useState('results');
 
     // Results State
