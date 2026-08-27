@@ -21,7 +21,20 @@ use App\Http\Controllers\API\ShablonController;
 
 // Health check route to verify connection
 Route::get('/up', function() {
-    return response()->json(['status' => 'ok', 'message' => 'Connection successful!']);
+    try {
+        \Illuminate\Support\Facades\DB::connection()->getPdo();
+        $dbStatus = 'connected';
+        $userCount = \App\Models\User::count();
+    } catch (\Exception $e) {
+        $dbStatus = 'disconnected: ' . $e->getMessage();
+        $userCount = 0;
+    }
+    return response()->json([
+        'status' => 'ok', 
+        'message' => 'Connection successful!',
+        'database' => $dbStatus,
+        'user_count' => $userCount
+    ]);
 });
 
 
